@@ -28,6 +28,41 @@ from .publish import (
 logger = logging.getLogger(__name__)
 
 
+def load_all_existing_passports(data_dir: Path) -> tuple[dict[str, dict[str, Any]], dict[str, list[dict[str, Any]]]]:
+    """
+    Load all existing passport files.
+
+    Returns:
+        Tuple of (passport_metadata, all_passports_data)
+    """
+    passport_metadata = {}
+    all_passports_data = {}
+
+    passports_dir = data_dir / "passports"
+    if not passports_dir.exists():
+        return passport_metadata, all_passports_data
+
+    for passport_file in passports_dir.glob("*.json"):
+        iso2 = passport_file.stem
+        try:
+            with open(passport_file) as f:
+                data = json.load(f)
+
+            passport_metadata[iso2] = {
+                "title": data["source_title"],
+                "revid": int(data["source_revision"]),
+                "timestamp": data["source_timestamp"],
+                "record_count": len(data["records"]),
+                "last_changed": data.get("generated_at", data["source_timestamp"])
+            }
+            all_passports_data[iso2] = data["records"]
+        except Exception:
+            # Skip malformed files
+            pass
+
+    return passport_metadata, all_passports_data
+
+
 def load_revisions_state(state_dir: Path) -> dict[str, dict[str, Any]]:
     """Load revisions state file."""
     revisions_file = state_dir / "revisions.json"
@@ -189,6 +224,9 @@ def run(
         except ImportError:
             pass
 
+    # Load all existing passport files first (so --only and failures don't lose data)
+    passport_metadata, all_passports_data = load_all_existing_passports(data_dir)
+
     # Process each passport
     results = {
         "pages_found": len(pages),
@@ -204,8 +242,6 @@ def run(
         "changes": 0
     }
 
-    passport_metadata = {}
-    all_passports_data = {}
     all_changes = []
     blocked_passports = {}
     exit_code = 0
@@ -235,22 +271,8 @@ def run(
         if not needs_update(iso2, revid, stored_revisions, data_dir, force):
             logger.info(f"{iso2}: Unchanged, skipping")
             results["pages_skipped_unchanged"] += 1
-
-            # Load existing data for index
-            existing_file = data_dir / "passports" / f"{iso2}.json"
-            if existing_file.exists():
-                with open(existing_file) as f:
-                    existing_data = json.load(f)
-                    passport_metadata[iso2] = {
-                        "title": title,
-                        "revid": revid,
-                        "timestamp": timestamp,
-                        "record_count": len(existing_data["records"]),
-                        "last_changed": existing_data.get("generated_at", timestamp)
-                    }
-                    all_passports_data[iso2] = existing_data["records"]
-                    results["rows"] += len(existing_data["records"])
-
+            # Data already loaded, just ensure metadata is current
+            # (it was loaded from the file, which has correct info)
             continue
 
         logger.info(f"{iso2}: Parsing {title}...")
@@ -308,17 +330,7 @@ def run(
                     "record_count": len(parse_result.records)
                 }
 
-                # Keep previous data in index and all.json
-                if previous_data:
-                    passport_metadata[iso2] = {
-                        "title": title,
-                        "revid": stored_revisions.get(iso2, {}).get("revid", revid),
-                        "timestamp": stored_revisions.get(iso2, {}).get("timestamp", timestamp),
-                        "record_count": len(previous_data["records"]),
-                        "last_changed": previous_data.get("generated_at", timestamp)
-                    }
-                    all_passports_data[iso2] = previous_data["records"]
-                    results["rows"] += len(previous_data["records"])
+                # Keep previous data in index and all.json (already loaded)
 
                 continue
 
@@ -342,7 +354,6 @@ def run(
             }
 
             all_passports_data[iso2] = parse_result.records
-            results["rows"] += len(parse_result.records)
             results["pages_parsed"] += 1
 
             # Update stored revisions
@@ -360,6 +371,16 @@ def run(
                 "reason": str(e)
             })
             exit_code = 1
+
+    # Check for passports whose pages vanished from category
+    mapped_iso2s = {p["passport"] for p in mapped_pages}
+    for iso2 in list(passport_metadata.keys()):
+        if iso2 not in mapped_iso2s:
+            # Page vanished but we have data - keep it with a warning
+            logger.warning(f"{iso2}: Page vanished from category, keeping existing data")
+
+    # Calculate total rows from all passport data
+    results["rows"] = sum(len(records) for records in all_passports_data.values())
 
     # Save revisions state
     save_revisions_state(state_dir, stored_revisions)
