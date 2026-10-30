@@ -46,16 +46,20 @@ STATUS_MAP = {
     'id card': 'visa_free',
     'visa exemption': 'visa_free',
     'visa waiver': 'visa_free',
+    'visa waiver program': 'visa_free',
 
     # Electronic Travel Authorization (ETA)
     'electronic travel authorisation': 'eta',
     'electronic travel authorization': 'eta',
     'electronic travel authority': 'eta',
+    'electronic authorization': 'eta',
     'eta': 'eta',
     'esta': 'eta',
     'evisitor': 'eta',
     'eta-il': 'eta',
     'k-eta': 'eta',
+    'nzeta': 'eta',
+    'electronic border system': 'eta',  # Seychelles STTA
     'electronic system for travel authorization': 'eta',
     'electronic system for travel authorisation': 'eta',
 
@@ -76,6 +80,8 @@ STATUS_MAP = {
     'entry permit on arrival': 'visa_on_arrival',
     'landing visa': 'visa_on_arrival',
     'visitor card on arrival': 'visa_on_arrival',
+    "free visitor's permit on arrival": 'visa_on_arrival',
+    'visa on arrival (ease)': 'visa_on_arrival',
     # e-VOA: applied online but obtained at arrival - treating as visa_on_arrival
     # since the key difference is that approval/payment happens at the border
     'e-voa': 'visa_on_arrival',
@@ -97,6 +103,13 @@ STATUS_MAP = {
     'ttp required': 'permit_required',
     'travel pass required': 'permit_required',
     'entry permit required': 'permit_required',
+    'pap/rap required': 'permit_required',
+    'ovir permit required': 'permit_required',
+    'oivr permit required': 'permit_required',
+    'special authorization required': 'permit_required',
+    'special authorisation required': 'permit_required',
+    'special access required': 'permit_required',
+    'special permits required': 'permit_required',
 
     # Admission refused
     'admission refused': 'admission_refused',
@@ -105,10 +118,21 @@ STATUS_MAP = {
     'travel banned': 'admission_refused',
     'travel not permitted': 'admission_refused',
 
-    # Special cases that map to specific values
-    'visa issuance suspended': 'special',
+    # Special cases - deliberate 'special' mappings
+    # These are mapped to 'special' rather than leaving unmapped so they appear
+    # in the final report with context rather than as unknown statuses
+    'visa issuance suspended': 'special',  # Temporary suspension, not permanent refusal
+    'admission restricted': 'special',  # Restricted but not completely refused
+    'travel restricted': 'special',
     'undefined': 'special',
     'visa regime undefined': 'special',
+    'organized trips': 'special',  # Only via organized tours
+
+    # Edge cases that should be normalized
+    'freedom of movement (european netherlands)': 'visa_free',
+
+    # Compound/complex special cases
+    'travel restricted by u.s. government/admission refused for u.s. citizens with foreign nationality': 'special',
 }
 
 
@@ -130,13 +154,27 @@ def parse_status(text: str) -> tuple[str, list[str]]:
         (status_enum, list_of_alternative_status_enums)
         If unmapped, returns ('special', [])
     """
-    # Split on "/" or " or "
-    parts = [p.strip() for p in text.replace(' or ', '/').split('/')]
+    # Try exact match first (handles compound acronyms like "PAP/RAP required")
+    normalized_full = normalize_status(text)
+    if normalized_full in STATUS_MAP:
+        return STATUS_MAP[normalized_full], []
 
-    if len(parts) == 1:
-        # Single status
-        normalized = normalize_status(parts[0])
-        return STATUS_MAP.get(normalized, 'special'), []
+    # Split on " / ", " or ", or "/" (without spaces if between longer words)
+    # This handles both "eVisa / Visa on arrival" and "eVisa/Visa on arrival"
+    # but avoids splitting acronyms like "PAP/RAP"
+    parts = []
+    if ' / ' in text or ' or ' in text:
+        parts = [p.strip() for p in text.replace(' or ', ' / ').split(' / ')]
+    elif '/' in text:
+        # Try splitting on bare "/" and see if parts are valid
+        potential_parts = [p.strip() for p in text.split('/')]
+        # Only split if we get multiple reasonable-length parts (> 3 chars to avoid splitting acronyms)
+        if len(potential_parts) >= 2 and all(len(p) > 3 for p in potential_parts):
+            parts = potential_parts
+
+    if len(parts) <= 1:
+        # Single status (or not a valid combined status)
+        return 'special', []
 
     # Multiple statuses - map each and pick the least restrictive
     # Status order (least to most restrictive):

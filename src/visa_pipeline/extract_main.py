@@ -283,13 +283,16 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
 
         primary_status, alternatives = status.parse_status(status_cleaned)
 
-        # Track unmapped statuses
+        # Track unmapped statuses (only if not explicitly mapped in STATUS_MAP)
+        # This excludes deliberately-special mappings like "Visa Issuance Suspended"
         if primary_status == 'special':
-            result.unmapped_statuses.append({
-                'passport': passport,
-                'destination_name': dest_name,
-                'raw_status': status_cleaned
-            })
+            normalized = status.normalize_status(status_cleaned)
+            if normalized not in status.STATUS_MAP:
+                result.unmapped_statuses.append({
+                    'passport': passport,
+                    'destination_name': dest_name,
+                    'raw_status': status_cleaned
+                })
 
         # Extract stay
         stay_days = None
