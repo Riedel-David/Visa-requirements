@@ -9,7 +9,7 @@ import pytest
 from visa_pipeline import exports
 from visa_pipeline.exports import load_iso3_table, to_iso3, write_csv_exports
 
-MAIN_PASSPORTS = Path("./data/passports")
+MAIN_PASSPORTS = Path(__file__).resolve().parents[1] / "data" / "passports"
 
 
 def rec(p, d, status, area=None):

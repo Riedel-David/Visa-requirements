@@ -478,7 +478,7 @@ def run(
     write_all_json(data_dir, all_passports_data)
     try:
         write_csv_exports(data_dir, all_passports_data)
-    except (KeyError, OSError) as e:
+    except Exception as e:
         # Keep going so the changelog/report below are still written
         logger.error(f"CSV export failed: {e}")
         exit_code = 1
