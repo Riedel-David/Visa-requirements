@@ -1,0 +1,1314 @@
+{{Short description|Administrative entry restrictions}}
+[[File:Afghan Passport first issued in 2017.jpg|thumb|180px|[[Afghan passport]] (2017–present design)|upright=1.1]]
+
+'''Visa requirements for Afghan citizens''' are administrative entry restrictions by the authorities of other states placed on citizens of [[Afghanistan]].
+
+As of 2026, Afghan citizens had visa-free or visa on arrival access to only 24 countries and territories, ranking the [[Afghanistan passport]] 101st and worst in the world according to the [[Henley & Partners Passport Index|Henley Passport Index]].<ref>{{cite web | url=https://www.henleyglobal.com/passport-index/ranking | title=Global Passport Ranking}}</ref>
+
+Obtaining foreign visas from within Afghanistan is difficult as many [[List of diplomatic missions in Afghanistan|embassies in Afghanistan]] have closed since [[2021 Taliban offensive|Taliban takeover of the government in August 2021]].<ref>{{cite news | author1=Amy Cheng | author2=Haq Nawaz Khan | title=Hundreds of Afghans gather outside passport office as Taliban resumes issuing travel documents | url=https://www.washingtonpost.com/world/2021/10/06/afghanistan-taliban-passport-refugee/ | access-date=9 December 2021 | newspaper=[[The Washington Post]] | date=6 October 2021}}</ref> Prices of Afghan passports have risen dramatically as a result of broken down bureaucracy and increased demand.<ref>{{cite web|url=https://kabulnow.com/2023/01/passports-how-taliban-officials-have-turned-the-worlds-weakest-into-the-most-expensive/|title=How Taliban officials have turned the world's weakest passports into the most expensive|publisher=KabulNow|date=25 January 2023|accessdate=24 January 2025}}</ref>
+
+==Visa requirements map==
+[[Image:Visa requirements for Afghan citizens.svg|800px|none|thumb|Visa requirements for Afghan citizens holding ordinary passports
+{{legend|#002377|Afghanistan}}
+{{legend|#22B14C|Visa not required}}
+{{legend|#A4D588|Visa not required (conditional)}}
+{{legend|#B5E61D|Visa on arrival}}
+{{legend|#73D0AA|eVisa}}
+{{legend|#79D343|Visa available both on arrival or online}}
+{{legend|#C0C0C0|Visa required}}
+{{legend|#555555|Admission restricted}}]]
+
+==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Albania}}
+| {{yes2|eVisa}}<ref name="Henley Index">{{cite web | title=The Henley Passport Index | url=https://www.henleyglobal.com/passport-index | website=[[Henley & Partners]] | access-date=9 December 2021 | date=5 October 2021}}</ref><ref>{{cite web | url=https://e-visa.al | title=Albania eVisa}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.<ref>{{cite web | url=https://embassyofalgeria.ie/exceptional-measures-for-tourists-traveling-to-southern-algeria/ | title=Exceptional measures for tourists traveling to southern Algeria | publisher=Algerian Embassy in Ireland}}</ref><ref>{{cite web | url=https://againstthecompass.com/en/travel-algeria/ | title=How to travel to Algeria | date=20 February 2026}}</ref>
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=http://www.smevisa.gov.ao | title=Angola eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.immigration.gov.ag/agEvisa-app/ | title=Antigua and Barbuda eVisa}}</ref>
+|
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Armenia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref name="Henley Index" /><ref>{{cite web | url=https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600 | title=Australia Subclass 600}}</ref>
+|
+|
+* May apply online (Online Visitor e600 visa).
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Bahamas}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://mofa.gov.bs/evisa-online-services/ | title=Bahamas eVisa}}</ref>
+| 
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.evisa.gov.bh/ | title=Bahrain eVisa | access-date=2023-01-08 | archive-date=2023-01-15 | archive-url=https://web.archive.org/web/20230115184727/https://www.evisa.gov.bh/ | url-status=dead }}</ref>
+| 14 days
+|
+* Travelers must have a valid visa for the United Arab Emirates, the United Kingdom, United States, a Schengen country, United States green card or Saudi Arabia (excluding Hajj and Umrah visas).
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* Registration upon arrival for stays longer than five days is mandatory.
+|- 
+| {{flag|Belgium}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.bj | title=Benin eVisa}}</ref>
+| 30 days
+| 
+* Three types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).<ref>{{cite web |url=https://evisa.bj/articles/costs-of-entry-visas-to-benin/8c948600-ca08-443e-bac9-33aae6583b54 |title=Costs of entry visas to Benin}}</ref>
+|-
+| {{flag|Bhutan}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://immi.gov.bt | title=Bhutan Immigration Services Portal}}</ref>
+| 90 days
+|
+* The [[Visa policy of Bhutan#Sustainable Development Fee|Sustainable Development Fee]] (SDF) of 200 [[USD]] per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.<ref>{{cite web | url=https://immi.gov.bt/faq/ | title=Frequently Asked Questions - Bhutan Immigration Services Portal}}</ref>
+|- 
+| {{flag|Bolivia}}
+| {{yes2|Online Visa}}<ref name="Henley Index" /><ref>{{cite web | url=https://visas.cancilleria.gob.bo | title=Bolivia Online Visa}}</ref>
+| 
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Botswana}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gov.bw | title=Botswana eVisa}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Burkina Faso}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://applicant.visaburkina.bf | title=Burkina Faso eVisa}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{Optional|Online Visa / Visa on arrival}}<ref name="Henley Index" /><ref>{{cite web | url=https://migration.gov.bi | title=Burundi migration department}}</ref>
+| 1 month
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.evisa.gov.kh | title=Cambodia eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Cameroon}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.evisacam.com | title=Cameroon eVisa}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* Afghans who worked for the Canadian government (military or development projects) may be eligible for resettlement under the Special Immigration Measures (SIM) Program, an initiative managed by Immigration, Refugees and Citizenship Canada (IRCC).<ref>{{cite web | url=https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/afghanistan/how.html | title=special programs for supporting Afghan nationals | date=9 August 2021}}</ref>
+|-
+| {{flag|Cape Verde}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Chad}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.td | title=Chad eVisa}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|People's Republic of China|name=China}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* 24-hour visa-free transit through any [[List of airports in China|international airports of China]] (except [[Ürümqi Diwopu International Airport|Ürümqi]]), allows domestic travel through different airports.{{refn|Custom procedure for 24-hour visa-free transit is required in principle, except in Beijing (both [[Beijing Capital International Airport|Capital]] and [[Beijing Daxing International Airport|Daxing]]), [[Shanghai Pudong International Airport|Shanghai Pudong]], [[Hangzhou Xiaoshan International Airport|Hangzhou]], [[Xiamen Gaoqi International Airport|Xiamen]], [[Guangzhou Baiyun International Airport|Guangzhou]], [[Shenzhen Bao'an International Airport|Shenzhen]], [[Chengdu Tianfu International Airport|Chengdu Tianfu]] and [[Xi'an Xianyang International Airport|Xi'an]] if no leaving of international transit areas.<ref>{{cite web|url=https://www.nia.gov.cn/n897453/c1624329/content.html|title=国家移民管理局推出新政进一步便利外籍人员来华|website=nia.gov.cn|date=2024-01-11}}</ref>|group=Note}}
+|- 
+| {{flag|Colombia}}
+| {{yes2|Online Visa}}<ref name="Henley Index" /><ref>{{cite web | url=https://tramitesmre.cancilleria.gov.co/tramites/enlinea/solicitarVisa.xhtml | title=Colombia Online Visa}}</ref>
+| 
+|
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref name="Henley Index" />
+| 45 days
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gouv.cd | title=DR Congo eVisa}}</ref>
+| 7 days
+|
+|- 
+| {{flag|Costa Rica}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Côte d'Ivoire}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://snedai.com/e-visa/ | title=CI eVisa}}</ref>
+| 3 months
+|
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|- 
+| {{flag|Cuba}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisacuba.cu | title=Cuba eVisa}}</ref>
+| 90 days
+|
+* From 2025, the Tourist card will be replaced by an e-Visa. This will be valid until June 30.<ref>{{cite web | url=https://visasnews.com/en/cuba-eases-entry-procedures-for-foreign-visitors/ | title=Cuba, activates its e-Visa}}</ref>
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+| 
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}
+| 
+|
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.evisa.gouv.dj | title=Djibouti eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref name="Henley Index" />
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Ecuador}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Egypt}}
+| {{yes|Visa not required (conditional)}}<ref name="Henley Index" />
+| 3 months
+| 
+* Visa not required for passengers aged 50 years and above or 16 years and below.
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://equatorialguinea-evisa.com/ | title=Equatorial Guinea eVisa}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{no|Visa required}}<ref name="Henley Index" /><ref>{{cite web | url=http://www.evisa.gov.et/information | title=information}}</ref>
+|
+|
+* Credit card payment transactions are not accepted when applying for e-Visa.
+|-
+| {{flag|Fiji}}
+| {{yes2|Online Visa}}<ref name="Henley Index" /><ref>{{cite web | url=https://immihub.immigration.gov.fj/FIDPortal/welcome | title=Fiji Immi Hub}}</ref>
+|
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.dgdi.ga | title=Gabon eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Georgia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+* All residents of Saudi Arabia (including Afghan nationality) can obtain a tourist visa on arrival at Tbilisi Airport.
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+| 
+* Afghans who worked for the German Government may be eligible for [https://www.auswaertiges-amt.de/en/visa-service/konsularisches/afg?openAccordionId=item-2479618-2-panel assistance leaving Afghanistan].<ref>{{cite web | url=https://www.auswaertiges-amt.de/en/visa-service/konsularisches/afg?openAccordionId=item-2479618-2-panel | title=FAQ: Assistance leaving Afghanistan
+}}</ref>
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Guinea}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.paf.gov.gn/visa | title=Guinea eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref name="Henley Index" />
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://eservices.iss.gov.gy | title=Guyana Immigration Services}}</ref>
+| 
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref name="Henley Index" />
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|- 
+| {{flag|India}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://indianvisaonline.gov.in/visa/tvoa.html | title=India eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Indonesia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* Afghan citizens are subject to the ''calling visa'' category, a designation applied to nationals considered to have specific vulnerabilities or risks related to ideology, politics, the economy, society, culture, security, or immigration.
+* Prior approval from the [[Directorate General of Immigration]] in Jakarta is required before they can apply for a visa.
+* In addition to holding a visa, travelers must obtain a reference letter from the Directorate General of Immigration and present the invitation letter submitted with their visa application prior to traveling to Indonesia.
+|- 
+| {{flag|Iran}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Iraq}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.iq | title=Iraq eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+| 
+* Confirmation from the Israeli Foreign Ministry before a visa is issued.<ref>{{cite web | url=http://mfa.gov.il/MFA/ConsularServices/Documents/VisaRequirements-Tourists.pdf | title=Visa requirements | website=mfa.gov.il}}</ref>
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+* Nationals who reside in Saudi Arabia (Including Afghan nationality) are able to apply for a tourist visa online (Single entry visa for a stay up to 90 days).
+|-
+| {{flag|Jordan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{yes|Electronic Travel Authorisation}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.etakenya.go.ke | title=Kenya eTA}}</ref>
+| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Kenya. eTA}}
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.e-gov.kg | title=Kyrgyzstan eVisa}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Lesotho}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{yes2|e-VOA}}<ref name="Henley Index" /><ref>{{cite web | url=https://visaonarrival.lis.gov.lr | title=Liberia e-VOA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|  
+|
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Madagascar}}
+| {{Optional|eVisa / Visa on arrival}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gov.ly | title=Madagascar eVisa}}</ref>
+| 90 days
+|
+* For stays of 61 to 90 days, the visa fee is 59 USD.
+|-
+| {{flag|Malawi}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gov.mw | title=Malawi eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malaysia}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://malaysiavisa.imi.gov.my/evisa/ | title=Malaysia eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Free visa on arrival}}<ref name="auto2">{{Cite web|url=https://www.passportindex.org/passport/afghanistan/|title=Afghanistan Passport Dashboard &#124; Passport Index 2024}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Mauritania}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://anrpts.gov.mr/en | title=Mauritania eVisa}}</ref>
+| 30 days
+| 
+* Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+* Visa is not required for Holders of a valid visa of Canada, US, UK or a Schengen State and Permanent residence of Canada, Chile, Colombia, Schengen State, Japan, UK, US<ref>{{Cite web |title=Countries and regions that require a visa to travel to Mexico |url=https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/}}</ref>
+* Entry may be refused by immigration officials for individuals who were previously denied a US visa, even if holding a valid Mexican visa.
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref name="Henley Index" />
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* Citizens holding a residence permit or a valid visa issued by one of the member states of the European Union or one of the parties to the Schengen Agreement can apply for an electronic visa.<ref>{{cite web | url=https://www.evisa.gov.md | title=Moldova eVisa}}</ref>
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{Optional|eVisa / Visa on arrival}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gov.mz | title=Mozambique eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Namibia}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://eservices.mhaiss.gov.na | title=Namibia E-Services}}</ref>
+| 3 months
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Nepal}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|New Zealand}}
+| {{BLACK|style=color:white;|Admission restricted}}<ref name="INZ Unacceptable Passports" />
+|
+|
+* [[Islamic Emirate of Afghanistan]] passports issued prior to 2004 and after 2021 do not meet the requirements of a passport or certificate of identity under New Zealand immigration law; these passports are therefore unacceptable for travel to New Zealand and visas will not be endorsed in them.<ref name="INZ Operational Manual A2.15">{{cite web | title=A2.15 Unacceptable travel documents | website=immigration.govt.nz | publisher=[[Immigration New Zealand]] | date=8 April 2013 | url = https://www.immigration.govt.nz/opsmanual/#46160.htm}}</ref>
+* Passports issued by the [[Islamic Republic of Afghanistan]] between 2004 and 2021 are recognised.<ref name="INZ Unacceptable Passports">{{cite web | url=https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/manage-your-visa-and-passport/passports-we-do-not-recognise/ | title=Passports we do not recognise | website=immigration.govt.nz |publisher=Immigration New Zealand | access-date=11 October 2025}}</ref>
+* Holders of an Australian Permanent Resident Visa or Resident Return Visa in an acceptable travel document may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (under the [[Trans-Tasman Travel Arrangement]]), subject to meeting character requirements and obtaining an [[New Zealand Electronic Travel Authority|Electronic Travel Authority]] before departure.<ref name="Australian Resident Visa">{{cite web | url=https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/visa-factsheet/australian-resident-visa | title=Information about: Australian Resident Visa | website=immigration.govt.nz |publisher=[[Immigration New Zealand]] | access-date=May 21, 2020 |quote=Australian citizens and permanent residents can visit, work and live in New Zealand. You do not need a visa before you travel to New Zealand.}}</ref>
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* Visa on arrival if holding valid visas of United States, Canada, and Schengen Member state
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.immigration.gov.ng | title=Nigeria eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Macedonia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Pakistan}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://visa.nadra.gov.pk | title=Pakistan Online Visa}}</ref>
+| 3 months
+|
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref name="Henley Index" />
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.ica.gov.pg/evisa/account/Apply | title=PNG eVisa}}</ref>
+| 60 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Papua New Guinea. eVisa}}
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Peru}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+* Residents of the [[United Arab Emirates]] may obtain an eVisa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an e-Visa application.<ref>{{cite web |url=https://dfa.gov.ph/dfa-news/news-from-our-foreign-service-postsupdate/36394-ph-embassy-in-abu-dhabi-pilots-philippine-e-visa-issuance-in-the-middle-east-region?__cf_chl_tk=D7fF3uGfLVVkyJ.ZXATWh1lqV2LqFfN9RTL7Hn7atwo-1765074735-1.0.1.1-jQNuhm8A5NJj5dGWojtjw.CjcFBI5AC1tdKu5KFklow |title=PH Embassy in Abu Dhabi Pilots Philippine e-Visa Issuance in the Middle East Region |website=[[Department of Foreign Affairs (Philippines)|Department of Foreign Affairs]] |place=Manila |date=April 7, 2025 |access-date=April 7, 2025}}</ref><ref>{{cite web |url=https://evisa.gov.ph/ |title=Apply for your Philippine Visa - The Easy and Convenient Way |website=eVisaPH - Official Website}}</ref>
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://hayya.qa | title=Qatar Hayya}}</ref>
+|
+|
+* Visitors can apply for a visa on the Hayya website.
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref name="Henley Index" /><ref>{{cite web | url=https://irembo.gov.rw/home/citizen/all_services | title=Rwanda E-Services}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.stkittsnevisonline.com/kn-evics-entitlement-online-ui/ | title=ST.KittsNevis eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|Entry permit on arrival}}<ref name="Henley Index" />
+| 90 days
+| 
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Serbia}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.welcometoserbia.gov.rs | title=Serbia eVisa}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period. Transfers allowed.
+|-
+| {{flag|Seychelles}}
+| {{yes|Electronic Border System}}<ref name="Henley Index" /><ref>{{cite web | url=https://seychelles.govtas.com | title=Seychelles Electronic Border System}}</ref>
+| 3 months
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Seychelles. SEBS}}
+|-
+| {{flag|Sierra Leone}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.sl | title=Sierra Leone eVisa}}</ref>
+| 3 months
+|
+|-
+| {{flag|Singapore}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Somalia}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gov.so | title=Somalia eTAS}}</ref>
+| 30 days
+|
+|-
+| {{flag|South Africa}}
+| {{yes|Electronic travel authorisation }}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.evisa.gov.ss | title=South Sudan eVisa}}</ref>
+|
+| 
+* Obtainable online.
+* Printed visa authorization must be presented at the time of travel.
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|ETA / Visa on arrival}}<ref name="Henley Index" /><ref>{{cite web | url=https://eta.gov.lk/slvisa/ | title=LK ETA}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Suriname}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://suriname.vfsevisa.com/suriname/online/home/who-can-apply-for-eVisa | title=Who can apply for E-Visa?}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Syria}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.sy | title=Syria eVisa}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Tanzania}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://visa.immigration.go.tz | title=Tanzania eVisa}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.thaievisa.go.th | title=Thai eVisa}}</ref>
+| 60 days
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref name="Henley Index" /><ref>{{Timatic|nationality=AF|destination=TL}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://voyage.gouv.tg | title=Togo eVisa}}</ref>
+| 15 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.ttservices.online | title=TT eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+|- 
+| {{flag|Turkey}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.<ref>{{cite web | url=https://migration.gov.tm/services/wiza-we-is-rugsatnamasy-16847397661914537 | title=Turkmenistan Visa}}</ref><ref>{{cite web | url=https://uk.tmembassy.gov.tm/en/consular-services/visa-info | title=Visa info}}</ref>
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref name="Henley Index" />
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://visas.immigration.go.ug | title=Uganda eVisa}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Ukraine}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+* May apply using 'Smart service'.<ref>{{cite web | url=https://smartservices.icp.gov.ae/echannels/web/client/guest/index.html#/dashboard | title=UAE Smart Service}}</ref>
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|United States}}
+| {{BLACK|style=color:white;|Admission restricted}}<ref name="Henley Index" />
+| 
+| style="background:#FFC7C7; |
+* Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with [[Proclamation_10949#Exemptions|certain exemptions]].<ref name="ban2025">{{cite web | url=https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/ | title=RESTRICTING THE ENTRY OF FOREIGN NATIONALS TO PROTECT THE UNITED STATES FROM FOREIGN TERRORISTS AND OTHER NATIONAL SECURITY AND PUBLIC SAFETY THREATS}}</ref>
+* Afghans who worked for or on behalf of the U.S. Government, [[International Security Assistance Force|ISAF]], or [[Resolute Support Mission| R.S.]] for more than one year may be eligible for a [[Special Immigrant Visa]]<ref>{{StateDept | url=https://travel.state.gov/content/travel/en/us-visas/immigrate/special-immg-visa-afghans-employed-us-gov.html | title=Special Immigrant Visas for Afghans - Who Were Employed by/on Behalf of the U.S. Government}}</ref>
+* Afghans who have worked for US-based NGOs, media organizations, or for/on behalf of the U.S. government for less than one year may be eligible for [[Asylum in the United States#Priority Two|Refugee Admissions Program Priority 2 Designation]]<ref>{{StateDept | url=https://www.state.gov/u-s-refugee-admissions-program-priority-2-designation-for-afghan-nationals/#footnote1 | title=U.S. Refugee Admissions Program Priority 2 Designation for Afghan Nationals}}</ref>
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|-
+| {{flag|Vanuatu}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gov.vu | title=Vanuatu eVisa}}</ref>
+| 120 days
+|
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|
+|- 
+| {{flag|Venezuela}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://cancilleriadigital.mppre.gob.ve | title=Venezuela eVisa}}</ref>
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://evisa.gov.vn | title=Vietnam eVisa}}</ref>
+| 
+|
+* e-Visa is valid for 90 days and multiple entry.
+* Only [[Phú Quốc]] island has a visa exemption for up to 30 days.
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|
+* Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).<ref>{{cite web | url=https://yemenevisa.org/visas | title=Yemen eVisa}}</ref>
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://eservices.zambiaimmigration.gov.zm | title=Zambia eServices}}</ref>
+| 90 days
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes2|eVisa}}<ref name="Henley Index" /><ref>{{cite web | url=https://www.evisa.gov.zw | title=Zimbabwe eVisa}}</ref>
+| 1 month
+|
+|}
+
+==Territories and disputed areas==
+{{update section|inaccurate=y|date=December 2021}}
+Visa requirements for Afghan citizens for visits to various territories, disputed areas, and restricted zones:
+
+{| class="wikitable"
+|-
+! style="width:18%;"| Visitor to
+! style="width:22%;"| Visa requirement
+! Notes (excluding departure fees)
+|-
+! colspan="3" | Africa
+|-
+| {{flag|British Indian Ocean Territory}}
+| {{no2|Special permit required}}<ref>{{cite web | url=https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory | title=British Indian Ocean Territory travel advice|website=GOV.UK}}</ref>
+| 
+* Special Permit required.
+|-
+| {{flag|Eritrea}} (outside [[Asmara]])
+| {{no2|Travel permit required}}<ref>{{cite web | url=http://www.eritrea.be/MoT.htm | title=Ministry of Tourism - Tourism Service Center | first=Hans van der | last=Splinter | website=www.Eritrea.be}}</ref>
+| 
+* To travel in the rest of Eritrea, a Travel Permit for Foreigners is required (20 [[Eritrean nakfa]])
+|-
+| {{flag|Ascension Island}}
+| {{yes2|eVisa}}<ref>{{cite web | url=https://www.ascension-visas.com|title=Ascension Island E-Visa System|date=13 November 2018}}</ref><ref>{{cite web | url=http://www.ascension-island.gov.ac/entry-visas/ | title=Entry Visas | date=13 November 2018 | access-date=23 November 2018 | archive-date=19 June 2019 | archive-url=https://web.archive.org/web/20190619085843/https://www.ascension-island.gov.ac/entry-visas/|url-status=dead}}</ref>
+| 
+* 3 months within any year.
+|-
+| {{flag|Saint Helena}}
+| {{yes2|eVisa}}<ref>{{cite web | url=https://evisa.sainthelena.gov.sh | title=Saint Helena eVisa | website=Saint Helena Government}}</ref><ref>{{cite web|title=VISA REQUIREMENTS FOR VISITING ST HELENA|url=http://www.sainthelena.gov.sh/visa-requirements-for-visiting-st-helena/|publisher=St Helena Government|access-date=25 January 2018|date=14 December 2017}}</ref>
+|
+|-
+| {{flag|Tristan da Cunha}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.tristandc.com/visitsadmin.php|title=Tristan da Cunha Tourism|first=Richard|last=Grundy|website=www.tristandc.com}}</ref>
+| 
+* Permission to land required for 15/30 [[pound sterling|pounds sterling]] (yacht/ship passenger) for Tristan da Cunha Island or 20 [[pound sterling|pounds sterling]] for [[Gough Island]], [[Inaccessible Island]] or [[Nightingale Islands]].
+|-
+| {{flag|Sahrawi Arab Democratic Republic}}<br />([[Free Zone (region)|Western Sahara controlled territory]])
+| {{Unknown}}
+|
+|-
+| {{flag|Somaliland}}
+| {{no|Visa required}}<ref>{{cite web | url=http://www.slimmigration.com/visa-section/ | title=Types Of Somaliland Visa}}</ref>
+| 
+|-
+! colspan="3" | Asia
+|-
+| {{flag|Hong Kong}}
+| {{yes2|eVisa}}<ref name="auto">{{Timatic|nationality=AF|destination=HK}}</ref>
+| 
+|-
+| {{flag|India}} PAP/RAP
+| {{no2|PAP/RAP required}}
+| 
+* Protected Area Permit (PAP) required for all of [[Arunachal Pradesh]], [[Manipur]], [[Mizoram]] and parts of [[Himachal Pradesh]], [[Jammu and Kashmir (union territory)|Jammu and Kashmir]] and [[Uttarakhand]]. A restricted Area Permit (RAP) is required for all of [[Andaman and Nicobar Islands]] and [[Lakshadweep]] and parts of [[Sikkim]]. Some of these requirements are occasionally lifted for a year.<ref>{{cite web |url=http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |title=Entry Formalities to Andaman |access-date=2013-11-26 |archive-url=https://web.archive.org/web/20120426085021/http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |archive-date=2012-04-26 |url-status=dead}}</ref><ref>{{cite web |url=http://arunachaltourism.com/entry_formalities.php |title=Arunachal Tourism |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140701111837/http://arunachaltourism.com/entry_formalities.php |archive-date=2014-07-01 |url-status=dead }}</ref><ref>{{cite web |url=http://manipurbhawan.nic.in/entryformalities.htm |title=Entry Formalities in Manipur |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20110809003009/http://manipurbhawan.nic.in/entryformalities.htm |archive-date=2011-08-09 |url-status=dead}}</ref><ref>{{cite web |url=http://manipurhub.com/news/manipur/protected-area-permit-requirement-lifted-from-manipur-for-one-year/ |title=时时彩平台推广&#124;时时彩平台推广官网【Pk彩票官方授权】 |access-date=2013-10-24 |archive-url=https://web.archive.org/web/20190329112747/http://manipurhub.com/news/manipur/protected-area-permit-requirement-lifted-from-manipur-for-one-year/ |archive-date=2019-03-29 |url-status=dead}}</ref><ref>{{cite web |url=http://lakshadweeptourism.nic.in/web9.htm |title=Tourism in Lakshadweep |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140713171604/http://lakshadweeptourism.nic.in/web9.htm |archive-date=2014-07-13 |url-status=dead}}</ref>
+|-
+| {{flag|Macau}}
+| {{yes-no|Visa on arrival}}<ref name="Henley Index" /><ref>{{Timatic|nationality=AF|destination=MO}}</ref><ref>{{cite web | url=https://www.gov.mo/en/services/ps-1472/ | title=Prior Authorization to Enter}}</ref>
+| 
+|-
+| {{flag|North Korea}} outside [[Pyongyang]]
+| {{no2|Special permit required}}
+| 
+* People are not allowed to leave the capital city; tourists can only leave the capital with a governmental tourist guide (no independent travel)
+|-
+| {{flag|Palestine}}
+| {{no|Visa required}}<ref name="Henley Index" />
+| 
+|-
+| {{flag|Taiwan}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+* Afghan citizens are subject to [[Visa policy of Taiwan#Special visa requirements for nationals of certain countries|special visa requirements]] and may only visit Taiwan under specific conditions, including official invitations, business activities, medical treatment, family visits, or participation in approved events.
+* Those visiting Taiwan on business must be interviewed by a Taiwanese consular officer, and their sponsors must submit a letter of guarantee to the [[Bureau of Consular Affairs (Taiwan)|Bureau of Consular Affairs]] in Taiwan.
+|-
+| {{flag|Tajikistan}} [[Gorno-Badakhshan Autonomous Province]]
+| {{no2|Special permits required}}
+| 
+* OIVR permit required (15+5 [[Tajikistani Somoni]]) and another special permit (free of charge) is required for [[Lake Sarez]].<ref>{{cite web|url=http://www.pamirs.org/visas.htm|title=Pamirs - the roof of the world|website=www.pamirs.org|access-date=2013-10-24|archive-date=2017-06-30|archive-url=https://web.archive.org/web/20170630035659/http://www.pamirs.org/visas.htm|url-status=dead}}</ref><ref>{{Cite web |url=http://www.traveltajikistan.com/visas/gbao.html |title=Travel Tajikistan - Permit to visit Gorno-Badakhshan Autonomous Oblast (GBAO) |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20150423031531/http://www.traveltajikistan.com/visas/gbao.html |archive-date=2015-04-23 |url-status=dead}}</ref><ref>{{cite web |author=<!-- not stated --> |url=http://tajiktourism.com/tajikistan-visa/ |title=Tajikistan-Visa |website=Tajik Tourism |date=July 2012 |access-date=2026-08-16 |archive-date=2017-07-06 |archive-url=https://web.archive.org/web/20170706121812/http://tajiktourism.com/tajikistan-visa/ |url-status=dead}}</ref>
+|-
+| {{flagicon image|Flag_of_China.svg}} [[Tibet Autonomous Region]]
+| {{no2|Travel permit required}}
+| 
+* Tibet Travel Permit required (10 [[USD]]).<ref>{{cite web |url=http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |title=Travel Documents - Notice - China TIBET Tourism Bureau |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20131017213737/http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |archive-date=2013-10-17 |url-status=dead}}</ref><ref>{{cite web|title=How to get Tibet Travel Permit, Successful Application Tips|url=http://www.tibettravel.org/tibet-travel-permit/tibet-permits.html|website=Tibet Travel and Tours - Tibet Vista}}</ref><ref>{{cite web|access-date=2013-10-24|archive-date=2017-10-22|archive-url=https://web.archive.org/web/20171022061211/http://www.tibettravelplanner.com/travel_permit.htm|title=How to get a Tibet Travel Permits - Tibet Visa 2018/2019|url=http://www.tibettravelplanner.com/travel_permit.htm|url-status=dead|website=www.tibettravelplanner.com}}</ref>
+|-
+| {{flag|UN}} [[Korean Demilitarized Zone]]
+| {{no|Restricted zone}}
+| 
+|-
+| {{flag|United Nations}} [[UNDOF Zone]] and [[Ghajar]]
+| {{no|Restricted zone}}
+| 
+|-
+! colspan="3" | Caribbean and North Atlantic
+|-
+| {{flag|Anguilla}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=AF|destination=AI}}</ref><ref>{{cite web | url=https://evisa.gov.ai | title=Anguilla eVisa}}</ref>
+| 
+|-
+| {{flag|Aruba}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=AW}}</ref>
+| 
+|-
+| {{flag|Bermuda}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=BM}}</ref>
+| 
+|-
+| {{flag|Netherlands}} [[Bonaire]], [[St. Eustatius]] and [[Saba (island)|Saba]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=BQ}}</ref>
+| 
+|-
+| {{flag|British Virgin Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=VG}}</ref>
+| 
+|-
+| {{flag|Cayman Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=KY}}</ref>
+| 
+|-
+| {{flag|Curacao}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=CW}}</ref>
+| 
+|-
+| {{flag|France}} [[French Guiana]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=GF}}</ref>
+| 
+|-
+| {{flag|France}} [[French West Indies]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=GP}}</ref>
+| 
+|-
+| {{flag|Montserrat}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=AF|destination=MS}}</ref><ref>{{cite web | url=https://www.immigration.ms | title=Montserrat Online Visa Application}}</ref>
+| 
+|-
+| {{flag|Puerto Rico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=PR}}</ref>  
+| 
+|-
+| {{flag|Sint Maarten}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=SX}}</ref>
+|
+|-
+| {{flag|Turks and Caicos Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=TC}}</ref>
+|
+|-
+| {{flag|U.S. Virgin Islands}}
+| {{no|Visa required}}<ref name="auto"/>
+|
+|-
+! colspan="3" | Europe
+|-
+| {{flag|Abkhazia}}
+| {{no|Visa required}}<ref>{{cite web | url=https://mfaapsny.org/en/consular-service/visa-free/ | title=Visa-free entry in Abkhazia}}</ref>
+| 
+* Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.
+|-
+| {{flag|Kosovo}}
+| {{no|Visa required}}<ref name="Henley Index" />
+|
+|-
+| [[File:Flag of the Greek Orthodox Church.svg|21px]] [[Mount Athos]]
+| {{no2|Special permit required}}
+| 
+* Special permit required (4 days: €25 for [[Eastern Orthodox Church|Orthodox]] visitors, €35 for non-Orthodox visitors, €18 for students). There is a visitors' quota: a maximum of 100 [[Eastern Orthodox Church|Orthodox]] and ten non-Orthodox per day, and women are not allowed.<ref>{{cite web|url=http://www.athosfriends.org/PilgrimsGuide/planning/|title=The Friends of Mount Athos - A Pilgrim's Guide to Mount Athos: Planning Your Visit|website=www.athosfriends.org|access-date=2013-10-24|archive-date=2017-12-01|archive-url=https://web.archive.org/web/20171201154734/http://athosfriends.org/PilgrimsGuide/planning/|url-status=dead}}</ref><ref>{{cite web|url=http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html|title=Mount Athos Infos is under construction|website=www.mountathosinfos.gr|access-date=2013-10-24|archive-url=https://web.archive.org/web/20071201150655/http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html|archive-date=2007-12-01|url-status=dead}}</ref>
+|-
+| {{flag|Turkish Republic of Northern Cyprus}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.cypnet.co.uk/ncyprus/tourism/tourist.html|title=How to get to North Cyprus? - Passport, Visa & Entry Requirements|website=www.cypnet.co.uk}}</ref>
+| 
+|-
+| {{flag|United Nations}} [[United Nations Buffer Zone in Cyprus|UN Buffer Zone in Cyprus]]
+| {{no2|Access permit required}}<ref>{{Cite web |url=http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |title=UNFICYP > Buffer Zone Permits |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20141021143210/http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |archive-date=2014-10-21 |url-status=dead }}</ref>
+| 
+* Access Permit is required for traveling inside the zone, except in Civil Use Areas.
+|-
+| {{flag|Gibraltar}}
+| {{no|Visa required}}<ref name="auto1">{{Timatic|nationality=AF|destination=GI}}</ref>
+| 
+|-
+| {{flag|Norway}} [[Jan Mayen]]
+| {{no2|Permit required}}<ref name="auto1"/>
+| 
+* Permit issued by the local police required for a stay of fewer than 24 hours<ref>{{cite web|url=http://www.jan-mayen.no/visit.htm|title=JAN MAYEN HOMESITE, EDITED BY THE JAN MAYEN CREW|first=Jan Mayen|last=Crew|website=www.jan-mayen.no|access-date=2013-10-24|archive-date=2013-04-30|archive-url=https://web.archive.org/web/20130430074108/http://www.jan-mayen.no/visit.htm|url-status=dead}}</ref> and Permit issued by the [[Norwegian Police Service|Norwegian police]] for staying more than 24 hours.<ref>{{Cite web |url=https://www.lovdata.no/for/sf/jd/xd-19620601-0001.html |title=Forskrifter om utlendingers adgang til Jan Mayen |language=no |trans-title=Regulations on foreigners' access to Jan Mayen |website=lovdata.no |access-date=7 March 2022 |archive-url=https://archive.today/20220307005017/https://lovdata.no/dokument/SF/forskrift/1962-06-01-1 |archive-date=7 March 2022 |url-status=live}}</ref>
+|-
+| {{flag|South Ossetia}}
+| {{no|Visa required}}
+| 
+* To enter South Ossetia, visitors must have a multiple-entry visa for [[Russia]] and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.<ref>{{cite web | url=https://www.mfa-rso.su/taxonomy/term/13 | title=Порядок въезда на территорию Республики Южная Осетия для иностранных граждан}}</ref><ref>{{cite web | url=https://mfa.rsogov.org/node/1398 | title=Порядок въезда на территорию Республики Южная Осетия для иностранных граждан}}</ref>
+|-
+| {{flag|Transnistria}}
+| {{Yes|Visa not required}}<ref>{{Cite web |url=http://www.luxlana.net/Transdniestr.html |title=Luxlana.net |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20131022114723/http://www.luxlana.net/Transdniestr.html |archive-date=2013-10-22 |url-status=dead }}</ref><ref>{{cite web|url=http://transnistria-tour.com/en/rules-and-tipps|title=Rules and recommendations - Transnistria tour|website=transnistria-tour.com}}</ref>
+| 
+* Registration is required after 24h.
+|-
+! colspan="3" | Oceania
+|-
+| {{flag|American Samoa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=AS}}</ref>
+| 
+|-
+| {{flagicon|Australia}} [[Ashmore and Cartier Islands]]
+| {{no2|Authoristion required}}
+| 
+* Special authorization required.<ref>{{cite web |url=http://www.environment.gov.au/coasts/mpa/ashmore/activities.html |title=Ashmore Reef National Nature Reserve and Cartier Island Marine Reserve - Activities Allowed |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20121031132558/http://environment.gov.au/coasts/mpa/ashmore/activities.html |archive-date=2012-10-31 |url-status=dead}}</ref>
+|-
+| {{flagicon|France}} [[Clipperton Island]]
+| {{no2|Special permit required}}
+| 
+* Special permit required.<ref>{{cite web|url=http://www.clipperton.fr/incagen.html?geopolitique.htm~main|title=Clipperton - Ile de La Passion|first=Bruno|last=Quintero|website=www.clipperton.fr}}</ref>
+|-
+| {{flag|Cook Islands}}
+| {{yes|Visa not required}}<ref name="Henley Index" /><ref>{{cite web |url=http://www.cook-islands.gov.ck/faq.php |title=Cook Islands Government Online |access-date=2013-11-15 |archive-url=https://web.archive.org/web/20131115035856/http://www.cook-islands.gov.ck/faq.php |archive-date=2013-11-15 |url-status=dead}}</ref>
+| 
+* 31 days
+|-
+| {{flag|French Polynesia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=PF}}</ref>
+| 
+|-
+| {{flag|Guam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=GU}}</ref>
+| 
+|-
+| {{flag|Niue}}
+| {{yes|Visa not required}}<ref name="Henley Index" />
+|
+|-
+| {{flag|Pitcairn Islands}}
+| {{yes|Visa not required}}<ref>{{Cite web |url=http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |title=Tourist Information &#124; Visas & Legal Info &#124; Pitcairn Island Tourism |access-date=2015-09-25 |archive-url=https://web.archive.org/web/20131018001850/http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |archive-date=2013-10-18 |url-status=dead }}</ref><ref>{{cite web|url=http://www.government.pn/visaInfo.php|title=Pitcairn Islands|first=Bill|last=Haigh|website=www.government.pn|access-date=2013-10-24|archive-date=2017-10-21|archive-url=https://web.archive.org/web/20171021104351/http://www.government.pn/visaInfo.php|url-status=dead}}</ref><ref>{{cite web |url=http://www.government.pn/immigration%20ordinance.pdf |title=Immigration Control Ordinance 2006 |website=[[Government of the Pitcairn Islands]] |access-date=5 March 2022 |archive-url=https://web.archive.org/web/20211106205311/http://www.government.pn/immigration%20ordinance.pdf |archive-date=6 November 2021 |url-status=live}}</ref>
+| 
+* 14 days visa-free and landing fee of 35 USD or tax of 5 USD if not going ashore.
+|-
+| {{flagicon|United States}} [[United States Minor Outlying Islands]]
+| {{no2|Special permit required}}
+| 
+* Special permits required for [[Baker Island]], [[Howland Island]], [[Jarvis Island]], [[Johnston Atoll]], [[Kingman Reef]], [[Midway Atoll]], [[Palmyra Atoll]] and [[Wake Island]].<ref>{{cite web | url=http://www.fws.gov/bakerisland/visit.html | title=Visiting - Baker Island National Wildlife Refuge | access-date=2013-10-24 | archive-date=2013-10-17 | archive-url=https://web.archive.org/web/20131017211743/http://www.fws.gov/bakerisland/visit.html | url-status=dead}}</ref><ref>{{cite web | url=http://www.fws.gov/howlandisland/visit.html | title=Visiting Howland National Wildlife Refuge | access-date=2013-10-24 | archive-date=2013-10-17 | archive-url=https://web.archive.org/web/20131017212340/http://www.fws.gov/howlandisland/visit.html | url-status=dead}}</ref><ref>{{cite web | url=http://www.fws.gov/jarvisisland/ | title=Redirect Page | website=www.fws.gov|access-date=2013-10-24 | archive-date=2014-09-04 | archive-url=https://web.archive.org/web/20140904070329/http://www.fws.gov/jarvisisland/ | url-status=dead}}</ref><ref>{{cite web | url=http://www.fws.gov/johnstonisland/visit.html | title=Get Involved | access-date=2013-10-24 | archive-date=2008-09-22 | archive-url=https://web.archive.org/web/20080922044343/http://www.fws.gov/johnstonisland/visit.html | url-status=dead}}</ref><ref>{{cite web | url=http://www.fws.gov/kingmanreef/visit.html | title=Visiting Kingman Reef National Wildlife Refuge | access-date=2013-10-24 | archive-date=2013-10-17 | archive-url=https://web.archive.org/web/20131017212056/http://www.fws.gov/kingmanreef/visit.html | url-status=dead }}</ref><ref>{{cite web | url=http://www.fws.gov/midway/visit.html | title=Visiting Midway Atoll National Wildlife Refuge | access-date=2013-10-24 | archive-date=2014-02-27 | archive-url=https://web.archive.org/web/20140227230950/http://www.fws.gov/midway/visit.html | url-status=dead}}</ref><ref>{{cite web | url=http://www.fws.gov/palmyraatoll/visit.html | title=Visiting - Palmyra National Wildlife Refuge | access-date=2013-10-24 | archive-date=2013-05-22 | archive-url=https://web.archive.org/web/20130522074332/http://www.fws.gov/palmyraatoll/visit.html | url-status=dead}}</ref>
+|-
+! colspan="3" | South Atlantic and Antarctica
+|-
+| {{flag|Falkland Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AF|destination=FK}}</ref>
+| 
+|-
+| {{flag|South Georgia and the South Sandwich Islands}}
+| {{no2|Permit required}}
+| 
+* Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 [[pound sterling|pounds sterling]]).<ref>{{cite web | url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/south-america/south-georgia-south-sandwich#entryRequirements | title=South Georgia and South Sandwich Islands (British Overseas Territory) travel advice}}</ref><ref>{{cite web | url=http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis | title=Information for Visitors to South Georgia - South Georgia Website | access-date=2018-05-09 | archive-url=https://web.archive.org/web/20080412170649/http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis | archive-date=2008-04-12 | url-status=dead}}</ref>
+|-
+| {{flag|Antarctica}}
+| {{no2|Special Permits Required}}
+| 
+* Special permits required for {{flag|British Antarctic Territory}}, {{Flag|French Southern and Antarctic Lands}}, {{flag|Argentine Antarctica}}, {{flagicon|Australia}} [[Australian Antarctic Territory]], {{flagicon|Antártica Chilena Province}} [[Chilean Antarctic Territory]], {{flagicon|Australia}} [[Heard Island and McDonald Islands]], {{flagicon|Norway}} [[Peter I Island]], {{flagicon|Norway}} [[Queen Maud Land]], {{flagicon|New Zealand}} [[Ross Dependency]].<ref>{{cite web|url=http://www.antarctica.ac.uk/about_antarctica/tourism/index.php|title=Antarctic tourism - British Antarctic Survey|website=www.antarctica.ac.uk}}</ref><ref>{{Cite web |url=http://www.fco.gov.uk/content/en/travel-advice/north-central-south-america/12940285/fco_trv_ca_britishantarcticterr?ta=travelSummary&pg=1 |title=Archived copy |access-date=2011-04-27 |archive-url=http://webarchive.nationalarchives.gov.uk/20110427210122/http://www.fco.gov.uk/content/en/travel-advice/north-central-south-america/12940285/fco_trv_ca_britishantarcticterr?ta=travelSummary&pg=1 |archive-date=2011-04-27 |url-status=dead }}</ref><ref>{{cite web|url=http://britishantarcticterritory.fco.gov.uk/en/tourism/|title=British Antarctic Territory - GOV.UK|website=britishantarcticterritory.fco.gov.uk}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-a-l-Antarctique|title=Accès à l'Antarctique|website=www.taaf.fr|access-date=2013-10-24|archive-url=https://web.archive.org/web/20180501210951/http://www.taaf.fr/Acces-a-l-Antarctique|archive-date=2018-05-01|url-status=dead}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-australes|title=Accès aux Terres australes françaises|website=www.taaf.fr|access-date=2013-10-24|archive-url=https://web.archive.org/web/20140502032950/http://www.taaf.fr/Acces-aux-iles-australes|archive-date=2014-05-02|url-status=dead}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-Eparses|title=Accès aux îles Eparses|website=www.taaf.fr|access-date=2013-10-24|archive-url=https://web.archive.org/web/20180417172311/http://www.taaf.fr/Acces-aux-iles-Eparses|archive-date=2018-04-17|url-status=dead}}</ref><ref>{{cite web | url=http://www.dna.gov.ar/DIVULGAC/INDEX.HTM | title=Dna-IAA - la Antártida | access-date=2014-08-01 | archive-url=https://web.archive.org/web/20140805081831/http://www.dna.gov.ar/DIVULGAC/INDEX.HTM | archive-date=2014-08-05 | url-status=dead}}</ref><ref>{{cite web | url=http://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information | title=Forms expeditioners must sign | website=www.antarctica.gov.au | access-date=2013-10-24 | archive-date=2012-11-27 | archive-url=https://archive.today/20121127122832/http://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information | url-status=dead}}</ref><ref>{{cite web | url=http://www.heardisland.aq/about/frequently-asked-questions#visit_heard_island | title=Frequently asked questions | first=c=AU;o=Commonwealth of Australia;ou=Department of the Environment and Energy;ou=Australian Antarctic | last=Division | website=www.heardisland.aq|date=28 February 2005}}</ref><ref>{{cite web | url=http://www.npolar.no/en/antarctica/peter-I-oy.html | title=Peter I Øy - Norwegian Polar Institute | access-date=2014-05-12 | archive-url=https://web.archive.org/web/20131017215217/http://www.npolar.no/en/antarctica/peter-I-oy.html | archive-date=2013-10-17 | url-status=dead}}</ref><ref>{{cite web | url=http://www.npolar.no/en/antarctica/dronning-maud-land.html | title=Dronning Maud Land | website=Norwegian Polar Institute | access-date=2013-10-24 | archive-url=https://web.archive.org/web/20131017215832/http://www.npolar.no/en/antarctica/dronning-maud-land.html | archive-date=2013-10-17 | url-status=dead}}</ref><ref>{{cite web | url=http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php | title=The Ministry of Foreign Affairs and Trade acts in the world to make New Zealanders safer and more prosperous | first=New Zealand Ministry of Foreign Affairs and | last=Trade | website=New Zealand Ministry of Foreign Affairs and Trade | access-date=2013-10-24 | archive-date=2010-05-22 | archive-url=https://web.archive.org/web/20100522033603/http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php | url-status=dead}}</ref>
+|}
+
+==Non-visa restrictions==
+{{Transcluded section|Non-visa travel restrictions}}
+{{#section-h:Non-visa travel restrictions|List of common non-visa travel restrictions}}
+
+==See also==
+{{Portal|Afghanistan}}
+
+* [[Visa policy of Afghanistan]]
+* [[Afghan passport]]
+
+==References and notes==
+;References
+{{reflist|30em}}
+
+;Notes
+{{Reflist|30em|group="Note"}}
+
+{{Visa policy by country}}
+{{Visa Requirements}}
+
+[[Category:Visa requirements by nationality|Afghanistan]]
+[[Category:Foreign relations of Afghanistan]]
