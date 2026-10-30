@@ -10,3 +10,4 @@ out/
 AGENTS.md
 docs/STATUS.md
 *.egg-info/
+data/all.json

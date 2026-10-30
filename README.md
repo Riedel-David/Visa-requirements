@@ -35,6 +35,8 @@ Data snapshots are tagged as `data-YYYY-MM-DD`. You can access a specific versio
 https://raw.githubusercontent.com/Riedel-David/Visa-requirements/data-2026-10-30/data/passports/DE.json
 ```
 
+`all.json` is not committed (it is large and changes every run). It is generated on each run and published on GitHub Pages and as an asset of each GitHub Release, so for a pinned version download it from the release of that tag.
+
 See [DATA_FORMAT.md](DATA_FORMAT.md) for detailed schema documentation.
 
 ## Data Format
