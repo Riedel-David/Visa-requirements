@@ -10,13 +10,15 @@ special sits outside this order and is used for unmapped or unusual statuses.
 
 For combined statuses like "eVisa / Visa on arrival", the parser splits on "/" and " or ",
 takes the least restrictive as the main status, and puts others in alternative_statuses.
+If any one part is unmapped, the whole combined cell becomes 'special' (no guessing
+from the remaining parts).
 
 ## Mapping principles
 
 1. Map on the cleaned text content, not the template name ({{free|Visa required}} exists)
 2. Normalize to lowercase and strip whitespace before lookup
 3. Never guess - unmapped text becomes "special" with a warning
-4. Order matters - check more specific patterns before general ones
+4. Lookup is an exact dict match on the normalised text, so entry order in STATUS_MAP is irrelevant
 
 ## Examples from fixtures
 
@@ -33,8 +35,7 @@ takes the least restrictive as the main status, and puts others in alternative_s
 
 import re
 
-# Ordered mapping table: status text -> enum value
-# Order: check more specific patterns first
+# Mapping table: normalised status text -> enum value (exact match, order irrelevant)
 STATUS_MAP = {
     # Visa-free entry
     'visa not required': 'visa_free',
@@ -191,6 +192,10 @@ STATUS_MAP = {
     'travel restricted by u.s. government/admission refused for u.s. citizens with foreign nationality': 'special',
 }
 
+# Status enum order, least to most restrictive; 'special' is last only so it sorts somewhere
+STATUS_ORDER = ['visa_free', 'visa_on_arrival', 'eta', 'evisa', 'visa_required',
+                'permit_required', 'admission_refused', 'special']
+
 
 def normalize_status(text: str) -> str:
     """Normalize status text for lookup: lowercase, strip, compress whitespace, normalize apostrophes, strip trailing periods."""
@@ -237,8 +242,6 @@ def parse_status(text: str) -> tuple[str, list[str]]:
     # Split on "/" with any surrounding whitespace, " or ", and newlines
     # This handles "ETA/ Visa on arrival", "ETA /Visa on arrival", "ETA/Visa on arrival"
     # and "Visa not required\neVisa"
-    parts = []
-
     # Normalize separators: replace newlines with " / ", and " or " with " / "
     text_normalized = text.replace('\n', ' / ').replace(' or ', ' / ')
 
@@ -250,10 +253,6 @@ def parse_status(text: str) -> tuple[str, list[str]]:
         return 'special', []
 
     # Multiple statuses - map each and pick the least restrictive
-    # Status order (least to most restrictive):
-    order = ['visa_free', 'visa_on_arrival', 'eta', 'evisa', 'visa_required',
-             'permit_required', 'admission_refused', 'special']
-
     mapped = []
     for part in parts:
         status = _map_part(part)
@@ -265,7 +264,7 @@ def parse_status(text: str) -> tuple[str, list[str]]:
             mapped.append(status)
 
     # Least restrictive is primary; the rest keep their order of appearance
-    primary = min(mapped, key=order.index)
+    primary = min(mapped, key=STATUS_ORDER.index)
     alternatives = [s for s in mapped if s != primary]
 
     return primary, alternatives

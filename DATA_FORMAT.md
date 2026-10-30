@@ -174,6 +174,24 @@ When Wikipedia lists multiple options (e.g., "eVisa / Visa on arrival"):
 - `status` contains the **least restrictive** option (`visa_on_arrival`)
 - `alternative_statuses` contains the others in order (`["evisa"]`)
 
+### Status Mapping
+
+The mapping table is `STATUS_MAP` in `src/visa_pipeline/status.py`.
+
+- Mapping is by the cell **text**, not the template colour: `{{free|Visa required}}` exists and maps to `visa_required`.
+- In a combined cell, `status` is the least restrictive option because the traveller can pick the easiest one listed; the others remain available and are kept in `alternative_statuses`.
+- If any part of a combined cell is unmapped, the whole cell becomes `special` (no guessing from the remaining parts). Unmapped text is reported on every run.
+
+Judgement calls:
+
+| Wikipedia text | Status | Why |
+|----------------|--------|-----|
+| `e-VOA`, `Electronic visa on arrival` | `visa_on_arrival` | Approval/payment happens at the border |
+| `Ease`, `Pre-registration required` | `eta` | Online registration, not a visa |
+| `ID card` | `visa_free` | Entry without a visa on an ID card |
+| `Easy visitor permit`, `Visitor's pass required` | `permit_required` | A permit must be obtained |
+| `Travel banned` | `special` | Usually the home government forbids travel, not the destination |
+
 ## X-Codes (Non-ISO Destinations)
 
 For destinations without ISO 3166-1 alpha-2 codes, user-assigned X-codes are used:
