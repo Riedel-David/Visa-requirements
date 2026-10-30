@@ -142,6 +142,8 @@ STATUS_MAP = {
     'travel permit required': 'permit_required',
     'special permission required': 'permit_required',
     'permission required': 'permit_required',
+    "visitor's pass required": 'permit_required',
+    'easy visitor permit': 'permit_required',
     'restricted area': 'permit_required',
     'ttp required': 'permit_required',
     'travel pass required': 'permit_required',
