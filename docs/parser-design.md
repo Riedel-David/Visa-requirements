@@ -60,6 +60,9 @@ Key decisions:
 3. **Territory flag**: rows from the subsection tables and Special/Restricted areas get
    `is_territory_or_restricted: true`; a restricted area gets destination = sovereign ISO2 plus
    `destination_name` "China – Tibet Autonomous Region" (record key = passport+destination+area).
+   A territory-section row with no area that collides with a whole-country row of a different
+   status never replaces it: it is stored with the section heading as `area` (e.g. KZ Baikonur
+   permit under "Territories and disputed areas") and a `SPLITTING` warning.
 4. **ISO codes for non-ISO destinations** (Abkhazia, Kosovo, Northern Cyprus, Somaliland...):
    use user-assigned codes from an override file (`XK` is conventional for Kosovo; others get
    `X?` codes or null + report). Needs your decision — see question.

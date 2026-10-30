@@ -222,7 +222,7 @@ class TestBritishRestrictedAreaDoesNotDisplaceCountry:
         )
         kz = {r['area']: r['status'] for r in result.records if r['destination'] == 'KZ'}
         assert kz.get(None) == 'visa_free'
-        assert kz.get('Restricted areas') == 'permit_required'
+        assert kz.get('Territories and disputed areas') == 'permit_required'
 
 
 def test_french_west_indies_maps_to_fr_area():

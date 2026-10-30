@@ -448,9 +448,9 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
                     # territory row must not displace the whole-country answer. Keep both.
                     result.warnings.append(
                         f"SPLITTING {dest_code}: whole-country {prev_status} in '{prev_section}' kept, "
-                        f"{primary_status} row in '{section_name}' stored as area 'Restricted areas'"
+                        f"{primary_status} row in '{section_name}' stored as area {section_name!r}"
                     )
-                    area = 'Restricted areas'
+                    area = section_name
                     key = (dest_code, area)
                     if key in result._seen_keys:
                         result.warnings.append(
