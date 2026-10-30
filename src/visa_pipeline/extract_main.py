@@ -145,24 +145,25 @@ def _is_territory_section(heading: str) -> bool:
 def _find_all_territory_sections(sections: list[dict], main_section_start: int, main_section_level: int) -> list[dict]:
     """Find all territory-related sections.
 
-    Returns:
-        List of section dicts that are either:
-        - Descendants of the main section matching territory pattern
-        - Standalone sections (any level) matching territory pattern
+    Returns (in page order) every section that is a descendant of the main
+    section, matches the territory pattern, or is a descendant of a section
+    matching it. Callers parse each section's direct content only, so a table
+    is never read twice through a parent section.
     """
+    def is_descendant(child: dict, parent: dict) -> bool:
+        return (parent['start_line'] < child['start_line'] < parent['end_line']
+                and child['level'] > parent['level'])
+
+    main = next((s for s in sections if s['start_line'] == main_section_start), None)
+    matching = [s for s in sections if _is_territory_section(s['heading'])]
+
     territory_sections = []
-
     for section in sections:
-        heading = section['heading']
-
-        # Check if this is a descendant of main section
-        is_descendant = (section['start_line'] > main_section_start and
-                        section['level'] > main_section_level)
-
-        # Check if heading matches territory pattern
-        matches_pattern = _is_territory_section(heading)
-
-        if matches_pattern:
+        if section is main:
+            continue
+        if (section in matching
+                or (main is not None and is_descendant(section, main))
+                or any(is_descendant(section, m) for m in matching)):
             territory_sections.append(section)
 
     return territory_sections
@@ -212,7 +213,6 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
     Returns:
         (destination_name, area)
     """
-    import mwparserfromhell
 
     # Try to parse with mwparserfromhell to extract templates
     wikicode = mwparserfromhell.parse(cell_text)
@@ -603,8 +603,9 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
 
         # Parse tables from each territory section
         for territory_section in territory_sections:
-            # Parse all tables in this section (including child sections)
-            table_matches = re.finditer(r'\{\|.*?\|\}', territory_section['text'], re.DOTALL)
+            # Direct content only: child sections are visited on their own
+            direct = _get_section_direct_content(territory_section, sections, lines)
+            table_matches = re.finditer(r'\{\|.*?\|\}', direct, re.DOTALL)
             for table_match in table_matches:
                 table_text = table_match.group(0)
                 _parse_table_rows(
