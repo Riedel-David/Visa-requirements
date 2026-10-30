@@ -222,6 +222,10 @@ def run(
 
     revision_info = client.revisions(titles)
 
+    # --force reparses everything and bypasses the safety thresholds; a template or
+    # parser change only reparses, so its effects still go through the thresholds
+    reparse_all = force
+
     # Check if template changed and if any pages need parsing
     template_revid = None
     if TEMPLATE_TITLE in revision_info:
@@ -230,15 +234,16 @@ def run(
 
         if stored_template_revid is not None and template_revid != stored_template_revid:
             logger.info("Template changed - will reparse all pages")
-            force = True
+            reparse_all = True
 
     # Check if parser code changed
     current_parser_fingerprint = compute_parser_fingerprint()
     stored_parser_fingerprint = stored_revisions.get("_parser", {}).get("fingerprint")
 
-    if stored_parser_fingerprint is not None and current_parser_fingerprint != stored_parser_fingerprint:
+    # A missing fingerprint (state written before fingerprints existed) also forces a reparse
+    if stored_revisions and current_parser_fingerprint != stored_parser_fingerprint:
         logger.info("Parser code changed - will reparse all pages")
-        force = True
+        reparse_all = True
 
     # Determine if any pages will be parsed
     any_pages_to_parse = False
@@ -246,7 +251,7 @@ def run(
         title = page_info["title"]
         if title in revision_info:
             revid = revision_info[title]["revid"]
-            if needs_update(page_info["passport"], revid, stored_revisions, data_dir, force):
+            if needs_update(page_info["passport"], revid, stored_revisions, data_dir, reparse_all):
                 any_pages_to_parse = True
                 break
 
@@ -320,7 +325,7 @@ def run(
         timestamp = revision_info[title]["timestamp"]
 
         # Check if update needed
-        if not needs_update(iso2, revid, stored_revisions, data_dir, force):
+        if not needs_update(iso2, revid, stored_revisions, data_dir, reparse_all):
             logger.info(f"{iso2}: Unchanged, skipping")
             results["pages_skipped_unchanged"] += 1
             # Data already loaded, just ensure metadata is current
@@ -378,6 +383,10 @@ def run(
                 max_status_changes,
                 max_record_drop_pct
             )
+            # Zero rows where rows existed stays a hard failure even with --force
+            if force and not is_safe and len(parse_result.records) > 0:
+                logger.warning(f"{iso2}: safety check bypassed by --force ({reason})")
+                is_safe, reason = True, None
 
             if not is_safe:
                 # Zero records where previous had records is FAILED (exit 1), not blocked

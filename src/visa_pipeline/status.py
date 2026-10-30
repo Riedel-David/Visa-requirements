@@ -31,6 +31,8 @@ takes the least restrictive as the main status, and puts others in alternative_s
 - "Special permit required" → permit_required
 """
 
+import re
+
 # Ordered mapping table: status text -> enum value
 # Order: check more specific patterns first
 STATUS_MAP = {
@@ -224,7 +226,6 @@ def parse_status(text: str) -> tuple[str, list[str]]:
     text_normalized = text.replace('\n', ' / ').replace(' or ', ' / ')
 
     # Split on "/" with optional surrounding whitespace
-    import re
     parts = [p.strip() for p in re.split(r'\s*/\s*', text_normalized) if p.strip()]
 
     if len(parts) <= 1:
