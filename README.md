@@ -253,7 +253,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Status
 
-This project is actively maintained. The pipeline runs weekly, and data is updated automatically.
+The pipeline runs weekly via GitHub Actions and updates the data automatically. This is a hobby project: there are no guarantees about maintenance or response times.
 
 ## Related Resources
 
