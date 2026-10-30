@@ -15,10 +15,7 @@ on:
         default: ''
 
 permissions:
-  contents: write
-  issues: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
   group: update-data
@@ -27,6 +24,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commit data and push the data-YYYY-MM-DD tag
+      issues: write     # open/update the data-pipeline issue
+      pages: read       # configure-pages reads the Pages site config
     outputs:
       pipeline_exit_code: ${{ steps.run_pipeline.outputs.exit_code }}
       data_changed: ${{ steps.check_changes.outputs.data_changed }}
@@ -163,6 +164,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     needs: update
+    permissions:
+      pages: write
+      id-token: write
     if: ${{ !cancelled() }}
     environment:
       name: github-pages
