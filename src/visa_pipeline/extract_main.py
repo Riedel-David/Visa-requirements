@@ -224,6 +224,11 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
             area_cleaned = clean.clean(remaining, warnings=warnings).strip()
             # Remove leading punctuation like - or –
             area_cleaned = re.sub(r'^[-–\s]+', '', area_cleaned).strip()
+            # "{{flag|Australia}} and territories": the row covers the country plus its
+            # dependencies, so it is the whole-country answer, not an area.
+            if re.match(r'and\s', area_cleaned, re.IGNORECASE):
+                warnings.append(f"Ignoring inclusive suffix {area_cleaned!r} for {flag_country!r}; whole-country row")
+                area_cleaned = ''
             if area_cleaned:
                 # {{flagicon|US}} [[United States Minor Outlying Islands]]: the flag
                 # param is a bare country code (the flag of the sovereign), and the

@@ -228,3 +228,22 @@ class TestBritishRestrictedAreaDoesNotDisplaceCountry:
 def test_french_west_indies_maps_to_fr_area():
     from visa_pipeline import countries
     assert countries.lookup_area('French West Indies') == ('FR', 'French West Indies')
+
+
+def test_inclusive_suffix_is_not_an_area():
+    warnings = []
+    for cell, dest in [('{{flag|Australia}} and territories', 'Australia'),
+                       ('{{flag|United Kingdom}} and Crown dependencies', 'United Kingdom')]:
+        assert extract_main._extract_destination_and_area(cell, warnings) == (dest, None)
+    assert extract_main._extract_destination_and_area(
+        '{{flag|Eritrea}} (outside Asmara)', warnings) == ('Eritrea', '(outside Asmara)')
+
+
+def test_british_page_has_whole_country_records_for_inclusive_rows(transcl):
+    wikitext, meta = load_fixture('Visa_requirements_for_Danish_citizens')
+    result = extract_main.parse_page(
+        wikitext, passport='DK', title='Visa requirements for Danish citizens',
+        revid=meta['revid'], transclusions=transcl)
+    assert not [r for r in result.records if (r['area'] or '').lower().startswith('and ')]
+    keys = [(r['destination'], r['area']) for r in result.records]
+    assert len(keys) == len(set(keys))
