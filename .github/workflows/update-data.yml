@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: 'Reparse all pages and bypass the safety thresholds (zero rows still fail)'
+        description: 'Reparse all pages and bypass the safety thresholds (zero rows still fail; the 24h revision cooling-off still applies)'
         type: boolean
         default: false
       only:

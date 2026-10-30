@@ -76,6 +76,11 @@ def compute_parser_fingerprint() -> str:
     except metadata.PackageNotFoundError:
         parser_lib_version = "unknown"
     hasher.update(f"mwparserfromhell=={parser_lib_version}".encode())
+    try:
+        country_lib_version = metadata.version("pycountry")
+    except metadata.PackageNotFoundError:
+        country_lib_version = "unknown"
+    hasher.update(f"pycountry=={country_lib_version}".encode())
 
     return hasher.hexdigest()
 
@@ -166,14 +171,19 @@ def is_cooling_off(
 ) -> bool:
     """True if a changed page's latest revision is too young to publish.
 
-    Only pages that already have published data and a stored (older) revision
-    are deferred; a never-parsed page is parsed regardless.
+    Only pages that already have published data are deferred (also when their
+    stored revision was dropped after a failure); a never-parsed page is parsed
+    regardless.
     """
-    if iso2 not in stored_revisions or stored_revisions[iso2].get("revid") == revid:
+    if stored_revisions.get(iso2, {}).get("revid") == revid:
         return False
     if not (data_dir / "passports" / f"{iso2}.json").exists():
         return False
-    revised_at = datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+    try:
+        revised_at = datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+    except (ValueError, AttributeError):
+        # Unreadable timestamp: don't defer, parse as before
+        return False
     if revised_at.tzinfo is None:
         revised_at = revised_at.replace(tzinfo=timezone.utc)
     return now - revised_at < timedelta(hours=COOLING_OFF_HOURS)

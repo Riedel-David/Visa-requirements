@@ -437,3 +437,21 @@ def test_never_parsed_young_page_is_parsed(tmp_path):
     assert (env[0] / "passports" / "DE.json").exists()
     summary = json.loads((env[2] / "summary.json").read_text())
     assert summary["deferred"] == []
+
+
+def test_is_cooling_off_edge_cases(tmp_path):
+    from datetime import datetime, timezone
+    from visa_pipeline.run import is_cooling_off
+    (tmp_path / "passports").mkdir()
+    (tmp_path / "passports" / "DE.json").write_text("{}")
+    now = datetime(2026, 1, 2, 12, 0, tzinfo=timezone.utc)
+    stored = {"DE": {"revid": 1}}
+    # exactly 24h old is old enough
+    assert not is_cooling_off("DE", 2, "2026-01-01T12:00:00Z", stored, tmp_path, now)
+    assert is_cooling_off("DE", 2, "2026-01-02T00:00:00Z", stored, tmp_path, now)
+    # dropped stored revision (earlier failure) still defers a young revision
+    assert is_cooling_off("DE", 2, "2026-01-02T00:00:00Z", {}, tmp_path, now)
+    # unreadable timestamp never defers or raises
+    assert not is_cooling_off("DE", 2, "garbage", stored, tmp_path, now)
+    # no published file: parse anyway
+    assert not is_cooling_off("FR", 2, "2026-01-02T00:00:00Z", {}, tmp_path, now)

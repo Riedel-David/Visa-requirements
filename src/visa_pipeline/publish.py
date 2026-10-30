@@ -318,6 +318,12 @@ def write_report(
                 f.write(f"- **{failed['passport']}**: {failed['reason']}\n")
             f.write("\n")
 
+        if summary.get("deferred"):
+            f.write(f"## Deferred, revision under 24h old ({len(summary['deferred'])})\n\n")
+            for d in summary["deferred"]:
+                f.write(f"- **{d['passport']}**: revision {d['revid']} ({d['timestamp']})\n")
+            f.write("\n")
+
         if summary["unmapped_statuses"]:
             f.write(f"## Unmapped Statuses ({len(summary['unmapped_statuses'])})\n\n")
             # Count by raw_status
