@@ -294,7 +294,7 @@ def _is_header_row(row: dict[str, str]) -> bool:
     # Check first few cells for header-like content
     header_keywords = ['country', 'destination', 'visa', 'requirement', 'stay', 'duration',
                        'notes', 'details', 'passport', 'regular', 'special', 'service',
-                       'diplomatic', 'area', 'territory', 'region', 'entry', 'allowed']
+                       'diplomatic', 'area', 'territory', 'region', 'entry', 'allowed', 'visitor']
 
     # Get first cell content and check if it's a common header term
     first_cell = row.get('0', '')
