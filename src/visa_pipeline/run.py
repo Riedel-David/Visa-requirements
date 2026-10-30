@@ -116,7 +116,8 @@ def run(
     force: bool = False,
     refresh_pages: bool = False,
     min_interval: float = 1.0,
-    parse_page: Callable | None = None
+    parse_page: Callable | None = None,
+    client: WikiClient | None = None
 ) -> int:
     """
     Run the visa requirements pipeline.
@@ -132,6 +133,7 @@ def run(
         refresh_pages: Force refresh page discovery
         min_interval: Minimum seconds between API requests
         parse_page: Parser function (for testing, defaults to real parser)
+        client: WikiClient instance (for testing, defaults to real client)
 
     Returns:
         Exit code (0=success, 1=failure)
@@ -146,7 +148,8 @@ def run(
             return 1
 
     # Initialize client
-    client = WikiClient(min_interval=min_interval)
+    if client is None:
+        client = WikiClient(min_interval=min_interval)
 
     # Discover pages
     logger.info("Discovering pages...")
