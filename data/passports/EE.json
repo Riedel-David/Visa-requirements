@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens",
   "source_revision": "1368955273",
   "source_timestamp": "2026-08-12T01:57:44Z",
-  "generated_at": "2026-10-30T10:52:00.731490+00:00",
+  "generated_at": "2026-10-30T15:05:03.917420+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -564,8 +564,10 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
-      "alternative_statuses": [],
+      "status": "evisa",
+      "alternative_statuses": [
+        "visa_required"
+      ],
       "allowed_stay_days": 90,
       "allowed_stay_raw": "90 days",
       "notes": null,

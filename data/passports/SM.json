@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sammarinese_citizens",
   "source_revision": "1345971488",
   "source_timestamp": "2026-03-29T06:18:38Z",
-  "generated_at": "2026-10-30T10:53:37.589643+00:00",
+  "generated_at": "2026-10-30T15:06:37.967922+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -632,8 +632,10 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
-      "alternative_statuses": [],
+      "status": "evisa",
+      "alternative_statuses": [
+        "visa_required"
+      ],
       "allowed_stay_days": 90,
       "allowed_stay_raw": "90 days",
       "notes": null,
@@ -948,6 +950,20 @@
       "allowed_stay_raw": "90 days",
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sammarinese_citizens",
+      "source_revision": "1345971488"
+    },
+    {
+      "passport": "SM",
+      "destination": "FR",
+      "destination_name": "French West Indies",
+      "area": "French West Indies",
+      "status": "visa_free",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Visa free for overseas departments of Guadeloupe, Martinique, Saint Barthélemy and Saint Martin (90 days)",
+      "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sammarinese_citizens",
       "source_revision": "1345971488"
     },

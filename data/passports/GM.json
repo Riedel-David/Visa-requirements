@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens",
   "source_revision": "1366720050",
   "source_timestamp": "2026-07-29T19:46:48Z",
-  "generated_at": "2026-10-30T10:52:07.019873+00:00",
+  "generated_at": "2026-10-30T15:05:09.826946+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -630,7 +630,7 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
+      "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
       "allowed_stay_raw": "90 days",

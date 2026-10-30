@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-30T12:18:28.111661+00:00",
+  "generated_at": "2026-10-30T15:07:24.943693+00:00",
   "disclaimer": "Visa data is community-sourced from Wikipedia and may be incomplete, outdated or wrong. Always verify entry requirements with the official embassy or government source of the destination before travelling.",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -48,8 +48,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
       "source_revision": "1382793891",
       "source_timestamp": "2026-10-30T09:36:54Z",
-      "record_count": 260,
-      "last_changed": "2026-10-30T10:50:59.756238+00:00"
+      "record_count": 264,
+      "last_changed": "2026-10-30T15:04:06.866521+00:00"
     },
     "AM": {
       "file": "passports/AM.json",
@@ -57,8 +57,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens",
       "source_revision": "1380688618",
       "source_timestamp": "2026-10-17T07:24:46Z",
-      "record_count": 203,
-      "last_changed": "2026-10-30T10:51:05.613198+00:00"
+      "record_count": 204,
+      "last_changed": "2026-10-30T15:04:12.987329+00:00"
     },
     "AO": {
       "file": "passports/AO.json",
@@ -84,8 +84,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Austrian_citizens",
       "source_revision": "1374271270",
       "source_timestamp": "2026-09-10T23:32:33Z",
-      "record_count": 274,
-      "last_changed": "2026-10-30T10:51:08.139079+00:00"
+      "record_count": 278,
+      "last_changed": "2026-10-30T15:04:14.868569+00:00"
     },
     "AU": {
       "file": "passports/AU.json",
@@ -93,8 +93,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "source_revision": "1382495700",
       "source_timestamp": "2026-10-29T00:02:29Z",
-      "record_count": 267,
-      "last_changed": "2026-10-30T12:15:16.100942+00:00"
+      "record_count": 268,
+      "last_changed": "2026-10-30T15:04:13.992219+00:00"
     },
     "AZ": {
       "file": "passports/AZ.json",
@@ -156,8 +156,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens",
       "source_revision": "1379559795",
       "source_timestamp": "2026-10-10T18:39:08Z",
-      "record_count": 265,
-      "last_changed": "2026-10-30T12:02:37.808163+00:00"
+      "record_count": 269,
+      "last_changed": "2026-10-30T15:04:32.020686+00:00"
     },
     "BH": {
       "file": "passports/BH.json",
@@ -192,8 +192,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "source_revision": "1372302836",
       "source_timestamp": "2026-08-31T05:04:00Z",
-      "record_count": 258,
-      "last_changed": "2026-10-30T12:02:36.482031+00:00"
+      "record_count": 262,
+      "last_changed": "2026-10-30T15:04:30.871601+00:00"
     },
     "BO": {
       "file": "passports/BO.json",
@@ -220,7 +220,7 @@
       "source_revision": "1380459190",
       "source_timestamp": "2026-10-15T20:48:37Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T12:02:21.251310+00:00"
+      "last_changed": "2026-10-30T15:04:16.880688+00:00"
     },
     "BT": {
       "file": "passports/BT.json",
@@ -246,8 +246,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belarusian_citizens",
       "source_revision": "1377545086",
       "source_timestamp": "2026-09-29T23:30:05Z",
-      "record_count": 245,
-      "last_changed": "2026-10-30T10:51:17.216953+00:00"
+      "record_count": 246,
+      "last_changed": "2026-10-30T15:04:20.962385+00:00"
     },
     "BZ": {
       "file": "passports/BZ.json",
@@ -255,8 +255,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens",
       "source_revision": "1344952795",
       "source_timestamp": "2026-03-23T13:52:52Z",
-      "record_count": 259,
-      "last_changed": "2026-10-30T12:15:24.967724+00:00"
+      "record_count": 260,
+      "last_changed": "2026-10-30T15:04:22.898510+00:00"
     },
     "CA": {
       "file": "passports/CA.json",
@@ -390,8 +390,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens",
       "source_revision": "1362941153",
       "source_timestamp": "2026-07-07T02:32:13Z",
-      "record_count": 273,
-      "last_changed": "2026-10-30T12:15:53.345432+00:00"
+      "record_count": 277,
+      "last_changed": "2026-10-30T15:04:50.966489+00:00"
     },
     "DE": {
       "file": "passports/DE.json",
@@ -435,8 +435,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
       "source_revision": "1381614094",
       "source_timestamp": "2026-10-23T17:58:53Z",
-      "record_count": 252,
-      "last_changed": "2026-10-30T11:59:15.714175+00:00"
+      "record_count": 255,
+      "last_changed": "2026-10-30T15:04:55.869877+00:00"
     },
     "DZ": {
       "file": "passports/DZ.json",
@@ -463,7 +463,7 @@
       "source_revision": "1368955273",
       "source_timestamp": "2026-08-12T01:57:44Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:52:00.731490+00:00"
+      "last_changed": "2026-10-30T15:05:03.917420+00:00"
     },
     "EG": {
       "file": "passports/EG.json",
@@ -481,7 +481,7 @@
       "source_revision": "1373603131",
       "source_timestamp": "2026-09-06T21:25:08Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T10:51:59.755355+00:00"
+      "last_changed": "2026-10-30T15:05:02.869812+00:00"
     },
     "ES": {
       "file": "passports/ES.json",
@@ -489,8 +489,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens",
       "source_revision": "1359008443",
       "source_timestamp": "2026-06-12T13:09:51Z",
-      "record_count": 259,
-      "last_changed": "2026-10-30T12:05:13.381722+00:00"
+      "record_count": 263,
+      "last_changed": "2026-10-30T15:06:54.071640+00:00"
     },
     "ET": {
       "file": "passports/ET.json",
@@ -508,7 +508,7 @@
       "source_revision": "1374270031",
       "source_timestamp": "2026-09-10T23:22:36Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T12:03:15.427893+00:00"
+      "last_changed": "2026-10-30T15:05:06.838499+00:00"
     },
     "FJ": {
       "file": "passports/FJ.json",
@@ -534,8 +534,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens",
       "source_revision": "1377834614",
       "source_timestamp": "2026-10-01T11:44:13Z",
-      "record_count": 268,
-      "last_changed": "2026-10-30T12:03:17.089336+00:00"
+      "record_count": 272,
+      "last_changed": "2026-10-30T15:05:08.049222+00:00"
     },
     "GA": {
       "file": "passports/GA.json",
@@ -544,7 +544,7 @@
       "source_revision": "1356702000",
       "source_timestamp": "2026-05-29T08:43:58Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T10:52:06.230076+00:00"
+      "last_changed": "2026-10-30T15:05:08.898692+00:00"
     },
     "GB": {
       "file": "passports/GB.json",
@@ -552,8 +552,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
       "source_revision": "1382143140",
       "source_timestamp": "2026-10-26T21:45:21Z",
-      "record_count": 273,
-      "last_changed": "2026-10-30T10:51:26.505465+00:00"
+      "record_count": 274,
+      "last_changed": "2026-10-30T15:04:30.008330+00:00"
     },
     "GD": {
       "file": "passports/GD.json",
@@ -561,8 +561,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Grenadian_citizens",
       "source_revision": "1374452159",
       "source_timestamp": "2026-09-12T03:31:32Z",
-      "record_count": 267,
-      "last_changed": "2026-10-30T12:16:17.401069+00:00"
+      "record_count": 269,
+      "last_changed": "2026-10-30T15:05:14.976072+00:00"
     },
     "GE": {
       "file": "passports/GE.json",
@@ -589,7 +589,7 @@
       "source_revision": "1366720050",
       "source_timestamp": "2026-07-29T19:46:48Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T10:52:07.019873+00:00"
+      "last_changed": "2026-10-30T15:05:09.826946+00:00"
     },
     "GN": {
       "file": "passports/GN.json",
@@ -625,7 +625,7 @@
       "source_revision": "1366879437",
       "source_timestamp": "2026-07-30T18:46:16Z",
       "record_count": 262,
-      "last_changed": "2026-10-30T10:52:13.017803+00:00"
+      "last_changed": "2026-10-30T15:05:15.925218+00:00"
     },
     "GW": {
       "file": "passports/GW.json",
@@ -651,8 +651,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
       "source_revision": "1382557512",
       "source_timestamp": "2026-10-29T06:49:58Z",
-      "record_count": 253,
-      "last_changed": "2026-10-30T12:02:50.827764+00:00"
+      "record_count": 256,
+      "last_changed": "2026-10-30T15:04:42.929807+00:00"
     },
     "HN": {
       "file": "passports/HN.json",
@@ -687,8 +687,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Hungarian_citizens",
       "source_revision": "1379323426",
       "source_timestamp": "2026-10-09T06:41:38Z",
-      "record_count": 264,
-      "last_changed": "2026-10-30T12:16:24.691540+00:00"
+      "record_count": 268,
+      "last_changed": "2026-10-30T15:05:22.024417+00:00"
     },
     "ID": {
       "file": "passports/ID.json",
@@ -706,7 +706,7 @@
       "source_revision": "1379558037",
       "source_timestamp": "2026-10-10T18:24:36Z",
       "record_count": 266,
-      "last_changed": "2026-10-30T10:52:25.460370+00:00"
+      "last_changed": "2026-10-30T15:05:27.993447+00:00"
     },
     "IL": {
       "file": "passports/IL.json",
@@ -751,7 +751,7 @@
       "source_revision": "1374272543",
       "source_timestamp": "2026-09-10T23:41:54Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T12:03:33.348296+00:00"
+      "last_changed": "2026-10-30T15:05:22.836358+00:00"
     },
     "IT": {
       "file": "passports/IT.json",
@@ -759,8 +759,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens",
       "source_revision": "1374453659",
       "source_timestamp": "2026-09-12T03:43:13Z",
-      "record_count": 277,
-      "last_changed": "2026-10-30T12:16:32.447636+00:00"
+      "record_count": 278,
+      "last_changed": "2026-10-30T15:05:30.261118+00:00"
     },
     "JM": {
       "file": "passports/JM.json",
@@ -768,8 +768,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens",
       "source_revision": "1380459702",
       "source_timestamp": "2026-10-15T20:51:33Z",
-      "record_count": 266,
-      "last_changed": "2026-10-30T12:16:34.428436+00:00"
+      "record_count": 267,
+      "last_changed": "2026-10-30T15:05:31.909107+00:00"
     },
     "JO": {
       "file": "passports/JO.json",
@@ -786,8 +786,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens",
       "source_revision": "1374454858",
       "source_timestamp": "2026-09-12T03:51:56Z",
-      "record_count": 279,
-      "last_changed": "2026-10-30T12:16:35.577190+00:00"
+      "record_count": 280,
+      "last_changed": "2026-10-30T15:05:33.060436+00:00"
     },
     "KE": {
       "file": "passports/KE.json",
@@ -813,8 +813,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cambodian_citizens",
       "source_revision": "1376802160",
       "source_timestamp": "2026-09-26T08:28:26Z",
-      "record_count": 261,
-      "last_changed": "2026-10-30T11:58:52.120580+00:00"
+      "record_count": 265,
+      "last_changed": "2026-10-30T15:04:34.848574+00:00"
     },
     "KI": {
       "file": "passports/KI.json",
@@ -850,7 +850,7 @@
       "source_revision": "1381749762",
       "source_timestamp": "2026-10-24T15:17:45Z",
       "record_count": 194,
-      "last_changed": "2026-10-30T10:53:13.214536+00:00"
+      "last_changed": "2026-10-30T15:06:14.892463+00:00"
     },
     "KR": {
       "file": "passports/KR.json",
@@ -858,8 +858,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens",
       "source_revision": "1381400353",
       "source_timestamp": "2026-10-22T05:35:27Z",
-      "record_count": 274,
-      "last_changed": "2026-10-30T10:53:52.432765+00:00"
+      "record_count": 275,
+      "last_changed": "2026-10-30T15:06:52.011934+00:00"
     },
     "KW": {
       "file": "passports/KW.json",
@@ -867,8 +867,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens",
       "source_revision": "1382342135",
       "source_timestamp": "2026-10-28T05:05:23Z",
-      "record_count": 259,
-      "last_changed": "2026-10-30T12:16:41.547309+00:00"
+      "record_count": 260,
+      "last_changed": "2026-10-30T15:05:38.926341+00:00"
     },
     "KZ": {
       "file": "passports/KZ.json",
@@ -894,8 +894,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
       "source_revision": "1378387251",
       "source_timestamp": "2026-10-04T06:49:46Z",
-      "record_count": 279,
-      "last_changed": "2026-10-30T10:52:40.881996+00:00"
+      "record_count": 280,
+      "last_changed": "2026-10-30T15:05:43.080297+00:00"
     },
     "LC": {
       "file": "passports/LC.json",
@@ -913,7 +913,7 @@
       "source_revision": "1380458952",
       "source_timestamp": "2026-10-15T20:47:02Z",
       "record_count": 198,
-      "last_changed": "2026-10-30T10:52:44.566963+00:00"
+      "last_changed": "2026-10-30T15:05:46.948799+00:00"
     },
     "LK": {
       "file": "passports/LK.json",
@@ -967,7 +967,7 @@
       "source_revision": "1382285693",
       "source_timestamp": "2026-10-27T20:05:31Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:52:39.517896+00:00"
+      "last_changed": "2026-10-30T15:05:41.915031+00:00"
     },
     "LY": {
       "file": "passports/LY.json",
@@ -994,7 +994,7 @@
       "source_revision": "1345969960",
       "source_timestamp": "2026-03-29T06:03:54Z",
       "record_count": 197,
-      "last_changed": "2026-10-30T10:53:01.551439+00:00"
+      "last_changed": "2026-10-30T15:06:03.803979+00:00"
     },
     "MD": {
       "file": "passports/MD.json",
@@ -1002,8 +1002,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moldovan_citizens",
       "source_revision": "1379406080",
       "source_timestamp": "2026-10-09T20:36:08Z",
-      "record_count": 255,
-      "last_changed": "2026-10-30T10:52:58.765413+00:00"
+      "record_count": 259,
+      "last_changed": "2026-10-30T15:06:00.919695+00:00"
     },
     "ME": {
       "file": "passports/ME.json",
@@ -1021,7 +1021,7 @@
       "source_revision": "1366129793",
       "source_timestamp": "2026-07-26T12:52:37Z",
       "record_count": 242,
-      "last_changed": "2026-10-30T10:52:47.636173+00:00"
+      "last_changed": "2026-10-30T15:05:49.879655+00:00"
     },
     "MH": {
       "file": "passports/MH.json",
@@ -1057,7 +1057,7 @@
       "source_revision": "1378397559",
       "source_timestamp": "2026-10-04T07:58:31Z",
       "record_count": 196,
-      "last_changed": "2026-10-30T10:53:05.036184+00:00"
+      "last_changed": "2026-10-30T15:06:06.809229+00:00"
     },
     "MN": {
       "file": "passports/MN.json",
@@ -1074,8 +1074,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
       "source_revision": "1375861207",
       "source_timestamp": "2026-09-20T14:57:43Z",
-      "record_count": 255,
-      "last_changed": "2026-10-30T12:02:51.686743+00:00"
+      "record_count": 258,
+      "last_changed": "2026-10-30T15:04:43.878316+00:00"
     },
     "MR": {
       "file": "passports/MR.json",
@@ -1110,8 +1110,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maldivian_citizens",
       "source_revision": "1377795177",
       "source_timestamp": "2026-10-01T04:01:35Z",
-      "record_count": 265,
-      "last_changed": "2026-10-30T12:16:55.732405+00:00"
+      "record_count": 266,
+      "last_changed": "2026-10-30T15:05:52.872396+00:00"
     },
     "MW": {
       "file": "passports/MW.json",
@@ -1137,8 +1137,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malaysian_citizens",
       "source_revision": "1381352279",
       "source_timestamp": "2026-10-21T20:55:21Z",
-      "record_count": 264,
-      "last_changed": "2026-10-30T12:00:18.892619+00:00"
+      "record_count": 268,
+      "last_changed": "2026-10-30T15:05:51.991813+00:00"
     },
     "MZ": {
       "file": "passports/MZ.json",
@@ -1147,7 +1147,7 @@
       "source_revision": "1356703242",
       "source_timestamp": "2026-05-29T08:56:17Z",
       "record_count": 242,
-      "last_changed": "2026-10-30T10:53:03.891528+00:00"
+      "last_changed": "2026-10-30T15:06:05.925919+00:00"
     },
     "NA": {
       "file": "passports/NA.json",
@@ -1200,8 +1200,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Norwegian_citizens",
       "source_revision": "1374455151",
       "source_timestamp": "2026-09-12T03:54:07Z",
-      "record_count": 276,
-      "last_changed": "2026-10-30T12:17:19.787851+00:00"
+      "record_count": 277,
+      "last_changed": "2026-10-30T15:06:16.970825+00:00"
     },
     "NP": {
       "file": "passports/NP.json",
@@ -1227,8 +1227,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
       "source_revision": "1380590388",
       "source_timestamp": "2026-10-16T17:56:08Z",
-      "record_count": 268,
-      "last_changed": "2026-10-30T12:17:13.953725+00:00"
+      "record_count": 269,
+      "last_changed": "2026-10-30T15:06:11.051533+00:00"
     },
     "OM": {
       "file": "passports/OM.json",
@@ -1272,8 +1272,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Philippine_citizens",
       "source_revision": "1378380327",
       "source_timestamp": "2026-10-04T05:44:40Z",
-      "record_count": 261,
-      "last_changed": "2026-10-30T10:53:24.810061+00:00"
+      "record_count": 264,
+      "last_changed": "2026-10-30T15:06:26.008872+00:00"
     },
     "PK": {
       "file": "passports/PK.json",
@@ -1290,8 +1290,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens",
       "source_revision": "1374271668",
       "source_timestamp": "2026-09-10T23:35:45Z",
-      "record_count": 271,
-      "last_changed": "2026-10-30T10:53:26.094164+00:00"
+      "record_count": 275,
+      "last_changed": "2026-10-30T15:06:27.039938+00:00"
     },
     "PS": {
       "file": "passports/PS.json",
@@ -1308,8 +1308,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
       "source_revision": "1366888333",
       "source_timestamp": "2026-07-30T19:32:19Z",
-      "record_count": 272,
-      "last_changed": "2026-10-30T12:04:45.739711+00:00"
+      "record_count": 276,
+      "last_changed": "2026-10-30T15:06:28.070720+00:00"
     },
     "PW": {
       "file": "passports/PW.json",
@@ -1344,8 +1344,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
       "source_revision": "1378880453",
       "source_timestamp": "2026-10-06T18:01:40Z",
-      "record_count": 271,
-      "last_changed": "2026-10-30T12:00:58.671708+00:00"
+      "record_count": 275,
+      "last_changed": "2026-10-30T15:06:31.027749+00:00"
     },
     "RS": {
       "file": "passports/RS.json",
@@ -1353,8 +1353,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
       "source_revision": "1379578462",
       "source_timestamp": "2026-10-10T20:45:34Z",
-      "record_count": 263,
-      "last_changed": "2026-10-30T12:17:46.089807+00:00"
+      "record_count": 267,
+      "last_changed": "2026-10-30T15:06:42.987509+00:00"
     },
     "RU": {
       "file": "passports/RU.json",
@@ -1399,7 +1399,7 @@
       "source_revision": "1363220239",
       "source_timestamp": "2026-07-08T20:24:18Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T12:17:46.722647+00:00"
+      "last_changed": "2026-10-30T15:06:43.858159+00:00"
     },
     "SD": {
       "file": "passports/SD.json",
@@ -1408,7 +1408,7 @@
       "source_revision": "1379878292",
       "source_timestamp": "2026-10-12T11:58:13Z",
       "record_count": 239,
-      "last_changed": "2026-10-30T10:53:56.372351+00:00"
+      "last_changed": "2026-10-30T15:06:55.888975+00:00"
     },
     "SE": {
       "file": "passports/SE.json",
@@ -1417,7 +1417,7 @@
       "source_revision": "1373842016",
       "source_timestamp": "2026-09-08T06:59:20Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:53:59.422928+00:00"
+      "last_changed": "2026-10-30T15:06:58.919766+00:00"
     },
     "SG": {
       "file": "passports/SG.json",
@@ -1425,8 +1425,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Singapore_citizens",
       "source_revision": "1381692827",
       "source_timestamp": "2026-10-24T04:44:41Z",
-      "record_count": 262,
-      "last_changed": "2026-10-30T10:53:46.043314+00:00"
+      "record_count": 266,
+      "last_changed": "2026-10-30T15:06:45.963973+00:00"
     },
     "SI": {
       "file": "passports/SI.json",
@@ -1443,8 +1443,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovak_citizens",
       "source_revision": "1374272143",
       "source_timestamp": "2026-09-10T23:39:14Z",
-      "record_count": 274,
-      "last_changed": "2026-10-30T12:17:49.940919+00:00"
+      "record_count": 278,
+      "last_changed": "2026-10-30T15:06:46.934252+00:00"
     },
     "SL": {
       "file": "passports/SL.json",
@@ -1461,8 +1461,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sammarinese_citizens",
       "source_revision": "1345971488",
       "source_timestamp": "2026-03-29T06:18:38Z",
-      "record_count": 242,
-      "last_changed": "2026-10-30T10:53:37.589643+00:00"
+      "record_count": 243,
+      "last_changed": "2026-10-30T15:06:37.967922+00:00"
     },
     "SN": {
       "file": "passports/SN.json",
@@ -1498,7 +1498,7 @@
       "source_revision": "1356704762",
       "source_timestamp": "2026-05-29T09:16:38Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T10:53:53.197338+00:00"
+      "last_changed": "2026-10-30T15:06:52.894410+00:00"
     },
     "ST": {
       "file": "passports/ST.json",
@@ -1515,8 +1515,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Salvadoran_citizens",
       "source_revision": "1356522784",
       "source_timestamp": "2026-05-28T07:53:28Z",
-      "record_count": 259,
-      "last_changed": "2026-10-30T12:17:39.852737+00:00"
+      "record_count": 260,
+      "last_changed": "2026-10-30T15:06:37.001778+00:00"
     },
     "SY": {
       "file": "passports/SY.json",
@@ -1560,8 +1560,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
       "source_revision": "1378888560",
       "source_timestamp": "2026-10-06T19:07:20Z",
-      "record_count": 258,
-      "last_changed": "2026-10-30T12:01:36.383181+00:00"
+      "record_count": 261,
+      "last_changed": "2026-10-30T15:07:04.914684+00:00"
     },
     "TJ": {
       "file": "passports/TJ.json",
@@ -1623,8 +1623,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
       "source_revision": "1380101036",
       "source_timestamp": "2026-10-13T20:05:13Z",
-      "record_count": 265,
-      "last_changed": "2026-10-30T12:18:11.089595+00:00"
+      "record_count": 266,
+      "last_changed": "2026-10-30T15:07:07.929956+00:00"
     },
     "TV": {
       "file": "passports/TV.json",
@@ -1687,7 +1687,7 @@
       "source_revision": "1368535093",
       "source_timestamp": "2026-08-09T17:10:57Z",
       "record_count": 266,
-      "last_changed": "2026-10-30T12:05:38.219886+00:00"
+      "last_changed": "2026-10-30T15:07:15.929586+00:00"
     },
     "UZ": {
       "file": "passports/UZ.json",
@@ -1705,7 +1705,7 @@
       "source_revision": "1362729633",
       "source_timestamp": "2026-07-05T21:21:12Z",
       "record_count": 195,
-      "last_changed": "2026-10-30T10:54:19.775914+00:00"
+      "last_changed": "2026-10-30T15:07:18.838545+00:00"
     },
     "VC": {
       "file": "passports/VC.json",
@@ -1723,7 +1723,7 @@
       "source_revision": "1373040247",
       "source_timestamp": "2026-09-03T18:04:06Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T10:54:20.853221+00:00"
+      "last_changed": "2026-10-30T15:07:19.879629+00:00"
     },
     "VN": {
       "file": "passports/VN.json",
@@ -1731,8 +1731,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
       "source_revision": "1381206340",
       "source_timestamp": "2026-10-20T17:51:31Z",
-      "record_count": 274,
-      "last_changed": "2026-10-30T10:54:21.992171+00:00"
+      "record_count": 275,
+      "last_changed": "2026-10-30T15:07:20.917849+00:00"
     },
     "VU": {
       "file": "passports/VU.json",
@@ -1758,8 +1758,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kosovar_citizens",
       "source_revision": "1376371465",
       "source_timestamp": "2026-09-23T19:43:17Z",
-      "record_count": 265,
-      "last_changed": "2026-10-30T12:03:50.211348+00:00"
+      "record_count": 267,
+      "last_changed": "2026-10-30T15:05:37.904812+00:00"
     },
     "XN": {
       "file": "passports/XN.json",
@@ -1785,8 +1785,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
       "source_revision": "1368956927",
       "source_timestamp": "2026-08-12T02:09:58Z",
-      "record_count": 267,
-      "last_changed": "2026-10-30T12:17:54.062112+00:00"
+      "record_count": 268,
+      "last_changed": "2026-10-30T15:06:50.991011+00:00"
     },
     "ZM": {
       "file": "passports/ZM.json",

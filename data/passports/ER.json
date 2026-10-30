@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens",
   "source_revision": "1373603131",
   "source_timestamp": "2026-09-06T21:25:08Z",
-  "generated_at": "2026-10-30T10:51:59.755355+00:00",
+  "generated_at": "2026-10-30T15:05:02.869812+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -630,7 +630,7 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
+      "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,

@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens",
   "source_revision": "1380458952",
   "source_timestamp": "2026-10-15T20:47:02Z",
-  "generated_at": "2026-10-30T10:52:44.566963+00:00",
+  "generated_at": "2026-10-30T15:05:46.948799+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -566,8 +566,10 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
-      "alternative_statuses": [],
+      "status": "evisa",
+      "alternative_statuses": [
+        "visa_required"
+      ],
       "allowed_stay_days": 90,
       "allowed_stay_raw": "90 days",
       "notes": "Can be extended to another 90 days",

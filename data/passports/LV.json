@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens",
   "source_revision": "1382285693",
   "source_timestamp": "2026-10-27T20:05:31Z",
-  "generated_at": "2026-10-30T10:52:39.517896+00:00",
+  "generated_at": "2026-10-30T15:05:41.915031+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -564,8 +564,10 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
-      "alternative_statuses": [],
+      "status": "evisa",
+      "alternative_statuses": [
+        "visa_required"
+      ],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
       "notes": null,
