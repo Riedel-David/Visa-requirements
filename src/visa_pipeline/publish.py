@@ -54,13 +54,24 @@ def format_passport_data(
     }
 
 
+def _semantic_content(passport_data: dict[str, Any]) -> tuple[str, list[dict[str, Any]]]:
+    """Passport code and records without provenance fields, in stable order."""
+    records = [
+        {k: v for k, v in r.items() if k != "source_revision"}
+        for r in passport_data["records"]
+    ]
+    records.sort(key=lambda r: (r["destination"], r["area"] is not None, r["area"] or ""))
+    return passport_data["passport"], records
+
+
 def write_passport_file(
     data_dir: Path,
     passport_data: dict[str, Any],
     previous_data: dict[str, Any] | None = None
 ) -> bool:
     """
-    Write passport JSON file, only if content changed.
+    Write passport JSON file, only if the visa data changed (provenance-only
+    changes such as a new source_revision leave the file untouched).
 
     Args:
         data_dir: Data directory
@@ -74,14 +85,13 @@ def write_passport_file(
     output_path = data_dir / "passports" / f"{passport}.json"
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # Check if content changed (ignoring generated_at)
-    if previous_data is not None:
-        new_without_timestamp = {k: v for k, v in passport_data.items() if k != "generated_at"}
-        old_without_timestamp = {k: v for k, v in previous_data.items() if k != "generated_at"}
-
-        if new_without_timestamp == old_without_timestamp:
-            # No change - keep old generated_at
-            return False
+    # Only the visa data counts as a change. Provenance (per-record
+    # source_revision, header revision/timestamp, generated_at) is ignored, so a
+    # Wikipedia edit that leaves the data alone keeps the old file untouched.
+    if previous_data is not None and (
+        _semantic_content(passport_data) == _semantic_content(previous_data)
+    ):
+        return False
 
     # Write file
     with open(output_path, "w") as f:
