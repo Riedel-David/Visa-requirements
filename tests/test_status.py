@@ -64,6 +64,14 @@ class TestCombinedStatus:
         assert primary == "visa_on_arrival"
         assert "evisa" in alts
 
+    def test_alternatives_keep_order_of_appearance(self):
+        primary, alts = status.parse_status("Visa required / eVisa / Visa not required")
+        assert primary == "visa_free"
+        assert alts == ["visa_required", "evisa"]
+
+    def test_unmapped_part_makes_whole_cell_special(self):
+        assert status.parse_status("Visa on arrival / Frobnicate") == ("special", [])
+
 
 class TestNormalization:
     """Tests for status text normalization."""

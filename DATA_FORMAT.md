@@ -164,8 +164,12 @@ For destinations without ISO 3166-1 alpha-2 codes, user-assigned X-codes are use
 | XK | Kosovo |
 | XN | Northern Cyprus |
 | XS | Somaliland |
+| XA | Abkhazia |
+| XO | South Ossetia |
+| XT | Transnistria |
+| XW | Sahrawi Arab Democratic Republic (Western Sahara itself is `EH`) |
 
-Additional X-codes are defined in `src/visa_pipeline/overrides/destinations.json`.
+The mapping is defined in `src/visa_pipeline/overrides/destinations.json`.
 
 ## Schema Versioning
 

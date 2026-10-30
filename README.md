@@ -109,6 +109,10 @@ The pipeline uses `src/visa_pipeline/overrides/destinations.json` to:
   - **XK** - Kosovo
   - **XN** - Northern Cyprus
   - **XS** - Somaliland
+  - **XA** - Abkhazia
+  - **XO** - South Ossetia
+  - **XT** - Transnistria
+  - **XW** - Sahrawi Arab Democratic Republic (Western Sahara itself is `EH`)
   
 See the overrides file for the complete list of X-codes.
 

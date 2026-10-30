@@ -194,17 +194,16 @@ def parse_status(text: str) -> tuple[str, list[str]]:
 
     mapped = []
     for part in parts:
-        normalized = normalize_status(part)
-        status = STATUS_MAP.get(normalized, 'special')
+        status = STATUS_MAP.get(normalize_status(part), 'special')
+        # One unmapped (or special) part makes the whole cell special, so the
+        # caller reports it instead of us guessing from the remaining parts
+        if status == 'special':
+            return 'special', []
         if status not in mapped:
             mapped.append(status)
 
-    if not mapped:
-        return 'special', []
-
-    # Sort by restrictiveness and pick the least restrictive
-    mapped_sorted = sorted(mapped, key=lambda s: order.index(s))
-    primary = mapped_sorted[0]
-    alternatives = mapped_sorted[1:]
+    # Least restrictive is primary; the rest keep their order of appearance
+    primary = min(mapped, key=order.index)
+    alternatives = [s for s in mapped if s != primary]
 
     return primary, alternatives
