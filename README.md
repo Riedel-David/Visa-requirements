@@ -77,6 +77,25 @@ Each record represents the visa requirement for one destination:
 }
 ```
 
+## CSV Exports
+
+Three CSV files are generated into `data/` at the end of every run (published next to `all.json`):
+
+| File | Layout |
+|------|--------|
+| `passport-index-tidy-iso2.csv` | `Passport,Destination,Requirement`, one row per passport and destination, ISO-2 codes |
+| `passport-index-tidy-iso3.csv` | same, ISO-3 codes |
+| `passport-index-matrix-iso2.csv` | first column `Passport`, one column per destination, cell = requirement |
+
+- Only the whole-country record (`area` is null) is used. `Requirement` is our `status` value as is:
+  `visa_free`, `visa_on_arrival`, `eta`, `evisa`, `visa_required`, `permit_required`,
+  `admission_refused`, `special`. No stay days, no notes.
+- Missing passport/destination pairs have no row in the tidy files and an empty cell in the matrix.
+- Rows and columns are sorted by ISO-2 code, so identical input gives byte-identical files.
+- ISO-3 codes come from the static table `src/visa_pipeline/iso3.json`. Codes without an ISO-3
+  (the X-codes) are kept as is, except Kosovo: `XK` becomes `XKX` (user-assigned). `XN`, `XS`, `XA`,
+  `XO`, `XT` and `XW` stay two-letter in the ISO-3 file.
+
 ## Status Mapping
 
 The pipeline normalizes Wikipedia's visa status descriptions into these categories:
