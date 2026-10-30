@@ -95,6 +95,8 @@ WIKIPEDIA_ALIASES = {
     'chilean antarctic territory': 'AQ',
     'galápagos': 'EC',
     'galapagos': 'EC',
+    'tibet': 'CN',
+    'tibet autonomous region': 'CN',
 }
 
 # Cache for loaded overrides
@@ -177,4 +179,23 @@ def lookup_country(name: str) -> str | None:
         pass
 
     # Not found
+    return None
+
+
+def get_canonical_name(code: str) -> str | None:
+    """Get the canonical name for an ISO 3166-1 alpha-2 code.
+
+    Args:
+        code: ISO 3166-1 alpha-2 code (e.g., "FR", "BQ")
+
+    Returns:
+        Canonical name from pycountry, or None if not found
+    """
+    try:
+        country = pycountry.countries.get(alpha_2=code)
+        if country:
+            return country.name
+    except (KeyError, LookupError):
+        pass
+
     return None

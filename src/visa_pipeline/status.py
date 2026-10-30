@@ -121,7 +121,6 @@ STATUS_MAP = {
     'special authorisation required': 'permit_required',
     'special access required': 'permit_required',
     'special permits required': 'permit_required',
-    '4 days': 'permit_required',  # Mount Athos - duration info mixed with permit requirement
 
     # Admission refused
     'admission refused': 'admission_refused',

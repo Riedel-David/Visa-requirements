@@ -271,3 +271,47 @@ class TestJapaneseCitizens:
         """All (destination, area) keys should be unique."""
         keys = [(r['destination'], r['area']) for r in result.records]
         assert len(keys) == len(set(keys)), "Found duplicate keys"
+
+
+class TestDeduplication:
+    """Tests for deduplication logic across all fixtures."""
+
+    @pytest.fixture(scope="class", params=[
+        ("German", "DE"),
+        ("United_States", "US"),
+        ("Indian", "IN"),
+        ("British", "GB"),
+        ("Emirati", "AE"),
+        ("Afghan", "AF"),
+        ("Brazilian", "BR"),
+        ("Japanese", "JP"),
+    ])
+    def fixture_result(self, request, transcl):
+        """Parse each fixture and return result."""
+        name, passport = request.param
+        wikitext, meta = load_fixture(f"Visa_requirements_for_{name}_citizens")
+        result = extract_main.parse_page(
+            wikitext,
+            passport=passport,
+            title=meta["title"],
+            revid=meta["revid"],
+            transclusions=transcl
+        )
+        return passport, result
+
+    def test_no_status_conflicts_in_dedup(self, fixture_result):
+        """Dedup drops should never involve rows with different statuses being discarded.
+
+        When a duplicate key is found, if statuses differ, we should keep the more
+        specific (territory) row and warn. CONFLICT warnings indicate same-type rows
+        with different statuses, which should never happen.
+        """
+        passport, result = fixture_result
+
+        # Check for CONFLICT warnings (same-type rows with different statuses)
+        conflict_warnings = [w for w in result.warnings if 'CONFLICT' in w]
+
+        assert len(conflict_warnings) == 0, (
+            f"{passport}: Found {len(conflict_warnings)} conflicts where same-type rows "
+            f"have different statuses: {conflict_warnings}"
+        )

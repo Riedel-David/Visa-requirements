@@ -14,7 +14,7 @@ class ParseResult:
     unmapped_statuses: list[dict] = field(default_factory=list)
     unmapped_destinations: list[dict] = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
-    _seen_keys: dict = field(default_factory=dict)  # Track (destination, area) -> section_name
+    _seen_keys: dict = field(default_factory=dict)  # Track (destination, area) -> (record_index, section_name, status, is_territory)
 
 
 def _normalize_heading(heading: str) -> str:
@@ -224,14 +224,33 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
         if any(flag in name for flag in ['flag', 'flagicon', 'flagcountry']):
             # Extract country from first param
             if template.has(1):
-                flag_country = str(template.get(1).value).strip()
+                param1 = str(template.get(1).value).strip()
+                # Skip if param1 is "image" or looks like a file name
+                if param1.lower() not in ['image', 'un'] and not param1.endswith('.svg'):
+                    flag_country = param1
+                    break
+
+    # If no valid flag country, try to extract from wikilinks
+    if not flag_country:
+        for link in wikicode.ifilter_wikilinks():
+            link_title = str(link.title).strip()
+            # Skip File: and Image: links
+            if not link_title.startswith(('File:', 'Image:')):
+                # Use link text if available, otherwise title
+                flag_country = str(link.text).strip() if link.text else link_title
                 break
 
     if flag_country:
-        # We have a flag template - check if there's additional text/links after it
-        # Remove the flag template and see what's left
-        template_str = str(template)
-        remaining = cell_text.replace(template_str, '').strip()
+        # We have a country from flag or link - check if there's additional text/links after it
+        # Remove the first template/link and see what's left
+        if wikicode.filter_templates():
+            template_str = str(wikicode.filter_templates()[0])
+            remaining = cell_text.replace(template_str, '').strip()
+        elif wikicode.filter_wikilinks():
+            link_str = str(wikicode.filter_wikilinks()[0])
+            remaining = cell_text.replace(link_str, '').strip()
+        else:
+            remaining = ''
 
         if remaining:
             # Clean the remaining text to get the area
@@ -241,10 +260,10 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
             if area_cleaned:
                 return flag_country, area_cleaned
 
-        # No area, just the flag country
+        # No area, just the country
         return flag_country, None
 
-    # No flag template found - fall back to cleaning the whole thing
+    # No flag/link found - fall back to cleaning the whole thing
     cleaned = clean.clean(cell_text, warnings=warnings)
 
     # Check for area suffix (after - or –)
@@ -352,18 +371,15 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
             elif dest_name_lower in ['crimea', 'akrotiri and dhekelia', 'mount athos', 'svalbard']:
                 area = dest_name
 
-        # Check for duplicate (destination, area) key
-        # Only exact matches (same destination AND area) are duplicates
-        key = (dest_code, area)
-        if key in result._seen_keys:
-            prev_section = result._seen_keys[key]
-            result.warnings.append(
-                f"Duplicate key {dest_code}+{area!r}: first in '{prev_section}', dropped from '{section_name}'"
-            )
-            continue
-        result._seen_keys[key] = section_name
+        # CRITICAL: In territory sections, if canonical name differs from destination name,
+        # set area to destination name to distinguish from main-table rows
+        # (e.g., "Clipperton Island" -> FR but should be FR+"Clipperton Island")
+        if is_territory_or_restricted and not area:
+            canonical_name = countries.get_canonical_name(dest_code)
+            if canonical_name and countries.normalize_name(canonical_name) != countries.normalize_name(dest_name):
+                area = dest_name
 
-        # Extract status
+        # Extract status BEFORE dedup check so we can compare statuses
         if status_in_stay:
             status_text = row.get(roles['stay'], '')
         else:
@@ -372,10 +388,56 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         status_cleaned = clean.clean(status_text, transclusions, result.warnings).strip()
 
         if not status_cleaned:
-            # No status - skip this row
+            # No status - skip this row with warning
+            result.warnings.append(f"Skipping row with no status: {dest_name} in '{section_name}'")
             continue
 
+        # In German-style tables (status_in_stay), check if the "status" is actually just a duration
+        # If it parses as pure duration with no text, skip it since the real status is ambiguous
+        if status_in_stay:
+            test_days, test_note = stay.parse_stay(status_cleaned)
+            if test_days and not test_note:
+                # This is just a duration (e.g., "4 days"), not a status
+                result.warnings.append(f"Skipping row with duration instead of status: {dest_name} in '{section_name}' (found '{status_cleaned}')")
+                continue
+
         primary_status, alternatives = status.parse_status(status_cleaned)
+
+        # Check for duplicate (destination, area) key AFTER status extraction
+        # so we can compare statuses and keep the more specific row if they differ
+        key = (dest_code, area)
+        if key in result._seen_keys:
+            prev_idx, prev_section, prev_status, prev_is_territory = result._seen_keys[key]
+
+            if prev_status != primary_status:
+                # Statuses differ - keep the more specific (territory) row
+                if is_territory_or_restricted and not prev_is_territory:
+                    # Current row is territory, previous was main - replace
+                    result.warnings.append(
+                        f"REPLACING {dest_code}+{area!r}: statuses differ ({prev_status} in '{prev_section}' vs {primary_status} in '{section_name}'), keeping territory row"
+                    )
+                    # We'll replace the old record after building this one
+                    replace_idx = prev_idx
+                elif not is_territory_or_restricted and prev_is_territory:
+                    # Current is main, previous was territory - keep previous
+                    result.warnings.append(
+                        f"KEEPING territory row for {dest_code}+{area!r}: statuses differ ({prev_status} in '{prev_section}' vs {primary_status} in '{section_name}')"
+                    )
+                    continue
+                else:
+                    # Both same type but different statuses - keep first and warn
+                    result.warnings.append(
+                        f"CONFLICT: {dest_code}+{area!r} has different statuses: {prev_status} in '{prev_section}' vs {primary_status} in '{section_name}', keeping first"
+                    )
+                    continue
+            else:
+                # Same status - drop duplicate
+                result.warnings.append(
+                    f"Duplicate key {dest_code}+{area!r}: first in '{prev_section}', dropped from '{section_name}'"
+                )
+                continue
+        else:
+            replace_idx = None
 
         # Track unmapped statuses (only if not explicitly mapped in STATUS_MAP)
         # This excludes deliberately-special mappings like "Visa Issuance Suspended"
@@ -448,7 +510,16 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
             'source_revision': source_revision
         }
 
-        result.records.append(record)
+        # Either replace existing record (if replace_idx is set) or append new
+        if replace_idx is not None:
+            result.records[replace_idx] = record
+            # Update seen_keys with new record info
+            result._seen_keys[key] = (replace_idx, section_name, primary_status, is_territory_or_restricted)
+        else:
+            # New record - append and track
+            record_idx = len(result.records)
+            result.records.append(record)
+            result._seen_keys[key] = (record_idx, section_name, primary_status, is_territory_or_restricted)
 
 
 def _get_section_direct_content(section: dict, all_sections: list[dict], lines: list[str]) -> str:
