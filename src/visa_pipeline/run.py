@@ -44,21 +44,19 @@ def load_all_existing_passports(data_dir: Path) -> tuple[dict[str, dict[str, Any
 
     for passport_file in passports_dir.glob("*.json"):
         iso2 = passport_file.stem
-        try:
-            with open(passport_file) as f:
-                data = json.load(f)
+        # A malformed published file must fail loudly: skipping it would drop
+        # the passport from index.json and all.json.
+        with open(passport_file) as f:
+            data = json.load(f)
 
-            passport_metadata[iso2] = {
-                "title": data["source_title"],
-                "revid": int(data["source_revision"]),
-                "timestamp": data["source_timestamp"],
-                "record_count": len(data["records"]),
-                "last_changed": data.get("generated_at", data["source_timestamp"])
-            }
-            all_passports_data[iso2] = data["records"]
-        except Exception:
-            # Skip malformed files
-            pass
+        passport_metadata[iso2] = {
+            "title": data["source_title"],
+            "revid": int(data["source_revision"]),
+            "timestamp": data["source_timestamp"],
+            "record_count": len(data["records"]),
+            "last_changed": data.get("generated_at", data["source_timestamp"])
+        }
+        all_passports_data[iso2] = data["records"]
 
     return passport_metadata, all_passports_data
 
@@ -398,7 +396,7 @@ def run(
             exit_code = 1
 
     # Check for passports whose pages vanished from category
-    mapped_iso2s = {p["passport"] for p in mapped_pages}
+    mapped_iso2s = {p["passport"] for p in pages if p["passport"] is not None}
     for iso2 in list(passport_metadata.keys()):
         if iso2 not in mapped_iso2s:
             # Page vanished but we have data - keep it with a warning
