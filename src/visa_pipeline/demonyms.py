@@ -42,6 +42,7 @@ DEMONYM_TO_ISO2 = {
     "Burkinabe": "BF",
     "Burundian": "BI",
     "Bissau-Guinean": "GW",
+    "British": "GB",
 
     # C
     "Cabo Verdean": "CV",
@@ -56,7 +57,9 @@ DEMONYM_TO_ISO2 = {
     "Colombian": "CO",
     "Comorian": "KM",
     "Congolese (Democratic Republic of the Congo)": "CD",
+    "Democratic Republic of the Congo": "CD",
     "Congolese (Republic of the Congo)": "CG",
+    "Republic of the Congo": "CG",
     "Costa Rican": "CR",
     "Croatian": "HR",
     "Cuban": "CU",
@@ -68,6 +71,7 @@ DEMONYM_TO_ISO2 = {
     "Danish": "DK",
     "Djiboutian": "DJ",
     "Dominican": "DM",
+    "Dominica": "DM",
     "Dominican Republic": "DO",
 
     # E
@@ -86,6 +90,7 @@ DEMONYM_TO_ISO2 = {
     "Emirati": "AE",
 
     # F
+    "Faroese": "FO",
     "Fijian": "FJ",
     "Finnish": "FI",
     "French": "FR",
@@ -97,9 +102,11 @@ DEMONYM_TO_ISO2 = {
     "German": "DE",
     "Ghanaian": "GH",
     "Greek": "GR",
+    "Greenlandic": "GL",
     "Grenadian": "GD",
     "Guatemalan": "GT",
     "Guinean": "GN",
+    "Guinea-Bissauan": "GW",
     "Guyanese": "GY",
 
     # H
@@ -155,14 +162,16 @@ DEMONYM_TO_ISO2 = {
     "Maldivian": "MV",
     "Malian": "ML",
     "Maltese": "MT",
+    "Marshall Islands": "MH",
     "Marshallese": "MH",
     "Mauritanian": "MR",
     "Mauritian": "MU",
     "Mexican": "MX",
     "Micronesian": "FM",
     "Moldovan": "MD",
-    "Monegasque": "MC",
     "Monaco": "MC",
+    "Monegasque": "MC",
+    "Monégasque": "MC",
     "Mongolian": "MN",
     "Montenegrin": "ME",
     "Moroccan": "MA",
@@ -218,6 +227,8 @@ DEMONYM_TO_ISO2 = {
     "San Marino": "SM",
     "São Tomé and Príncipe": "ST",
     "Sao Tomean": "ST",
+    "Santomean": "ST",
+    "Samoan": "WS",
     "Saudi": "SA",
     "Saudi Arabian": "SA",
     "Senegalese": "SN",
@@ -225,6 +236,7 @@ DEMONYM_TO_ISO2 = {
     "Seychellois": "SC",
     "Seychelles": "SC",
     "Sierra Leonean": "SL",
+    "Singapore": "SG",
     "Singaporean": "SG",
     "Slovak": "SK",
     "Slovene": "SI",
@@ -255,6 +267,7 @@ DEMONYM_TO_ISO2 = {
     "Tunisian": "TN",
     "Turkish": "TR",
     "Turkmen": "TM",
+    "Turkmenistani": "TM",
     "Tuvaluan": "TV",
 
     # U
@@ -262,9 +275,11 @@ DEMONYM_TO_ISO2 = {
     "Ukrainian": "UA",
     "United States": "US",
     "Uruguayan": "UY",
+    "Uzbekistan": "UZ",
     "Uzbekistani": "UZ",
 
     # V
+    "Vanuatu": "VU",
     "Vanuatuan": "VU",
     "Vatican": "VA",
     "Venezuelan": "VE",

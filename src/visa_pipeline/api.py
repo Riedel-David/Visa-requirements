@@ -180,7 +180,7 @@ class WikiClient:
                 "titles": "|".join(batch),
                 "prop": "revisions",
                 "rvprop": "ids|timestamp",
-                "rvlimit": "1",
+                "rvslots": "main",
                 "redirects": "1"
             }
 

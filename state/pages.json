@@ -1,0 +1,1075 @@
+{
+  "fetched_at": "2026-10-30T09:12:28.155430+00:00",
+  "pages": [
+    {
+      "title": "Visa requirements for Abkhazian citizens",
+      "passport": null,
+      "reason": "unmapped demonym: Abkhazian"
+    },
+    {
+      "title": "Visa requirements for Afghan citizens",
+      "passport": "AF",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Albanian citizens",
+      "passport": "AL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Algerian citizens",
+      "passport": "DZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Andorran citizens",
+      "passport": "AD",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Angolan citizens",
+      "passport": "AO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Antigua and Barbuda citizens",
+      "passport": "AG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Argentine citizens",
+      "passport": "AR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Armenian citizens",
+      "passport": "AM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Australian citizens",
+      "passport": "AU",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Austrian citizens",
+      "passport": "AT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Azerbaijani citizens",
+      "passport": "AZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bahamian citizens",
+      "passport": "BS",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bahraini citizens",
+      "passport": "BH",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bangladeshi citizens",
+      "passport": "BD",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Barbadian citizens",
+      "passport": "BB",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Belarusian citizens",
+      "passport": "BY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Belgian citizens",
+      "passport": "BE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Belizean citizens",
+      "passport": "BZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Beninese citizens",
+      "passport": "BJ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bhutanese citizens",
+      "passport": "BT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bolivian citizens",
+      "passport": "BO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bosnia and Herzegovina citizens",
+      "passport": "BA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Botswana citizens",
+      "passport": "BW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Brazilian citizens",
+      "passport": "BR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for British Nationals (Overseas)",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for British Overseas Territories citizens",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for British Overseas citizens",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for British citizens",
+      "passport": "GB",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bruneian citizens",
+      "passport": "BN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Bulgarian citizens",
+      "passport": "BG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Burkinabe citizens",
+      "passport": "BF",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Burundian citizens",
+      "passport": "BI",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Cambodian citizens",
+      "passport": "KH",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Cameroonian citizens",
+      "passport": "CM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Canadian citizens",
+      "passport": "CA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Cape Verdean citizens",
+      "passport": "CV",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Central African citizens",
+      "passport": "CF",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Chadian citizens",
+      "passport": "TD",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Chilean citizens",
+      "passport": "CL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Chinese citizens",
+      "passport": "CN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Chinese citizens of Hong Kong",
+      "passport": "HK",
+      "reason": "override"
+    },
+    {
+      "title": "Visa requirements for Chinese citizens of Macau",
+      "passport": "MO",
+      "reason": "override"
+    },
+    {
+      "title": "Visa requirements for Colombian citizens",
+      "passport": "CO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Comorian citizens",
+      "passport": "KM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Costa Rican citizens",
+      "passport": "CR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Croatian citizens",
+      "passport": "HR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Cuban citizens",
+      "passport": "CU",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Cypriot citizens",
+      "passport": "CY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Czech citizens",
+      "passport": "CZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Danish citizens",
+      "passport": "DK",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Democratic Republic of the Congo citizens",
+      "passport": "CD",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Djiboutian citizens",
+      "passport": "DJ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Dominica citizens",
+      "passport": "DM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Dominican Republic citizens",
+      "passport": "DO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Dutch citizens",
+      "passport": "NL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for EFTA nationals",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for East Timorese citizens",
+      "passport": "TL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Ecuadorian citizens",
+      "passport": "EC",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Egyptian citizens",
+      "passport": "EG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Emirati citizens",
+      "passport": "AE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Equatorial Guinean citizens",
+      "passport": "GQ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Eritrean citizens",
+      "passport": "ER",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Estonian citizens",
+      "passport": "EE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Estonian non-citizens",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for Ethiopian citizens",
+      "passport": "ET",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for European Union citizens",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for Faroese citizens",
+      "passport": "FO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Fijian citizens",
+      "passport": "FJ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Finnish citizens",
+      "passport": "FI",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for French citizens",
+      "passport": "FR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Gabonese citizens",
+      "passport": "GA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Gambian citizens",
+      "passport": "GM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Georgian citizens",
+      "passport": "GE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for German citizens",
+      "passport": "DE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Ghanaian citizens",
+      "passport": "GH",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Greek citizens",
+      "passport": "GR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Greenlandic citizens",
+      "passport": "GL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Grenadian citizens",
+      "passport": "GD",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Guatemalan citizens",
+      "passport": "GT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Guinea-Bissauan citizens",
+      "passport": "GW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Guinean citizens",
+      "passport": "GN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Guyanese citizens",
+      "passport": "GY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Haitian citizens",
+      "passport": "HT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Honduran citizens",
+      "passport": "HN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Hungarian citizens",
+      "passport": "HU",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Icelandic citizens",
+      "passport": "IS",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Indian citizens",
+      "passport": "IN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Indonesian citizens",
+      "passport": "ID",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Iranian citizens",
+      "passport": "IR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Iraqi citizens",
+      "passport": "IQ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Irish citizens",
+      "passport": "IE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Israeli citizens",
+      "passport": "IL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Italian citizens",
+      "passport": "IT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Ivorian citizens",
+      "passport": "CI",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Jamaican citizens",
+      "passport": "JM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Japanese citizens",
+      "passport": "JP",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Jordanian citizens",
+      "passport": "JO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Kazakhstani citizens",
+      "passport": "KZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Kenyan citizens",
+      "passport": "KE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Kiribati citizens",
+      "passport": "KI",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Kosovar citizens",
+      "passport": "XK",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Kuwaiti citizens",
+      "passport": "KW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Kyrgyzstani citizens",
+      "passport": "KG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Laotian citizens",
+      "passport": "LA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Latvian citizens",
+      "passport": "LV",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Latvian non-citizens",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for Lebanese citizens",
+      "passport": "LB",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Lesotho citizens",
+      "passport": "LS",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Liberian citizens",
+      "passport": "LR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Libyan citizens",
+      "passport": "LY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Liechtenstein citizens",
+      "passport": "LI",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Lithuanian citizens",
+      "passport": "LT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Luxembourgish citizens",
+      "passport": "LU",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Malagasy citizens",
+      "passport": "MG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Malawian citizens",
+      "passport": "MW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Malaysian citizens",
+      "passport": "MY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Maldivian citizens",
+      "passport": "MV",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Malian citizens",
+      "passport": "ML",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Maltese citizens",
+      "passport": "MT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Marshall Islands citizens",
+      "passport": "MH",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Mauritanian citizens",
+      "passport": "MR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Mauritian citizens",
+      "passport": "MU",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Mexican citizens",
+      "passport": "MX",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Micronesian citizens",
+      "passport": "FM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Moldovan citizens",
+      "passport": "MD",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Mongolian citizens",
+      "passport": "MN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Montenegrin citizens",
+      "passport": "ME",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Monégasque citizens",
+      "passport": "MC",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Moroccan citizens",
+      "passport": "MA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Mozambican citizens",
+      "passport": "MZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Myanmar citizens",
+      "passport": "MM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Namibian citizens",
+      "passport": "NA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Nauruan citizens",
+      "passport": "NR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Nepalese citizens",
+      "passport": "NP",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for New Zealand citizens",
+      "passport": "NZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Nicaraguan citizens",
+      "passport": "NI",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Nigerian citizens",
+      "passport": "NG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Nigerien citizens",
+      "passport": "NE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for North Korean citizens",
+      "passport": "KP",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Northern Cypriot citizens",
+      "passport": null,
+      "reason": "unmapped demonym: Northern Cypriot"
+    },
+    {
+      "title": "Visa requirements for Norwegian citizens",
+      "passport": "NO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Omani citizens",
+      "passport": "OM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Pakistani citizens",
+      "passport": "PK",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Palauan citizens",
+      "passport": "PW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Palestinian citizens",
+      "passport": "PS",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Panamanian citizens",
+      "passport": "PA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Papua New Guinean citizens",
+      "passport": "PG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Paraguayan citizens",
+      "passport": "PY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Peruvian citizens",
+      "passport": "PE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Philippine citizens",
+      "passport": "PH",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Polish citizens",
+      "passport": "PL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Portuguese citizens",
+      "passport": "PT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Qatari citizens",
+      "passport": "QA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Republic of the Congo citizens",
+      "passport": "CG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Romanian citizens",
+      "passport": "RO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Russian citizens",
+      "passport": "RU",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Rwandan citizens",
+      "passport": "RW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Saint Kitts and Nevis citizens",
+      "passport": "KN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Saint Lucian citizens",
+      "passport": "LC",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Saint Vincent and the Grenadines citizens",
+      "passport": "VC",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Salvadoran citizens",
+      "passport": "SV",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Sammarinese citizens",
+      "passport": "SM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Samoan citizens",
+      "passport": "WS",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Santomean citizens",
+      "passport": "ST",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Saudi citizens",
+      "passport": "SA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Senegalese citizens",
+      "passport": "SN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Serbian citizens",
+      "passport": "RS",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Seychellois citizens",
+      "passport": "SC",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Sierra Leonean citizens",
+      "passport": "SL",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Singapore citizens",
+      "passport": "SG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Slovak citizens",
+      "passport": "SK",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Slovenian citizens",
+      "passport": "SI",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Solomon Islands citizens",
+      "passport": "SB",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Somali citizens",
+      "passport": "SO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for South African citizens",
+      "passport": "ZA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for South Korean citizens",
+      "passport": "KR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for South Ossetian citizens",
+      "passport": null,
+      "reason": "unmapped demonym: South Ossetian"
+    },
+    {
+      "title": "Visa requirements for South Sudanese citizens",
+      "passport": "SS",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Spanish citizens",
+      "passport": "ES",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Sri Lankan citizens",
+      "passport": "LK",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Sudanese citizens",
+      "passport": "SD",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Surinamese citizens",
+      "passport": "SR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Swazi citizens",
+      "passport": "SZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Swedish citizens",
+      "passport": "SE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Swiss citizens",
+      "passport": "CH",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Syrian citizens",
+      "passport": "SY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Taiwanese citizens",
+      "passport": "TW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Tajikistani citizens",
+      "passport": "TJ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Tanzanian citizens",
+      "passport": "TZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Thai citizens",
+      "passport": "TH",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Togolese citizens",
+      "passport": "TG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Tongan citizens",
+      "passport": "TO",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Transnistrian citizens",
+      "passport": null,
+      "reason": "unmapped demonym: Transnistrian"
+    },
+    {
+      "title": "Visa requirements for Trinidad and Tobago citizens",
+      "passport": "TT",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Tunisian citizens",
+      "passport": "TN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Turkish citizens",
+      "passport": "TR",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Turkmenistani citizens",
+      "passport": "TM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Tuvaluan citizens",
+      "passport": "TV",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Ugandan citizens",
+      "passport": "UG",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Ukrainian citizens",
+      "passport": "UA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for United States citizens",
+      "passport": "US",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Uruguayan citizens",
+      "passport": "UY",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Uzbekistan citizens",
+      "passport": "UZ",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Vanuatu citizens",
+      "passport": "VU",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Vatican citizens",
+      "passport": "VA",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Venezuelan citizens",
+      "passport": "VE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Vietnamese citizens",
+      "passport": "VN",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Yemeni citizens",
+      "passport": "YE",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Zambian citizens",
+      "passport": "ZM",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for Zimbabwean citizens",
+      "passport": "ZW",
+      "reason": "demonym mapping"
+    },
+    {
+      "title": "Visa requirements for citizens of North Macedonia",
+      "passport": "MK",
+      "reason": "override"
+    },
+    {
+      "title": "Visa requirements for crew members",
+      "passport": null,
+      "reason": "excluded by override"
+    },
+    {
+      "title": "Visa requirements for holders of passports issued by the Sovereign Military Order of Malta",
+      "passport": null,
+      "reason": "excluded by override"
+    }
+  ]
+}
