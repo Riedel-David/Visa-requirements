@@ -178,8 +178,8 @@ def test_run_e2e_blocked_passport(tmp_path):
     client = make_fake_client()
 
     # First parser: creates 20 records with visa_free
-    # Use valid ISO2 codes (AA-ZZ range)
-    test_codes = [f"{chr(65+i//26)}{chr(65+i%26)}" for i in range(20)]  # AA, AB, AC...
+    # Real ISO2 codes: the CSV export needs an ISO-3 code for every destination
+    test_codes = "AD AE AF AG AL AM AO AR AT AU AZ BA BB BD BE BF BG BH BI BJ".split()
 
     def first_parser(wikitext, *, passport, title, revid, transclusions):
         if passport == "DE":

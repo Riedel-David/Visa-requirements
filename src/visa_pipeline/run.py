@@ -479,8 +479,9 @@ def run(
     try:
         write_csv_exports(data_dir, all_passports_data)
     except (KeyError, OSError) as e:
-        # Logged, but must not fail the run or stop the changelog/report below.
+        # Keep going so the changelog/report below are still written
         logger.error(f"CSV export failed: {e}")
+        exit_code = 1
     write_changelog(out_dir, all_changes)
     write_report(out_dir, results)
     write_summary_json(out_dir, results)
