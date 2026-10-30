@@ -1,0 +1,72 @@
+name: Wrong Visa Data
+description: Report incorrect visa requirement data
+labels: [data-error]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Important:** This dataset is derived from Wikipedia. Most data corrections should be made directly on Wikipedia first, as this repository mirrors Wikipedia articles.
+
+        Only report here if:
+        - The Wikipedia article is correct but our pipeline is parsing it incorrectly
+        - You're reporting a systematic parsing issue
+
+        For simple data corrections, please edit the Wikipedia article directly.
+
+  - type: input
+    id: passport
+    attributes:
+      label: Passport Country
+      description: Which passport/nationality (ISO code or country name)
+      placeholder: e.g., Germany (DE)
+    validations:
+      required: true
+
+  - type: input
+    id: destination
+    attributes:
+      label: Destination Country
+      description: Which destination country
+      placeholder: e.g., Japan
+    validations:
+      required: true
+
+  - type: textarea
+    id: dataset_says
+    attributes:
+      label: What the Dataset Says
+      description: What visa requirement is shown in our dataset
+      placeholder: e.g., visa_required
+    validations:
+      required: true
+
+  - type: textarea
+    id: should_say
+    attributes:
+      label: What It Should Say
+      description: What the correct visa requirement should be
+      placeholder: e.g., visa_on_arrival
+    validations:
+      required: true
+
+  - type: input
+    id: official_source
+    attributes:
+      label: Official Source
+      description: Link to the official embassy or government source
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: wikipedia_link
+    attributes:
+      label: Wikipedia Article
+      description: Link to the relevant Wikipedia "Visa requirements for X citizens" article
+      placeholder: https://en.wikipedia.org/wiki/...
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other relevant information
