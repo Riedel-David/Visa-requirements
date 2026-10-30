@@ -22,57 +22,6 @@ def _normalize_heading(heading: str) -> str:
     return heading.lower().strip().replace('_', ' ')
 
 
-def _find_section_by_heading(wikicode, heading_keywords: list[str]) -> str | None:
-    """Find a section whose heading exactly matches one of the keywords.
-
-    Args:
-        wikicode: Parsed wikitext (or string)
-        heading_keywords: List of lowercase heading texts to match exactly
-
-    Returns:
-        Section wikitext or None
-    """
-    # Convert to string if it's wikicode
-    full_text = str(wikicode)
-
-    # Find all level-2 and level-3 section headings
-    lines = full_text.split('\n')
-    section_start = None
-    section_level = None
-
-    for i, line in enumerate(lines):
-        # Detect heading level
-        if line.startswith('===='):
-            level = 4
-        elif line.startswith('==='):
-            level = 3
-        elif line.startswith('=='):
-            level = 2
-        else:
-            continue
-
-        heading = _normalize_heading(line.strip('= \n'))
-
-        # Check if this heading exactly matches any of our keywords
-        match = heading in heading_keywords
-
-        if match and section_start is None:
-            # Found the start of our section
-            section_start = i
-            section_level = level
-        elif section_start is not None and level <= section_level:
-            # Found the next same-or-higher-level section - extract everything between
-            section_lines = lines[section_start:i]
-            return '\n'.join(section_lines)
-
-    # If we found a section but reached end of file
-    if section_start is not None:
-        section_lines = lines[section_start:]
-        return '\n'.join(section_lines)
-
-    return None
-
-
 def _extract_section_hierarchy(wikitext: str) -> list[dict]:
     """Extract all sections from wikitext with their hierarchy.
 
@@ -128,7 +77,6 @@ def _is_territory_section(heading: str) -> bool:
         return False
 
     # Match territory-related keywords (as whole words or phrases)
-    import re
     patterns = [
         r'\bterritor',
         r'\bdisputed',
@@ -142,7 +90,7 @@ def _is_territory_section(heading: str) -> bool:
     return any(re.search(pattern, heading_lower) for pattern in patterns)
 
 
-def _find_all_territory_sections(sections: list[dict], main_section_start: int, main_section_level: int) -> list[dict]:
+def _find_all_territory_sections(sections: list[dict], main_section_start: int) -> list[dict]:
     """Find all territory-related sections.
 
     Returns (in page order) every section that is a descendant of the main
@@ -689,7 +637,7 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
     # Find all territory sections
     if main_section:
         territory_sections = _find_all_territory_sections(
-            sections, main_section['start_line'], main_section['level']
+            sections, main_section['start_line']
         )
 
         # Parse tables from each territory section
