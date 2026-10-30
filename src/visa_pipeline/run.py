@@ -415,21 +415,33 @@ def run(
             # Write passport file
             changed = write_passport_file(data_dir, passport_data, previous_data)
 
-            # Update metadata
-            passport_metadata[iso2] = {
-                "title": title,
-                "revid": page_revid,
-                "timestamp": timestamp,
-                "record_count": len(parse_result.records),
-                "last_changed": passport_data["generated_at"] if changed else (
-                    previous_data.get("generated_at", timestamp) if previous_data else passport_data["generated_at"]
-                )
-            }
-
-            all_passports_data[iso2] = parse_result.records
+            # Index and all.json must mirror the file on disk. If only
+            # provenance moved, the old file (with its old revision) stays, so
+            # take metadata and records from it; last_changed does not move.
+            if changed or previous_data is None:
+                passport_metadata[iso2] = {
+                    "title": title,
+                    "revid": page_revid,
+                    "timestamp": timestamp,
+                    "record_count": len(passport_data["records"]),
+                    "last_changed": passport_data["generated_at"]
+                }
+                all_passports_data[iso2] = passport_data["records"]
+            else:
+                passport_metadata[iso2] = {
+                    "title": previous_data["source_title"],
+                    "revid": int(previous_data["source_revision"]),
+                    "timestamp": previous_data["source_timestamp"],
+                    "record_count": len(previous_data["records"]),
+                    "last_changed": previous_data.get(
+                        "generated_at", previous_data["source_timestamp"]
+                    )
+                }
+                all_passports_data[iso2] = previous_data["records"]
             results["pages_parsed"] += 1
 
-            # Update stored revisions
+            # Update stored revisions (advance even if the file was not
+            # rewritten, so the page is not refetched until it changes again)
             stored_revisions[iso2] = {
                 "revid": page_revid,
                 "timestamp": timestamp

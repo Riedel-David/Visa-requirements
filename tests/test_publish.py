@@ -168,13 +168,15 @@ def test_write_passport_file_changed(tmp_path, sample_records):
 
     write_passport_file(tmp_path, data)
 
-    # Modify data
+    # Modify data (a new revision alone would not count as a change)
+    changed_records = [dict(r) for r in sample_records]
+    changed_records[0]["status"] = "evisa"
     data2 = format_passport_data(
         passport="DE",
         title="Test",
         revid=124,
         timestamp="2024-01-02T00:00:00Z",
-        records=sample_records
+        records=changed_records
     )
 
     changed = write_passport_file(tmp_path, data2, previous_data=data)
