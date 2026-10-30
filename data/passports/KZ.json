@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kazakhstani_citizens",
   "source_revision": "1381534352",
   "source_timestamp": "2026-10-23T03:53:29Z",
-  "generated_at": "2026-10-30T10:52:32.520645+00:00",
+  "generated_at": "2026-10-30T17:08:25.569951+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -139,7 +139,7 @@
       "passport": "KZ",
       "destination": "AU",
       "destination_name": "Australia",
-      "area": "and territories",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,

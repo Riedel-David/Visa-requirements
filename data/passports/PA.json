@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
   "source_revision": "1380600010",
   "source_timestamp": "2026-10-16T19:07:53Z",
-  "generated_at": "2026-10-30T10:53:20.180638+00:00",
+  "generated_at": "2026-10-30T17:09:12.654445+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -994,6 +994,20 @@
     {
       "passport": "PA",
       "destination": "FR",
+      "destination_name": "France",
+      "area": null,
+      "status": "visa_free",
+      "alternative_statuses": [],
+      "allowed_stay_days": 90,
+      "allowed_stay_raw": "90 days",
+      "notes": "90 days within any 180 day period in the Schengen Area",
+      "is_territory_or_restricted": false,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
+      "source_revision": "1380600010"
+    },
+    {
+      "passport": "PA",
+      "destination": "FR",
       "destination_name": "Clipperton Island",
       "area": "Clipperton Island",
       "status": "permit_required",
@@ -1002,20 +1016,6 @@
       "allowed_stay_raw": null,
       "notes": null,
       "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
-      "source_revision": "1380600010"
-    },
-    {
-      "passport": "PA",
-      "destination": "FR",
-      "destination_name": "France",
-      "area": "and territories",
-      "status": "visa_free",
-      "alternative_statuses": [],
-      "allowed_stay_days": 90,
-      "allowed_stay_raw": "90 days",
-      "notes": "90 days within any 180 day period in the Schengen Area",
-      "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
       "source_revision": "1380600010"
     },

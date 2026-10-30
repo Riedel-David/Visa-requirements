@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
   "source_revision": "1348380252",
   "source_timestamp": "2026-04-12T10:13:22Z",
-  "generated_at": "2026-10-30T12:05:27.221524+00:00",
+  "generated_at": "2026-10-30T17:09:57.606025+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -980,6 +980,20 @@
     {
       "passport": "TO",
       "destination": "GB",
+      "destination_name": "United Kingdom",
+      "area": null,
+      "status": "eta",
+      "alternative_statuses": [],
+      "allowed_stay_days": 180,
+      "allowed_stay_raw": "6 months",
+      "notes": null,
+      "is_territory_or_restricted": false,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
+      "source_revision": "1348380252"
+    },
+    {
+      "passport": "TO",
+      "destination": "GB",
       "destination_name": "Akrotiri and Dhekelia",
       "area": "Akrotiri and Dhekelia",
       "status": "visa_free",
@@ -988,20 +1002,6 @@
       "allowed_stay_raw": null,
       "notes": "Stays longer than 28 days per 12-month period require a permit.",
       "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
-      "source_revision": "1348380252"
-    },
-    {
-      "passport": "TO",
-      "destination": "GB",
-      "destination_name": "United Kingdom",
-      "area": "and Crown dependencies",
-      "status": "eta",
-      "alternative_statuses": [],
-      "allowed_stay_days": 180,
-      "allowed_stay_raw": "6 months",
-      "notes": null,
-      "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
       "source_revision": "1348380252"
     },

@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
   "source_revision": "1380590388",
   "source_timestamp": "2026-10-16T17:56:08Z",
-  "generated_at": "2026-10-30T15:06:11.051533+00:00",
+  "generated_at": "2026-10-30T17:09:01.768117+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -1088,6 +1088,20 @@
     {
       "passport": "NZ",
       "destination": "GB",
+      "destination_name": "United Kingdom",
+      "area": null,
+      "status": "eta",
+      "alternative_statuses": [],
+      "allowed_stay_days": 180,
+      "allowed_stay_raw": "6 months",
+      "notes": "Visa also not required if holder has UK ancestry clearance visa.\nAdults can use ePassport gates.",
+      "is_territory_or_restricted": false,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
+      "source_revision": "1380590388"
+    },
+    {
+      "passport": "NZ",
+      "destination": "GB",
       "destination_name": "Akrotiri and Dhekelia",
       "area": "Akrotiri and Dhekelia",
       "status": "visa_free",
@@ -1096,20 +1110,6 @@
       "allowed_stay_raw": null,
       "notes": "Stays longer than 28 days per 12-month period require a permit.",
       "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
-      "source_revision": "1380590388"
-    },
-    {
-      "passport": "NZ",
-      "destination": "GB",
-      "destination_name": "United Kingdom",
-      "area": "and Crown dependencies",
-      "status": "eta",
-      "alternative_statuses": [],
-      "allowed_stay_days": 180,
-      "allowed_stay_raw": "6 months",
-      "notes": "Visa also not required if holder has UK ancestry clearance visa.\nAdults can use ePassport gates.",
-      "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
       "source_revision": "1380590388"
     },

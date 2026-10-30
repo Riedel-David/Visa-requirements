@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
   "source_revision": "1382189312",
   "source_timestamp": "2026-10-27T04:46:11Z",
-  "generated_at": "2026-10-30T10:54:02.763352+00:00",
+  "generated_at": "2026-10-30T17:09:53.090961+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -181,7 +181,7 @@
       "passport": "TW",
       "destination": "AU",
       "destination_name": "Australia",
-      "area": "and territories",
+      "area": null,
       "status": "eta",
       "alternative_statuses": [],
       "allowed_stay_days": 90,

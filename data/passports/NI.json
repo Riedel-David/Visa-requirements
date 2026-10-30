@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nicaraguan_citizens",
   "source_revision": "1379877963",
   "source_timestamp": "2026-10-12T11:55:17Z",
-  "generated_at": "2026-10-30T10:53:09.863256+00:00",
+  "generated_at": "2026-10-30T17:09:02.581120+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -827,7 +827,7 @@
       "passport": "NI",
       "destination": "FR",
       "destination_name": "France",
-      "area": "and territories",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,

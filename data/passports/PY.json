@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Paraguayan_citizens",
   "source_revision": "1373040231",
   "source_timestamp": "2026-09-03T18:04:00Z",
-  "generated_at": "2026-10-30T12:04:40.677507+00:00",
+  "generated_at": "2026-10-30T17:09:14.621186+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -847,7 +847,7 @@
       "passport": "PY",
       "destination": "FR",
       "destination_name": "France",
-      "area": "and territories",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,

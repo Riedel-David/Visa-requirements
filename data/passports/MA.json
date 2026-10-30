@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
   "source_revision": "1382216883",
   "source_timestamp": "2026-10-27T10:25:31Z",
-  "generated_at": "2026-10-30T10:53:02.995921+00:00",
+  "generated_at": "2026-10-30T17:08:55.667776+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -984,6 +984,20 @@
     {
       "passport": "MA",
       "destination": "GB",
+      "destination_name": "United Kingdom",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Conditional 48 hours visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
+      "is_territory_or_restricted": false,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
+      "source_revision": "1382216883"
+    },
+    {
+      "passport": "MA",
+      "destination": "GB",
       "destination_name": "Akrotiri and Dhekelia",
       "area": "Akrotiri and Dhekelia",
       "status": "visa_required",
@@ -992,20 +1006,6 @@
       "allowed_stay_raw": null,
       "notes": "A Schengen visa is required to enter Akrotiri and Dhekelia, as the territory is located in Cyprus and follows Cypriot visa policy.",
       "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
-    },
-    {
-      "passport": "MA",
-      "destination": "GB",
-      "destination_name": "United Kingdom",
-      "area": "and Crown dependencies",
-      "status": "visa_required",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": "Conditional 48 hours visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
-      "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
       "source_revision": "1382216883"
     },

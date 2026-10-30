@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritian_citizens",
   "source_revision": "1361914710",
   "source_timestamp": "2026-06-30T20:46:18Z",
-  "generated_at": "2026-10-30T12:04:12.169760+00:00",
+  "generated_at": "2026-10-30T17:08:48.588196+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -153,7 +153,7 @@
       "passport": "MU",
       "destination": "AU",
       "destination_name": "Australia",
-      "area": "and territories",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,

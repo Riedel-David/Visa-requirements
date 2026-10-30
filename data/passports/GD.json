@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Grenadian_citizens",
   "source_revision": "1374452159",
   "source_timestamp": "2026-09-12T03:31:32Z",
-  "generated_at": "2026-10-30T15:05:14.976072+00:00",
+  "generated_at": "2026-10-30T17:08:05.708820+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -169,7 +169,7 @@
       "passport": "GD",
       "destination": "AU",
       "destination_name": "Australia",
-      "area": "and territories",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,

@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
   "source_revision": "1380975986",
   "source_timestamp": "2026-10-19T05:08:59Z",
-  "generated_at": "2026-10-30T10:51:25.326467+00:00",
+  "generated_at": "2026-10-30T17:07:20.665121+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -1028,6 +1028,20 @@
     {
       "passport": "BR",
       "destination": "GB",
+      "destination_name": "United Kingdom",
+      "area": null,
+      "status": "eta",
+      "alternative_statuses": [],
+      "allowed_stay_days": 180,
+      "allowed_stay_raw": "6 months",
+      "notes": null,
+      "is_territory_or_restricted": false,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+      "source_revision": "1380975986"
+    },
+    {
+      "passport": "BR",
+      "destination": "GB",
       "destination_name": "Akrotiri and Dhekelia",
       "area": "Akrotiri and Dhekelia",
       "status": "visa_free",
@@ -1036,20 +1050,6 @@
       "allowed_stay_raw": null,
       "notes": null,
       "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
-      "source_revision": "1380975986"
-    },
-    {
-      "passport": "BR",
-      "destination": "GB",
-      "destination_name": "United Kingdom",
-      "area": "and Crown dependencies",
-      "status": "eta",
-      "alternative_statuses": [],
-      "allowed_stay_days": 180,
-      "allowed_stay_raw": "6 months",
-      "notes": null,
-      "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
       "source_revision": "1380975986"
     },
