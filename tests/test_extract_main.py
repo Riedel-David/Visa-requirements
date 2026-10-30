@@ -68,6 +68,16 @@ class TestGermanCitizens:
         assert rec['status'] == 'evisa'
         assert rec['is_territory_or_restricted'] is False
 
+    def test_algeria_notes_from_transclusion(self, result):
+        """DE -> DZ notes should come from transcluded template section."""
+        dz_records = [r for r in result.records if r['destination'] == 'DZ']
+        assert len(dz_records) == 1
+        rec = dz_records[0]
+        assert rec['notes'] is not None, "Algeria notes should not be empty"
+        assert len(rec['notes']) > 0, "Algeria notes should have content"
+        # Check that content comes from "Algeria. VOA" template section
+        assert "passport containing visas or stamps issued by Israel" in rec['notes']
+
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
         keys = [(r['destination'], r['area']) for r in result.records]

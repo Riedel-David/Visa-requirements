@@ -103,9 +103,10 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
             continue
 
         # Handle {{#section-h::Template:Transcluded sections for the visa articles|Heading}}
+        # The heading is the first positional parameter (position 1)
         if '#section-h' in name or name.startswith('#'):
-            if transclusions and template.has(2):
-                heading = str(template.get(2).value).strip()
+            if transclusions and template.has(1):
+                heading = str(template.get(1).value).strip()
                 if heading in transclusions:
                     # Recursively clean the transcluded content
                     transcluded = transclusions[heading]
