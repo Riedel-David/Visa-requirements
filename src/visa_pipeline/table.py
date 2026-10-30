@@ -129,8 +129,8 @@ def _parse_cell_attributes(attr_text: str) -> tuple[dict[str, str], int]:
             return attrs, colspan, rowspan
 
     # No pipe or glued form - check for attribute pattern at start
-    # Match: `data-sort-value="123" ` or `style="..." ` etc
-    attr_match = re.match(r'^(\w+(?:-\w+)*)=(["\']?)([^"\']*?)\2\s+', attr_text)
+    # Match: `data-sort-value="123" ` or `style="..." ` etc, allow no space after
+    attr_match = re.match(r'^(\w+(?:-\w+)*)=(["\']?)([^"\']*?)\2\s*', attr_text)
     if attr_match:
         key = attr_match.group(1)
         value = attr_match.group(3)
@@ -279,7 +279,8 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
 
                 if not found_pipe:
                     # Glued form or no attributes - remove leading attribute if present
-                    attr_match = re.match(r'^\w+(?:-\w+)*=(["\'])([^"\']*?)\1\s+', cell_text)
+                    # Allow zero or more spaces between attribute and content (data-sort-value="0"Content)
+                    attr_match = re.match(r'^\w+(?:-\w+)*=(["\'])([^"\']*?)\1\s*', cell_text)
                     if attr_match:
                         content = cell_text[attr_match.end():].strip()
 
