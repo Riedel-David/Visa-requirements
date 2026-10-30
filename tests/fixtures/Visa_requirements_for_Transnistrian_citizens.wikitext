@@ -1,0 +1,34 @@
+{{Short description|Administrative entry restrictions}}
+[[File:Passport of Transnistria.jpg|150px|thumb|A [[Transnistrian passport]]]]
+'''Visa requirements for Transnistrian citizens''' are administrative entry restrictions by the authorities of other states placed on citizens of the [[Transnistria]]. 
+
+== Validity ==
+Transnistria is not recognized by the majority of nations of the world (with the exceptions of the partially recognized [[Abkhazia]] and [[South Ossetia]]). Transnistrian passport is not valid for travel to most countries in the world. Dual nationality is permitted. Most citizens are entitled to either a [[Moldovan passport|Moldovan]], [[Russian passport|Russian]] or [[Ukrainian passport]] for travel abroad.<ref>{{cite journal|last=Munteanu|first=Angela|author2=Igor Munteanu|date=May 2007|title=Transnistria: a paradise for vested interests boeckler.de [PDF]|journal=SEER-South-East Europe Review for Labour|issue=May|pages=58|url=http://www.boeckler.de/pdf/seer_2007_4_munteanu.pdf|access-date=2010-02-17|archive-url=https://web.archive.org/web/20110716232909/http://www.boeckler.de/pdf/seer_2007_4_munteanu.pdf|archive-date=2011-07-16|url-status=dead}}</ref>[[File:Visa requirements for Transnistrian citizens.png|500px|center]]
+
+Transnistrian passport can only be used to travel to [[Abkhazia]] and [[South Ossetia]]. These countries are visa-free for Transnistrian citizens.
+{|style=" border-radius:1em; box-shadow: 0.1em 0.1em 0.5em rgba(0,0,0,0.75); background-color: white; border: 1px solid white; padding: 5px;"
+|- style="vertical-align:top;"
+| {{flag|Abkhazia}}
+|-
+| {{flag|Moldova}}
+|-
+| {{flag|Russia}}
+|-
+| {{flag|South Ossetia}}
+|-
+|}
+==See also==
+*[[Visa policy of Transnistria]]
+*[[Transnistrian passport]]
+
+==References==
+{{reflist|30em}}
+
+== Notes ==
+{{Reflist|30em|group="Note"}}
+
+{{Visa Requirements}}
+{{Visa policy by country}}
+
+[[Category:Visa requirements by nationality|Transnistria]]
+[[Category:Foreign relations of Transnistria]]

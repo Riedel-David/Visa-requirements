@@ -1,0 +1,42 @@
+{{Short description|Administrative entry restrictions}}
+[[File:South Ossetian passport cover.jpg|thumb|A [[South Ossetian passport]]]]
+'''Visa requirements for South Ossetian citizens''' are administrative entry restrictions imposed on citizens of [[South Ossetia]] by the authorities of other states.
+
+==Passport validity==
+{|style=" border-radius:1em; box-shadow: 0.1em 0.1em 0.5em rgba(0,0,0,0.75); background-color: white; border: 1px solid white; padding: 5px;"
+|- style="vertical-align:top;"
+| {{flag|Abkhazia}}
+|-
+| {{flag|Nicaragua}}
+|-
+| {{flag|Russia}}
+|-
+| {{flag|Syria}}
+|-
+| {{flag|Transnistria}}
+|-
+| {{flag|Venezuela}}
+|-
+|}
+
+==Visa requirements==
+South Ossetia has mutual visa-free agreements with [[Russia|Russia in 2010]]<ref>{{Cite web |title=Соглашение между Правительством Республики Южная Осетия и Правительством Российской Федерации о взаимных безвизовых поездках граждан Республики Южная Осетия и Российской Федерации {{!}} Министерство иностранных дел Республики Южная Осетия |url=https://mfa.rsogov.org/ru/node/1209 |access-date=2022-06-05 |website=mfa.rsogov.org}}</ref> and [[Abkhazia|Abkhazia in 2015]].<ref>[http://apsnypress.info/en/news/abkhazia-and-south-ossetia-have-entered-visa-free-travel-regime/ Abkhazia and South Ossetia have entered visa-free travel regime]</ref> South Ossetians can either use their domestic or international passport to enter Russia and Abkhazia. In 2016, news reports claimed that South Ossetia and [[Venezuela]] were preparing to sign a mutual visa-free agreement.<ref>{{Cite web |url=http://www.linxtter.com/front/news-details.php?sdk=188 |title=Abkhazia And Venezuela Arranging For Visa-free Travel — Foreign Minister - RA |access-date=2016-05-02 |archive-date=2016-06-03 |archive-url=https://web.archive.org/web/20160603102949/http://www.linxtter.com/front/news-details.php?sdk=188 |url-status=dead }}</ref> It is unknown if an agreement was ever signed.
+
+==See also==
+* [[Visa policy of South Ossetia]]
+* [[South Ossetian passport]]
+* [[List of citizenships refused entry to foreign states]]
+* [[International recognition of Abkhazia and South Ossetia]]
+* [[Foreign relations of South Ossetia]]
+
+==References==
+{{Reflist}}
+
+{{Visa Requirements}}
+{{Visa policy by country}}
+
+[[Category:Visa requirements by nationality|South Ossetia]]
+[[Category:Foreign relations of South Ossetia]]
+
+
+{{SouthOssetia-stub}}

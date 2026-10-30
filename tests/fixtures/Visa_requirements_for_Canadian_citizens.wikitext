@@ -1,0 +1,1609 @@
+{{Short description|Entry restrictions by the authorities of other states placed on citizens of the Canada}}
+{{Use dmy dates|date=December 2025}}
+{{Politics of Canada}}
+
+'''Visa requirements for''' '''Canadian citizens''' are administrative entry restrictions by the authorities of other countries that are imposed on citizens of [[Canada]].
+
+As of 2026, [[Canadian nationality law|Canadian citizens]] have visa-free or [[visa on arrival]] access to 183 countries and territories, resulting in the [[Canadian passport]] being ranked 7th in the world according to the [[Henley & Partners Passport Index|Henley Passport Index]].<ref>{{cite web | url=https://www.henleyglobal.com/passport-index/ranking | title=The Official Passport Index Ranking|website=Henley & Partners}}</ref> It is ranked 7th by the [[The Passport Index|Global Passport Power Rank]].<ref name=":1">{{cite web | url=https://www.passportindex.org/byRank.php | title=Global Passport Power Rank|website=Passport Index}}</ref>
+
+
+
+==Visa requirements map==
+[[File:Visa requirements for Canadian citizens.svg|none|thumb|800px|Visa requirements for Canadian citizens holding ordinary passports
+{{legend|#002377|Canada}}
+{{legend|#22B14C|Visa not required or [[Electronic Travel Authorisation]]}}
+{{legend|#79D343|Visa available both on arrival or online}}
+{{legend|#B5E61D|Visa on arrival}}
+{{legend|#73D0AA|eVisa}}
+{{legend|#C0C0C0|Visa required prior to arrival or not established}}]]
+
+===Visa requirements===
+The following table indicates the entry requirements and duration of stay for a given country, along with any notes that may be relevant for that given country.
+
+{{sticky header}}
+
+{| class="wikitable sortable sticky-header" style="background:#f8f9faff;"
+|-
+! style="width:14%;"| Country
+! style="width:24%;"| Entry requirement
+! style="width:8%;" data-sort-type=number | Stay duration
+! class=unsortable | Notes (excluding departure fees)
+! Reciprocity
+|-
+| {{flag|Afghanistan}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=AF}}</ref><ref>{{cite web |title=E-Afghans Visa Portal - Your Digital Gateway to Travel |url=https://eafghans.com/e-visa/ |access-date=2026-03-25 |website=eafghans.com |language=en}}</ref>
+| 30 days
+| style="background:#FFB; |
+* e-Visa : Visitors must arrive at Kabul International (KBL).<ref>{{cite web | url=https://visaportal.eafghans.com | title=Afghan eVisa}}</ref>
+* The Canadian government advises its citizens not to visit Afghanistan due to  [[Afghanistan conflict (1978–present)|hostile and unpredictable security situation]], likely terrorist attacks, ongoing armed conflict, the risk of kidnapping, arbitrary arrest and detention,  high crime rate, and widespread violations of human rights by the de facto authorities.<ref>{{Cite web |last=Canada |first=Global Affairs |date=2012-11-16 |title=Travel advice and advisories for Afghanistan |url=https://travel.gc.ca/destinations/afghanistan |access-date=2026-03-25 |website=Travel.gc.ca}}</ref>
+* Canadians do not need a visa if they were born in Afghanistan or their parent is a national of Afghanistan or was born in Afghanistan.<ref>{{Cite web |title=E-Afghans Visa Portal - Your Digital Gateway to Travel |url=https://eafghans.com/e-visa/ |access-date=2026-03-25 |website=eafghans.com |language=en}}</ref>
+* All visitors are fingerprinted, and are required to register with the [[Ministry of Foreign Affairs (Afghanistan)|Ministry of Foreign Affairs]] upon arrival.<ref>{{cite web | date=2025-09-05 | title=Ministry of Foreign Affairs of Afghanistan | url=https://mfa.gov.af/en/home-en | access-date=2025-09-12 | language=en-US}}</ref>
+| {{no}}
+|-
+| {{flag|Albania}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AL|accessdate=26 November 2013}}</ref><ref name="MOFA Albania">{{cite web | url=https://punetejashtme.gov.al/en/informacione-mbi-regjimin-e-vizave-te-shtetasve-te-huaj/ | title=MOFA Albania}}</ref>
+| data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Algeria}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=DZ|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/algeria | title=Travel Advice and Advisories for Algeria | first=Government of Canada, Global Affairs | last=Canada | website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref><ref name="MOFA Algeria">{{cite web | url=https://www.mfa.gov.dz/services-for-foreigners/entry-visa-to-algeria | title=MOFA Algeria}}</ref>
+| 
+|
+* Visa Issuance: Passengers with a boarding authorization issued by the Ministry of Tourism traveling as tourists can obtain a visa on arrival for a maximum of 30 days. They must have: a return/onward ticket and a hotel reservation confirmation.<ref>{{Cite web |date=30 September 2024 |title=Visa requirements for Canada Nationals Travelling to Algeria |url=https://www.emirates.com/english/before-you-fly/visa-passport-information/visa-passport-information-results/?widgetheader=visa&nationality=ca&destination=dz |access-date=30 September 2024 |website=Emirates Airlines}}</ref>
+* The visa is issued upon arrival only at [[Houari Boumediene Airport|Algiers International Airport]] or at [[Djanet Inedbirene Airport|Djanet Airport]].<ref>{{cite web | url=https://embassyofalgeria.ie/exceptional-measures-for-tourists-traveling-to-southern-algeria/ | title=Exceptional measures for tourists traveling to southern Algeria | publisher=Algerian Embassy in Ireland}}</ref><ref>{{cite web | url=https://againstthecompass.com/en/travel-algeria/ | title=How to travel to Algeria | date=20 February 2026}}</ref>
+* Processing time for a tourist visa to Algeria is around 48 hours.<ref name="MOFA Algeria"/>
+|{{yes}}
+|-
+| {{flag|Andorra}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AD|accessdate=26 November 2013}}</ref><ref>{{cite web | title=D.1. Residència sense treball: autorització inicial [Non-working residence: initial authorization] | url=https://www.immigracio.ad/ca/d-1-residencia-sense-treball-autoritzacio-inicial | website=Immigration Andorra | publisher=Government of Andorra | access-date=11 February 2023}}</ref>
+|data-sort-value="90"| 90 days
+|
+| {{yes}}
+|-
+| {{flag|Angola}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AO}}</ref><ref>{{cite web |title=Angola e-Visa |url=https://www.smevisa.gov.ao/ |access-date=2024-12-09 |website=www.smevisa.gov.ao}}</ref>
+|data-sort-value="30"| 30 days
+| 
+|{{no}}
+|-
+| {{flag|Antigua and Barbuda}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AG|accessdate=9 July 2017}}</ref>
+|data-sort-value="180"| 180 days
+|
+* The digital arrival form can be completed within 72 hours prior to arrival on a mobile phone or tablet, Although the digital arrival form is encouraged, the paper form is still accepted.<ref>{{Cite web |title=The ArriveAntigua |url=https://arriveantigua.com |url-status=live}}</ref>
+|{{no}}
+|- 
+| {{flag|Argentina}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AR|accessdate=26 November 2013}}</ref>
+| data-sort-value="90"| 90 days
+|
+* Visitors are fingerprinted (Right thumb fingerprint) and photographed upon entry.<ref>{{cite web | title=Argentina.gob.ar | url=https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-843-2012-197800/texto | access-date=2024-12-21 | website=Argentina.gob.ar | language=es}}</ref>
+|{{no}}
+|-
+| {{flag|Armenia}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=AM|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisa.mfa.am | title=Armenia eVisa}}</ref>
+| data-sort-value="180"| 120 days 
+|
+* May obtain a visa on arrival for a maximum stay of 120 days at a cost of 15,000 [[Armenian dram|AMD]]. 
+* May also obtain an e-Visa in advance:
+* Visitor visa (up to 21 days of stay) / Non-refundable fee - 8 [[USD]].
+* Visitor visa (up to 120 days of stay) / Non-refundable fee - 38 [[USD]].
+* e-Visa processing time is up to 3 working days.
+* Canadians with a residence permit valid for at least six months from the date of entry into Armenia issued by one of the [[Gulf Cooperation Council|GCC]] states, US, EU Member States and Schengen Area States may get a visa free entry up to 180 days within a one-year period starting from July1st ,2026 till July1st, 2027.<ref>{{Cite web |title=Visa |url=https://www.mfa.am/en/visa/ |archive-url=https://web.archive.org/web/20251118073919/https://www.mfa.am/en/visa/ |archive-date=18 November 2025 |access-date=2026-01-05 |website=www.mfa.am |language=hy |url-status=live}}</ref>
+|{{no}}
+|-
+| {{flag|Australia}} and territories 
+| data-sort-value="0" {{yes|[[Electronic Travel Authority (Australia)|Electronic Travel Authorisation]]}}<ref>{{Timatic|nationality=CA|destination=AU|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days on each visit in 12-month period.
+* Canadian Passport Holders may enter using [[SmartGate|Smartgate system]].
+|{{yes}}
+|-
+| {{flag|Austria}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AT|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Azerbaijan}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=AZ|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/azerbaijan|  title=Travel Advice and Advisories for Azerbaijan | first=Government of Canada, Global Affairs | last=Canada|website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref><ref>{{cite web | url=https://evisa.gov.az | title=Azerbaijan eVisa}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Canadians with a residence permit issued by one of the [[Gulf Cooperation Council|GCC]] states may obtain a 30-day tourist visa on arrival in Azerbaijan. They must present their valid visa or residence permit along with their passport.<ref>{{Cite web |title=Heydar Aliyev International Airport |url=https://airport.az/en/procedures/international-arrival/}}</ref>
+|{{no}}
+|-
+| {{flag|Bahamas}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BS|accessdate=26 November 2013}}</ref>
+|data-sort-value="240"| 8 months
+|
+* visitors who have items to declare must complete the "C17 Form Accompanied Baggage" before departure.<ref>{{Cite web |title=Exempt - Multipurpose Travel App |url=https://exempt.gov.bs/ |access-date=2026-03-27 |website=exempt.gov.bs}}</ref>
+|{{yes}}
+|-
+| {{flag|Bahrain}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=BH|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.evisa.gov.bh | title=Bahrain eVisa}}</ref>
+| 30 days
+|
+* Nationals of Canada can obtain a visa on arrival for a maximum stay of 1 month. They can apply to extend their stay for an additional 2 weeks.<ref>{{cite web | title=Visa requirements for Canada Nationals Travelling to Bahrain | url=https://www.emirates.com/ae/english/before-you-fly/visa-passport-information/visa-passport-information-results/?widgetheader=visa&nationality=ca&destination=bh | website=Emirates Airlines}}</ref>
+|{{no}}
+|-
+| {{flag|Bangladesh}}
+| data-sort-value="2" {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=BD|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Visa on arrival is available at [[Shahjalal International Airport|Dhaka]], [[Shah Amanat International Airport|Chittagong]], and [[Osmani International Airport|Sylhet]] international airports, pre arrival visa required if arriving by sea or by land border crossing.<ref>{{Cite web |title=Bangladesh High Commission, London |url=https://bhclondon.org.uk/visa-on-arrival |access-date=2025-04-13 |website=bhclondon.org.uk}}</ref>
+* No visa required for Bangladeshi Canadians and their spouse and children with a copy of a former Bangladeshi passport, a Dual Nationality Certificate, NVR, a Bangladeshi NID, or a digital birth registration certificate.
+|{{no}}
+|-
+| {{flag|Barbados}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BB|accessdate=26 November 2013}}</ref>
+|data-sort-value="180"| 6 months
+|
+* Complete an "Immigration/Customs Form" before departure.<ref>{{Cite web |title=Barbados - Online Immigration & Customs Portal |url=https://www.travelform.gov.bb/en |archive-url=https://web.archive.org/web/20260226201042/https://www.travelform.gov.bb/en |archive-date=2026-02-26 |access-date=2026-03-27 |website=Barbados - Online Immigration & Customs Portal |language=en}}</ref>
+|{{yes}}
+|- 
+| {{flag|Belarus}}
+| data-sort-value="0" {{yes|Visa not required / eVisa}}<ref>{{Timatic|nationality=CA|destination=BY|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://e-pasluga.by/en_US/home.html/ | title=Belarus eVisa}}</ref>
+|data-sort-value="30"| 30 days
+| style="background:#FFB; |
+* 30 day visa free access available to travelers that arrive and depart via   Brest (BQT), Gomel (GME), Grodno (GNA), Minsk (MSQ)  [[Minsk International Airport]], Mogilev (MVQ) or Vitebsk (VTB) and are not arriving from or planning to depart to a [[Russian Federation]] airport.<ref>{{cite web|url=http://canada.mfa.gov.by/en/consular_issues/visas/ac39703729cf7873.html|title=Visa-free travel to Belarus via checkpoint "Minsk National Airport" - Embassy of the Republic of Belarus in Canada|website=canada.mfa.gov.by|access-date=12 November 2017|archive-date=13 November 2017|archive-url=https://web.archive.org/web/20171113060240/http://canada.mfa.gov.by/en/consular_issues/visas/ac39703729cf7873.html|url-status=dead}}</ref> Otherwise a visa is required. Visas can be issued on arrival at the [[Minsk International Airport]] if the supporting documents are submitted at least 3 business days before arrival.<ref>{{cite web|url=http://www.mfa.gov.by/en/visa/airport/|title=Particulars of issuance of entry visas at the "National Airport Minsk" - Ministry of Foreign Affairs of the Republic of Belarus|website=www.mfa.gov.by}}</ref>
+* The Canadian government advises its citizens not to visit Belarus due to the risk of arbitrary enforcement of local laws and the [[Russian invasion of Ukraine|armed conflict between Russia and Ukraine]].<ref>{{Cite web |last=Canada |first=Global Affairs |date=June 16, 2023 |title=Travel advice and advisories for Belarus |url=https://travel.gc.ca/destinations/belarus |access-date=August 22, 2023 |website=Travel.gc.ca}}</ref>
+* e-Visa can be issued for 30 days and can be used at all international checkpoints, including road and rail.
+|{{no}}
+|- 
+| {{flag|Belgium}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BE|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Belize}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BZ|accessdate=26 November 2013}}</ref><ref>{{Cite web |last=Canada |first=Global Affairs |date=2012-11-16 |title=Travel advice and advisories for Belize |url=https://travel.gc.ca/destinations/belize |access-date=2024-10-01 |website=Travel.gc.ca}}</ref>
+| 30 days
+|
+* All travelers must complete an arrival form and customs declaration<ref>{{cite web |title=Belize Travel iDeclare Traveller Declaration Form |url=https://belizetravel.immigration.gov.bz/Belize_Digital_Forms/}}</ref>
+|{{no}}
+|-
+| {{flag|Benin}} 
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=BJ}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/benin | title=Travel Advice and Advisories for Benin | first=Government of Canada, Global Affairs | last=Canada|website=Travel.gc.ca|date=16 November 2012|access-date=29 June 2017}}</ref><ref>{{cite web | url=https://evisa.bj | title=Benin eVisa}}</ref>
+|data-sort-value="30"| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Benin. eVisa}}
+* Free 72-hour visa for cruise passengers.<ref>{{cite web |title=Bienvenue au Bénin : Visa gratuit pendant 72h pour les croisiéristes |url=https://www.gouv.bj/article/3180/bienvenue-benin-visa-gratuit-pendant-croisieristes/ |access-date=2025-07-31 |website=Gouvernement de la République du Bénin |language=fr}}</ref>
+
+|{{no}}
+|-
+| {{flag|Bhutan}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=BT|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://immi.gov.bt | title=Bhutan Immigration Services Portal | access-date=2024-12-19 | website=immi.gov.bt}}</ref><ref>{{cite web |title=Bhutan Travel|url=https://bhutan.travel/}}</ref>
+| 90 days
+|
+* May independently obtain an e-Visa for 90 days stay. Visa fee is 40 [[USD]] per person (nonrefundable). Visa application maybe processed within 5 business days.
+{{#section-h::Template:Transcluded sections for the visa articles|Bhutan. SDF}}
+|{{yes}}
+|- 
+| {{flag|Bolivia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BO|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BA|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 6-month period.
+|{{no}}
+|-
+| {{flag|Botswana}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BW|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 1-year period.
+|{{no}}
+|- 
+| {{flag|Brazil}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=BR|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://brazil.vfsevisa.com | title=Brazil eVisa}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Visa requirements reinstated for Nationals of Canada, and Canadian citizens are able to obtain visas online.<ref>{{cite web | title=Visa Requirement Reinstated for Nationals of Australia, Canada and the United States | url=https://www.fragomen.com/insights/brazil-visa-requirement-reinstated-for-nationals-of-australia-canada-and-the-united-states.html | access-date=2025-04-11 | website=Fragomen - Immigration attorneys, solicitors, and consultants worldwide - Brazil: Visa Requirement Reinstated for Nationals of Australia, Canada and the United States | language=en}}</ref>
+|{{no}}
+|-
+| {{flag|Brunei}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BN|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Must obtain an e-arrival card before departure or upon arrival.<ref>{{Cite web |title=Home |url=https://www.imm.gov.bn/ |access-date=2026-03-27 |website=www.imm.gov.bn}}</ref>
+|{{yes}}
+|-
+| {{flag|Bulgaria}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BG|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Burkina Faso}}
+| data-sort-value="1" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=BF|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://applicant.visaburkina.bf | title=Burkina Faso eVisa}}</ref>
+| 
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Burkina Faso due to [[Islamist insurgency in Burkina Faso|the volatile security situation and the high threat of kidnapping, terrorism and armed banditry]] and the instability of the political situation.<ref>{{Cite web |last=Canada |first=Global Affairs |date=2012-11-16 |title=Travel advice and advisories for Burkina Faso |url=https://travel.gc.ca/destinations/burkina-faso |access-date=2023-07-24 |website=Travel.gc.ca}}</ref>
+|{{no}}
+|-
+| {{flag|Burundi}}
+| data-sort-value="1" {{Optional|Online Visa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=BI|accessdate=9 October 2015}}</ref><ref>{{cite web | url=https://migration.gov.bi | title=Burundi migration department}}</ref>
+|data-sort-value="28"| 1 month
+| 
+* From December 2021, passengers of all countries that previously required a visa can now obtain visas on arrival at [[Bujumbura International Airport]] and all land borders.<ref>{{cite tweet|number=1467795755629150208|user=chrisnibas|title=Nationals of all countries requiring visa for #Burundi 🇧🇮, can now just request it upon arrival at Bujumbura Inter…|date=6 December 2021}}</ref>
+|{{yes}}
+|-
+| {{flag|Cambodia}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=KH|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.evisa.gov.kh | title=Cambodia eVisa}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Cambodia introduced the v-Pass (Visitor Pass) on July 1, 2025.<ref>{{Cite web |title=Cambodia e-Arrival |url=https://arrival.gov.kh/ |access-date=2025-09-12 |website=arrival.gov.kh}}</ref>
+|{{no}}
+|-
+| {{flag|Cameroon}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=CM|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/cameroon|title=Travel Advice and Advisories for Cameroon|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|date=16 November 2012|access-date=29 June 2017}}</ref><ref>{{cite web | url=https://www.evisacam.com | title=Cameroon eVisa}}</ref>
+| 
+|
+* Tax for a visa on internal flights has to be obtained upon arrival.
+* Holders of a pre-arranged approval issued by "Le Delegue General de la Surete" can obtain a visa on arrival.
+|{{yes}}
+|-
+| {{flag|Cape Verde}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CV}}</ref><ref>{{cite news | url=https://www.cmjornal.pt/mundo/africa/detalhe/cabo-verde-alarga-isencao-de-vistos-aos-cidadaos-do-brasil-canada-e-estados-unidos | title=Cabo Verde alarga isenção de vistos aos cidadãos do Brasil, Canadá e Estados Unidos | website=www.cmjornal.pt}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Must register online at least five days prior to arrival.<ref>{{cite web | url=https://www.ease.gov.cv | title=EASE}}</ref>
+|{{no}}
+|-
+| {{flag|Central African Republic}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=CF|accessdate=26 November 2013}}</ref>
+| 
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit the Central African Republic due to the [[Central African Republic Civil War|unstable security situation]] activities of armed rebel groups and the high level of  violent crime.<ref>{{cite web|url=https://travel.gc.ca/destinations/central-african-republic|title=Travel Advice and Advisories for Central African Republic|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|date=16 November 2012|access-date=29 June 2017}}</ref>
+* A letter of invitation to the Central African Republic must be applied 2 weeks in advance before the planned date of travel.
+|{{yes}}
+|-
+| {{flag|Chad}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=TD|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/chad | title=Travel Advice and Advisories for Chad | first=Government of Canada, Global Affairs | last=Canada|website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref><ref>{{Cite web |title=e-Visa Tchad |url=https://evisa.td/ |access-date=2024-12-11 |website=evisa.td}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Canadians are now able to apply for an e-Visa to visit Chad as it was introduced recently<ref>{{cite web | last=VisasNews | date=2024-12-11 | title=Chad launches electronic visa system | url=https://visasnews.com/en/chad-launches-electronic-visa-system/ | access-date=2024-12-11 | website=VisasNews | language=en-US}}</ref> 
+* Multiple-entry e-Visa valid for 90 days is 100 [[EUR]].
+|{{yes}}
+|-
+| {{flag|Chile}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CL|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{yes}}
+|-
+| {{flag|People's Republic of China|name=China}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CN|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days
+| 
+* From 17 February 2026 to 31 December 2026, visas are not required for 30 days for business, tourism, family/friends visit, exchange and transit purposes.<ref>{{cite web | url=https://www.fmprc.gov.cn/eng/xw/fyrbt/202602/t20260215_11860467.html | title=Foreign Ministry Spokesperson's Remarks on Including Canada and the UK in the Visa-Free Program}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/china|title=China travel advice|date=2026-10-14}}</ref>
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+* Visa not required for 30 days visiting [[Hainan|Hainan Island]], if arriving directly on the island from outside Mainland China.<ref>{{cite web | url=https://www.travelchinaguide.com/cityguides/hainan/visa-free.htm | title=Hainan Visa Policy}}</ref><ref>{{cite web | url=https://www.moodiedavittreport.com/hainan-allows-visa-free-entry-for-individual-tourists-from-59-countries/ | title=Hainan allows visa-free entry for individual tourists}}</ref> 
+* Visas for Canadian citizens are valid for [[Visa policy of China#Visa Facilitation Agreements|up to 9 years and 11 months]].
+|{{no}}
+|- 
+| {{flag|Colombia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CO|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Extendable up to 180-days stay within a 1-year period.
+* 256,000 Colombian Pesos (equivalent to CAD$85) must be paid upon arrival. Passengers older than 79 years or younger than 14 years are exempt.<ref>{{cite web | url=https://thecitypaperbogota.com/news/colombia-to-charge-entry-fee-to-canadian-visitors-again/#google_vignette | title=Colombia to charge entry fee to Canadian visitors again | date=31 October 2023}}</ref>
+|{{no}}
+|-
+| {{flag|Comoros}}
+| data-sort-value="2" {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=KM|accessdate=26 November 2013}}</ref>
+| 45 days
+|
+* Visa on arrival cost is 30 [[EUR]] or 50 USD.
+|{{no}}
+|-
+| {{flag|Republic of the Congo}} 
+| data-sort-value="3" {{no|Online Visa required}}<ref>{{Timatic|nationality=CA|destination=CG|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/congo-brazzaville | title=Travel Advice and Advisories for Republic of Congo (Brazzaville) | first=Government of Canada, Global Affairs | last=Canada | website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref>
+| 
+|
+* Visas and invitation letters are only approved via tour operators except passengers with a VIP invitation.
+* Travelers must obtain a visa from the Republic of the Congo embassy. However, they can also apply for the visa online at the website of at the Republic of the Congo embassy in France.<ref>{{Cite web |title=Girafe - Ambassade du Congo |url=https://girafe.ambacongofr.org/index.php/externe/default/index |access-date=2025-09-08 |website=girafe.ambacongofr.org}}</ref>
+|{{yes}}
+|-
+| {{flag|Democratic Republic of the Congo}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=CD|accessdate=26 November 2013}}</ref><ref name="Canada">{{cite web|url=https://travel.gc.ca/destinations/congo-kinshasa|title=Travel Advice and Advisories for Democratic Republic of Congo (Kinshasa)|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|date=16 November 2012|access-date=29 June 2017}}</ref><ref>{{cite web | url=https://evisa.gouv.cd | title=DR Congo eVisa}}</ref>
+|data-sort-value="7"| 7 days
+| style="background:#FFB; |
+* Visa on arrival will be issued at [[Ndjili International Airport]] if a letter of invitation (''Visa volant'') given by the Ministry of Interior and Security.
+* The Canadian government advises its citizens not to travel to Democratic Republic of the Congo (DRC) due to the unstable security situation, ongoing armed conflict, terrorism and violent crime.<ref name="Canada"/>
+* Canadians with a prove of being of Democratic Republic of the Congo (DRC) origins or their parents of Democratic Republic of the Congo (DRC) origins can obtain a visa upon arrival for a maximum of 30 days.
+|{{yes}}
+|- 
+| {{flag|Costa Rica}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CR|accessdate=29 August 2026}}</ref>
+|data-sort-value="180"| 180 days
+|
+|{{no}}
+|-
+| {{flag|Côte d'Ivoire}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=CI}}</ref><ref>{{cite web | url=https://snedai.com/e-visa/ | title=CI eVisa}}</ref>
+|data-sort-value="90"| 3 months
+| 
+* e-Visa holders must arrive via [[Port Bouet Airport]].
+|{{no}}
+|-
+| {{flag|Croatia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HR|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|- 
+| {{flag|Cuba}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=CU|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisacuba.cu | title=Cuba eVisa}}</ref>
+|data-sort-value="90"| 90 days
+|
+* e-Visas are included on the ticket price for passengers on direct flights from Canada.
+* Must complete the "D'Viajeros" form within 7 days before departure.<ref>{{Cite web |title=DViajeros |url=https://dviajeros.mitrans.gob.cu/ |archive-url=https://web.archive.org/web/20260216025137/https://dviajeros.mitrans.gob.cu/ |archive-date=2026-02-16 |access-date=2026-03-27 |website=dviajeros.mitrans.gob.cu |language=en}}</ref>
+|{{yes}}
+|-
+| {{flag|Cyprus}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CY|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Czech Republic}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CZ|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Denmark}} and territories
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DK|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 180-day period [https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Visa-free-visits regardless of previous time spent] in other [[Schengen Area|Schengen countries]] (except the other Nordic countries).<ref>{{cite web |url=https://canada.um.dk/en/travel-and-residence/practical-information/visa/bilateral-visa-agreements/ |title=Bilateral visa agreements |publisher=Embassy of Denmark, Canada |access-date=13 April 2020 |archive-date=11 August 2020 |archive-url=https://web.archive.org/web/20200811192854/https://canada.um.dk/en/travel-and-residence/practical-information/visa/bilateral-visa-agreements/ |url-status=dead }}</ref>
+|{{yes}}
+|-
+| {{flag|Djibouti}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=DJ}}</ref><ref>{{cite web | url=https://www.evisa.gouv.dj | title=Djibouti eVisa}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Dominica}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DM|accessdate=26 November 2013}}</ref>
+|data-sort-value="180"| 6 months
+|
+* Visitors must complete a landing card 3 days before departure.<ref>{{Cite web |title=Welcome to Dominica's Online Immigration/Customs Declaration Form - edcard |url=https://edcard.dominica.gov.dm/ |access-date=2026-03-27 |website=edcard.dominica.gov.dm}}</ref>
+|{{no}}
+|-
+| {{flag|Dominican Republic}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DO|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days 
+|
+|{{no}}
+|- 
+| {{flag|Ecuador}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=EC|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|- 
+| {{flag|Egypt}}
+| data-sort-value="1" {{optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=EG|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.visa2egypt.gov.eg | title=Egypt eVisa}}</ref>
+|data-sort-value="30"|30 days 
+|
+* On-arrival visa costs 36 [[USD]] for Single entry visa (Tourism).<ref>{{Cite web |title=Egypt Visa on Arrival |url=https://apps.visaonarrival.gov.eg/en/home.html |access-date=2026-08-24 |website=Egypt Visa on Arrival |language=en}}</ref>
+* According to [[Timatic]], citizens of Canada may enter Egypt without a visa at [[Sharm el-Sheikh Airport|Sharm el-Sheikh]], [[St. Catherine International Airport|Saint Catherine]] or [[Taba Airport|Taba]] airports, for a maximum stay of 15 days.<ref name="timaticweb2.com">{{cite web | url=https://www.timaticweb2.com/integration/external.php?ref=b25123445626e872424db944237b61da | title=PASSPORT AND VISA INFORMATION}}</ref>
+|{{No }}
+|- 
+| {{flag|El Salvador}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SV|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 180 days
+|
+* Part of the [[Central America-4 Border Control Agreement|Central America-4 Free Mobility Agreement]]. One ninety-day extension may be granted if applied five days before the first expires.
+* In the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.
+|{{no}}
+|-
+| {{flag|Equatorial Guinea}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=GQ|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://equatorialguinea-evisa.com/ | title=Equatorial Guinea eVisa}}</ref>
+|
+|
+* e-Visa holders must arrive via [[Malabo International Airport]]. The processing fee is 75 [[USD]].
+|{{yes}}
+|-
+| {{flag|Eritrea}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=ER|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/eritrea | title=Travel Advice and Advisories for Eritrea | first=Government of Canada, Global Affairs | last=Canada | website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref>
+|
+|
+* A tourist visa for Canadian citizens is issued for a stay of 1 month from arrival to Eritrea.
+* Visa on arrival can be obtained only at [[Asmara International Airport]] upon previous authorization from the Government.
+|{{yes}}
+|-
+| {{flag|Estonia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=EE|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Eswatini}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SZ|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days
+|
+|{{no}}
+|-
+| {{flag|Ethiopia}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=ET|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Ethiopia. eVisa/VOA}}
+|{{no}}
+|-
+| {{flag|Fiji}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FJ|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.immigration.gov.fj/visa-exempted-countries/ | title=Fiji Immigration}}</ref>
+|data-sort-value="120"| 4 months
+|
+|{{no}}
+|-
+| {{flag|Finland}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FI|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|France}} and territories
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FR|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]] (in the [[Regions of France]]).
+* A Canadian passport is not required for visa-free travel to the [[French overseas territory]] of [[Saint Pierre et Miquelon]]; an identification document (e.g. [[driver's licence in Canada|driver's licence]] or Secure Certificate of Indian Status) can be used instead.<ref>{{cite web|url=http://www.consulfrance-toronto.org/spip.php?article1725|title=Visas : Saint-Pierre and Miquelon|website=Consulat général de France à Toronto|access-date=29 June 2017|archive-url=https://web.archive.org/web/20121102124427/http://consulfrance-toronto.org/spip.php?article1725|archive-date=2 November 2012|url-status=dead}}</ref><ref>{{cite web | url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024403998 | title=Arrêté du 26 juillet 2011 relatif aux documents et visas exigés pour l'entrée des étrangers sur le territoire de la Guadeloupe, la Guyane, la Martinique, La Réunion et de la collectivité de Saint-Pierre-et-Miquelon (Annexe II) | website=legifrance.gouv.fr | access-date=29 June 2017}}</ref>
+|{{yes}}
+|-
+| {{flag|Gabon}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=GA}}</ref><ref>{{cite web | url=https://evisa.dgdi.ga | title=Gabon eVisa}}</ref>
+|data-sort-value="90"| 90 days
+| 
+* e-Visa holders must arrive via [[Libreville International Airport]].
+|{{no}}
+|-
+| {{flag|Gambia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GM|accessdate=29 August 2026}}</ref>
+|data-sort-value="30"| 30 days
+| Visitors can apply for an additional 30 days extension, but must apply for a residence permit by the 56th day of stay.
+|{{no}}
+|-
+| {{flag|Georgia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GE|accessdate=26 November 2013}}</ref>
+|data-sort-value="365"| 1 year
+|
+|{{no}}
+|-
+| {{flag|Germany}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DE|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Ghana}}
+| data-sort-value="3" {{Yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=GH|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/ghana | title=Travel Advice and Advisories for Ghana | first=Government of Canada, Global Affairs | last=Canada | website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref><ref>{{Cite web |title=Ghana eVisa |url=https://evisa.immigration.gov.gh/}}</ref>
+| 
+|
+* May apply online.<ref>{{Cite web |title=Ghana High Commission Canada |url=https://ottawa.mfa.gov.gh/visaapplicationinfo.aspx#}}</ref>
+* Visitors staying longer than 60 days are required to extend their visas at the [[Ghana Immigration Service|Ghana Immigration Service (GIS)]].
+* Visa applications to be processed within 5 working days.<ref>{{cite web | url=https://visasnews.com/en/ghana-reduces-visa-application-processing-time/ | title= Ghana Visa procssing time}}</ref>
+|{{yes}}
+|- 
+| {{flag|Greece}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GR|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Grenada}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GD|accessdate=26 November 2013}}</ref><ref>{{Cite web |title=Government of Grenada  |url=https://www.gov.gd/ |url-status=live}}</ref>
+|data-sort-value="90"| 3 months
+|
+* Passengers must present an Embarkation/Disembarkation (ED) Form upon arrival. The form can be completed at most 72 hours before departure or upon arrival.<ref>{{Cite web |title=Grenada Online Customs and Immigration Portal |url=https://edcard.gov.gd/en |url-status=live}}</ref>
+|{{no}}
+|- 
+| {{flag|Guatemala}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GT|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Part of the [[Central America-4 Border Control Agreement|Central America-4 Free Mobility Agreement]].
+* In the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.
+|{{no}}
+|-
+| {{flag|Guinea}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=GN}}</ref><ref>{{cite web | url=https://www.paf.gov.gn/visa | title=Guinea eVisa}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Citizens of [[Canada]] who obtain an e-Visa can stay in Guinea for up to 5 years.
+|{{no}}
+|-
+| {{flag|Guinea-Bissau}}
+| data-sort-value="2" {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=GW|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|{{no}}
+|-
+| {{flag|Guyana}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GY|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.minfor.gov.gy/visa-information| title=Guyana Visa Information}}</ref>
+|data-sort-value="90"| 90 days
+|
+* An online Immigration and Customs declaration form before arrival.<ref>{{Cite web |title=Guyana Immigration Form |url=https://ed.gpf.gov.gy/ |access-date=2026-03-27 |website=ed.gpf.gov.gy}}</ref>
+|{{no}}
+|- 
+| {{flag|Haiti}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HT|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 3 months
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Haiti due to [[Gang war in Haiti|high level of kidnapping, violent crime and civil unrest]].<ref>{{cite web | url=https://travel.gc.ca/destinations/haiti | title=Travel advice and advisories for Haiti | date=16 November 2012}}</ref>
+|{{no}}
+|- 
+| {{flag|Honduras}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HN|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 3 months
+|
+* Part of the [[Central America-4 Border Control Agreement|Central America-4 Free Mobility Agreement]].
+* In the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.
+|{{no}}
+|-
+| {{flag|Hungary}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HU|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period regardless of previous time spent in other [[Schengen Area|Schengen countries]].<ref>{{cite web | url=https://ottawa.mfa.gov.hu/eng/page/requirements-for-short-stays-in-hungary | title=Requirements for Short Stays in Hungary | publisher=Embassy of Hungary Ottawa | accessdate=10 April 2021}}</ref>
+|{{yes}}
+|- 
+| {{flag|Iceland}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=IS|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|- 
+| {{flag|India}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=IN|accessdate=26 November 2013}}</ref><ref name="India eVisa">{{cite web | url=https://indianvisaonline.gov.in/visa/tvoa.html | title=India eVisa}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Canadians who are or have been Pakistani nationals or have had ancestors who are or have been Pakistani nationals are required to follow a stringent and longer procedure.<ref name="india.pak1">{{cite web | url=https://www.hciottawa.gov.in/pages?id=12&subid=73 | title=Visa to persons of Pakistani origin|publisher=High Commission of India in Ottawa}}</ref>
+* Canadians who have a defence/military/security/police background(serving/retired) or hold an official/diplomatic passport, are not eligible for e-Visa and must apply for a visa at the embassy.<ref name="India eVisa"/>
+|{{no}}
+|-
+| {{flag|Indonesia}}
+| data-sort-value="1" {{Optional|e-VOA / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=ID|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisa.imigrasi.go.id | title=Indonesia e-VOA | first=Imigrasi | last=Indonesia | access-date=2024-12-19 | website=MOLINA | language=en}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Visa on arrival (IDR 500,000) renewable a maximum of once for 30 days.<ref>{{Cite web |title=WNA – Direktorat Jenderal Imigrasi |url=https://www.imigrasi.go.id/wna/daftar-negara-voa-bvk-calling-visa/daftar-negara-subjek-visa-on-arrival |access-date=2025-07-05 |website=www.imigrasi.go.id}}</ref>
+* All travelers to Indonesia must apply for an Arrival Card online before visiting the archipelago.<ref>{{Cite web |title=All Indonesia |url=https://allindonesia.imigrasi.go.id/ |access-date=2026-03-27 |website=allindonesia.imigrasi.go.id}}</ref>
+|{{no}}
+|- 
+| {{flag|Iran}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=IR|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisatraveller.mfa.ir/en/request/ | title=Iran eVisa}}</ref>
+| 
+| style="background:#FFB; |
+* Canadian citizens who want to travel to Iran, need to do so with a fully organized tour. Applying for an Iranian visa without booking a complete tour from a local travel agency will result in getting rejected by the Iranian Ministry of Foreign Affairs (MFA).
+* Tourists for [[Kish Island|Kish]] and [[Qeshm]] Islands do not require a visa for a total of 14 days.<ref>[[Visa policy of Iran#Kish and Qeshm Islands]]</ref>{{Circular reference|date=July 2021}}
+* The Canadian government advises its citizens not to visit Iran due to  [[2021–2022 Iranian protests|violent civil unrest]] volatile security situation, the regional threat of terrorism and the possibility of arbitrary detention<ref>{{cite web | last=Canada | first=Global Affairs | date=2012-11-16 | title=Travel advice and advisories for Iran | url=https://travel.gc.ca/destinations/iran | access-date=2023-07-24 | website=Travel.gc.ca}}</ref>
+|{{yes}}
+|- 
+| {{flag|Iraq}}
+| data-sort-value="1" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=IQ|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisa.iq | title=Iraq eVisa}}</ref>
+|data-sort-value="30"| 30 days
+| style="background:#FFB; |
+* Canadians may obtain an e-Visa or visa on arrival for up to 30 days to [[Kurdistan Region]].<ref>{{Cite web |title=e-Visa Portal Kurdistan Regional Government |url=https://visit.gov.krd/}}</ref>
+* The Canadian government advises its citizens not to visit Iraq (including [[Iraqi Kurdistan|Kurdistan region]]) due to the [[Iraqi conflict (2003–present)|volatile and unpredictable security situation]] the ongoing thread of terrorism, violent extremism and organized crime.<ref>{{cite web | last=Canada | first=Global Affairs | date=2012-11-16 | title=Travel advice and advisories for Iraq | url=https://travel.gc.ca/destinations/iraq | access-date=2023-07-24 | website=Travel.gc.ca}}</ref>
+|{{no}}
+|-
+| {{flag|Ireland}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=IE|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{yes}}
+|-
+| {{flag|Israel}}
+| data-sort-value="0" {{yes|[[Visa policy of Israel|Electronic Travel Authorization]]}}<ref>{{Timatic|nationality=CA|destination=IL|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://israel-entry.piba.gov.il | title=ETA-IL}}</ref>
+|data-sort-value="90"| 90 days
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Israel due to a [[Arab-Israeli conflict|hostile and unpredictable security situation]].<ref>{{cite web |title=Israel and Palestine Travel Advice |url=https://travel.gc.ca/destinations/israel-and-palestine}}</ref>
+* Entry refused to anyone who "knowingly issues a public call for [[Boycotts of Israel|boycotting Israel]]."<ref>{{cite news | url=http://www.independent.co.uk/news/world/middle-east/israel-travel-ban-boycott-supporters-bds-movement-banned-knesset-vote-settlements-visas-residency-a7616701.html | title=Israel parliament approves travel ban for supporters of BDS movement|date=7 March 2017 | website=The Independent | language=en | access-date=5 January 2020}}</ref>
+|{{yes}}
+|-
+| {{flag|Italy}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=IT|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Jamaica}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=JM|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days (business), 6 months (tourist).<ref>{{Cite web |title=Entry VISA Requirements |url=https://www.pica.gov.jm/immigration/entry-visa-requirements |access-date=2025-05-20 |website=Passport, Immigration and Citizenship Agency}}</ref>
+* Must submit the customs and immigration C5 form before departure or upon arrival.<ref>{{Cite web |title=Electronic C5 {{!}} Passport Immigration and Citizenship Agency (PICA) |url=https://www.enterjamaica.gov.jm/ |access-date=2026-03-27 |website=www.enterjamaica.gov.jm}}</ref>
+|{{no}}
+|-
+| {{flag|Japan}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=JP}}</ref>
+|data-sort-value="90"| 90 days
+|
+| {{yes}}
+|-
+| {{flag|Jordan}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=JO|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://eservices.moi.gov.jo | title=Jordan E-Services}}</ref><ref>{{Cite web |last=Canada |first=Global Affairs |date=2012-11-16 |title=Travel advice and advisories for Jordan |url=https://travel.gc.ca/destinations/jordan#entryexit |access-date=2024-10-01 |website=Travel.gc.ca}}</ref>
+| 30 days
+| 
+* Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except [[Allenby Bridge|King Hussein/Allenby Bridge]])
+|{{no}}
+|-
+| {{flag|Kazakhstan}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KZ|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://canada.kazakhservicecentre.com/content/general-information-about-kazakhstan-visa-requirements|title=General Information About Kazakhstan Visa Requirements|access-date=10 August 2020}}</ref>
+|data-sort-value="30"| 30 days
+|
+|{{no}}
+|-
+| {{flag|Kenya}}
+| data-sort-value="0" {{yes|[[Visa policy of Kenya|Electronic Travel Authorisation]]}}<ref>{{Timatic|nationality=CA|destination=KE}}</ref><ref>{{cite web | url=https://www.etakenya.go.ke | title=Kenya eTA}}</ref>
+|data-sort-value="90"| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Kenya. eTA}}
+* Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda.<ref name="migration.gov.rw">{{cite web | url=https://www.migration.gov.rw/visa/visitors-visa | title=Visitors visa - East African tourist visa}}</ref>
+|{{no}}
+|-
+| {{flag|Kiribati}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KI|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* May not exceed 90 days within any given 12 months period.
+|{{no}}
+|-
+| {{flag|North Korea}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=KP|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/korea-north-dprk | title=Travel Advice and Advisories for Korea, North (DPRK)|first=Government of Canada, Global Affairs | last=Canada | website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref>
+|
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit North Korea due to the possibility of arbitrary detention, and uncertain security situation caused by its [[North Korea and weapons of mass destruction|nuclear weapons development program]] and highly repressive regime.<ref>{{cite web | url=https://travel.gc.ca/destinations/north-korea | title=North Korea | date=March 18, 2026 | access-date=March 24, 2026}}</ref>
+* Visitors traveling for tourist purposes have to hold an authorization to travel, issued by a travel company in North Korea (Dem. People's Rep.).
+* Independent travelers must be escorted by a tour guide at all times.
+| {{yes}}
+|-
+| {{flag|South Korea}}
+| data-sort-value="0" {{yes|[[Visa policy of South Korea#Visa-free entry (K-ETA: Korea Electronic Travel Authorization)|Electronic Travel Authorization]]}}<ref>{{Timatic|nationality=CA|destination=KR|accessdate=26 November 2013}}</ref><ref>{{cite web | url=http://www.k-eta.go.kr | title=K-ETA}}</ref>
+|data-sort-value="180"| 6 months
+|
+* South Korea extends K-ETA exemption for Canadians until December 31, 2026.<ref>{{Cite web |last=VisasNews |date=2025-12-24 |title=South Korea confirms extension of K-ETA exemption until December 31, 2026 |url=https://visasnews.com/en/south-korea-confirms-extension-of-k-eta-exemption-until-december-31-2026/ |access-date=2025-12-24 |website=VisasNews |language=en-US}}</ref><ref>{{Cite web |title=Welcome - K-ETA |url=https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707 |access-date=2025-12-24 |website=www.k-eta.go.kr}}</ref>
+* Canadian Travelers must be in possession of a Korea Electronic Travel Authorization (K-ETA) to enter Korea visa-free, which can be completed up to 24 hours before boarding a flight, The validity period of a K-ETA is 3 years from the date of approval.<ref>{{cite web | url=https://www.k-eta.go.kr/portal/guide/viewetaapplication.do | title=K-ETA Application Guide}}</ref>
+|{{yes}}
+|-
+| {{flag|Kuwait}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=KW}}</ref><ref>{{cite web | url=https://kuwaitvisa.moi.gov.kw/ | title=Kuwait eVisa}}</ref>
+|data-sort-value="90"| 3 months
+|
+|{{no}}
+|-
+| {{flag|Kyrgyzstan}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KG|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days
+|
+* A single or multiple tourist or business e-Visa for 90 days is also available<ref>{{cite web | url=https://evisa.e-gov.kg | title=Kyrgyzstan eVisa}}</ref>
+|{{no}}
+|-
+| {{flag|Laos}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=LA|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days 
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|{{no}}
+|-
+| {{flag|Latvia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LV|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|- 
+| {{flag|Lebanon}}
+| data-sort-value="0" {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=CA|destination=LB|accessdate=26 November 2013}}</ref><ref>{{Cite web |date=September 29, 2024 |title=Travel advice and advisories by destination -Lebanon |url=https://travel.gc.ca/destinations/lebanon |website=Lebanon, General Directorate of General Security}}</ref><ref>{{Cite web|title=Lebanon, General Directorate of General Security |url=https://www.general-security.gov.lb/en/posts/38 |website=Lebanon, General Directorate of General Security}}</ref><ref>{{Cite web|title=Lebanon travel advice |url=https://travel.gc.ca/destinations/lebanon |website=Government of Canada}}</ref>
+|data-sort-value="30"| 1 Month 
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Lebanon due to ongoing military activity.<ref>{{cite web |title=Lebanon Travel Advice |url=https://travel.gc.ca/destinations/lebanon |access-date=24 March 2026}}</ref>
+* Extendable for 2 additional months; granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non-refundable return or circle trip ticket.
+|{{no}}
+|-
+| {{flag|Lesotho}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LS|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|{{no}}
+|- 
+| {{flag|Liberia}}
+| data-sort-value="2" {{yes2|e-VOA}}<ref>{{Timatic|nationality=CA|destination=LR|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://visaonarrival.lis.gov.lr | title=Liberia e-VOA}}</ref>
+| 3 months
+|
+* Travelers can pre-apply for the visa online through a dedicated portal allows them to obtain a Visa upon arrival in Liberia if there is no embassy in their home country. But if there is a Liberian embassy in your country, you are required to apply for your visa directly at the embassy and not through this portal. 
+* Currently available only upon arrival at [[Roberts International Airport]] (ROB) in Monrovia.
+|{{yes}}
+|-
+| {{flag|Libya}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=LY|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisa.gov.ly | title=Libya eVisa}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/libya | title=Travel Advice and Advisories for Libya | first=Government of Canada, Global Affairs | last=Canada|website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref>
+| 30 days
+| style="background:#FFB; |
+* Tourist e-Visa is valid for 90 days and good for single entry, it allows applicants from most countries to stay no more than 30 days by paying a 63 USD fee.
+* The Canadian government advises its citizens not to travel to Libya due to [[Libyan Crisis (2011–present)|ongoing conflict]] and the threat of terrorism and kidnapping. Canadians currently in Libya are strongly advised to depart immediately.<ref>{{Cite web |last=Canada |first=Global Affairs |date=2012-11-16 |title=Travel advice and advisories for Libya |url=https://travel.gc.ca/destinations/libya |access-date=2025-04-11 |website=Travel.gc.ca}}</ref>
+|{{yes}}
+|-
+| {{flag|Liechtenstein}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LI|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Lithuania}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LT|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Luxembourg}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LU|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Madagascar}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MG}}</ref><ref>{{cite web | url=https://evisamada-mg.com/fr/home | title=Madagascar eVisa}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* For durations of less than 15 days, the visa fee is free, but an administrative fee of 30 [[EUR]] (35 USD) has to be paid.
+* 30 days - 35 EUR / 41 USD
+* 60 days - 40 EUR / 47 USD
+* 90 days - 50 EUR / 59 USD
+|{{no}}
+|-
+| {{flag|Malawi}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MW|accessdate=5 October 2015}}</ref><ref>{{cite web | url=https://www.facebook.com/malawigovernment/posts/the-malawi-government-has-revised-its-visa-regime-effective-3-january-2026-under/1328836715949823/ | title=Immigration amendment regulations 2026}}</ref><ref>{{Cite web|url=https://evisa.gov.mw/Index|title=Malawi e-Visa System &#124; The Official e-Visa Application Portal of Malawi &#124; Department of Immigration and Citizenship Services|website=evisa.gov.mw}}</ref>
+| 30 days
+|
+|{{no}}
+|-
+| {{flag|Malaysia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MY|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 3 months
+|
+* The electronic Malaysia Digital Arrival Card must be submitted within three days before the date of arrival in Malaysia.<ref>{{cite web | title=Malaysia Digital Arrival Card | url=https://imigresen-online.imi.gov.my/mdac/main}}</ref>
+|{{no}}
+|-
+| {{flag|Maldives}}
+| data-sort-value="0" {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MV|accessdate=26 November 2013}}</ref><ref>{{Cite web |title=Maldives Immigration|url=https://www.immigration.gov.mv/tourist-visa/}}</ref><ref>{{Cite web |title=Maldives IMUGA|url=https://imuga.immigration.gov.mv/}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Extendable stay.
+|{{no}}
+|-
+| {{flag|Mali}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=ML|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/mali|title=Travel Advice and Advisories for Mali|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|date=16 November 2012|access-date=29 June 2017}}</ref>
+|
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Mali due to the threat of terrorism, kidnapping, banditry and [[Mali War|unpredictable security situation]].<ref>{{cite web | url=https://travel.gc.ca/destinations/mali | title=Travel advice and advisories for Mali | date=16 November 2012 }}</ref>
+* An average processing time for a tourist visa to Mali is around 3-15 working days.<ref>{{cite web | url=https://ambamali.ca/en/ | title=Embassy of Mali in Canada | date=25 May 2025 }}</ref><ref>{{cite web | url=https://diplomatiemdc.gouv.ml/vitrine/ | title=MOFA Mali | date=25 May 2025 | access-date=25 May 2025 | archive-date=20 March 2019 | archive-url=https://web.archive.org/web/20190320104058/http://diplomatie.ml/?page_id=5522 | url-status=dead }}</ref>
+|{{yes}}
+|-
+| {{flag|Malta}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MT|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Marshall Islands}}
+| data-sort-value="2" {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MH|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.rmiocit.org/visa-requirements | title= Summary of countries entitled for visa exemption/waiver or visitor visa on arrival | work=Republic of the Marshall Islands, Ministry of Justice, Immigration & Labor, Division of Immigration| date=May 2018 | access-date=6 January 2019}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Mauritania}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=MR|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://anrpts.gov.mr/en | title=Mauritania eVisa}}</ref>
+|data-sort-value="30"| 30 days
+|
+* As of Jan 5th 2025 will be able to apply for an e-Visa.
+* e-Visa available for 30, 90, 360 or 720 days duration.
+* After getting the visa approval a QR code has to be printed, presented to the security personnel and fees must be paid upon arrival in Mauritania cost of [[USD]] 60 for a 30 days e-visa.
+|{{no}}
+|-
+| {{flag|Mauritius}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MU|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 180 days per calendar year for tourism, 120 days per calendar for business<ref>{{cite web |title=Visa policy of Mauritius |url=https://passport.govmu.org/passport/?page_id=605}}</ref>
+|{{no}}
+|- 
+| {{flag|Mexico}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MX|accessdate=26 November 2013}}</ref>
+|data-sort-value="180"| 180 days 
+|
+* Actual permitted duration of stay is decided on arrival by border agents, and is often shorter than 180 days
+|{{no}}
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FM|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days
+|
+|{{no}}
+|-
+| {{flag|Moldova}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MD|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 180-day period.
+|{{no}}
+|-
+| {{flag|Monaco}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MC|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+| 
+* 90 days within any 180-day period.
+* Monaco does not have a visa policy of its own and the [[Visa policy of the Schengen Area|Schengen visa policy]] applies.
+|{{yes}}
+|-
+| {{flag|Mongolia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MN|accessdate=5 August 2014}}</ref><ref>{{cite web | url=https://en.consul.mn/visa/c/83 | title=Mongolia Visa Policy}}</ref>
+|data-sort-value="30"| 30 days
+|
+|{{no}}
+|-
+| {{flag|Montenegro}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ME|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 180-day period.
+|{{no}}
+|-
+| {{flag|Morocco}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MA|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.acces-maroc.ma | title=Morocco eVisa}}</ref>
+|data-sort-value="90"| 3 months
+|
+|{{no}}
+|-
+| {{flag|Mozambique}}
+| data-sort-value="0" {{yes|Electronic Travel Authorization}}<ref>{{Timatic|nationality=CA|destination=MZ|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisa.gov.mz | title=Mozambique eVisa}}</ref>
+|data-sort-value="30"| 30 days 
+| 
+* Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.
+|{{no}}
+|-
+| {{flag|Myanmar}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=MM}}</ref><ref>{{cite web | url=https://evisa.moip.gov.mm | title=Myanmar eVisa}}</ref>
+|data-sort-value="28"| 28 days
+| style="background:#FFB; |
+* e-Visa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+* e-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+* The Canadian government advises its citizens not to visit Myanmar due to [[Myanmar civil war (2021–present)|ongoing civil unrest and armed conflict]].<ref>{{Cite web |last=Canada |first=Global Affairs |date=2012-11-16 |title=Travel advice and advisories for Myanmar |url=https://travel.gc.ca/destinations/myanmar |access-date=2023-07-24 |website=Travel.gc.ca}}</ref>
+|{{no}}
+|-
+| {{flag|Namibia}}
+| data-sort-value="1" {{Optional| eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=NA|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://eservices.mhaiss.gov.na/ | title=Namibia Online Visa}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Can obtain a visa upon arrival at [[Hosea Kutako International Airport]], [[Walvis Bay International Airport]] and main land border crossings.<ref>{{cite web |last1=Global Affairs Canada |title=Travel advice and advisories for Namibia |url=https://travel.gc.ca/destinations/namibia |website=Travel.gc.ca |access-date=29 August 2026 |date=16 November 2012}}</ref>
+|{{no}}
+|-
+| {{flag|Nauru}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=NR|accessdate=13 May 2015}}</ref>
+| 
+|
+* Criminal record and medical fitness certificates are not required for Canadian citizens.<ref>{{cite web|url=http://www.paclii.org/nr/legis/sub_leg/ia2014ir2014385.pdf|title=Immigration Regulations 2014 SL No. 2 of 2014|website=paclii.org|access-date=29 June 2017}}</ref>
+* Visa Issuance: Passengers with an entry permit letter (visa letter) issued by Nauru. Applications can be submitted via email before departure
+|{{yes}}
+|-
+| {{flag|Nepal}}
+| data-sort-value="1" {{Optional|Online Visa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=NP|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://nepaliport.immigration.gov.np | title=Nepal Online Visa}}</ref>
+|data-sort-value="90"| 90 days
+|
+* May obtain a visa on arrival which is good for multiple entries and allows visitor to stay for no more than 15, 30 or 90 days. 
+* May obtain a visa through kiosks at the airport.
+|{{no}}
+|- 
+| {{flag|Netherlands}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NL|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|New Zealand}}
+| data-sort-value="0" {{yes|[[New Zealand Electronic Travel Authority|Electronic Travel Authority]]}}<ref>{{Timatic|nationality=CA|destination=NZ|accessdate=1 October 2019}}</ref><ref>{{cite web | title=E2.1 People to whom a visa waiver applies|website=immigration.govt.nz| publisher=[[Immigration New Zealand]] | date=July 1, 2019 | url=https://www.immigration.govt.nz/opsmanual/#46511.htm}}</ref>
+|data-sort-value="90"| 3 months
+|
+* May enter using [[SmartGate|eGate]].<ref name="NZ eGate">{{cite web | url=https://www.customs.govt.nz/personal/travel-to-and-from-nz/travelling-to-nz/egate/ | title=eGate |website=customs.govt.nz | publisher=New Zealand Customs Service |access-date=5 February 2021 | archive-date=15 April 2021 | archive-url=https://web.archive.org/web/20210415180039/https://www.customs.govt.nz/personal/travel-to-and-from-nz/travelling-to-nz/egate/ | url-status=dead }}</ref> 
+* [[International Visitor Conservation and Tourism Levy]] must be paid upon requesting an Electronic Travel Authority.<ref name="NZ IVL">{{cite web | url=https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/your-journey-to-new-zealand/before-you-travel-to-new-zealand/paying-ivl | title=Paying the International Visitor Conservation and Tourism Levy | website=immigration.govt.nz |publisher=Immigration New Zealand | access-date=1 February 2021 | quote=Many tourists, people on working holidays, and some students and workers coming to New Zealand must pay an International Visitor Conservation and Tourism Levy (IVL) of NZD $35.}}</ref> 
+* Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the [[Trans-Tasman Travel Arrangement]]), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.<ref name="Australian Resident Visa">{{cite web | url=https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/visa-factsheet/australian-resident-visa |title=Information about: Australian Resident Visa |website=immigration.govt.nz | publisher=Immigration New Zealand | access-date=21 May 2020 |quote=Australian citizens and permanent residents can visit, work and live in New Zealand. You do not need a visa before you travel to New Zealand.}}</ref>  Such travelers are not required to pay the International Visitor Conservation and Tourism Levy.<ref name="NZ IVL" />
+|{{yes}}
+|- 
+| {{flag|Nicaragua}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NI|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* All visitors must pay 10 USD in cash for a tourist entry stamp upon arrival (exact change is recommended.). The stamp is valid for up to 90 days.
+* Part of the [[Central America-4 Border Control Agreement|Central America-4 Free Mobility Agreement]].
+* In the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.
+|{{no}}
+|-
+| {{flag|Niger}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=NE|accessdate=26 November 2013}}</ref>
+|
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Niger due to [[2023 Nigerien crisis|political instability]] and the risk of terrorism and kidnapping.<ref>{{cite web | last=Canada | first=Global Affairs | date=2012-11-16 |title=Travel advice and advisories for Niger | url=https://travel.gc.ca/destinations/niger | access-date=2023-07-24 | website=Travel.gc.ca}}</ref>
+* Visa on arrival at [[Diori Hamani International Airport]] if a letter of invitation ('Visa Volant') issued by the [[Ministry of Interior, Public Safety and Decentralization (Niger)|Ministry of Interior]] is honored.
+|{{yes}}
+|-
+| {{flag|Nigeria}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=NG|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/nigeria|title=Travel Advice and Advisories for Nigeria|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|date=16 November 2012|access-date=29 June 2017}}</ref><ref>{{cite web | url=https://evisa.immigration.gov.ng/ | title=Nigeria eVisa}}</ref>
+|data-sort-value="30"| 30 days
+|
+* All you need to know about Nigeria Immigration Services.<ref>{{cite web | title=Nigeria Immigration Services | url=https://immigration.gov.ng/}}</ref>
+* Holders of written e-Visa approval issued by the Immigration Authority can obtain a visa on arrival for Business, provided they hold a visa application form and e-Visa application payment receipt and have an invitation letter from a Nigerian company accepting immigration responsibilities.<ref>{{Cite web|url=https://portal.immigration.gov.ng/VisaArrivalProgram/freshVisaOnArrivalProgram|title=The Nigeria Immigration Service|website=portal.immigration.gov.ng}}</ref>
+* Visa not required for Nigerian-born citizens.
+|{{yes}}
+|-
+| {{flag|North Macedonia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MK|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Norway}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NO|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 3 months
+|
+* 3 months within any 6-month period, regardless of previous time spent in other [[Schengen Area|Schengen countries]], but including time spent in other Nordic countries.<ref>{{cite web|url=https://www.udiregelverk.no/en/documents/udi-guidelines/udi-2010-080/ |title=UDI 2010-080 Bortvisningspraksis for borgere fra stater Norge har inngått bilaterale visumfrihetsavtaler med |publisher=Norwegian Directorate of Immigration |date=28 November 2019 |language=no}}</ref><ref>{{cite web|url=https://www.udiregelverk.no/en/documents/udi-guidelines/udi-2010-080/udi-2010-080v1/ |title=UDI 2010-080V1 Liste over visumfrie borgere som er omfattet |publisher=Norwegian Directorate of Immigration |date=28 November 2019 |language=no}}</ref>
+|{{yes}}
+|-
+| {{flag|Oman}}
+| data-sort-value="0" {{yes|Visa not required / eVisa}}<ref>{{Timatic|nationality=CA|destination=OM}}</ref><ref>{{cite web | url=https://evisa.rop.gov.om | title=Oman eVisa}}</ref>
+|data-sort-value="14"| 14 days / 30 days
+|
+* Visa exemption valid for 14 days, evisa for 30 days<ref>{{Cite web |title=Oman Visa Policy |url=https://www.fm.gov.om/visitors/entry-visas/}}</ref>
+* Holders of a visa or entrance stamp of the [[Emirate of Dubai]] that is valid for at least 21 days are visa exempt.
+* Holders of a visa for [[Qatar]] that is valid for travel to Oman and valid for at least one month are visa exempt when arriving directly from Qatar.
+|{{no}}
+|-
+| {{flag|Pakistan}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=PK}}</ref><ref>{{cite web | url=https://visa.nadra.gov.pk | title=Pakistan Online Visa}}</ref>
+| 3 months
+|
+|{{no}}
+|-
+| {{flag|Palau}}
+| data-sort-value="0" {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=CA|destination=PW|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.palaugov.pw/ | title=Palau Government website}}</ref><ref>{{cite web | url=https://pristineparadisepalau.com/ | title=Palau Visitors Authority}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Extendable stay by twice only with a fee.
+* Passengers must submit the Palau Entry Form at most 72 hours before departure.<ref>{{cite web | url=https://palautravel.pw/entryform.html | title=Palau Entry Form}}</ref>
+|{{no}}
+|-
+| {{flag|Panama}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PA|accessdate=26 November 2013}}</ref>
+|data-sort-value="180"| 180 days
+|
+|{{no}}
+|-
+| {{flag|Papua New Guinea}}
+| data-sort-value="2" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=pg}}</ref><ref>{{cite web | url=https://evisa.ica.gov.pg/evisa/account/Apply | title=PNG Easy Visitor Permit}}</ref><ref>{{cite web | url=https://visaguide.world/news/uk-canada-singapore-passport-holders-now-eligible-for-visa-on-arrival-in-papua-new-guinea/| title=UK, Canada & Singapore Passport Holders Now Eligible for Visa-on-Arrival in Papua New Guinea| date=5 March 2025}}</ref>
+|data-sort-value="60"| 60 days
+|
+* Visa on arrival is only available at [[Port Moresby Airport]].<ref>{{cite web | title=Visa on Arrival - ICA | url=https://ica.gov.pg/visa-information/visa-on-arrival |access-date=2025-08-02}}</ref>
+* Available at [[Gurney Airport|Gurney Airport (Alotau)]], [[Mount Hagen Airport]], [[Port Moresby Airport]] and [[Rabaul Airport|Tokua Airport (Rabaul)]].<ref>{{cite web |title=PNG ICSA |url=https://ica.gov.pg/}}</ref>
+|{{yes}}
+|-
+| {{flag|Paraguay}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PY|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+| 
+|{{no}}
+|-
+| {{flag|Peru}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PE|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|- 
+| {{flag|Philippines}}
+| data-sort-value="0" {{yes|Visa not required}}
+|data-sort-value="30"| 30 days
+|
+* For longer periods, a visa extension is available once inside the country from the Bureau of immigration.<ref>{{Cite web |title=Home |url=https://immigration.gov.ph/ |access-date=2025-05-11 |website=Bureau of Immigration Philippines |language=en-US}}</ref>
+* Arriving  foreign passengers should register at The eTravel System.<ref>{{Cite web |title=The eTravel System |url=https://etravel.gov.ph/ |access-date=2025-05-27 |website=Philippine Travel Information System |language=en-US}}</ref>
+|{{no}}
+|- 
+| {{flag|Poland}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PL|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Portugal}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PT|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Qatar}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=QA}}</ref>
+|data-sort-value="30"| 30 days
+|
+|{{yes}}
+|-
+| {{flag|Romania}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=RO|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Russia}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=RU|accessdate=25 August 2016}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/russia|title=Travel Advice and Advisories for Russia|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|date=16 November 2012|access-date=29 June 2017}}</ref><ref>{{cite web | url=https://evisa.kdmid.ru/ | title=Russia eVisa}}</ref>
+|
+| style="background:#FFB; |
+* Cruise ship passengers cruising in and out of a Russian port within 72 hours, who spend each night on board, and who only leave the ship on tours organized by the cruise company, do not require a tourist visa.<ref>{{cite web|title=Information For Cruise Ship Passengers|url=http://petersburgcity.com/for-tourists/visa/cruises/|website=Petersburg CITY|access-date=2 March 2016}}</ref>
+* The Canadian government advises its citizens not to visit Russia due to the [[Russian invasion of Ukraine]].<ref>{{Cite web |last=Canada |first=Global Affairs |date=2012-11-16 |title=Travel advice and advisories for Russia |url=https://travel.gc.ca/destinations/russia |access-date=2023-07-24 |website=Travel.gc.ca}}</ref>
+* Process of tourist visas for stays with a period of 30 days is required.
+* Canadians with a valid visa issued by Belarus can enter the Russian Fed visa free and the Belarusian visa must be valid for the period of intended stay in The Russian Fed.
+* May apply online and then submit all the documents at the embassy to get the visa<ref>{{Cite web |title=Completion of electronic visa application form to Russia |url=https://visa.kdmid.ru/PetitionChoice.aspx |access-date=2025-04-02 |website=visa.kdmid.ru}}</ref>
+|{{yes}}
+|-
+| {{flag|Rwanda}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=RW}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Can also be entered on an East Africa tourist visa issued by Kenya or Uganda.<ref name="migration.gov.rw" />
+|{{no}}
+|-
+| {{flag|Saint Kitts and Nevis}}
+| data-sort-value="0" {{yes|[[Visa policy of Saint Kitts and Nevis|Electronic Travel Authorisation]]}}<ref>{{Timatic|nationality=CA|destination=KN|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.knatravelform.kn/en | title=Saint Kitts and Nevis eTA}}</ref>
+|data-sort-value="180"| 6 months
+|
+|{{no}}
+|-
+| {{flag|Saint Lucia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LC|accessdate=26 November 2013}}</ref>
+|data-sort-value="42"| 6 weeks
+|
+* Must present an Immigration Form upon arrival can be completed before departure or upon arrival<ref>{{Cite web |title=Saint Lucia Online Customs and Immigration Portal |url=https://travelslu.govt.lc/en |url-status=live}}</ref>
+|{{no}}
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=VC}}</ref>
+|data-sort-value="30"| 30 days
+| Can be extended up to 1 year, permitting the discretion of local immigration authorities.
+|{{no}}
+|-
+| {{flag|Samoa}}
+| data-sort-value="2" {{yes-no|Entry permit on arrival}}<ref>{{Timatic|nationality=CA|destination=WS|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.mfat.gov.ws/visas/ | title=Samoa MOFA}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{yes}}
+|-
+| {{flag|San Marino}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SM|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|{{yes}}
+|-
+| {{flag|São Tomé and Príncipe}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ST|accessdate=25 August 2015}}</ref>
+|data-sort-value="15"| 15 days
+|
+|{{no}}
+|- 
+| {{flag|Saudi Arabia}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=SA}}</ref><ref>{{cite web | url=https://visa.visitsaudi.com | title=Saudi Arabia eVisa}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Non-Muslim residents might be prohibited from visiting [[Mecca]] and its holy sites. Other religious places may also be restricted to Non-Muslim people.
+|{{no}}
+|-
+| {{flag|Senegal}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SN}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Serbia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=RS|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Seychelles}}
+| data-sort-value="0" {{yes|Electronic Border System}}<ref>{{cite web | url=https://seychelles.govtas.com | title=Seychelles Electronic Border System}}</ref>
+|data-sort-value="90"| 3 months
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Seychelles. SEBS}}
+|{{no}}
+|-
+| {{flag|Sierra Leone}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=SL|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisa.sl | title=Sierra Leone eVisa}}</ref>
+|data-sort-value="90"| 3 months / 30 days
+|
+|{{no}}
+|-
+| {{flag|Singapore}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SG|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Submitting the SG Arrival Card (SGAC) before arrival is must via the mobile application or the website.<ref>{{Cite web |title=Singapore Arrival Card (SGAC) |url=https://eservices.ica.gov.sg/sgarrivalcard/ |url-status=live}}</ref>
+|{{yes}}
+|-
+| {{flag|Slovakia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SK|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Slovenia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SI|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Solomon Islands}}
+| data-sort-value="0" {{yes-no|Free Visitor's permit on arrival}}<ref>{{Timatic|nationality=CA|destination=SB|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 3 months
+|
+* 3 months with any 1-year period.
+|{{yes}}
+|-
+| {{flag|Somalia}}
+| data-sort-value="1" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=SO}}</ref><ref>{{cite web | url=https://etas.gov.so/ | title=Somalia eTAS}}</ref>
+| 30 days
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Somalia including [[Somaliland]] due to [[Somali Civil War (2009–present)|significant threat from terrorism, kidnapping, armed conflict and a high level of violent crime]], extremely volatile security situation and high threat of domestic terrorism.<ref>{{cite web |last=Canada | first=Global Affairs | date=2012-11-16 | title=Travel advice and advisories for Somalia | url=https://travel.gc.ca/destinations/somalia | access-date=2023-07-24 | website=Travel.gc.ca}}</ref>
+|{{no}}
+|-
+| {{flag|South Africa}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ZA|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* South Africa's ETA portal is now accessible, but not yet '''functional.'''<ref>{{cite web |title=South African ETA - Apply for an Electronic Travel Authorisation |url=https://eta.dha.gov.za/ |access-date=2025-10-29 |website=eta.dha.gov.za}}</ref>
+|{{no}}
+|-
+| {{flag|South Sudan}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=SS}}</ref><ref>{{cite web | url=https://www.evisa.gov.ss | title=South Sudan eVisa}}</ref>
+|
+| style="background:#FFB; |
+{{#section-h::Template:Transcluded sections for the visa articles|South Sudan. eVisa}}
+* The Canadian government advises its citizens not to visit South Sudan due to [[South Sudanese Civil War|ongoing armed conflict]], inter-ethnic violence and high levels of violent crime.<ref>{{cite web | date=2012-11-16 | title=Travel advice and advisories for South Sudan | url=https://travel.gc.ca/destinations/south-sudan | access-date=2023-07-24 | website=Travel.gc.ca}}</ref>
+|{{no}}
+|-
+| {{flag|Spain}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ES|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Sri Lanka}}
+| data-sort-value="0" {{Optional|{{sort|Electronic Travel Authorization|[[Visa policy of Sri Lanka#Electronic Travel Authorization|Electronic Travel Authorization]]}} / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=LK|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://eta.gov.lk/slvisa/ | title=LK ETA}}</ref>
+| 30 days
+|
+* Electronic Travel Authorization subject to granting/issuing.
+* With effect from 05.25.2026, Canadian nationals are eligible to obtain tourist visa (ETA) free-of-charge for a period of 30 days.
+|{{no}}
+|-
+| {{flag|Sudan}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=SD|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/sudan | title=Travel Advice and Advisories for Sudan | first=Government of Canada, Global Affairs | last=Canada|website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref>
+|
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Sudan due to [[Sudanese civil war (2023–present)|armed conflict, civil unrest, terrorism and kidnapping]], the volatile security situation.<ref>{{cite web | last=Canada | first=Global Affairs | date=2012-11-16 | title=Travel advice and advisories for Sudan | url=https://travel.gc.ca/destinations/sudan | access-date=2023-07-24 | website=Travel.gc.ca}}</ref>
+* [[Khartoum International Airport]] is closed and options for leaving Sudan are extremely limited. There may be ongoing disruptions to critical infrastructure and essential services.
+* Visa on arrival if holding letter of invitation registered in Sudan with a pre-approval from the [[Ministry of Foreign Affairs (Sudan)]].
+* Can obtain a visa upon arrival if married to a national of Sudan or prove that are of Sudanese origins from the father's side.
+
+|{{yes}}
+|-
+| {{flag|Suriname}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SR}}</ref><ref>{{cite web | url=https://suriname.vfsevisa.com/suriname/online/home/index | title=Suriname eVisa}}</ref>
+|data-sort-value="90"| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Suriname. Information}}
+|{{no}}
+|-
+| {{flag|Sweden}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SE|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|-
+| {{flag|Switzerland}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CH|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days 
+| 
+* 90 days within any 180-day period in the [[Schengen Area]].
+|{{yes}}
+|- 
+| {{flag|Syria}}
+| data-sort-value="0" {{No|Visa required}}<ref>{{Timatic|nationality=CA|destination=SY|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/syria | title=Travel Advice and Advisories for Syria | first=Government of Canada, Global Affairs | last=Canada|website=Travel.gc.ca| date=16 November 2012 | access-date=29 June 2017}}</ref><ref>{{cite web | url=https://evisa.sy | title=Syria eVisa}}</ref>
+| 
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Syria due to the [[Syrian civil war|ongoing armed conflict]], terrorism, criminality, arbitrary detention, torture and forced disappearance.<ref>{{cite web | url=https://travel.gc.ca/destinations/syria | title=Syria | date=16 November 2012 | access-date=5 October 2019}}</ref>
+*Canadians that were born in Algeria, Jordan, Lebanon, Mauritania, Morocco, Somalia, Sudan, Syria, Tunisia, Yemen or [[Gulf Cooperation Council|GCC]] member state do not need a visa.
+*Canadians of Syrian origin don't need a visa, they must have a proof.
+*Canadians with a residence permit issued by [[Gulf Cooperation Council|GCC]] member state or Lebanon, can obtain a visa upon arrival. They must have a valid address in Syria, a contact number and sufficient funds to cover their stay.
+* Nationals of countries without any Syrian representation can obtain a visa on arrival.
+* Syria Visa Fees is 100 [[USD]] for Tourism duration of 1 month single entry.<ref>{{Cite web |date=2025-02-20 |title=Syria Visa Fees 2025 - Syrian Guides |url=https://syrianguides.com/syria-visa-fees-2025/ |access-date=2025-09-12 |language=en-US}}</ref>
+|{{yes}}
+|-
+|{{flag|Taiwan}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TW|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Taiwan Arrival Card<ref>{{Cite web |title=Online Arrival Card |url=https://twac.immigration.gov.tw/ |archive-url=https://web.archive.org/web/20250607232115/https://twac.immigration.gov.tw/ |archive-date=7 June 2025 |access-date=2025-07-03 |website=twac.immigration.gov.tw |language=zh-Hant |url-status=live }}</ref>
+|{{yes}}
+|-
+| {{flag|Tajikistan}}
+| data-sort-value="0" {{yes|Visa not required / eVisa}}<ref>{{Timatic|nationality=CA|destination=TJ|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 30 days / 60 days
+|
+* e-Visa also available.<ref>{{cite web | url=https://www.evisa.tj | title=Tajikistan eVisa}}</ref>
+* e-Visa holders can enter through all border points.
+* Visiting [[Gorno-Badakhshan|GBAO]] requires a permit that can be requested alongside the eVisa.
+|{{no}}
+|-
+| {{flag|Tanzania}}
+| data-sort-value="1" {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TZ|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://visa.immigration.go.tz | title=Tanzania eVisa}}</ref>
+|data-sort-value="90"| 90 days
+|
+|{{no}}
+|-
+| {{flag|Thailand}} 
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TH}}</ref><ref>{{Cite web|url=https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement|title=Visa Exemption and Bilateral Agreement &#124; ThaiEmbassy.com|website=www.thaiembassy.com}}</ref><ref>{{Cite web |title=Thailand e-visa|url=https://www.thaievisa.go.th/}}</ref>
+|data-sort-value="60"| 30 days
+|
+* Maximum 2 visits annually if not arriving by air.
+|{{no}}
+|-
+| {{flag|Timor-Leste}}
+| data-sort-value="2" {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TL|accessdate=26 November 2013}}</ref><ref>{{cite web | url=http://migracao.gov.tl/html/sub0301.php | title=Tourist & Business Visa {{!}} Immigration Service of Timor-Leste | website=migracao.gov.tl | access-date=2019-05-08}}</ref>
+|data-sort-value="30"| 30 days
+|
+* VOA is obtainable at [[Presidente Nicolau Lobato International Airport]] and at [[Dili]] Sea Port.
+* Fees are for Transit 20 [[USD]], Tourist 30 USD and Business 50 USD.
+|{{no}}
+|-
+| {{flag|Togo}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=TG|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://voyage.gouv.tg | title=Togo eVisa}}</ref>
+|data-sort-value="15"| 15 days
+|
+|{{no}}
+|-
+| {{flag|Tonga}}
+| data-sort-value="0" {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TO|accessdate=26 November 2013}}</ref><ref>{{cite web |title=Government of Tonga-Ministry of Revenue & Customs|url=https://www.revenue.gov.to/immigration-and-general-services}}</ref>
+|data-sort-value="30"| 30 days
+|
+* Extendable up to 6 months.
+|{{no}}
+|-
+| {{flag|Trinidad and Tobago}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TT|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+* Passengers must submit the online Arrival/Departure Card at most 72 hours before arrival<ref>{{Cite web |title=Trinidad and Tobago - Online Immigration & Customs Portal |url=https://travel.gov.tt/en |archive-url=https://web.archive.org/web/20260314211512/https://travel.gov.tt/en |archive-date=2026-03-14 |access-date=2026-03-27 |website=Trinidad and Tobago - Online Immigration & Customs Portal |language=en}}</ref>
+|{{no}}
+|-
+| {{flag|Tunisia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TN|accessdate=26 November 2013}}</ref>
+|data-sort-value="120"| 4 months
+|
+|{{no}}
+|- 
+| {{flag|Turkey}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TR|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.evisa.gov.tr | title=Türkiye eVisa}}</ref><ref>{{cite web | url=https://www.resmigazete.gov.tr/eskiler/2023/12/20231223-2.pdf | title=Visa exemption for 6 countries}}</ref>
+|data-sort-value="90"| 90 days
+| 
+* 90 days within any 180-day period.<ref>{{cite web | url=https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa | title=Türkiye Visa Information For Foreigners}}</ref>
+|{{no}}
+|-
+| {{flag|Turkmenistan}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=TM|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://evisa.migration.gov.tm | title=Turkmenistan eVisa}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Turkmenistan. Visa}}
+* Canadian citizens have the right to [[Visa policy of Turkmenistan|visa-free]] transit through the international transit area of Ashgabat International Airport.<ref>{{cite web|url=https://kazan.aero/press-center/news/49719030/|title= Ещё больше транзитных рейсов в Таиланд из Казани|website=Kazan International Airport|language=tk}}</ref>
+|{{yes}}
+|-
+| {{flag|Tuvalu}}
+| data-sort-value="2" {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TV|accessdate=26 November 2013}}</ref>
+|data-sort-value="30"| 1 month
+|
+|{{no}}
+|-
+| {{flag|Uganda}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=UG|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://visas.immigration.go.ug | title=Uganda eVisa}}</ref>
+|data-sort-value="90"| 3 months
+|
+* Visa fee is 50 USD.<ref>{{Cite web |title=Uganda Visa Fees|url=https://visas.immigration.go.ug/#/help/visa|website=Uganda Visa Fees|language=en}}</ref>
+* Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.<ref name="migration.gov.rw" />
+|{{no}}
+|- 
+| {{flag|Ukraine}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=UA|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+| style="background:#FFB; |
+* 90 days within any 180-day period.
+* The Canadian government advises its citizens not to visit Ukraine due to the [[Russian invasion of Ukraine]].<ref>{{cite web | last=Canada | first=Global Affairs | date=2012-11-16 | title=Travel advice and advisories for Ukraine | url=https://travel.gc.ca/destinations/ukraine | access-date=2023-07-24 | website=Travel.gc.ca}}</ref>
+|{{no}}
+|-
+| {{flag|United Arab Emirates}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AE|accessdate=26 November 2013}}</ref><ref>{{cite web | url=http://www.mofa.gov.ae/mofa_english/portal/79e01fed-3501-4ebb-accd-9e27950433a7.aspx | title=Visa Information | archive-url=https://web.archive.org/web/20130629140251/http://www.mofa.gov.ae/mofa_english/portal/79e01fed-3501-4ebb-accd-9e27950433a7.aspx | archive-date=29 June 2013 | publisher=Ministry of Foreign Affairs, United Arab Emirates | access-date=16 September 2018 }}</ref><ref>[http://www.emirates.com/english/plan_book/essential_information/visa_passport_information/uae_visas.aspx UAE Visas], Emirates</ref><ref>{{cite web | url=http://www.flydubai.com/en/about-us/uae-visas/ | title=UAE Visas | website=flydubai | access-date=29 June 2017}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Visa Exemptions : Nationals of Canada with a normal passport for a maximum stay of 90 days. Information: The maximum stay is granted within 180 days.<ref>{{cite web | title=UAE Visa Information | url=https://www.emirates.com/ie/english/before-you-fly/visa-passport-information/uae-visa-information/}}</ref>
+|{{yes}}
+|-
+| {{flag|United Kingdom}}
+| data-sort-value="0" {{yes|[[Electronic Travel Authorisation (United Kingdom)|Electronic Travel Authorisation]]}}<ref>{{Timatic|nationality=CA|destination=GB|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta | title=United Kingdom ETA| date=27 November 2024}}</ref>
+|data-sort-value="180"| 6 months
+|
+* Can use ePassport gates starting 1 June 2019.<ref>{{cite web | url=https://www.gov.uk/government/news/epassport-gates-to-ease-travel-for-passengers-from-more-countries | title=ePassport gates to ease travel for passengers from more countries | website=GOV.UK | language=en | access-date=18 April 2019}}</ref>
+* UK-ETA isn't required if the passenger has a UK ancestry clearance visa.
+* [[Electronic Travel Authorisation (United Kingdom)|ETA UK]] will be valid for 2 years.
+|{{yes}}
+|-
+| {{flag|United States}}
+| data-sort-value="0" {{yes|Visa not required}}<ref name="auto us">{{Timatic|nationality=CA|destination=US|accessdate=26 November 2013}}</ref>
+|data-sort-value="180"| 6 months
+|
+* [[Electronic System for Travel Authorization|ESTA]] exempt. Canadian passport holders do not have to get an ESTA.<ref>{{cite web | title=CBP Customer Service |url=https://help.cbp.gov/s/article/Article-1094?language=en_US| access-date=2024-01-07 | website=help.cbp.gov}}</ref>
+* 6 month stay rather than typical 90 day VWP stay.
+* Most non immigrant statuses can be applied for on arrival at a port of entry.
+* Canada is not a [[Visa Waiver Program]] country, the permission to travel is from a different US immigration regulation.<ref>{{cite web | date=2010-12-22 | title=Citizens of Canada, Bermuda and Mexico- When is a Visa Required? | url=http://www.travel.state.gov/visa/temp/without/without_1260.html | access-date=2024-01-07 | archive-url=https://web.archive.org/web/20101222113514/http://www.travel.state.gov/visa/temp/without/without_1260.html | archive-date=22 December 2010}}</ref><ref>{{cite web |date=2013-06-30 | title=§ Sec. 214.2(b) Visitors -- | url=http://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-11184/0-0-0-17100/0-0-0-17337.html | access-date=2024-01-07 | archive-url=https://web.archive.org/web/20130630042108/http://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-11184/0-0-0-17100/0-0-0-17337.html | archive-date=30 June 2013 }}</ref>
+* Canadian Passport required and must be valid for the period of intended stay.<ref name="auto us"/>
+* Canadian Passport exemptions only for nationals of Canada with a NEXUS card embarking in Canada or USA.<ref name="auto us"/><br />For frequent travellers the [[NEXUS]] program is in place, allowing pre-approved, low-risk travellers to cross the [[Canada–United States border]] quickly.<ref>{{cite web | url=http://www.cbsa-asfc.gc.ca/prog/nexus/elig-admis-eng.html | title=NEXUS - Eligibility | website=www.cbsa-asfc.gc.ca | access-date=29 June 2017 | archive-url=https://web.archive.org/web/20161225111135/http://www.cbsa-asfc.gc.ca/prog/nexus/elig-admis-eng.html | archive-date=25 December 2016 | url-status=dead}}</ref>
+* Most Canadian citizens are not required to provide biometric data on entry.<ref>{{cite web | url=https://travel.gc.ca/destinations/united-states | title=Travel advice and advisories for United States (USA) | date=16 November 2012 }}</ref>
+|{{yes}}
+|- 
+| {{flag|Uruguay}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=UY|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://www.gub.uy/ministerio-interior/comunicacion/publicaciones/regimen-visas-admision | title= MOI Uruguay}}</ref>
+|data-sort-value="90"| 3 months
+|
+|{{no}}
+|-
+| {{flag|Uzbekistan}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=UZ}}</ref>
+|data-sort-value="30"| 30 days
+| 
+|{{no}}
+|-
+| {{flag|Vanuatu}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=VU|accessdate=26 November 2013}}</ref><ref>{{Cite web |title=Visa requirements for Canada Nationals Travelling to Vanuatu |url=https://www.emirates.com/english/before-you-fly/visa-passport-information/visa-passport-information-results/?widgetheader=visa&nationality=ca&destination=vu |website=Emirates Airlines}}</ref><ref>{{Cite web |title= List of Visa Exempted Countries Travelling to Vanuatu |url=https://immigration.gov.vu/visa-exempted-countries/ |website=Vanuatu Department of Immigration}}</ref>
+|data-sort-value="120"| 120 days
+|
+|{{no}}
+|-
+| {{flag|Vatican City}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=VA|accessdate=26 November 2013}}</ref><ref>{{cite web |title=Visa requirements for Canada Nationals Travelling to Vatican City State |url=https://www.emirates.com/english/before-you-fly/visa-passport-information/visa-passport-information-results/?widgetheader=visa&nationality=ca&destination=va |website=Emirates Airlines}}</ref>
+| 90 days
+|
+* Open borders but ''de facto'' follows Italian visa policy.
+|{{yes}}
+|- 
+| {{flag|Venezuela}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=VE}}</ref><ref>{{cite web | url=https://cancilleriadigital.mppre.gob.ve | title=Venezuela eVisa}}</ref>
+| 
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Venezuela due to the significant level of violent crime, [[2013–present economic crisis in Venezuela|unstable political and economic situation]] and the decline in basic living conditions.<ref>{{cite web |url=https://travel.gc.ca/destinations/venezuela |title=Venezuela |date=16 November 2012 |access-date=5 October 2019}}</ref>
+* Introduction of Electronic Visa System for Tourist and Business Travelers.<ref>{{cite web |last=Caracas |first=U. S. Embassy |date=2026-04-06 |title=Venezuela: Electronic Visa Application Process Update |url=https://ve.usembassy.gov/venezuela-electronic-visa-application-process-update/ |access-date=2026-04-10 |website=U.S. Embassy in Caracas |language=en-US}}</ref><ref>{{cite web |title=Ministry of People's Power for Foreign Relations - Venezuela |url=https://mppre.gob.ve/ |url-status=live}}</ref>
+|{{yes}}
+|-
+| {{flag|Vietnam}}
+| data-sort-value="3" {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=VN|accessdate=3 December 2017}}</ref><ref>{{cite web | url=https://evisa.gov.vn | title=Vietnam eVisa}}</ref>
+| 90 days
+|
+* 30 days visa-free when visiting [[Phú Quốc]].<ref>{{cite web | date=January 13, 2016 | title=Phu Quoc Visa Exemptions & Requirements | url=https://www.vietnam-visa.com/conditions-to-get-vietnam-visa-exemption-to-visit-phu-quoc-island/ | website=vietnam-visa.com}}</ref>
+* e-Visa is valid for 90 days and multiple entry.
+* Foreign nationals entering Vietnam must fill out a digital arrival card before entering.<ref>{{Cite web |title=Pre-Arrival Information - Cục Quản lý xuất nhập cảnh |url=https://prearrival.immigration.gov.vn/ |access-date=2026-04-18 |website=prearrival.immigration.gov.vn}}</ref>
+|{{no}}
+|-
+| {{flag|Yemen}}
+| data-sort-value="4" {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=YE|accessdate=26 November 2013}}</ref><ref>{{cite web | url=https://travel.gc.ca/destinations/yemen | title=Travel Advice and Advisories for Yemen | first=Government of Canada, Global Affairs | last=Canada|website=Travel.gc.ca | date=16 November 2012 | access-date=29 June 2017}}</ref>
+|
+| style="background:#FFB; |
+* The Canadian government advises its citizens not to visit Yemen (including the island of [[Socotra]]) due to the [[Yemeni civil war (2014–present)|ongoing armed conflict]], terrorist attacks and kidnapping.<ref>{{cite web | url=https://travel.gc.ca/destinations/yemen | title=Travel advice and advisories for Yemen | date=16 November 2012}}</ref>
+* Canadians of Yemeni origins with a Yemeni identification document or a proof of Yemeni origins do not need a visa.
+* Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).<ref>{{cite web | url=https://yemenevisa.org/visas | title=Yemen eVisa}}</ref>
+|{{yes}}
+|-
+| {{flag|Zambia}}
+| data-sort-value="0" {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ZM|accessdate=26 November 2013}}</ref>
+|data-sort-value="90"| 90 days
+|
+* Also eligible for a [[Visa policy of Zambia#Universal visa|universal (KAZA) visa]] allowing access to [[Zimbabwe]].<ref name="zambiaimmigration.gov.zm">{{cite web | title=KAZA UNIVISA – Zambia Department of Immigration | url=https://www.zambiaimmigration.gov.zm/kaza-univisa/# | access-date=2025-05-11 | language=en-US}}</ref>
+* Duration maximum stay of 90 days(tourism) and 30 days (business) within 1 year.
+* e-Visas can be obtained before departure.<ref>{{cite web | title=e-Services {{!}} Zambia Immigration Department | url=https://eservices.zambiaimmigration.gov.zm/ | access-date=2024-12-10 | website=eservices.zambiaimmigration.gov.zm}}</ref>  
+|{{no}}
+|-
+| {{flag|Zimbabwe}}
+| data-sort-value="1" {{Optional|eVisa / Visa on Arrival}}<ref>{{Timatic|nationality=CA|destination=ZW|accessdate=2024-08-22}}</ref><ref>{{cite web | url=https://www.evisa.gov.zw | title=Zimbabwe eVisa}}</ref>
+|data-sort-value="30"| 1 month
+|
+* Eligible for a [[Visa policy of Zimbabwe#Universal visa|universal (KAZA) visa]] allowing access to [[Zambia]].<ref name="zambiaimmigration.gov.zm"/>
+* The period of stay for a single-entry visa is one month.
+* Traveling as tourists can obtain a KAZAUNIVISA on arrival at [[Harare]] [[Robert Gabriel Mugabe International Airport|(HRE)]] and Victoria Falls (VFA). The visa is also valid for entry into Zambia and allows multiple entries between the two countries. The combined stay must not exceed 30 days. Offering convenience for travelers exploring multiple countries within the [[Kavango–Zambezi Transfrontier Conservation Area|KAZA TFCA]].
+* Eligible to obtain a visa allowing multiple entries upon arrival at the destination's port of entry, catering for frequent visitors. This visa is valid within a designated timeframe of six (6) months.
+|{{no}}
+|}
+
+{{reflist|group=SchA}}
+
+===Dependent, disputed, or restricted territories===
+Visa requirements for Canadian citizens for visits to various territories, disputed areas, partially recognized countries, and restricted zones:
+
+;Africa
+*{{flag|British Indian Ocean Territory}} — special permit required.<ref>{{cite web | url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/asia-oceania/british-indian-ocean-territory?ta=entryRequirements&pg=4 | title=British Indian Ocean Territory travel advice - GOV.UK|website=fco.gov.uk | access-date=29 June 2017}}</ref>
+* {{flag|Eritrea}} (outside [[Asmara]]) — visa covers [[Asmara]] only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 [[Eritrean nakfa]]).<ref>{{cite web | url=http://www.eritrea.be/MoT.htm | title=Ministry of Tourism - Tourism Service Center | first=Hans van der|last=Splinter|website=www.eritrea.be|access-date=29 June 2017}}</ref>
+* {{flag|Mayotte}} — Visa not required for 90 days with a 180-day period.
+* {{flag|Réunion}} — Visa not required for 90 days within a 180-day period.
+*{{SHN}}
+**{{flag|Ascension Island}} — e-Visa for 2 months within any year period<ref>{{cite web|url=https://www.ascension-visas.com|title=Ascension Island E-Visa System|date=13 November 2018}}</ref><ref>{{cite web|url=http://www.ascension-island.gov.ac/entry-visas/|title=Entry Visas|date=13 November 2018|access-date=19 November 2018|archive-date=19 June 2019|archive-url=https://web.archive.org/web/20190619085843/https://www.ascension-island.gov.ac/entry-visas/|url-status=dead}}</ref>
+**{{flag|Saint Helena}} — Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 [[pound sterling]].<ref>{{cite web|url=http://www.sthelenatourism.com/the-island/useful-info/|title=Useful info - St Helena Tourism|access-date=17 November 2013|archive-date=9 July 2017|archive-url=https://web.archive.org/web/20170709030558/http://sthelenatourism.com/the-island/useful-info/|url-status=dead}}</ref>
+**{{flag|Tristan da Cunha}} — Permission to land required for 15/30 [[pound sterling|pounds sterling]] (yacht/ship passenger) for Tristan da Cunha Island or 20 [[pound sterling|pounds sterling]] for [[Gough Island]], [[Inaccessible Island]] or [[Nightingale Islands]].<ref>{{cite web|url=http://www.tristandc.com/visitsadmin.php|title=Tristan da Cunha Tourism|first=Richard|last=Grundy|website=www.tristandc.com|access-date=29 June 2017}}</ref>
+*{{flag|Sahrawi Arab Democratic Republic}} ([[Free Zone (region)|Western Sahara controlled territory]]) — undefined visa regime.
+*{{flag|Somaliland}} — visa required (30 days for 30 [[USD]], payable on arrival).<ref>{{cite web | url=http://www.slimmigration.com/visa-section/ | title=Types Of Somaliland Visa}}</ref>
+
+;Asia
+*{{flagicon|China}} [[Hainan]] — Visa not required for 30 days. Available at [[Haikou Meilan International Airport]] and [[Sanya Phoenix International Airport]].<ref>{{cite web | url=https://www.nia.gov.cn/News/news/content.jsp?id=1646389 | title=Announcement from the National Immigration Administration on Implementing a Visa-Free Policy for Tourists from 59 Countries in Hainan Province}}</ref>
+*{{flag|Hong Kong}} — Visa not required for 3 months.<ref>{{Timatic|nationality=CA|destination=HK|accessdate=26 November 2013}}</ref>
+*{{flag|India}} — Protected Area Permit (PAP) required for all of [[Arunachal Pradesh]], [[Manipur]], [[Mizoram]] and parts of [[Himachal Pradesh]], [[Jammu and Kashmir (union territory)|Jammu and Kashmir]] and [[Uttarakhand]]. Restricted Area Permit (RAP) required for all of [[Andaman and Nicobar Islands]] and [[Lakshadweep]] and parts of [[Sikkim]]. Some of these requirements are occasionally lifted for a year.<ref>{{cite web | url=http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm | title=Entry Formalities to Andaman | access-date=26 November 2013 | url-status=dead | archive-url=https://web.archive.org/web/20120426085021/http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm | archive-date=26 April 2012}}</ref><ref>{{cite web | url=http://arunachaltourism.com/entry_formalities.php | title=Arunachal Tourism |access-date=1 August 2014 | archive-url=https://web.archive.org/web/20140701111837/http://arunachaltourism.com/entry_formalities.php | archive-date=1 July 2014 | url-status=dead}}</ref><ref>{{cite web | url=http://manipurbhawan.nic.in/entryformalities.htm | title=Entry Formalities in Manipur | access-date=4 August 2015 | archive-url=https://web.archive.org/web/20110809003009/http://manipurbhawan.nic.in/entryformalities.htm | archive-date=9 August 2011 | url-status=dead}}</ref><ref>{{cite web | url=http://lakshadweeptourism.nic.in/web9.htm | title=Tourism in Lakshadweep | access-date=1 August 2014 | archive-url=https://web.archive.org/web/20140713171604/http://lakshadweeptourism.nic.in/web9.htm | archive-date=13 July 2014 | url-status=dead}}</ref>
+*{{flag|Iraqi Kurdistan}} - You can apply for an e-Visa (30 days) to visit the Iraqi Kurdistan Region.<ref>{{cite web | url=https://visit.gov.krd | title=Iraqi Kurdistan e-Visa}}</ref>
+*{{flag|Macau}} — Visa not required for 30 days.<ref>{{Timatic|nationality=CA|destination=MO|accessdate=26 November 2013}}</ref>
+*{{flag|North Korea}} outside [[Pyongyang]] - People are not allowed to leave the capital city, tourists can only leave the capital with a governmental tourist guide (no independent moving)
+*{{flagicon|Tajikistan}} [[Gorno-Badakhshan Autonomous Province]] — OIVR permit required (15+5 [[Tajikistani Somoni]]) and another special permit (free of charge) is required for [[Lake Sarez]].<ref>{{cite web|url=http://www.pamirs.org/visas.htm|title=Pamirs - the roof of the world|website=www.pamirs.org|access-date=17 November 2013|archive-date=30 June 2017|archive-url=https://web.archive.org/web/20170630035659/http://www.pamirs.org/visas.htm|url-status=dead}}</ref><ref>{{cite web |url=http://www.traveltajikistan.com/visas/gbao.html |title=Travel Tajikistan - Permit to visit Gorno-Badakhshan Autonomous Oblast (GBAO) |access-date=1 August 2014 |archive-url=https://web.archive.org/web/20150423031531/http://www.traveltajikistan.com/visas/gbao.html |archive-date=23 April 2015 |url-status=dead }}</ref><ref>{{cite web|url=http://tajiktourism.com/tajikistan-visa/|title=Tajikistan Visa|date=19 April 2012|website=tajiktourism.com|access-date=29 June 2017|archive-date=6 July 2017|archive-url=https://web.archive.org/web/20170706121812/http://tajiktourism.com/tajikistan-visa/|url-status=dead}}</ref>
+*{{flagicon|People's Republic of China}} [[Tibet Autonomous Region]] — Tibet Travel Permit required.
+*{{flagicon|United Nations}} [[Korean Demilitarized Zone]] — restricted zone.
+*{{flagicon|United Nations}} [[UNDOF Zone]] and [[Ghajar]] — restricted zones.
+*{{flag|Arab League}} — Certain countries will deny access to holders of Israeli visas or passport stamps of Israel because of the [[Arab League boycott of Israel#Passport restrictions|Arab League boycott of Israel]].
+*{{flag|Saudi Arabia}} — Non-Muslims are not allowed in Mecca or Medina.
+
+;Caribbean and North Atlantic
+*{{flag|Anguilla}} — Visa not required for 3 months.<ref>{{Timatic|nationality=CA|destination=AI|accessdate=26 November 2013}}</ref>
+*{{flag|Aruba}} — Visa not required for 30 days.<ref>{{Timatic|nationality=CA|destination=AW|accessdate=26 November 2013}}</ref>
+*{{flag|Bermuda}} — Visa not required.<ref>{{Timatic|nationality=CA|destination=BM|accessdate=26 November 2013}}</ref>
+*{{flagicon|Netherlands}} [[Bonaire]], [[St. Eustatius]] and [[Saba (island)|Saba]] — Visa not required for 3 months.<ref>{{Timatic|nationality=CA|destination=BQ|accessdate=26 November 2013}}</ref>
+*{{flag|British Virgin Islands}} — Visa not required.<ref>{{Timatic|nationality=CA|destination=VG|accessdate=26 November 2013}}</ref>
+*{{flag|Cayman Islands}} — Visa not required for 6 months.<ref>{{Timatic|nationality=CA|destination=KY|accessdate=26 November 2013}}</ref>
+*{{flag|Curaçao}} — Visa not required for 3 months.<ref>{{Timatic|nationality=CA|destination=CW|accessdate=26 November 2013}}</ref>
+*{{flag|Montserrat}} — Visa not required for 6 months.<ref>{{Timatic|nationality=CA|destination=MS|accessdate=26 November 2013}}</ref>
+*{{flag|Puerto Rico}} — Visa not required for 180 days, same as the United States mainland.<ref>{{Timatic|nationality=CA|destination=PR|accessdate=26 November 2013}}</ref> 
+*{{flag|Sint Maarten}} — Visa not required for 3 months.<ref>{{Timatic|nationality=CA|destination=SX|accessdate=26 November 2013}}</ref>
+*{{flag|Turks and Caicos Islands}} — Visa not required for 90 days.<ref>{{Timatic|nationality=CA|destination=TC|accessdate=26 November 2013}}</ref>
+*{{flag|U.S. Virgin Islands}} — Visa not required for 6 months, same as the United States mainland.<ref>{{Timatic|nationality=CA|destination=VI|accessdate=26 November 2013}}</ref>
+
+;Europe
+*{{flag|Abkhazia}} — Visa required.<ref>{{cite web | url=https://mfaapsny.org/en/consular-service/visa-free/ | title=Visa-free entry in Abkhazia}}</ref> Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.
+* [[File:Flag of the Greek Orthodox Church.svg|21px]] [[Mount Athos]] — Special permit required (4 days: [[EUR]] 25 for [[Eastern Orthodox Church|Orthodox]] visitors, EUR 35 for non-Orthodox visitors, EUR 18 for students). There is a visitors' quota: maximum 100 [[Eastern Orthodox Church|Orthodox]] and 10 non-Orthodox per day and women are not allowed.<ref>{{cite web|url=http://www.athosfriends.org/PilgrimsGuide/planning/|title=The Friends of Mount Athos - A Pilgrim's Guide to Mount Athos: Planning Your Visit|website=www.athosfriends.org|access-date=29 June 2017|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201154734/http://athosfriends.org/PilgrimsGuide/planning/|url-status=dead}}</ref><ref>{{cite web|url=http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html|title=MOUNT ATHOS INFO, ΑΓΙΟΝ ΟΡΟΣ, BERG ATHOS, OURANOUPOLIS, ΟΥΡΑΝΟΥΠΟΛΗ|first=DATAFON Verginis G.|last=Ioannis|website=www.mountathosinfos.gr|access-date=29 June 2017|archive-url=https://web.archive.org/web/20071201150655/http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html|archive-date=1 December 2007|url-status=dead}}</ref>
+*{{flagicon|Belarus}} [[Brest, Belarus|Brest]] and [[Grodno]] — Visa not required for 10 days.<ref>{{cite web|url=http://eng.belta.by/president/view/visa-free-travel-time-up-to-ten-days-in-parts-of-brest-oblast-grodno-oblast-as-from-1-january-107990-2017/|title=Visa-free travel time up to ten days in parts of Brest Oblast, Grodno Oblast as from 1 January|date=26 December 2017}}</ref>
+*{{flagicon|Crimea}} [[Crimea]] — Visa issued by Russia is required.<ref>{{cite web|url=http://www.themoscowtimes.com/news/article/foreigners-now-need-russian-visa-to-visit-crimea/497173.html|title=Foreigners Now Need Russian Visa to Visit Crimea|website=themoscowtimes.com|date=April 2014 |access-date=29 June 2017}}</ref>
+*{{flag|Northern Cyprus}} — Visa free access for 3 months. Passport required.<ref>{{cite web|url=http://www.cypnet.co.uk/ncyprus/tourism/tourist.html |title=How to get to North Cyprus? - Passport, Visa & Entry Requirements |publisher=Cypnet.co.uk |access-date=25 July 2018}}</ref>
+*{{flagicon|United Nations}} [[United Nations Buffer Zone in Cyprus|UN Buffer Zone in Cyprus]] — Access Permit is required for travelling inside the zone, except Civil Use Areas.<ref>{{cite web |url=http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |title=UNFICYP > Buffer Zone Permits |access-date=1 August 2014 |archive-url=https://web.archive.org/web/20141021143210/http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |archive-date=21 October 2014 |url-status=dead }}</ref>
+*{{flag|Gibraltar}} — Visa not required.<ref>{{Timatic|nationality=CA|destination=GI|accessdate=26 November 2013}}</ref>
+*{{flagicon|Norway}} [[Jan Mayen]] — Permit issued by the local police required for staying for less than 24 hours<ref>{{cite web|url=http://www.jan-mayen.no/visit.htm|title=Jan Mayen Homesite, Edited by the Jan Mayen Crew|website=www.jan-mayen.no|access-date=29 June 2017|archive-date=30 April 2013|archive-url=https://web.archive.org/web/20130430074108/http://www.jan-mayen.no/visit.htm|url-status=dead}}</ref> and permit issued by the [[Norwegian Police Service|Norwegian police]] for staying for more than 24 hours.<ref>{{Cite web |url=https://www.lovdata.no/for/sf/jd/xd-19620601-0001.html |title=Forskrifter om utlendingers adgang til Jan Mayen |language=no |trans-title=Regulations on foreigners' access to Jan Mayen |website=lovdata.no |access-date=7 March 2022 |archive-url=https://archive.today/20220307005017/https://lovdata.no/dokument/SF/forskrift/1962-06-01-1 |archive-date=7 March 2022 |url-status=live}}</ref>
+*{{flag|Svalbard}} of {{flag|Norway}} — Right to live and work under the [[Svalbard Treaty]].
+*{{flag|Kosovo}} — Visa free for 90 days.<ref>{{cite web|url=http://www.mfa-ks.net/?page=2,158|title=Special Categories Exempted From Visa Requirements - For Foreign Citizens - Consular Services - Ministry of Foreign Affairs - Republic of Kosovo|website=Ministry of Foreign Affairs - Republic of Kosovo|access-date=29 June 2017}}</ref>
+*{{flag|South Ossetia}} — To enter South Ossetia, visitors must have a multiple-entry visa for [[Russia]] and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.<ref>{{cite web | url=https://www.mfa-rso.su/taxonomy/term/13 | title=Порядок въезда на территорию Республики Южная Осетия для иностранных граждан}}</ref><ref>{{cite web | url=https://mfa.rsogov.org/node/1398 | title=Порядок въезда на территорию Республики Южная Осетия для иностранных граждан}}</ref>
+*{{flag|Transnistria}} — Visa free. Registration required after 24h.<ref>{{cite web|url=http://www.luxlana.net/Transdniestr.html |title=Transnistria useful information, warnings, visas, border crossings, budget accommodation |access-date=4 August 2015 |url-status=dead |archive-url=https://web.archive.org/web/20131022114723/http://www.luxlana.net/Transdniestr.html |archive-date=22 October 2013}}</ref><ref>{{cite web|url=http://transnistria-tour.com/en/rules-and-tipps|title=Rules and recommendations - Transnistria tour|website=transnistria-tour.com|access-date=29 June 2017}}</ref>
+
+;Oceania
+*{{flag|American Samoa}} — Electronic authorization for 30 days.<ref>{{cite web | url=https://legalaffairs.as.gov/usvisa30day | title=US Visa / Waiver 30-Day Visitor Permit}}</ref>
+*{{flagicon|Australia}} [[Ashmore and Cartier Islands]] — special authorisation required.<ref>{{cite web |url=http://www.environment.gov.au/coasts/mpa/ashmore/activities.html |title=Ashmore Reef National Nature Reserve and Cartier Island Marine Reserve - Activities Allowed |access-date=4 August 2015 |archive-url=https://web.archive.org/web/20121031132558/http://environment.gov.au/coasts/mpa/ashmore/activities.html |archive-date=31 October 2012 |url-status=dead }}</ref>
+*{{flagicon|France}} [[Clipperton Island]] — Special permit required.<ref>{{cite web|url=http://www.clipperton.fr/incagen.html?geopolitique.htm~main|title=Clipperton - Ile de La Passion|first=Bruno|last=Quintero|website=www.clipperton.fr|access-date=29 June 2017}}</ref>
+*{{flag|Cook Islands}} — Visa free access for 31 days.<ref>{{cite web|url=http://www.cook-islands.gov.ck/faq.php |title=Cook Islands Government Online |access-date=15 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131115035856/http://www.cook-islands.gov.ck/faq.php |archive-date=15 November 2013 }}</ref>
+*{{flag|Guam}} — Visa not required.<ref>{{Timatic|nationality=CA|destination=GU|accessdate=26 November 2013}}</ref> 
+*{{flag|Niue}} — Visa on arrival valid for 30 days is issued free of charge.<ref>{{cite web |url=http://www.niueisland.com/getting-niue |title=Getting to Niue &#124; Niue |access-date=1 August 2014 |archive-url=https://web.archive.org/web/20140824231422/http://www.niueisland.com/getting-niue |archive-date=24 August 2014 |url-status=dead }}</ref>
+*{{flag|Northern Mariana Islands}} — Visa not required.<ref>{{Timatic|nationality=CA|destination=MP}}</ref>
+*{{flag|Pitcairn Islands}} — 14 days visa free and landing fee [[USD]] 35 or tax of USD 5 if not going ashore.<ref>{{cite web|url=http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |title=Tourist Information &#124; Visas & Legal Info &#124; Pitcairn Island Tourism |access-date=25 September 2015 |url-status=dead |archive-url=https://web.archive.org/web/20131018001850/http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |archive-date=18 October 2013 }}</ref><ref>{{cite web|url=http://www.government.pn/visaInfo.php|title=Pitcairn Islands|first=Bill|last=Haigh|website=www.government.pn|access-date=29 June 2017|archive-date=21 October 2017|archive-url=https://web.archive.org/web/20171021104351/http://www.government.pn/visaInfo.php|url-status=dead}}</ref><ref>{{cite web |url=http://www.government.pn/immigration%20ordinance.pdf |title=Data |website=www.government.pn |access-date=17 November 2013 |archive-date=6 November 2021 |archive-url=https://web.archive.org/web/20211106205311/http://www.government.pn/immigration%20ordinance.pdf |url-status=dead }}</ref>
+*{{flagicon|United States}} [[United States Minor Outlying Islands]] — special permits required for [[Baker Island]], [[Howland Island]], [[Jarvis Island]], [[Johnston Atoll]], [[Kingman Reef]], [[Midway Atoll]], [[Palmyra Atoll]] and [[Wake Island]].<ref>{{cite web|url=http://www.fws.gov/bakerisland/visit.html |title=Visiting - Baker Island National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131017211743/http://www.fws.gov/bakerisland/visit.html |archive-date=17 October 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/howlandisland/visit.html |title=Visiting Howland National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131017212340/http://www.fws.gov/howlandisland/visit.html |archive-date=17 October 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/jarvisisland/|title=Redirect Page|website=www.fws.gov|access-date=29 June 2017|archive-date=4 September 2014|archive-url=https://web.archive.org/web/20140904070329/http://www.fws.gov/jarvisisland/|url-status=dead}}</ref><ref>{{cite web|url=http://www.fws.gov/johnstonisland/visit.html |title=Visiting Johnston Atoll National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130607120346/http://www.fws.gov/johnstonisland/visit.html |archive-date=7 June 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/kingmanreef/visit.html |title=Visiting Kingman Reef National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131017212056/http://www.fws.gov/kingmanreef/visit.html |archive-date=17 October 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/midway/visit.html |title=Visiting Midway Atoll National Wildlife Refuge |access-date=28 January 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140128062001/http://www.fws.gov/midway/visit.html |archive-date=28 January 2014 }}</ref><ref>{{cite web|url=http://www.fws.gov/palmyraatoll/visit.html |title=Visiting - Palmyra National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130522074332/http://www.fws.gov/palmyraatoll/visit.html |archive-date=22 May 2013 }}</ref>
+
+;South America
+* [[File:Bandera Provincia Galápagos.svg|border|22x20px]] [[Galapagos Province|Galápagos]] — 60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT).<ref>{{cite web | url=https://www.gobiernogalapagos.gob.ec/para-ingresar-a-la-provincia-de-galapagos/ | title=Para ingresar a la provincia de Galapagos}}</ref>
+
+;South Atlantic and Antarctica
+*{{flag|Falkland Islands}} — A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month.<ref>{{cite web | url=https://www.gov.fk/customs/visitor-permit/ | title=Visitor Permit}}</ref>
+*{{flag|South Georgia and the South Sandwich Islands}} — Pre-arrival permit from the commissioner required (72 hours/1 month for 110/160 [[pound sterling|pounds sterling]]).<ref>{{cite web|url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/south-america/south-georgia-south-sandwich#entryRequirements|title=South Georgia and South Sandwich Islands (British Overseas Territory) travel advice - GOV.UK|website=www.fco.gov.uk|access-date=29 June 2017}}</ref><ref>{{cite web |url=http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis |title=Information for Visitors to South Georgia - South Georgia Website |access-date=9 May 2018 |archive-url=https://web.archive.org/web/20080412170649/http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis |archive-date=12 April 2008 |url-status=dead }}</ref>
+* [[Antarctica]] and adjacent islands — Special permits required for {{flag|Bouvet Island}}, {{flag|British Antarctic Territory}}, {{flag|French Southern and Antarctic Lands}}, {{flag|Argentine Antarctica}}, {{flagicon|Australia}} [[Australian Antarctic Territory]], {{flagicon|Antártica Chilena Province}} [[Chilean Antarctic Territory]], {{flagicon|Australia}} [[Heard Island and McDonald Islands]], {{flagicon|Norway}} [[Peter I Island]], {{flagicon|Norway}} [[Queen Maud Land]], {{flagicon|New Zealand}} [[Ross Dependency]].<ref>{{cite web|url=http://www.antarctica.ac.uk/about_antarctica/tourism/index.php|title=Antarctic tourism - British Antarctic Survey|website=www.antarctica.ac.uk|access-date=29 June 2017}}</ref><ref>{{cite web |url=http://www.mdulich.com/p/british-antarctic-territory.html |title=British Antarctic Territory ~ MDuLich |website=www.mdulich.com |access-date=12 January 2022 |archive-url=https://web.archive.org/web/20170810212141/http://www.mdulich.com/p/british-antarctic-territory.html |archive-date=10 August 2017 |url-status=usurped}}</ref><ref>{{cite web|url=http://britishantarcticterritory.fco.gov.uk/en/tourism/|title=British Antarctic Territory - GOV.UK|website=britishantarcticterritory.fco.gov.uk|access-date=29 June 2017}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-a-l-Antarctique|title=Accès à l'Antarctique|website=www.taaf.fr|access-date=29 June 2017|archive-url=https://web.archive.org/web/20180501210951/http://www.taaf.fr/Acces-a-l-Antarctique|archive-date=1 May 2018|url-status=dead}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-australes|title=Accès aux Terres australes françaises|website=www.taaf.fr|access-date=29 June 2017|archive-url=https://web.archive.org/web/20140502032950/http://www.taaf.fr/Acces-aux-iles-australes|archive-date=2 May 2014|url-status=dead}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-Eparses|title=Accès aux îles Eparses|website=www.taaf.fr|access-date=29 June 2017|archive-url=https://web.archive.org/web/20180417172311/http://www.taaf.fr/Acces-aux-iles-Eparses|archive-date=17 April 2018|url-status=dead}}</ref><ref>{{cite web |url=http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |title=Dna-IAA - la Antártida |access-date=1 August 2014 |archive-url=https://web.archive.org/web/20140805081831/http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |archive-date=5 August 2014 |url-status=dead }}</ref><ref>{{cite web|url=http://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information|title=Forms expeditioners must sign|website=www.antarctica.gov.au|access-date=29 June 2017|archive-date=27 November 2012|archive-url=https://archive.today/20121127122832/http://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information|url-status=dead}}</ref><ref>{{cite web|url=http://www.heardisland.aq/about/frequently-asked-questions#visit_heard_island|title=Frequently asked questions|first=c=AU;o=Commonwealth of Australia;ou=Department of the Environment and Energy;ou=Australian Antarctic|last=Division|website=www.heardisland.aq|date=28 February 2005 |access-date=29 June 2017}}</ref><ref>{{cite web|url=http://www.npolar.no/en/antarctica/peter-I-oy.html |title=Peter I Øy - Norwegian Polar Institute |access-date=12 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131017215217/http://www.npolar.no/en/antarctica/peter-I-oy.html |archive-date=17 October 2013 }}</ref><ref>{{cite web | url=http://www.npolar.no/en/antarctica/dronning-maud-land.html | title=Dronning Maud Land | website=Norwegian Polar Institute | access-date=29 June 2017 | url-status=dead | archive-url=https://web.archive.org/web/20131017215832/http://www.npolar.no/en/antarctica/dronning-maud-land.html | archive-date=17 October 2013}}</ref><ref>{{cite web | url=http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php | title=The Ministry of Foreign Affairs and Trade acts in the world to make New Zealanders safer and more prosperous | first=New Zealand Ministry of Foreign Affairs and|last=Trade | website=New Zealand Ministry of Foreign Affairs and Trade | access-date=29 June 2017}}</ref>
+
+== Pre-approved visas pick-up ==
+Pre-approved visas can be picked up on arrival in the following countries instead of an embassy or consulate.
+
+{| class="wikitable"
+!Pre-approved
+visas pick-up
+on arrival
+!Conditions
+|-
+|{{flag|Bhutan}}
+|For a maximum stay of 15 days if the application was submitted at least {{frac|2|1|2}} months before arrival and if the clearance was obtained.
+|-
+|{{flag|Cameroon}}
+|Must hold approval from the General Delegate of Security.
+|-
+|{{flag|Eritrea}}
+|Must have a sponsor who must submit an application at least 48 hours before arrival.
+|-
+|{{flag|Liberia}}
+|Available only if arriving from a country without a diplomatic mission of Liberia and if a sponsor obtained an approval.
+|-
+|{{flag|Nigeria}}
+|Holders of a visa application who have a Nigerian company taking responsibility for them.
+|-
+|{{flag|Sudan}}
+|Holders of an entry permit issued by the Ministry of Interior.
+|-
+|{{flag|Turkmenistan}}
+|Holders of an invitation letter from the local company that was approved by the Ministry of Foreign Affairs.
+|}
+
+==Consular protection of Canadian citizens abroad==
+[[File:Canadian embassies map.png|thumb|none|800px|Countries that have a Canadian Embassy or High Commission are shown in blue. Canada is shown in green.]]
+
+Canada has diplomatic and consular offices (including [[honorary consul]]s) in over 270 locations in approximately 180 foreign countries. In some countries Canadians may receive consular assistance from British missions or Australian missions under the [[Canada–Australia Consular Services Sharing Agreement]].
+
+{{see also|List of diplomatic missions of Canada}}
+
+==Non-visa restrictions==
+{{Transcluded section|Non-visa travel restrictions}}
+{{#section-h:Non-visa travel restrictions|List of common non-visa travel restrictions}}
+
+==Visa requirements amendment log==
+Visa requirements for Canadian citizens were lifted by [[Austria]] in 1956,<ref name="hu-berlin.de">{{cite web | url=https://www.sowi.hu-berlin.de/en/lehrbereiche-en/makro-en/forschung-en/projekte-en/list-of-countries-without-visa-requirements.pdf | title=Data |website=www.sowi.hu-berlin.de}}</ref> [[Finland]] in 1958,<ref name="hu-berlin.de"/> [[Japan]] (20 September 1964),<ref>{{cite web|title=一般旅券査証及び査証料の相互免除に関する日本国政府とカナダ政府との間の交換公文|url=http://www.mofa.go.jp/mofaj/gaiko/treaty/pdfs/A-S39-159.pdf|publisher=Ministry of Foreign Affairs of Japan|access-date=14 February 2018|date=5 September 1964}}</ref> [[Micronesia]] (18 December 1980),<ref>{{cite web |url=http://www.fsmcongress.fm/pdf%20documents/1st%20Congress%20of%20the%20FSM/PL%201-130.pdf |title=Immigration Act of Federated States of Micronesia |publisher=The Congress of the Federated States of Micronesia |date=18 December 1980 |access-date=24 February 2018 |archive-url=https://web.archive.org/web/20141007000014/http://www.fsmcongress.fm/pdf%20documents/1st%20Congress%20of%20the%20FSM/PL%201-130.pdf |archive-date=7 October 2014 |url-status=dead  }}</ref> [[Taiwan]] (1 January 1994),<ref>{{cite web|title=Foreign Relations Yearbook 1997|url=http://mofa.gov.tw:80/chap4.html|archive-url=https://web.archive.org/web/19980115051450/http://mofa.gov.tw/chap4.html|archive-date=15 January 1998|publisher=Ministry of Foreign Affairs, Republic of China (Taiwan)|access-date=16 February 2018|language=zh|url-status=dead}}</ref> [[Ukraine]] (1 August 2005),<ref>{{cite web|url=http://search.ligazakon.ua/l_doc2.nsf/link1/U1134_05.html|title=Указ Президента №1134/2005 от 26.07.2005, Про встановлення безвізового режиму для громадян Канади|website=search.ligazakon.ua}}</ref> [[Kyrgyzstan]] (27 July 2012),<ref>[http://cbd.minjust.gov.kg/act/view/ru-ru/203721?cl=ru-ru Resolution of the Government of Kyrgyzstanc Republic on 21 July 2012 No. 121] (in Russian)</ref> [[Mongolia]] (1 January 2014), [[Kazakhstan]] (1 January 2017), [[Argentina]] (1 January 2018),<ref>{{cite news|url=http://www.balglobal.com/bal-news/argentina-to-waive-visa-reciprocity-fee-for-canadians/|title=Argentina to waive visa reciprocity fee for Canadians - B A L - Berry Appleman & Leiden LLP|newspaper=B a L &#124; Berry Appleman & Leiden LLP}}</ref> [[Armenia]] (10 July 2018),<ref name="auto1">{{cite web|url=https://armenpress.am/eng/news/939112|title=Armenian government plans to introduce visa waiver for Albania, Lebanon, Turkmenistan and Canada|website=Armenpress.am|date=27 June 2018 |access-date=8 July 2018}}</ref><ref name="auto2">{{cite web|url=https://artsakhpress.am/eng/news/88950/armenian-government-plans-to-introduce-visa-waiver-for-albania-lebanon-turkmenistan-and-canada.html|title=Armenian government plans to introduce visa waiver for Albania, Lebanon, Turkmenistan and Canada|website=Artsakhpress.am|access-date=8 July 2018}}</ref><ref name="auto3">{{cite web|url=http://www.beirutbizreport.com/story-z12265056|title=Armenian government plans to introduce visa waiver for Albania, Lebanon, Turkmenistan and Canada |website=Beirutbizreport.com|access-date=8 July 2018}}</ref><ref name="auto4">{{cite web|url=http://arminfo.info/full_news.php?id=32922&lang=3|title=Armenia is going to liberalize the visa regime for the citizens of Canada, Lebanon, Turkmenistan and Albania|website=Arminfo.info|access-date=8 July 2018}}</ref> [[Brazil]] (17 June 2019).<ref>{{cite news | url=https://www.cnn.com/travel/article/brazil-lifts-visa-requirement/index.html | title=Tourists from the US, Canada, Japan and Australia can now travel to Brazil visa-free | website=[[CNN]]}}</ref>  and [[Turkey]] (1 January 2024)<ref>{{Cite web |last=Gillett |first=Katy |title=Travel Unpacked: Visa-free travel to Turkey and Etihad launches new India flights |url=https://www.thenationalnews.com/travel/2024/01/01/travel-news-round-up/?outputType=amp |access-date=2025-04-05 |website=The National |language=en}}</ref>
+
+Canadian citizens were made eligible for eVisas by [[India]] (1 May 2015),<ref>[http://pib.nic.in/newsite/PrintRelease.aspx?relid=120017 Extension of e-Tourist Visa scheme to 31 more countries], [[Press Information Bureau]], [[Government of India]], 29 April 2015.</ref> [[Brazil]] (25 January 2018, visa free from 17 June 2019 to 10 April 2025),<ref>{{cite news | title=Brazil offers e-visa to Americans in bid to increase tourism | url=http://www.chicagotribune.com/lifestyles/travel/ct-brazil-american-e-visa-20180125-story.html | access-date=24 February 2018 | publisher=Chicago Tribune}}</ref> [[Angola]] (30 March 2018).,<ref>{{cite news | title=Migration service to speed up visa exemption procedure | url=http://www.angop.ao/angola/en_us/noticias/politica/2018/2/13/Migration-service-speed-visa-exemption-procedure,1427fe4a-496a-4e90-9d2f-612f7718cdf9.html | work=ANGOP | language=EN-US}}</ref> [[Namibia]] (1 April 2025)<ref>{{Cite web |title=Important update on visa requirements for international visitors |url=https://visitnamibia.com.na/2024/07/important-update-on-visa-requirements-for-international-visitors/ |access-date=2025-10-19 |language=en-US}}</ref> and [[Brazil]] (10 April 2025)<ref>{{Cite web |title=Visa Requirement Reinstated for Nationals of Australia, Canada and the United States |url=https://www.fragomen.com/insights/brazil-visa-requirement-reinstated-for-nationals-of-australia-canada-and-the-united-states.html |access-date=2025-10-19 |website=Fragomen - Immigration attorneys, solicitors, and consultants worldwide - Visa Requirement Reinstated for Nationals of Australia, Canada and the United States |language=en}}</ref>
+
+==Foreign travel statistics==
+{{transcluded section|Canadian passport}}
+{{#section-h::Canadian passport|Foreign travel statistics}}
+{{reflist|group=note}}
+
+==See also==
+{{Portal|Canada}}
+* [[Visa policy of Canada]]
+* [[Canadian passport]]
+
+==Notes==
+{{reflist|group=Note}}
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://travel.gc.ca/travelling/advisories Travel Reports & Warnings] - Foreign Affairs and International Trade Canada
+* [http://www.voyage.gc.ca/contact/offices-list_liste-bureaux-eng.asp Directory of Canadian Government Offices Abroad] {{Webarchive|url=https://web.archive.org/web/20121107063925/http://www.voyage.gc.ca/contact/offices-list_liste-bureaux-eng.asp |date=7 November 2012 }} - Foreign Affairs and International Trade Canada
+
+{{Visa policy by country}}
+{{Visa Requirements}}
+
+[[Category:Visa requirements by nationality|Canada]]
+[[Category:Foreign relations of Canada]]
