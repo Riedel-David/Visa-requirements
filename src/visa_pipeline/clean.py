@@ -56,7 +56,10 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
         # Handle {{sort|key|text}}
         if name == 'sort':
             if template.has(2):
-                replacements.append((template, str(template.get(2).value).strip()))
+                # Recursively clean the display text in case it contains more templates
+                display_text = str(template.get(2).value).strip()
+                cleaned_text = clean(display_text, transclusions, warnings)
+                replacements.append((template, cleaned_text))
             else:
                 removals.append(template)
             continue
@@ -73,7 +76,9 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
                 elif template.has(2):
                     text_content = str(template.get(2).value).strip()
             if text_content:
-                replacements.append((template, text_content))
+                # Recursively clean in case the content contains nested templates
+                cleaned_content = clean(text_content, transclusions, warnings)
+                replacements.append((template, cleaned_content))
             else:
                 removals.append(template)
             continue
