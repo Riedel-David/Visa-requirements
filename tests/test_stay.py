@@ -1,5 +1,7 @@
 """Tests for stay.py - stay duration parsing."""
 
+import pytest
+
 from visa_pipeline import stay
 
 
@@ -38,7 +40,15 @@ class TestComplexDurations:
     def test_in_any_period(self):
         days, note = stay.parse_stay("90 days in any 180-day period")
         assert days == 90
-        assert note is not None
+        assert note == "in any 180-day period"
+
+    @pytest.mark.parametrize("text,note", [
+        ("90 days within 180 days", "within 180 days"),
+        ("90 days within a 180-day period", "within a 180-day period"),
+        ("90 days in a 180-day period", "in a 180-day period"),
+    ])
+    def test_period_phrasings(self, text, note):
+        assert stay.parse_stay(text) == (90, note)
 
     def test_unlimited(self):
         days, note = stay.parse_stay("Unlimited")

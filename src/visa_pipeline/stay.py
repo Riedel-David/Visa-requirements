@@ -43,20 +43,12 @@ def parse_stay(text: str) -> tuple[int | None, str | None]:
         return None, text
 
     # Extract days
-    days_match = re.search(r'(\d+)\s*days?(?:\s+(within|in any)\s+\d+)?', text, re.IGNORECASE)
+    days_match = re.search(r'(\d+)\s*days?', text, re.IGNORECASE)
     if days_match:
         days = int(days_match.group(1))
-        # Check if there's additional context like "within 180"
+        # Everything after the number is context ("within 180", "in any 180-day period")
         remainder = text[days_match.end():].strip()
-        extra = None
-        if remainder:
-            extra = remainder
-        elif days_match.group(2):
-            # Has "within X" pattern
-            within_match = re.search(r'(within|in any)\s+\d+', text, re.IGNORECASE)
-            if within_match:
-                extra = within_match.group(0)
-        return days, extra
+        return days, remainder or None
 
     # Extract months (convert to days: month * 30, except 12 months = 365)
     months_match = re.search(r'(\d+)\s*months?', text, re.IGNORECASE)
