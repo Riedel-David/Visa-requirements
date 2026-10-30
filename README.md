@@ -147,6 +147,7 @@ The pipeline includes safety checks to prevent publishing bad data:
 
 - **Status change threshold**: Max 15 status changes per passport
 - **Record drop threshold**: Max 10% drop in record count
+- **Cooling-off**: A page whose latest Wikipedia revision is under 24 hours old is deferred: the old data stays and the page is picked up on a later run once the revision has aged (reverts of vandalism are usually quick). Deferred passports are listed in `summary.json` under `deferred`; pages never parsed before are not deferred, and `--force` does not bypass this
 - **Zero-row detection**: A passport that parses to zero rows when it had data before counts as a failure (the run exits non-zero)
 
 When a threshold is exceeded:
