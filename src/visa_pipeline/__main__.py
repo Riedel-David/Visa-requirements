@@ -66,7 +66,7 @@ def main() -> int:
     parser.add_argument(
         "--force",
         action="store_true",
-        help="Force reparse all pages"
+        help="Reparse all pages and bypass the safety thresholds"
     )
 
     parser.add_argument(

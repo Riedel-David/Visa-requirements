@@ -72,6 +72,20 @@ class TestCombinedStatus:
     def test_unmapped_part_makes_whole_cell_special(self):
         assert status.parse_status("Visa on arrival / Frobnicate") == ("special", [])
 
+    def test_slash_with_various_spacing(self):
+        # Test "ETA/ Visa on arrival", "ETA /Visa on arrival", "ETA/Visa on arrival"
+        assert status.parse_status("ETA/ Visa on arrival") == ("visa_on_arrival", ["eta"])
+        assert status.parse_status("ETA /Visa on arrival") == ("visa_on_arrival", ["eta"])
+        assert status.parse_status("ETA/Visa on arrival") == ("visa_on_arrival", ["eta"])
+
+    def test_newline_separator(self):
+        # Test "Visa not required\neVisa" -> ('visa_free', ['evisa'])
+        assert status.parse_status("Visa not required\neVisa") == ("visa_free", ["evisa"])
+
+    def test_combined_with_special(self):
+        # Test "eVisa\nTravel banned" -> ('special', [])
+        assert status.parse_status("eVisa\nTravel banned") == ("special", [])
+
 
 class TestNormalization:
     """Tests for status text normalization."""
@@ -84,3 +98,12 @@ class TestNormalization:
     def test_whitespace_normalization(self):
         assert status.parse_status("Visa  \t  required") == ("visa_required", [])
         assert status.parse_status("  Visa required  ") == ("visa_required", [])
+
+    def test_curly_apostrophe_normalization(self):
+        # Test curly apostrophes are normalized to straight apostrophes
+        assert status.parse_status("Visitor's permit on arrival") == ("visa_on_arrival", [])
+        assert status.parse_status("Visitor's permit on arrival") == ("visa_on_arrival", [])
+
+    def test_trailing_period_stripping(self):
+        assert status.parse_status("Visa required.") == ("visa_required", [])
+        assert status.parse_status("Visa not required.") == ("visa_free", [])
