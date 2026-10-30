@@ -337,8 +337,11 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         if '_group_label' in row:
             # Skip group labels
             continue
-        if _is_header_row(row):
-            # This is a header row - use the last one as the column definitions
+        # The first row is always a header (as before). Further header rows are only
+        # recognised directly after it: once data starts, a row can never replace the
+        # headers, however its first cell reads (e.g. "Tibet Autonomous Region").
+        if headers is None or (not data_rows and _is_header_row(row)):
+            # Use the last leading header row as the column definitions
             headers = row
         else:
             data_rows.append(row)
