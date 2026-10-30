@@ -309,6 +309,16 @@ def run(
             # Load previous data
             previous_data = load_previous_passport(data_dir, iso2)
 
+            # Check for zero records on first run
+            if len(parse_result.records) == 0 and previous_data is None:
+                logger.warning(f"{iso2}: FAILED - no rows parsed (new page)")
+                results["failed"].append({
+                    "passport": iso2,
+                    "reason": "no rows parsed (new page)"
+                })
+                # Don't write file, don't change exit code, keep going
+                continue
+
             # Check safety
             is_safe, reason = check_safety(
                 passport_data,
@@ -318,6 +328,18 @@ def run(
             )
 
             if not is_safe:
+                # Zero records where previous had records is FAILED (exit 1), not blocked
+                if reason and reason.startswith("zero records"):
+                    logger.error(f"{iso2}: FAILED - {reason}")
+                    results["failed"].append({
+                        "passport": iso2,
+                        "reason": reason
+                    })
+                    exit_code = 1
+                    # Keep old file unchanged (already loaded in index/all)
+                    continue
+
+                # Other safety violations are blocked (exit 0)
                 logger.warning(f"{iso2}: BLOCKED - {reason}")
                 results["blocked"].append({
                     "passport": iso2,
