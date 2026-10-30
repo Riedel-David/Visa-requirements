@@ -83,6 +83,7 @@ jobs:
           fi
 
       - name: Commit and push changes
+        id: commit
         if: steps.check_changes.outputs.data_changed == 'true'
         run: |
           DATESTAMP=$(date +%Y-%m-%d)
@@ -106,6 +107,38 @@ jobs:
           done
           git tag "$TAG"
           git push origin "$TAG"
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+
+      - name: Create GitHub release
+        if: steps.commit.outputs.tag != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.commit.outputs.tag }}
+        run: |
+          python3 - <<'PY' > release-notes.md
+          import json
+          import os
+          s = json.load(open("out/summary.json"))
+          print(f"Visa requirements data refreshed from Wikipedia ({os.environ['TAG'].removeprefix('data-')}).\n")
+          print(f"- Passports parsed: {s['pages_parsed']} (unchanged and skipped: {s['pages_skipped_unchanged']})")
+          print(f"- Total rows: {s['rows']}")
+          print(f"- Changes: {s['changes']}")
+          if s.get("blocked"):
+              print(f"- Blocked by safety thresholds (old data kept): {len(s['blocked'])}")
+          if s.get("failed"):
+              print(f"- Failed: {len(s['failed'])}")
+          print()
+          # GitHub release notes are limited to 125000 characters
+          changelog = open("out/changelog.md").read()
+          if len(changelog) > 100000:
+              changelog = changelog[:100000] + "\n\n_Changelog truncated; see out/changelog.md in the workflow artifact._\n"
+          print(changelog)
+          print("\nData derived from Wikipedia, licensed CC BY-SA 4.0. See LICENSE-DATA.md.")
+          PY
+          gh release create "$TAG" \
+            --title "Visa data ${TAG#data-}" \
+            --notes-file release-notes.md \
+            data/all.json data/passport-index-*.csv
 
       - name: Check for pipeline issues
         id: check_issues
@@ -120,7 +153,7 @@ jobs:
           import json
           with open('out/summary.json') as f:
               data = json.load(f)
-              has = bool(data.get('blocked') or data.get('failed') or data.get('unmapped_statuses'))
+              has = bool(data.get('blocked') or data.get('failed'))
               print('true' if has else 'false')
           ")
           echo "has_issues=$HAS_ISSUES" >> $GITHUB_OUTPUT

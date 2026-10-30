@@ -214,7 +214,8 @@ The dataset is updated automatically via GitHub Actions:
 - **Schedule**: Every Monday at 04:17 UTC
 - **Manual trigger**: Via workflow_dispatch (supports `--force` and `--only` options)
 - **On changes**: Data and state are committed to `main` with a `data-YYYY-MM-DD` tag
-- **On issues**: An issue is opened/updated when blocked passports or unmapped statuses are detected
+- **Releases**: Each data update also publishes a GitHub Release for the tag, with the changelog as release notes and `all.json` plus the CSV files attached
+- **On issues**: An issue is opened/updated only when passports are blocked by the safety thresholds or fail to parse (unmapped statuses appear in the run report, not as issues)
 - **Deployment**: Published to GitHub Pages automatically
 
 ### Why Commit Data to Main?
