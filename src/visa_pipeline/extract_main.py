@@ -34,25 +34,35 @@ def _find_section_by_heading(wikicode, heading_keywords: list[str]) -> str | Non
     # Convert to string if it's wikicode
     full_text = str(wikicode)
 
-    # Find all level-2 section headings
+    # Find all level-2 and level-3 section headings
     lines = full_text.split('\n')
     section_start = None
+    section_level = None
 
     for i, line in enumerate(lines):
-        # Level-2 heading
-        if line.startswith('==') and not line.startswith('==='):
-            heading = _normalize_heading(line.strip('= \n'))
+        # Detect heading level
+        if line.startswith('===='):
+            level = 4
+        elif line.startswith('==='):
+            level = 3
+        elif line.startswith('=='):
+            level = 2
+        else:
+            continue
 
-            # Check if this heading exactly matches any of our keywords
-            match = heading in heading_keywords
+        heading = _normalize_heading(line.strip('= \n'))
 
-            if match and section_start is None:
-                # Found the start of our section
-                section_start = i
-            elif section_start is not None:
-                # Found the next same-level section - extract everything between
-                section_lines = lines[section_start:i]
-                return '\n'.join(section_lines)
+        # Check if this heading exactly matches any of our keywords
+        match = heading in heading_keywords
+
+        if match and section_start is None:
+            # Found the start of our section
+            section_start = i
+            section_level = level
+        elif section_start is not None and level <= section_level:
+            # Found the next same-or-higher-level section - extract everything between
+            section_lines = lines[section_start:i]
+            return '\n'.join(section_lines)
 
     # If we found a section but reached end of file
     if section_start is not None:

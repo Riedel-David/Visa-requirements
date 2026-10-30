@@ -145,6 +145,9 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
     # Convert to string
     result = str(wikicode)
 
+    # Remove HTML comments
+    result = re.sub(r'<!--.*?-->', '', result, flags=re.DOTALL)
+
     # Remove HTML tags, but convert <br> to newline first
     result = re.sub(r'<br\s*/?>', '\n', result, flags=re.IGNORECASE)
     result = re.sub(r'<[^>]+>', '', result)

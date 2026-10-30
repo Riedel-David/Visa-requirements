@@ -188,6 +188,7 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
 
                 # Extract content (after | if present, else the whole thing minus leading attrs)
                 content = cell_text
+                found_pipe = False
                 if '|' in cell_text:
                     # Find the split position again (already done in _parse_cell_attributes)
                     depth_curly = 0
@@ -203,10 +204,12 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
                             depth_bracket -= 1
                         elif char == '|' and depth_curly == 0 and depth_bracket == 0:
                             content = cell_text[i+1:].strip()
+                            found_pipe = True
                             break
-                else:
+                
+                if not found_pipe:
                     # Glued form or no attributes - remove leading attribute if present
-                    attr_match = re.match(r'^\w+(?:-\w+)*=["\']?[^"\']*["\']?\s+', cell_text)
+                    attr_match = re.match(r'^\w+(?:-\w+)*=(["\'])([^"\']*?)\1\s+', cell_text)
                     if attr_match:
                         content = cell_text[attr_match.end():].strip()
 
@@ -230,8 +233,9 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
     # Expand rowspan/colspan into a regular grid
     result = []
     for row in rows:
-        # Check if this is a group header (single cell with large colspan)
-        if len(row) == 1 and row[0].colspan > 1:
+        # Check if this is a group header (single cell with large colspan >= 3)
+        # Small colspans (2) are treated as normal headers
+        if len(row) == 1 and row[0].colspan >= 3:
             result.append({"_group_label": row[0].content})
             continue
 
