@@ -141,8 +141,13 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
             pass
 
     # Resolve wikilinks: [[A|B]] -> B, [[A]] -> A
+    # Skip File: and Image: links entirely
     for link in wikicode.ifilter_wikilinks():
-        if link.text:
+        title_str = str(link.title).strip()
+        if title_str.startswith(('File:', 'Image:')):
+            # Remove file/image links entirely
+            wikicode.remove(link)
+        elif link.text:
             wikicode.replace(link, link.text)
         else:
             wikicode.replace(link, link.title)

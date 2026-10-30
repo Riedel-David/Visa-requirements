@@ -14,7 +14,7 @@ class ParseResult:
     unmapped_statuses: list[dict] = field(default_factory=list)
     unmapped_destinations: list[dict] = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
-    _seen_keys: set = field(default_factory=set)  # Track (destination, area) to detect duplicates
+    _seen_keys: dict = field(default_factory=dict)  # Track (destination, area) -> section_name
 
 
 def _normalize_heading(heading: str) -> str:
@@ -73,58 +73,99 @@ def _find_section_by_heading(wikicode, heading_keywords: list[str]) -> str | Non
     return None
 
 
-def _find_all_subsections(wikicode, parent_section_name: str, heading_keywords: list[str]) -> list[tuple[str, str]]:
-    """Find all level-3 subsections under a specific level-2 parent whose headings contain keywords.
-
-    Args:
-        wikicode: Parsed wikitext
-        parent_section_name: Name of the parent level-2 section (exact match)
-        heading_keywords: Keywords to match in subsection headings (any keyword found in heading)
+def _extract_section_hierarchy(wikitext: str) -> list[dict]:
+    """Extract all sections from wikitext with their hierarchy.
 
     Returns:
-        List of (subsection_heading, subsection_text) tuples
+        List of dicts with keys: level, heading, start_line, end_line
     """
-    # First find the parent section
-    parent_section = _find_section_by_heading(wikicode, [parent_section_name])
-    if not parent_section:
-        return []
+    lines = wikitext.split('\n')
+    sections = []
 
-    # Extract level-3 subsections from the parent
-    lines = parent_section.split('\n')
-    result = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        # Look for level-3 headings
-        if line.startswith('===') and not line.startswith('===='):
-            heading = _normalize_heading(line.strip('= \n'))
+    for i, line in enumerate(lines):
+        # Detect heading level
+        if line.startswith('===='):
+            level = 4
+        elif line.startswith('==='):
+            level = 3
+        elif line.startswith('=='):
+            level = 2
+        else:
+            continue
 
-            # Check if this heading contains any of the keywords
-            matches = any(keyword in heading for keyword in heading_keywords)
+        heading = line.strip('= \n')
+        sections.append({
+            'level': level,
+            'heading': heading,
+            'start_line': i,
+            'end_line': None  # Will be filled in next pass
+        })
 
-            if matches:
-                # Find the extent of this subsection (until next same-or-higher-level heading)
-                section_start = i
-                i += 1
-                while i < len(lines):
-                    next_line = lines[i]
-                    if next_line.startswith('===') and not next_line.startswith('===='):
-                        # Another level-3 heading
-                        break
-                    elif next_line.startswith('==') and not next_line.startswith('==='):
-                        # Level-2 heading, end of parent section
-                        break
-                    i += 1
+    # Fill in end_line for each section (ends where next same-or-higher-level section starts)
+    for i, section in enumerate(sections):
+        # Find next section at same or higher level
+        for j in range(i + 1, len(sections)):
+            if sections[j]['level'] <= section['level']:
+                section['end_line'] = sections[j]['start_line']
+                break
+        # If no next section found, goes to end of file
+        if section['end_line'] is None:
+            section['end_line'] = len(lines)
 
-                # Extract the subsection
-                subsection_lines = lines[section_start:i]
-                subsection_text = '\n'.join(subsection_lines)
-                clean_heading = line.strip('= \n')
-                result.append((clean_heading, subsection_text))
-                continue
-        i += 1
+    # Add text content
+    for section in sections:
+        section['text'] = '\n'.join(lines[section['start_line']:section['end_line']])
 
-    return result
+    return sections
+
+
+def _is_territory_section(heading: str) -> bool:
+    """Check if a heading indicates a territory/disputed area section."""
+    heading_lower = heading.lower()
+
+    # Exclude certain patterns
+    if 'non-visa restriction' in heading_lower:
+        return False
+
+    # Match territory-related keywords (as whole words or phrases)
+    import re
+    patterns = [
+        r'\bterritor',
+        r'\bdisputed',
+        r'\brestricted',
+        r'\blimited recognition',
+        r'\bspecial[/\s]+restricted',
+        r'\bautonomous',
+        r'\bdependent',
+    ]
+
+    return any(re.search(pattern, heading_lower) for pattern in patterns)
+
+
+def _find_all_territory_sections(sections: list[dict], main_section_start: int, main_section_level: int) -> list[dict]:
+    """Find all territory-related sections.
+
+    Returns:
+        List of section dicts that are either:
+        - Descendants of the main section matching territory pattern
+        - Standalone sections (any level) matching territory pattern
+    """
+    territory_sections = []
+
+    for section in sections:
+        heading = section['heading']
+
+        # Check if this is a descendant of main section
+        is_descendant = (section['start_line'] > main_section_start and
+                        section['level'] > main_section_level)
+
+        # Check if heading matches territory pattern
+        matches_pattern = _is_territory_section(heading)
+
+        if matches_pattern:
+            territory_sections.append(section)
+
+    return territory_sections
 
 
 def _identify_columns(headers: dict[str, str]) -> dict[str, str]:
@@ -160,16 +201,50 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
 
     Handles cases like:
     - "{{flag|Japan}}" -> ("Japan", None)
+    - "{{flag|Norway}} [[Jan Mayen]]" -> ("Norway", "Jan Mayen")
+    - "{{flagicon|Spain}} [[Canary Islands]]" -> ("Spain", "Canary Islands")
     - "{{flag|Belarus}} - [[Brest]] and [[Grodno]]" -> ("Belarus", "Brest and Grodno")
 
     Args:
-        cell_text: Raw cell text (will be cleaned)
+        cell_text: Raw cell text (wikitext with templates)
         warnings: List to append warnings to
 
     Returns:
         (destination_name, area)
     """
-    # Clean the text first
+    import mwparserfromhell
+
+    # Try to parse with mwparserfromhell to extract templates
+    wikicode = mwparserfromhell.parse(cell_text)
+
+    # Look for flag templates
+    flag_country = None
+    for template in wikicode.ifilter_templates():
+        name = template.name.strip().lower().replace('_', ' ')
+        if any(flag in name for flag in ['flag', 'flagicon', 'flagcountry']):
+            # Extract country from first param
+            if template.has(1):
+                flag_country = str(template.get(1).value).strip()
+                break
+
+    if flag_country:
+        # We have a flag template - check if there's additional text/links after it
+        # Remove the flag template and see what's left
+        template_str = str(template)
+        remaining = cell_text.replace(template_str, '').strip()
+
+        if remaining:
+            # Clean the remaining text to get the area
+            area_cleaned = clean.clean(remaining, warnings=warnings).strip()
+            # Remove leading punctuation like - or –
+            area_cleaned = re.sub(r'^[-–\s]+', '', area_cleaned).strip()
+            if area_cleaned:
+                return flag_country, area_cleaned
+
+        # No area, just the flag country
+        return flag_country, None
+
+    # No flag template found - fall back to cleaning the whole thing
     cleaned = clean.clean(cell_text, warnings=warnings)
 
     # Check for area suffix (after - or –)
@@ -262,12 +337,31 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         elif area_from_cell:
             area = area_from_cell
 
+        # Special case: some destinations resolve to a parent code but should have area set
+        # based on the destination name itself (e.g., "Ascension Island" -> SH + area="Ascension Island")
+        if not area:
+            dest_name_lower = dest_name.lower()
+            if dest_name_lower in ['ascension island', 'tristan da cunha']:
+                area = dest_name
+            elif dest_name_lower in ['british antarctic territory', 'argentine antarctica', 'antartica chilena province', 'antártica chilena province']:
+                area = dest_name
+            elif 'kurdistan' in dest_name_lower:
+                area = 'Kurdistan Region'
+            elif dest_name_lower in ['galápagos', 'galapagos']:
+                area = 'Galápagos'
+            elif dest_name_lower in ['crimea', 'akrotiri and dhekelia', 'mount athos', 'svalbard']:
+                area = dest_name
+
         # Check for duplicate (destination, area) key
+        # Only exact matches (same destination AND area) are duplicates
         key = (dest_code, area)
         if key in result._seen_keys:
-            result.warnings.append(f"Duplicate key: {passport} -> {dest_name} ({dest_code}, {area})")
+            prev_section = result._seen_keys[key]
+            result.warnings.append(
+                f"Duplicate key {dest_code}+{area!r}: first in '{prev_section}', dropped from '{section_name}'"
+            )
             continue
-        result._seen_keys.add(key)
+        result._seen_keys[key] = section_name
 
         # Extract status
         if status_in_stay:
@@ -357,6 +451,33 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         result.records.append(record)
 
 
+def _get_section_direct_content(section: dict, all_sections: list[dict], lines: list[str]) -> str:
+    """Get the direct content of a section, excluding child sections.
+
+    Args:
+        section: Section dict with start_line, end_line, level
+        all_sections: List of all sections
+        lines: All lines of the wikitext
+
+    Returns:
+        Text content of this section only, without child sections
+    """
+    # Find immediate children (next level down that start within this section)
+    children_start_lines = []
+    for other in all_sections:
+        if (other['start_line'] > section['start_line'] and
+            other['start_line'] < section['end_line'] and
+            other['level'] == section['level'] + 1):
+            children_start_lines.append(other['start_line'])
+
+    if not children_start_lines:
+        # No children, return full section
+        return '\n'.join(lines[section['start_line']:section['end_line']])
+
+    # Return content up to first child
+    return '\n'.join(lines[section['start_line']:children_start_lines[0]])
+
+
 def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
                transclusions: dict[str, str]) -> ParseResult:
     """Parse a 'Visa requirements for X citizens' Wikipedia page.
@@ -375,60 +496,54 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
     source_url = f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}"
     source_revision = str(revid)
 
-    wikicode = mwparserfromhell.parse(wikitext)
+    # Extract section hierarchy
+    sections = _extract_section_hierarchy(wikitext)
+    lines = wikitext.split('\n')
 
-    # Find main "Visa requirements" section
-    main_section_text = _find_section_by_heading(wikicode, ['visa requirements'])
-    if main_section_text:
-        # Look for table directly in this section
-        if '{|' in main_section_text and '|}' in main_section_text:
-            # Extract the first table
-            table_match = re.search(r'\{\|.*?\|\}', main_section_text, re.DOTALL)
-            if table_match:
+    # Find the main "Visa requirements" section (first one at any level)
+    main_section = None
+    for section in sections:
+        if _normalize_heading(section['heading']) == 'visa requirements':
+            main_section = section
+            break
+
+    # Parse main table (direct content of main section only, not descendants)
+    if main_section:
+        main_direct_content = _get_section_direct_content(main_section, sections, lines)
+
+        # Extract tables from main section's direct content
+        table_matches = re.finditer(r'\{\|.*?\|\}', main_direct_content, re.DOTALL)
+        for table_match in table_matches:
+            table_text = table_match.group(0)
+            _parse_table_rows(
+                table_text, passport, 'Visa requirements',
+                is_territory_or_restricted=False,
+                transclusions=transclusions,
+                source_url=source_url,
+                source_revision=source_revision,
+                result=result
+            )
+
+    # Find all territory sections
+    if main_section:
+        territory_sections = _find_all_territory_sections(
+            sections, main_section['start_line'], main_section['level']
+        )
+
+        # Parse tables from each territory section
+        for territory_section in territory_sections:
+            # Parse all tables in this section (including child sections)
+            table_matches = re.finditer(r'\{\|.*?\|\}', territory_section['text'], re.DOTALL)
+            for table_match in table_matches:
                 table_text = table_match.group(0)
                 _parse_table_rows(
-                    table_text, passport, 'Visa requirements',
-                    is_territory_or_restricted=False,
+                    table_text, passport, territory_section['heading'],
+                    is_territory_or_restricted=True,
                     transclusions=transclusions,
                     source_url=source_url,
                     source_revision=source_revision,
                     result=result
                 )
-
-    # Find territory/limited recognition subsections under "Visa requirements"
-    territory_keywords = [
-        'territories', 'limited recognition', 'dependent', 'disputed', 'restricted'
-    ]
-    territory_subsections = _find_all_subsections(wikicode, 'visa requirements', territory_keywords)
-
-    for subsection_heading, subsection_text in territory_subsections:
-        # Parse tables in this subsection
-        table_matches = re.finditer(r'\{\|.*?\|\}', subsection_text, re.DOTALL)
-        for table_match in table_matches:
-            table_text = table_match.group(0)
-            _parse_table_rows(
-                table_text, passport, subsection_heading,
-                is_territory_or_restricted=True,
-                transclusions=transclusions,
-                source_url=source_url,
-                source_revision=source_revision,
-                result=result
-            )
-
-    # Find top-level "Special/Restricted areas" section (German pages)
-    special_section_text = _find_section_by_heading(wikicode, ['special', 'restricted areas'])
-    if special_section_text:
-        table_matches = re.finditer(r'\{\|.*?\|\}', special_section_text, re.DOTALL)
-        for table_match in table_matches:
-            table_text = table_match.group(0)
-            _parse_table_rows(
-                table_text, passport, 'Special/Restricted areas',
-                is_territory_or_restricted=True,
-                transclusions=transclusions,
-                source_url=source_url,
-                source_revision=source_revision,
-                result=result
-            )
 
     # Deduplicate warnings
     result.warnings = list(dict.fromkeys(result.warnings))

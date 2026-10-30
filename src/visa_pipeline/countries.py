@@ -57,6 +57,44 @@ WIKIPEDIA_ALIASES = {
     'northern cyprus': 'XN',  # From override
     'somaliland': 'XS',  # From override
     'kosovo': 'XK',  # From override
+    # British territories
+    'saint helena': 'SH',
+    'ascension island': 'SH',
+    'tristan da cunha': 'SH',
+    'gibraltar': 'GI',
+    'falkland islands': 'FK',
+    'pitcairn islands': 'PN',
+    'british antarctic territory': 'AQ',
+    # French territories
+    'saint martin': 'MF',
+    'french southern and antarctic lands': 'TF',
+    # Dutch territories
+    'sint maarten': 'SX',
+    # US territories
+    'u.s. virgin islands': 'VI',
+    'us virgin islands': 'VI',
+    # Other
+    'argentine antarctica': 'AQ',
+    'kurdish region': 'IQ',  # Iraqi Kurdistan
+    'kurdistan region': 'IQ',
+    'iraqi kurdistan': 'IQ',
+    # Special regions
+    'the bahamas': 'BS',
+    'bahamas': 'BS',
+    'svalbard': 'SJ',
+    'crimea': 'UA',  # Disputed, using Ukraine code
+    'novorossiya': 'UA',  # Disputed, using Ukraine code
+    'clipperton island': 'FR',  # French territory
+    'akrotiri and dhekelia': 'GB',  # UK Sovereign Base Areas in Cyprus
+    'mount athos': 'GR',  # Greek autonomous region
+    'curacao': 'CW',
+    'curaçao': 'CW',
+    'turkish republic of northern cyprus': 'XN',
+    'antartica chilena province': 'AQ',
+    'antártica chilena province': 'AQ',
+    'chilean antarctic territory': 'AQ',
+    'galápagos': 'EC',
+    'galapagos': 'EC',
 }
 
 # Cache for loaded overrides
