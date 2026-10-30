@@ -17,7 +17,7 @@ The dataset is published via GitHub Pages and updated weekly:
 
 - **Index**: `https://riedel-david.github.io/Visa-requirements/index.json`
   - Lists all available passports with metadata
-  - Compare `source_revision` to detect changes
+  - Compare `source_revision` to detect data changes (it moves only when the visa data changes, not on every Wikipedia edit)
   
 - **Per-passport files**: `https://riedel-david.github.io/Visa-requirements/passports/<ISO2>.json`
   - e.g., `passports/DE.json` for German passport holders

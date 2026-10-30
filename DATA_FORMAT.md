@@ -46,7 +46,7 @@ Provides metadata for all passports and helps detect changes:
 }
 ```
 
-**Usage**: Compare `source_revision` to detect if a passport's data has changed.
+**Usage**: Compare `source_revision` to detect if a passport's data has changed. It moves only when the visa data changes, not on every Wikipedia edit.
 
 ### `passports/<ISO2>.json`
 
@@ -121,7 +121,7 @@ Each record represents the visa requirement for one destination (or destination 
 | `notes` | string | Yes | Additional details, cleaned and normalized |
 | `is_territory_or_restricted` | boolean | No | Whether this is a territory/disputed region/restricted area |
 | `source_url` | string | No | Wikipedia article URL |
-| `source_revision` | string | No | Wikipedia revision ID |
+| `source_revision` | string | No | Wikipedia revision ID at which this passport's data last changed (may lag the live page: edits that leave the visa data identical do not rewrite the file) |
 
 ### Unique Key
 
