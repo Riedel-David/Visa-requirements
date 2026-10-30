@@ -1,5 +1,6 @@
 """Main pipeline orchestration."""
 
+import hashlib
 import json
 import logging
 from pathlib import Path
@@ -26,6 +27,42 @@ from .publish import (
 
 
 logger = logging.getLogger(__name__)
+
+
+def compute_parser_fingerprint() -> str:
+    """Compute a SHA256 fingerprint of all parser modules and overrides.
+
+    Returns:
+        Hex string of the SHA256 hash
+    """
+    hasher = hashlib.sha256()
+
+    # Parser modules (in order)
+    parser_modules = [
+        'clean.py',
+        'table.py',
+        'status.py',
+        'stay.py',
+        'countries.py',
+        'transclusions.py',
+        'extract_main.py'
+    ]
+
+    package_dir = Path(__file__).parent
+
+    for module_name in parser_modules:
+        module_path = package_dir / module_name
+        if module_path.exists():
+            hasher.update(module_path.read_bytes())
+
+    # Override files (sorted by name)
+    overrides_dir = package_dir / "overrides"
+    if overrides_dir.exists():
+        for override_file in sorted(overrides_dir.iterdir()):
+            if override_file.is_file():
+                hasher.update(override_file.read_bytes())
+
+    return hasher.hexdigest()
 
 
 def load_all_existing_passports(data_dir: Path) -> tuple[dict[str, dict[str, Any]], dict[str, list[dict[str, Any]]]]:
@@ -195,6 +232,14 @@ def run(
             logger.info("Template changed - will reparse all pages")
             force = True
 
+    # Check if parser code changed
+    current_parser_fingerprint = compute_parser_fingerprint()
+    stored_parser_fingerprint = stored_revisions.get("_parser", {}).get("fingerprint")
+
+    if stored_parser_fingerprint is not None and current_parser_fingerprint != stored_parser_fingerprint:
+        logger.info("Parser code changed - will reparse all pages")
+        force = True
+
     # Determine if any pages will be parsed
     any_pages_to_parse = False
     for page_info in mapped_pages:
@@ -224,6 +269,12 @@ def run(
             transclusions = do_parse_template(template_wikitext)
         except ImportError:
             pass
+
+    # Update parser fingerprint if any pages will be parsed
+    if any_pages_to_parse:
+        stored_revisions["_parser"] = {
+            "fingerprint": current_parser_fingerprint
+        }
 
     # Load all existing passport files first (so --only and failures don't lose data)
     passport_metadata, all_passports_data = load_all_existing_passports(data_dir)

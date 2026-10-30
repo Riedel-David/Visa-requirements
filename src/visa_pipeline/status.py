@@ -72,6 +72,18 @@ STATUS_MAP = {
     'electronic border system': 'eta',  # Seychelles STTA
     'electronic system for travel authorization': 'eta',
     'electronic system for travel authorisation': 'eta',
+    'electronical travel authorization': 'eta',
+    'korean electronic travel authorization': 'eta',
+    'eta uk': 'eta',
+    'eta required': 'eta',
+    'electronic travel authorisation (eta)': 'eta',
+    'electronic travel authorization (eta)': 'eta',
+    'electronic travel authorization (aevm)': 'eta',
+    'electronic travel authority (eta)': 'eta',
+    'new zealand electronic travel authority (nzeta)': 'eta',
+    'seychelles electronic border system': 'eta',
+    'ease': 'eta',
+    'online pre-registration required': 'eta',
 
     # eVisa (applied for online before travel)
     'evisa': 'evisa',
@@ -80,6 +92,15 @@ STATUS_MAP = {
     'electronic visa': 'evisa',
     'visa online': 'evisa',
     'e-tourist visa': 'evisa',
+    'evisa required': 'evisa',
+    'free evisa': 'evisa',
+    'electronic entry visa': 'evisa',
+    'e-tourist card': 'evisa',
+    'evoa': 'evisa',
+    'pre-visa on arrival': 'evisa',
+    'online visitor e600 visa': 'evisa',
+    'visitor e600 visa': 'evisa',
+    'evisa (conditional)': 'evisa',
 
     # Visa on arrival (obtained at border)
     'visa on arrival': 'visa_on_arrival',
@@ -92,6 +113,12 @@ STATUS_MAP = {
     'visitor card on arrival': 'visa_on_arrival',
     "free visitor's permit on arrival": 'visa_on_arrival',
     'visa on arrival (ease)': 'visa_on_arrival',
+    "visitor's permit on arrival": 'visa_on_arrival',
+    "visitor's pass on arrival": 'visa_on_arrival',
+    'permit on arrival': 'visa_on_arrival',
+    'free entry permit on arrival': 'visa_on_arrival',
+    'free visitor permit on arrival': 'visa_on_arrival',
+    'visa on arrival (conditional)': 'visa_on_arrival',
     # e-VOA: applied online but obtained at arrival - treating as visa_on_arrival
     # since the key difference is that approval/payment happens at the border
     'e-voa': 'visa_on_arrival',
@@ -102,6 +129,9 @@ STATUS_MAP = {
     'visa necessary': 'visa_required',
     'online visa required': 'visa_required',
     'pre-arranged visa': 'visa_required',
+    'de facto visa required': 'visa_required',
+    'visa de facto required': 'visa_required',
+    'russian multiple entry visa required': 'visa_required',
 
     # Special permits (more restrictive than regular visa)
     'special permit required': 'permit_required',
@@ -121,12 +151,15 @@ STATUS_MAP = {
     'special authorisation required': 'permit_required',
     'special access required': 'permit_required',
     'special permits required': 'permit_required',
+    'restricted zone': 'permit_required',
+    'restricted-area permit required': 'permit_required',
+    'ttp is required': 'permit_required',
+    'prior entry permit': 'permit_required',
 
     # Admission refused
     'admission refused': 'admission_refused',
     'entry denied': 'admission_refused',
     'no admission': 'admission_refused',
-    'travel banned': 'admission_refused',
     'travel not permitted': 'admission_refused',
 
     # Special cases - deliberate 'special' mappings
@@ -138,6 +171,14 @@ STATUS_MAP = {
     'undefined': 'special',
     'visa regime undefined': 'special',
     'organized trips': 'special',  # Only via organized tours
+    'travel banned': 'special',
+    'travel prohibited': 'special',
+    'visa restricted': 'special',
+    'partial visa restrictions': 'special',
+    'particular visit regime': 'special',
+    'unknown': 'special',
+    'unclear': 'special',
+    'admission restriction': 'special',
 
     # Edge cases that should be normalized
     'freedom of movement (european netherlands)': 'visa_free',
@@ -148,7 +189,11 @@ STATUS_MAP = {
 
 
 def normalize_status(text: str) -> str:
-    """Normalize status text for lookup: lowercase, strip, compress whitespace."""
+    """Normalize status text for lookup: lowercase, strip, compress whitespace, normalize apostrophes, strip trailing periods."""
+    # Map curly apostrophes to straight apostrophes
+    text = text.replace('‘', "'").replace('’', "'")
+    # Strip trailing periods
+    text = text.rstrip('.')
     return ' '.join(text.lower().split())
 
 
@@ -170,18 +215,17 @@ def parse_status(text: str) -> tuple[str, list[str]]:
     if normalized_full in STATUS_MAP:
         return STATUS_MAP[normalized_full], []
 
-    # Split on " / ", " or ", or "/" (without spaces if between longer words)
-    # This handles both "eVisa / Visa on arrival" and "eVisa/Visa on arrival"
-    # but avoids splitting acronyms like "PAP/RAP"
+    # Split on "/" with any surrounding whitespace, " or ", and newlines
+    # This handles "ETA/ Visa on arrival", "ETA /Visa on arrival", "ETA/Visa on arrival"
+    # and "Visa not required\neVisa"
     parts = []
-    if ' / ' in text or ' or ' in text:
-        parts = [p.strip() for p in text.replace(' or ', ' / ').split(' / ')]
-    elif '/' in text:
-        # Try splitting on bare "/" and see if parts are valid
-        potential_parts = [p.strip() for p in text.split('/')]
-        # Only split if we get multiple reasonable-length parts (> 3 chars to avoid splitting acronyms)
-        if len(potential_parts) >= 2 and all(len(p) > 3 for p in potential_parts):
-            parts = potential_parts
+
+    # Normalize separators: replace newlines with " / ", and " or " with " / "
+    text_normalized = text.replace('\n', ' / ').replace(' or ', ' / ')
+
+    # Split on "/" with optional surrounding whitespace
+    import re
+    parts = [p.strip() for p in re.split(r'\s*/\s*', text_normalized) if p.strip()]
 
     if len(parts) <= 1:
         # Single status (or not a valid combined status)
