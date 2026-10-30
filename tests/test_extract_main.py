@@ -315,3 +315,76 @@ class TestDeduplication:
             f"{passport}: Found {len(conflict_warnings)} conflicts where same-type rows "
             f"have different statuses: {conflict_warnings}"
         )
+
+
+class TestTableScanning:
+    """Finding 1: tables are delimited by depth counting, not a lazy regex."""
+
+    def test_find_tables_template_ending_with_pipe_brace(self):
+        text = "{|\n! A\n|-\n| x {{Timatic|DE|}}\n|-\n| y\n|}\nafter"
+        tables = extract_main._find_tables(text)
+        assert len(tables) == 1
+        assert tables[0].endswith("|}")
+        assert "| y" in tables[0]
+
+    def test_find_tables_nested(self):
+        text = "{|\n| a\n|\n{|\n| inner\n|}\n|-\n| b\n|}\n\n{|\n| second\n|}"
+        tables = extract_main._find_tables(text)
+        assert len(tables) == 2
+        assert "| b" in tables[0]
+        assert "second" in tables[1]
+
+    def test_find_tables_none_and_unterminated(self):
+        assert extract_main._find_tables("no table") == []
+        assert extract_main._find_tables("{|\n| a\n") == []
+
+    def test_parse_page_keeps_rows_after_malformed_timatic(self, transcl):
+        wikitext = (
+            "== Visa requirements ==\n{| class=\"wikitable\"\n"
+            "! Country !! Visa requirement !! Allowed stay !! Notes\n|-\n"
+            "| {{flag|Japan}} || {{yes|Visa not required}} || 90 days || {{Timatic|DE|}}\n|-\n"
+            "| {{flag|France}} || {{yes|Visa not required}} || 90 days ||\n|}\n"
+        )
+        result = extract_main.parse_page(wikitext, passport="DE", title="T", revid=1,
+                                         transclusions=transcl)
+        assert {r["destination"] for r in result.records} == {"JP", "FR"}
+
+
+class TestDestinationAndArea:
+    """Finding 6."""
+
+    def test_footnote_template_is_not_an_area(self):
+        assert extract_main._extract_destination_and_area("[[Taiwan]]{{efn|note}}", []) == ("Taiwan", None)
+
+    def test_area_still_extracted(self):
+        assert extract_main._extract_destination_and_area(
+            "{{flag|Norway}} [[Jan Mayen]]", []) == ("Norway", "Jan Mayen")
+
+    def test_flag_after_footnote(self):
+        assert extract_main._extract_destination_and_area(
+            "{{efn|x}}{{flag|Japan}}", [])[1] is None
+
+
+class TestHeaderRow:
+    """Finding 7."""
+
+    @pytest.mark.parametrize("cell", [
+        "[[British Indian Ocean Territory]]", "[[Special Administrative Region]]",
+        "{{flag|Entry Island}}", "Regular Island", "Special Zone",
+    ])
+    def test_destinations_are_not_headers(self, cell):
+        assert not extract_main._is_header_row({"0": cell})
+
+    @pytest.mark.parametrize("cell", [
+        "Country", "Country/Territory", "Country or territory", "Destination",
+        "[[Country]]", "'''Country'''", "Territory", "Area", "Regular passport",
+        "Special passport", "Visa requirement", "Allowed stay",
+    ])
+    def test_headers(self, cell):
+        assert extract_main._is_header_row({"0": cell})
+
+
+def test_image_flag_template_is_not_area():
+    assert extract_main._extract_destination_and_area(
+        "{{flagicon image|Flag_of_China.svg}} [[Tibet Autonomous Region]]", []
+    ) == ("Tibet Autonomous Region", None)
