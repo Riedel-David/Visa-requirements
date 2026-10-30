@@ -7,3 +7,5 @@ __pycache__/
 cache/
 out/
 .DS_Store
+AGENTS.md
+docs/STATUS.md

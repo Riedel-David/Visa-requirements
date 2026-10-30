@@ -71,7 +71,6 @@ Key decisions:
    apps see. Alternative: commit `data/` back to `main` daily (git diff history of the data,
    but noisy commits).
 
-
 ## Decisions (2026-10-30)
 
 - This repo is a public, self-updating dataset. The app consumes it at build time (option a), so no
