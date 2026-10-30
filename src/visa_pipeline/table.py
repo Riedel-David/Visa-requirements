@@ -33,12 +33,13 @@ def _mask_nested_content(text: str) -> tuple[str, dict[str, str]]:
     text = re.sub(r'<!--.*?-->', mask_comments, text, flags=re.DOTALL)
 
     # Mask <ref>...</ref> tags
+    # Important: mask self-closing tags FIRST to avoid matching them as opening tags
     def mask_refs(m):
         placeholder = make_placeholder()
         replacements[placeholder] = m.group(0)
         return placeholder
-    text = re.sub(r'<ref[^>]*>.*?</ref>', mask_refs, text, flags=re.DOTALL)
-    text = re.sub(r'<ref[^/>]*\s*/>', mask_refs, text)
+    text = re.sub(r'<ref[^/>]*\s*/>', mask_refs, text)  # Self-closing first
+    text = re.sub(r'<ref[^>]*>.*?</ref>', mask_refs, text, flags=re.DOTALL)  # Then paired tags
 
     # Mask {{...}} templates (with nesting)
     while True:
@@ -63,9 +64,17 @@ def _mask_nested_content(text: str) -> tuple[str, dict[str, str]]:
 
 
 def _unmask_content(text: str, replacements: dict[str, str]) -> str:
-    """Unmask previously masked content."""
-    for placeholder, original in replacements.items():
-        text = text.replace(placeholder, original)
+    """Unmask previously masked content, recursively replacing nested placeholders."""
+    # Keep replacing until no more placeholders found
+    max_iterations = 100  # Safety limit
+    for _ in range(max_iterations):
+        changed = False
+        for placeholder, original in replacements.items():
+            if placeholder in text:
+                text = text.replace(placeholder, original)
+                changed = True
+        if not changed:
+            break
     return text
 
 
