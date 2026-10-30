@@ -11,3 +11,4 @@ AGENTS.md
 docs/STATUS.md
 *.egg-info/
 data/all.json
+data/passport-index-*.csv

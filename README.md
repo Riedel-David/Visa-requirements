@@ -81,7 +81,7 @@ Each record represents the visa requirement for one destination:
 
 ## CSV Exports
 
-Three CSV files are generated into `data/` at the end of every run (published next to `all.json`):
+Three CSV files are generated into `data/` at the end of every run. They are not committed to git: download them from the GitHub Release (or GitHub Pages, next to `all.json`):
 
 | File | Layout |
 |------|--------|
