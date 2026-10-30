@@ -350,3 +350,90 @@ def test_only_does_not_update_global_markers(tmp_path):
     # The full run afterwards still reparses FR
     _, client = _run_two(env)
     assert "FR page" in client.fetched
+
+
+def test_fingerprint_changes_with_parser_library_version(monkeypatch):
+    from importlib import metadata
+    real = metadata.version
+    base = compute_parser_fingerprint()
+    monkeypatch.setattr(metadata, "version",
+                        lambda name: "9.9.9" if name == "mwparserfromhell" else real(name))
+    changed = compute_parser_fingerprint()
+    assert changed != base
+    assert changed == compute_parser_fingerprint()
+
+
+# --- revision cooling-off ---
+
+def _cooling_env(tmp_path, stored_revid, timestamp, with_data=True):
+    env = _two_page_env(tmp_path, {"DE": {"revid": stored_revid, "timestamp": "2024-01-01T00:00:00Z"},
+                                   "FR": {"revid": 100}})
+    if not with_data:
+        (env[0] / "passports" / "DE.json").unlink()
+    return env, timestamp
+
+
+def _run_cooling(env, de_timestamp):
+    from datetime import datetime, timezone
+    from visa_pipeline.extract_main import ParseResult
+    from visa_pipeline.run import run
+
+    class Client(_TwoPageClient):
+        def revisions(self, titles):
+            out = {t: {"revid": 200, "timestamp": "2024-01-01T00:00:00Z"} for t in titles}
+            out["DE page"] = {"revid": 200, "timestamp": de_timestamp}
+            return out
+
+        def page_wikitext(self, title):
+            text, _ = super().page_wikitext(title)
+            return text, 200
+
+    def parse_page(wikitext, *, passport, title, revid, transclusions):
+        return ParseResult(records=[dict(_record(c, "visa_required"), passport=passport)
+                                    for c in CODES],
+                           unmapped_statuses=[], unmapped_destinations=[], warnings=[])
+
+    client = Client()
+    data_dir, state_dir, out_dir = env
+    code = run(data_dir=data_dir, state_dir=state_dir, out_dir=out_dir, parse_page=parse_page,
+               client=client, refresh_pages=False,
+               now=datetime(2024, 6, 1, 12, 0, tzinfo=timezone.utc))
+    return code, client
+
+
+def test_young_changed_page_is_deferred(tmp_path):
+    import json
+    env, ts = _cooling_env(tmp_path, 100, "2024-06-01T00:00:00Z")  # 12h old
+    code, client = _run_cooling(env, ts)
+    assert code == 0
+    assert "DE page" not in client.fetched
+    revs = json.loads((env[1] / "revisions.json").read_text())
+    assert revs["DE"]["revid"] == 100
+    de = json.loads((env[0] / "passports" / "DE.json").read_text())
+    assert de["source_revision"] == "100"
+    index = json.loads((env[0] / "index.json").read_text())
+    assert "DE" in json.dumps(index)
+    summary = json.loads((env[2] / "summary.json").read_text())
+    assert [d["passport"] for d in summary["deferred"]] == ["DE"]
+    assert summary["failed"] == [] and summary["blocked"] == []
+
+
+def test_old_enough_changed_page_is_parsed(tmp_path):
+    import json
+    env, ts = _cooling_env(tmp_path, 100, "2024-05-31T00:00:00Z")  # 36h old
+    code, client = _run_cooling(env, ts)
+    assert "DE page" in client.fetched
+    revs = json.loads((env[1] / "revisions.json").read_text())
+    assert revs["DE"]["revid"] == 200
+    summary = json.loads((env[2] / "summary.json").read_text())
+    assert summary["deferred"] == []
+
+
+def test_never_parsed_young_page_is_parsed(tmp_path):
+    import json
+    env, ts = _cooling_env(tmp_path, 100, "2024-06-01T11:00:00Z", with_data=False)
+    code, client = _run_cooling(env, ts)
+    assert "DE page" in client.fetched
+    assert (env[0] / "passports" / "DE.json").exists()
+    summary = json.loads((env[2] / "summary.json").read_text())
+    assert summary["deferred"] == []
