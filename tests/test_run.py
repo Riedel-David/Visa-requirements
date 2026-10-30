@@ -263,3 +263,90 @@ def test_force_bypasses_safety_thresholds(tmp_path):
     _, statuses = _run_with_status_flip(
         tmp_path, {"DE": {"revid": 100}, "_parser": {"fingerprint": "old"}}, force=True)
     assert statuses == {"visa_free"}
+
+
+def _two_page_env(tmp_path, revisions):
+    """DE and FR pages, both with published files at revid 100."""
+    import json
+    from datetime import datetime, timezone
+    state_dir, data_dir, out_dir = tmp_path / "state", tmp_path / "data", tmp_path / "out"
+    state_dir.mkdir()
+    (state_dir / "pages.json").write_text(json.dumps({
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "pages": [{"title": "DE page", "passport": "DE"},
+                  {"title": "FR page", "passport": "FR"}]}))
+    (state_dir / "revisions.json").write_text(json.dumps(revisions))
+    (data_dir / "passports").mkdir(parents=True)
+    for iso2 in ("DE", "FR"):
+        recs = [dict(_record(c, "visa_required"), passport=iso2) for c in CODES]
+        (data_dir / "passports" / f"{iso2}.json").write_text(json.dumps({
+            "schema_version": "1.0.0", "passport": iso2, "source_title": f"{iso2} page",
+            "source_url": "", "source_revision": "100",
+            "source_timestamp": "2024-01-01T00:00:00Z",
+            "generated_at": "2024-01-01T00:00:00Z", "license": "", "attribution": "",
+            "records": recs}))
+    return data_dir, state_dir, out_dir
+
+
+class _TwoPageClient:
+    def __init__(self):
+        self.fetched = []
+
+    def revisions(self, titles):
+        return {t: {"revid": 100, "timestamp": "2024-01-01T00:00:00Z"} for t in titles}
+
+    def page_wikitext(self, title):
+        if not title.startswith("Template:"):
+            self.fetched.append(title)
+        return "== T ==", 100
+
+
+def _run_two(env, fail=(), flip=(), **kwargs):
+    from visa_pipeline.extract_main import ParseResult
+    from visa_pipeline.run import run
+    data_dir, state_dir, out_dir = env
+    client = _TwoPageClient()
+
+    def parse_page(wikitext, *, passport, title, revid, transclusions):
+        if passport in fail:
+            raise RuntimeError("boom")
+        status = "visa_free" if passport in flip else "visa_required"
+        return ParseResult(records=[dict(_record(c, status), passport=passport) for c in CODES],
+                           unmapped_statuses=[], unmapped_destinations=[], warnings=[])
+
+    code = run(data_dir=data_dir, state_dir=state_dir, out_dir=out_dir, parse_page=parse_page,
+               client=client, refresh_pages=False, **kwargs)
+    return code, client
+
+
+def test_failed_page_is_retried_after_parser_change(tmp_path):
+    env = _two_page_env(tmp_path, {"DE": {"revid": 100}, "FR": {"revid": 100},
+                                   "_parser": {"fingerprint": "old"}})
+    code, client = _run_two(env, fail=("DE",))
+    assert code == 1
+    assert sorted(client.fetched) == ["DE page", "FR page"]
+    # Second run: parser fingerprint is now current, DE page revision unchanged,
+    # yet DE must be retried; FR must not.
+    code, client = _run_two(env)
+    assert code == 0
+    assert client.fetched == ["DE page"]
+
+
+def test_blocked_page_is_retried_after_parser_change(tmp_path):
+    env = _two_page_env(tmp_path, {"DE": {"revid": 100}, "FR": {"revid": 100},
+                                   "_parser": {"fingerprint": "old"}})
+    _run_two(env, flip=("DE",))  # 20 status changes > 15 -> blocked
+    _, client = _run_two(env, flip=("DE",))
+    assert client.fetched == ["DE page"]
+
+
+def test_only_does_not_update_global_markers(tmp_path):
+    import json
+    env = _two_page_env(tmp_path, {"DE": {"revid": 100}, "FR": {"revid": 100},
+                                   "_parser": {"fingerprint": "old"}})
+    _run_two(env, only=["DE"])
+    revs = json.loads((env[1] / "revisions.json").read_text())
+    assert revs["_parser"]["fingerprint"] == "old"
+    # The full run afterwards still reparses FR
+    _, client = _run_two(env)
+    assert "FR page" in client.fetched

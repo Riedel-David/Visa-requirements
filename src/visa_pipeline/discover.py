@@ -23,10 +23,10 @@ def load_overrides(overrides_path: Path) -> dict[str, str | None]:
 
     Returns:
         Dict mapping exact title to ISO2 or null
-    """
-    if not overrides_path.exists():
-        return {}
 
+    Raises:
+        FileNotFoundError: if the file is missing (never silently empty)
+    """
     with open(overrides_path) as f:
         return json.load(f)
 

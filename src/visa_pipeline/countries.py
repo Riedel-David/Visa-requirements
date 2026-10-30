@@ -112,26 +112,17 @@ def _load_overrides() -> dict:
     if _overrides_cache is not None:
         return _overrides_cache
 
-    try:
-        override_file = files('visa_pipeline') / 'overrides' / 'destinations.json'
-        content = override_file.read_text(encoding='utf-8')
-        data = json.loads(content)
+    # A missing or corrupt overrides file must fail loudly: silently returning
+    # empty overrides would drop every manual mapping from the output.
+    override_file = files('visa_pipeline') / 'overrides' / 'destinations.json'
+    data = json.loads(override_file.read_text(encoding='utf-8'))
 
-        # Support both old format (flat dict) and new format (structured)
-        if 'codes' in data:
-            # New format
-            _overrides_cache = data
-        else:
-            # Old format - convert to new structure
-            _overrides_cache = {
-                'codes': data,
-                'areas': {},
-                'ignore': []
-            }
-        return _overrides_cache
-    except (FileNotFoundError, json.JSONDecodeError):
-        _overrides_cache = {'codes': {}, 'areas': {}, 'ignore': []}
-        return _overrides_cache
+    # Support both old format (flat dict) and new format (structured)
+    if 'codes' in data:
+        _overrides_cache = data
+    else:
+        _overrides_cache = {'codes': data, 'areas': {}, 'ignore': []}
+    return _overrides_cache
 
 
 def normalize_name(name: str) -> str:

@@ -8,6 +8,8 @@ from typing import Any, Callable
 
 from .api import WikiClient
 from .discover import get_pages
+from .extract_main import parse_page as default_parse_page
+from .transclusions import TEMPLATE_TITLE, parse_template
 from .validate import (
     load_schema,
     validate_passport_file,
@@ -173,14 +175,8 @@ def run(
     Returns:
         Exit code (0=success, 1=failure)
     """
-    # Import parser lazily
     if parse_page is None:
-        try:
-            from .extract_main import parse_page as real_parse_page
-            parse_page = real_parse_page
-        except ImportError:
-            logger.error("Parser modules not available (expected on pipeline branch)")
-            return 1
+        parse_page = default_parse_page
 
     # Initialize client
     if client is None:
@@ -211,13 +207,6 @@ def run(
     titles = [p["title"] for p in mapped_pages]
 
     # Add template title
-    TEMPLATE_TITLE = "Template:Transcluded sections for the visa articles"
-    try:
-        from .transclusions import TEMPLATE_TITLE as imported_title
-        TEMPLATE_TITLE = imported_title
-    except ImportError:
-        pass
-
     titles.append(TEMPLATE_TITLE)
 
     revision_info = client.revisions(titles)
@@ -262,21 +251,18 @@ def run(
         logger.info("Fetching template...")
         template_wikitext, _ = client.page_wikitext(TEMPLATE_TITLE)
 
-        # Update stored revisions
-        stored_revisions["_template"] = {
-            "revid": template_revid,
-            "timestamp": revision_info[TEMPLATE_TITLE]["timestamp"]
-        }
+        transclusions = parse_template(template_wikitext)
 
-        # Parse template
-        try:
-            from .transclusions import parse_template as do_parse_template
-            transclusions = do_parse_template(template_wikitext)
-        except ImportError:
-            pass
+        # The global markers say "every page was reparsed with this template/parser".
+        # Only a full run (no --only) may claim that. Pages that fail or are blocked
+        # have their stored revision dropped below, so they are retried next run.
+        if not only:
+            stored_revisions["_template"] = {
+                "revid": template_revid,
+                "timestamp": revision_info[TEMPLATE_TITLE]["timestamp"]
+            }
 
-    # Update parser fingerprint if any pages will be parsed
-    if any_pages_to_parse:
+    if any_pages_to_parse and not only:
         stored_revisions["_parser"] = {
             "fingerprint": current_parser_fingerprint
         }
@@ -318,6 +304,7 @@ def run(
                 "passport": iso2,
                 "reason": "no revision info"
             })
+            stored_revisions.pop(iso2, None)
             exit_code = 1
             continue
 
@@ -373,6 +360,7 @@ def run(
                     "passport": iso2,
                     "reason": "no rows parsed (new page)"
                 })
+                stored_revisions.pop(iso2, None)
                 # Don't write file, don't change exit code, keep going
                 continue
 
@@ -396,6 +384,7 @@ def run(
                         "passport": iso2,
                         "reason": reason
                     })
+                    stored_revisions.pop(iso2, None)
                     exit_code = 1
                     # Keep old file unchanged (already loaded in index/all)
                     continue
@@ -406,6 +395,7 @@ def run(
                     "passport": iso2,
                     "reason": reason
                 })
+                stored_revisions.pop(iso2, None)
                 blocked_passports[iso2] = {
                     "title": title,
                     "revid": revid,
@@ -453,6 +443,7 @@ def run(
                 "passport": iso2,
                 "reason": str(e)
             })
+            stored_revisions.pop(iso2, None)
             exit_code = 1
 
     # Check for passports whose pages vanished from category

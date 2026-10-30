@@ -22,57 +22,6 @@ def _normalize_heading(heading: str) -> str:
     return heading.lower().strip().replace('_', ' ')
 
 
-def _find_section_by_heading(wikicode, heading_keywords: list[str]) -> str | None:
-    """Find a section whose heading exactly matches one of the keywords.
-
-    Args:
-        wikicode: Parsed wikitext (or string)
-        heading_keywords: List of lowercase heading texts to match exactly
-
-    Returns:
-        Section wikitext or None
-    """
-    # Convert to string if it's wikicode
-    full_text = str(wikicode)
-
-    # Find all level-2 and level-3 section headings
-    lines = full_text.split('\n')
-    section_start = None
-    section_level = None
-
-    for i, line in enumerate(lines):
-        # Detect heading level
-        if line.startswith('===='):
-            level = 4
-        elif line.startswith('==='):
-            level = 3
-        elif line.startswith('=='):
-            level = 2
-        else:
-            continue
-
-        heading = _normalize_heading(line.strip('= \n'))
-
-        # Check if this heading exactly matches any of our keywords
-        match = heading in heading_keywords
-
-        if match and section_start is None:
-            # Found the start of our section
-            section_start = i
-            section_level = level
-        elif section_start is not None and level <= section_level:
-            # Found the next same-or-higher-level section - extract everything between
-            section_lines = lines[section_start:i]
-            return '\n'.join(section_lines)
-
-    # If we found a section but reached end of file
-    if section_start is not None:
-        section_lines = lines[section_start:]
-        return '\n'.join(section_lines)
-
-    return None
-
-
 def _extract_section_hierarchy(wikitext: str) -> list[dict]:
     """Extract all sections from wikitext with their hierarchy.
 
@@ -128,7 +77,6 @@ def _is_territory_section(heading: str) -> bool:
         return False
 
     # Match territory-related keywords (as whole words or phrases)
-    import re
     patterns = [
         r'\bterritor',
         r'\bdisputed',
@@ -142,7 +90,7 @@ def _is_territory_section(heading: str) -> bool:
     return any(re.search(pattern, heading_lower) for pattern in patterns)
 
 
-def _find_all_territory_sections(sections: list[dict], main_section_start: int, main_section_level: int) -> list[dict]:
+def _find_all_territory_sections(sections: list[dict], main_section_start: int) -> list[dict]:
     """Find all territory-related sections.
 
     Returns (in page order) every section that is a descendant of the main
@@ -201,6 +149,17 @@ def _identify_columns(headers: dict[str, str]) -> dict[str, str]:
     return roles
 
 
+def _is_decorative_flag(template) -> bool:
+    """True for a flag template that carries only an image, not a country name."""
+    name = template.name.strip().lower().replace('_', ' ')
+    if 'flag' not in name:
+        return False
+    if not template.has(1):
+        return True
+    param1 = str(template.get(1).value).strip()
+    return param1.lower() in ('image', 'un') or param1.endswith('.svg')
+
+
 def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[str, str | None]:
     """Extract destination name and optional area from a destination cell.
 
@@ -223,6 +182,7 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
 
     # Look for flag templates
     flag_country = None
+    selected_node = None
     for template in wikicode.ifilter_templates():
         name = template.name.strip().lower().replace('_', ' ')
         if any(flag in name for flag in ['flag', 'flagicon', 'flagcountry']):
@@ -232,6 +192,7 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
                 # Skip if param1 is "image" or looks like a file name
                 if param1.lower() not in ['image', 'un'] and not param1.endswith('.svg'):
                     flag_country = param1
+                    selected_node = template
                     break
 
     # If no valid flag country, try to extract from wikilinks
@@ -242,19 +203,21 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
             if not link_title.startswith(('File:', 'Image:')):
                 # Use link text if available, otherwise title
                 flag_country = str(link.text).strip() if link.text else link_title
+                selected_node = link
                 break
 
     if flag_country:
         # We have a country from flag or link - check if there's additional text/links after it
         # Remove the first template/link and see what's left
-        if wikicode.filter_templates():
-            template_str = str(wikicode.filter_templates()[0])
-            remaining = cell_text.replace(template_str, '').strip()
-        elif wikicode.filter_wikilinks():
-            link_str = str(wikicode.filter_wikilinks()[0])
-            remaining = cell_text.replace(link_str, '').strip()
-        else:
-            remaining = ''
+        # Remove exactly the node that supplied flag_country; footnote templates
+        # (efn, sort, ...) are dropped by clean() below and never count as area.
+        remaining = cell_text.replace(str(selected_node), '', 1)
+        # Flag templates skipped as country sources (e.g. {{flagicon image|X.svg}})
+        # are decoration, not area text.
+        for template in wikicode.ifilter_templates():
+            if template is not selected_node and _is_decorative_flag(template):
+                remaining = remaining.replace(str(template), '', 1)
+        remaining = remaining.strip()
 
         if remaining:
             # Clean the remaining text to get the area
@@ -284,6 +247,41 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
     return cleaned.strip(), None
 
 
+def _find_tables(text: str) -> list[str]:
+    """Return top-level wikitables in text.
+
+    Tables open with ``{|`` and close with ``|}`` at the start of a line; nesting is
+    depth-counted so inner tables and ``|}`` inside templates (``{{Timatic|DE|}}``)
+    do not end the outer table. An unterminated table is dropped.
+    """
+    tables: list[str] = []
+    depth = 0
+    start = 0
+    pos = 0
+    for line in text.splitlines(keepends=True):
+        stripped = line.lstrip()
+        if stripped.startswith('{|'):
+            if depth == 0:
+                start = pos + (len(line) - len(stripped))
+            depth += 1
+        elif stripped.startswith('|}') and depth > 0:
+            depth -= 1
+            if depth == 0:
+                end = pos + (len(line) - len(stripped)) + 2
+                tables.append(text[start:end])
+        pos += len(line)
+    return tables
+
+
+_HEADER_WORDS = frozenset({
+    'country', 'destination', 'visa', 'requirement', 'requirements', 'stay', 'duration',
+    'notes', 'note', 'details', 'passport', 'regular', 'special', 'service',
+    'diplomatic', 'area', 'territory', 'region', 'entry', 'allowed', 'visitor',
+    'or', 'and', 'of', 'the', 'for', 'to', 'maximum', 'length', 'days', 'type', 'name',
+    'ordinary', 'official', 'holders', 'other', 'permitted', 'policy', 'status',
+})
+
+
 def _is_header_row(row: dict[str, str]) -> bool:
     """Check if a row looks like a header row (contains column names, not data).
 
@@ -296,21 +294,19 @@ def _is_header_row(row: dict[str, str]) -> bool:
     if '_group_label' in row:
         return False
 
-    # Check first few cells for header-like content
-    header_keywords = ['country', 'destination', 'visa', 'requirement', 'stay', 'duration',
-                       'notes', 'details', 'passport', 'regular', 'special', 'service',
-                       'diplomatic', 'area', 'territory', 'region', 'entry', 'allowed', 'visitor']
-
-    # Get first cell content and check if it's a common header term
+    # A header cell is plain header text. Flags, templates and wikilinks to other
+    # articles mean a destination (e.g. [[British Indian Ocean Territory]]).
     first_cell = row.get('0', '')
-    first_cell_lower = first_cell.lower().strip().strip('[]')
-
-    # If first cell is a generic header term, likely a header row
-    # But if it contains flag templates, it's a data row
-    if 'flag' in first_cell_lower:
+    text = re.sub(r'<ref[^>]*/>|<ref[^>]*>.*?</ref>|<[^>]+>', '', first_cell, flags=re.DOTALL)
+    text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r'\1', text)  # [[a|b]] -> b
+    text = text.replace("'", '').lower()
+    if '{{' in text or '[' in text or 'flag' in text:
         return False
-
-    return any(keyword in first_cell_lower for keyword in header_keywords)
+    text = re.sub(r'\(.*?\)', ' ', text)
+    words = re.findall(r'[a-z]+', text)
+    if not words:
+        return False
+    return all(w in _HEADER_WORDS for w in words)
 
 
 def _parse_table_rows(table_text: str, passport: str, section_name: str,
@@ -619,7 +615,7 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
                 'map' not in heading_normalized):
             # Check if this section has tables in its direct content
             direct_content = _get_section_direct_content(section, sections, lines)
-            if re.search(r'\{\|.*?\|\}', direct_content, re.DOTALL):
+            if _find_tables(direct_content):
                 main_section = section
                 break
 
@@ -628,9 +624,7 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
         main_direct_content = _get_section_direct_content(main_section, sections, lines)
 
         # Extract tables from main section's direct content
-        table_matches = re.finditer(r'\{\|.*?\|\}', main_direct_content, re.DOTALL)
-        for table_match in table_matches:
-            table_text = table_match.group(0)
+        for table_text in _find_tables(main_direct_content):
             _parse_table_rows(
                 table_text, passport, 'Visa requirements',
                 is_territory_or_restricted=False,
@@ -643,16 +637,14 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
     # Find all territory sections
     if main_section:
         territory_sections = _find_all_territory_sections(
-            sections, main_section['start_line'], main_section['level']
+            sections, main_section['start_line']
         )
 
         # Parse tables from each territory section
         for territory_section in territory_sections:
             # Direct content only: child sections are visited on their own
             direct = _get_section_direct_content(territory_section, sections, lines)
-            table_matches = re.finditer(r'\{\|.*?\|\}', direct, re.DOTALL)
-            for table_match in table_matches:
-                table_text = table_match.group(0)
+            for table_text in _find_tables(direct):
                 _parse_table_rows(
                     table_text, passport, territory_section['heading'],
                     is_territory_or_restricted=True,
