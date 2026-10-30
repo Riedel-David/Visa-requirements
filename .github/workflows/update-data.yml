@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: 'Reparse all pages and bypass the safety thresholds'
+        description: 'Reparse all pages and bypass the safety thresholds (zero rows still fail)'
         type: boolean
         default: false
       only:
@@ -28,9 +28,6 @@ jobs:
       contents: write   # commit data and push the data-YYYY-MM-DD tag
       issues: write     # open/update the data-pipeline issue
       pages: read       # configure-pages reads the Pages site config
-    outputs:
-      pipeline_exit_code: ${{ steps.run_pipeline.outputs.exit_code }}
-      data_changed: ${{ steps.check_changes.outputs.data_changed }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -92,7 +89,7 @@ jobs:
           git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
 
           # Create commit with first ~50 lines of changelog
-          CHANGELOG_EXCERPT=$(head -n 50 out/changelog.md)
+          CHANGELOG_EXCERPT=$(head -n 50 out/changelog.md 2>/dev/null || true)
           git add data state
           git commit -m "Update visa data $DATESTAMP" -m "$CHANGELOG_EXCERPT"
           git pull --rebase origin main
@@ -110,6 +107,7 @@ jobs:
           echo "tag=$TAG" >> "$GITHUB_OUTPUT"
 
       - name: Create GitHub release
+        continue-on-error: true  # a failed release must not block the Pages deploy
         if: steps.commit.outputs.tag != ''
         env:
           GH_TOKEN: ${{ github.token }}
@@ -163,21 +161,24 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          # GitHub limits issue bodies to 65536 characters
+          head -c 60000 out/report.md > issue-body.md
+
           # Ensure label exists
           gh label create data-pipeline --color FF0000 --description "Data pipeline requires attention" --force
 
           # Check for existing open issue
-          EXISTING_ISSUE=$(gh issue list --label data-pipeline --state open --json number --jq '.[0].number')
+          EXISTING_ISSUE=$(gh issue list --label data-pipeline --state open --json number --jq '.[0].number // empty')
 
           if [ -n "$EXISTING_ISSUE" ]; then
             # Comment on existing issue
-            gh issue comment "$EXISTING_ISSUE" --body-file out/report.md
+            gh issue comment "$EXISTING_ISSUE" --body-file issue-body.md
           else
             # Create new issue
             gh issue create \
               --title "Visa data pipeline needs attention" \
               --label data-pipeline \
-              --body-file out/report.md
+              --body-file issue-body.md
           fi
 
       - name: Configure Pages

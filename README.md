@@ -145,17 +145,17 @@ The pipeline includes safety checks to prevent publishing bad data:
 
 - **Status change threshold**: Max 15 status changes per passport
 - **Record drop threshold**: Max 10% drop in record count
-- **Zero-row detection**: Flags passports with no data when previous data existed
+- **Zero-row detection**: A passport that parses to zero rows when it had data before counts as a failure (the run exits non-zero)
 
 When a threshold is exceeded:
 - The old data is kept (not overwritten)
 - A GitHub issue is opened automatically
-- The workflow still completes (other passports are processed)
+- The workflow still processes the other passports (a zero-row failure also turns the run red)
 
 Override with CLI flags:
 ```bash
-python -m visa_pipeline run --force  # Bypass all thresholds
-python -m visa_pipeline run --max-status-changes 20 --max-record-drop-pct 15
+.venv/bin/python -m visa_pipeline run --force  # Reparse everything and bypass the thresholds (zero rows still fail)
+.venv/bin/python -m visa_pipeline run --max-status-changes 20 --max-record-drop-pct 15
 ```
 
 ## How It Works
@@ -186,13 +186,13 @@ python3 -m venv .venv
 
 ```bash
 # Process all passports
-python -m visa_pipeline run --data data --state state --out out
+.venv/bin/python -m visa_pipeline run --data data --state state --out out
 
 # Process specific passports only
-python -m visa_pipeline run --only DE,US,FR
+.venv/bin/python -m visa_pipeline run --only DE,US,FR
 
 # Force update (ignore revision checks)
-python -m visa_pipeline run --force
+.venv/bin/python -m visa_pipeline run --force
 ```
 
 ### Run Tests
