@@ -14,6 +14,7 @@ class ParseResult:
     unmapped_statuses: list[dict] = field(default_factory=list)
     unmapped_destinations: list[dict] = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
+    _seen_keys: set = field(default_factory=set)  # Track (destination, area) to detect duplicates
 
 
 def _normalize_heading(heading: str) -> str:
@@ -72,37 +73,56 @@ def _find_section_by_heading(wikicode, heading_keywords: list[str]) -> str | Non
     return None
 
 
-def _find_all_subsections(wikicode, parent_heading_keywords: list[str]) -> list[tuple[str, str]]:
-    """Find all level-3 subsections under a level-2 parent section.
+def _find_all_subsections(wikicode, parent_section_name: str, heading_keywords: list[str]) -> list[tuple[str, str]]:
+    """Find all level-3 subsections under a specific level-2 parent whose headings contain keywords.
 
     Args:
         wikicode: Parsed wikitext
-        parent_heading_keywords: Keywords to identify the parent section
+        parent_section_name: Name of the parent level-2 section (exact match)
+        heading_keywords: Keywords to match in subsection headings (any keyword found in heading)
 
     Returns:
         List of (subsection_heading, subsection_text) tuples
     """
     # First find the parent section
-    parent_section = _find_section_by_heading(wikicode, parent_heading_keywords)
+    parent_section = _find_section_by_heading(wikicode, [parent_section_name])
     if not parent_section:
         return []
 
-    # Parse the parent section and get level-3 subsections
-    parent_wikicode = mwparserfromhell.parse(parent_section)
-    subsections = parent_wikicode.get_sections(levels=[3], include_headings=True)
-
+    # Extract level-3 subsections from the parent
+    lines = parent_section.split('\n')
     result = []
-    for subsection in subsections:
-        subsection_text = str(subsection).strip()
-        if not subsection_text:
-            continue
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        # Look for level-3 headings
+        if line.startswith('===') and not line.startswith('===='):
+            heading = _normalize_heading(line.strip('= \n'))
 
-        lines = subsection_text.split('\n', 1)
-        if not lines[0].startswith('==='):
-            continue
+            # Check if this heading contains any of the keywords
+            matches = any(keyword in heading for keyword in heading_keywords)
 
-        heading = lines[0].strip('= \n')
-        result.append((heading, subsection_text))
+            if matches:
+                # Find the extent of this subsection (until next same-or-higher-level heading)
+                section_start = i
+                i += 1
+                while i < len(lines):
+                    next_line = lines[i]
+                    if next_line.startswith('===') and not next_line.startswith('===='):
+                        # Another level-3 heading
+                        break
+                    elif next_line.startswith('==') and not next_line.startswith('==='):
+                        # Level-2 heading, end of parent section
+                        break
+                    i += 1
+
+                # Extract the subsection
+                subsection_lines = lines[section_start:i]
+                subsection_text = '\n'.join(subsection_lines)
+                clean_heading = line.strip('= \n')
+                result.append((clean_heading, subsection_text))
+                continue
+        i += 1
 
     return result
 
@@ -212,7 +232,6 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
             status_in_stay = True
 
     # Parse data rows
-    seen_keys = set()
     for row in data_rows:
         # Extract destination
         dest_col = roles.get('destination')
@@ -245,10 +264,10 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
 
         # Check for duplicate (destination, area) key
         key = (dest_code, area)
-        if key in seen_keys:
+        if key in result._seen_keys:
             result.warnings.append(f"Duplicate key: {passport} -> {dest_name} ({dest_code}, {area})")
             continue
-        seen_keys.add(key)
+        result._seen_keys.add(key)
 
         # Extract status
         if status_in_stay:
@@ -373,11 +392,11 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
                     result=result
                 )
 
-    # Find territory/limited recognition subsections
+    # Find territory/limited recognition subsections under "Visa requirements"
     territory_keywords = [
-        'territories', 'limited recognition', 'dependent', 'disputed', 'restricted territories'
+        'territories', 'limited recognition', 'dependent', 'disputed', 'restricted'
     ]
-    territory_subsections = _find_all_subsections(wikicode, territory_keywords)
+    territory_subsections = _find_all_subsections(wikicode, 'visa requirements', territory_keywords)
 
     for subsection_heading, subsection_text in territory_subsections:
         # Parse tables in this subsection
