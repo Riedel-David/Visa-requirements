@@ -15,6 +15,11 @@ dependencies = [
     "pycountry>=24.6",
 ]
 
+[project.urls]
+Homepage = "https://github.com/Riedel-David/Visa-requirements"
+Issues = "https://github.com/Riedel-David/Visa-requirements/issues"
+Source = "https://github.com/Riedel-David/Visa-requirements"
+
 [project.optional-dependencies]
 dev = ["pytest>=8", "pyflakes>=3"]
 

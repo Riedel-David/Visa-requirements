@@ -3,6 +3,8 @@
 import hashlib
 import json
 import logging
+from datetime import datetime, timedelta, timezone
+from importlib import metadata
 from pathlib import Path
 from typing import Any, Callable
 
@@ -30,6 +32,9 @@ from .exports import write_csv_exports
 
 
 logger = logging.getLogger(__name__)
+
+# A changed page younger than this is deferred (vandalism usually gets reverted quickly)
+COOLING_OFF_HOURS = 24
 
 
 def compute_parser_fingerprint() -> str:
@@ -64,6 +69,13 @@ def compute_parser_fingerprint() -> str:
         for override_file in sorted(overrides_dir.iterdir()):
             if override_file.is_file():
                 hasher.update(override_file.read_bytes())
+
+    # Installed parser-library version: an upgrade can change parse results
+    try:
+        parser_lib_version = metadata.version("mwparserfromhell")
+    except metadata.PackageNotFoundError:
+        parser_lib_version = "unknown"
+    hasher.update(f"mwparserfromhell=={parser_lib_version}".encode())
 
     return hasher.hexdigest()
 
@@ -144,6 +156,29 @@ def needs_update(
     return stored_revisions[iso2]["revid"] != revid
 
 
+def is_cooling_off(
+    iso2: str,
+    revid: int,
+    timestamp: str,
+    stored_revisions: dict[str, dict[str, Any]],
+    data_dir: Path,
+    now: datetime
+) -> bool:
+    """True if a changed page's latest revision is too young to publish.
+
+    Only pages that already have published data and a stored (older) revision
+    are deferred; a never-parsed page is parsed regardless.
+    """
+    if iso2 not in stored_revisions or stored_revisions[iso2].get("revid") == revid:
+        return False
+    if not (data_dir / "passports" / f"{iso2}.json").exists():
+        return False
+    revised_at = datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+    if revised_at.tzinfo is None:
+        revised_at = revised_at.replace(tzinfo=timezone.utc)
+    return now - revised_at < timedelta(hours=COOLING_OFF_HOURS)
+
+
 def run(
     data_dir: Path = Path("data"),
     state_dir: Path = Path("state"),
@@ -155,7 +190,8 @@ def run(
     refresh_pages: bool = False,
     min_interval: float = 1.0,
     parse_page: Callable | None = None,
-    client: WikiClient | None = None
+    client: WikiClient | None = None,
+    now: datetime | None = None
 ) -> int:
     """
     Run the visa requirements pipeline.
@@ -172,12 +208,15 @@ def run(
         min_interval: Minimum seconds between API requests
         parse_page: Parser function (for testing, defaults to real parser)
         client: WikiClient instance (for testing, defaults to real client)
+        now: Current UTC time for the cooling-off check (for testing)
 
     Returns:
         Exit code (0=success, 1=failure)
     """
     if parse_page is None:
         parse_page = default_parse_page
+    if now is None:
+        now = datetime.now(timezone.utc)
 
     # Initialize client
     if client is None:
@@ -241,6 +280,9 @@ def run(
         title = page_info["title"]
         if title in revision_info:
             revid = revision_info[title]["revid"]
+            if is_cooling_off(page_info["passport"], revid, revision_info[title]["timestamp"],
+                              stored_revisions, data_dir, now):
+                continue
             if needs_update(page_info["passport"], revid, stored_revisions, data_dir, reparse_all):
                 any_pages_to_parse = True
                 break
@@ -281,6 +323,7 @@ def run(
         "rows": 0,
         "blocked": [],
         "failed": [],
+        "deferred": [],
         "unmapped_statuses": [],
         "unmapped_destinations": [],
         "changes": 0
@@ -311,6 +354,13 @@ def run(
 
         revid = revision_info[title]["revid"]
         timestamp = revision_info[title]["timestamp"]
+
+        # Cooling-off: keep existing data and the stored revision so the next run retries.
+        # (--force does not bypass this; deferral only ever applies to changed pages.)
+        if is_cooling_off(iso2, revid, timestamp, stored_revisions, data_dir, now):
+            logger.info(f"{iso2}: Latest revision {revid} is under {COOLING_OFF_HOURS}h old, deferred")
+            results["deferred"].append({"passport": iso2, "revid": revid, "timestamp": timestamp})
+            continue
 
         # Check if update needed
         if not needs_update(iso2, revid, stored_revisions, data_dir, reparse_all):
@@ -486,6 +536,9 @@ def run(
     write_report(out_dir, results)
     write_summary_json(out_dir, results)
 
-    logger.info(f"Pipeline complete - {results['pages_parsed']} parsed, {results['rows']} rows")
+    if results["deferred"]:
+        logger.info("Deferred (cooling-off): " + ", ".join(d["passport"] for d in results["deferred"]))
+    logger.info(f"Pipeline complete - {results['pages_parsed']} parsed, "
+                f"{len(results['deferred'])} deferred, {results['rows']} rows")
 
     return exit_code
