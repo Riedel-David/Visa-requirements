@@ -185,7 +185,11 @@ def _identify_columns(headers: dict[str, str]) -> dict[str, str]:
 
         if any(kw in header_lower for kw in ['country', 'region', 'visitor to', 'territory', 'destination']):
             roles['destination'] = col_idx
-        elif any(kw in header_lower for kw in ['visa requirement', 'conditions of access', 'visa status']):
+        elif any(kw in header_lower for kw in ['visa requirement', 'entry requirement', 'conditions of access', 'visa status', 'requirement']):
+            roles['status'] = col_idx
+        elif any(kw in header_lower for kw in ['passport']) and 'status' not in roles:
+            # Column with "passport" (e.g., "Regular passports") is a status column if no other status column found yet
+            # This handles multi-passport-type tables like Northern Cyprus
             roles['status'] = col_idx
         elif any(kw in header_lower for kw in ['allowed stay', 'maximum stay', 'length of stay', 'stay']):
             roles['stay'] = col_idx
@@ -596,13 +600,20 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
     lines = wikitext.split('\n')
 
     # Find the main "Visa requirements" section (level 2 or 3, exact or containing match)
+    # Skip "map" sections which typically just contain images
+    # Try multiple sections until we find one with tables
     main_section = None
     for section in sections:
         heading_normalized = _normalize_heading(section['heading'])
-        # Accept level 2 or 3 sections that are exactly "visa requirements" or contain it
-        if section['level'] in (2, 3) and 'visa requirements' in heading_normalized:
-            main_section = section
-            break
+        # Accept level 2 or 3 sections that contain "visa requirements" but not "map"
+        if (section['level'] in (2, 3) and
+                'visa requirements' in heading_normalized and
+                'map' not in heading_normalized):
+            # Check if this section has tables in its direct content
+            direct_content = _get_section_direct_content(section, sections, lines)
+            if re.search(r'\{\|.*?\|\}', direct_content, re.DOTALL):
+                main_section = section
+                break
 
     # Parse main table (direct content of main section only, not descendants)
     if main_section:
