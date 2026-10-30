@@ -15,6 +15,14 @@ def main() -> int:
     )
 
     parser.add_argument(
+        "command",
+        nargs="?",
+        choices=["run"],
+        default="run",
+        help="Command to execute (default: run)"
+    )
+
+    parser.add_argument(
         "--data",
         type=Path,
         default=Path("data"),
