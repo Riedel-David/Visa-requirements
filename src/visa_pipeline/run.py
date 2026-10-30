@@ -149,29 +149,40 @@ def run(
 
     revision_info = client.revisions(titles)
 
-    # Check if template changed
+    # Check if template changed and if any pages need parsing
     template_revid = None
-    template_wikitext = None
     if TEMPLATE_TITLE in revision_info:
         template_revid = revision_info[TEMPLATE_TITLE]["revid"]
         stored_template_revid = stored_revisions.get("_template", {}).get("revid")
 
-        if template_revid != stored_template_revid or force:
-            logger.info("Fetching template (changed or forced)...")
-            template_wikitext, _ = client.page_wikitext(TEMPLATE_TITLE)
-            # Update stored revisions
-            stored_revisions["_template"] = {
-                "revid": template_revid,
-                "timestamp": revision_info[TEMPLATE_TITLE]["timestamp"]
-            }
+        if stored_template_revid is not None and template_revid != stored_template_revid:
+            logger.info("Template changed - will reparse all pages")
+            force = True
 
-            if stored_template_revid is not None and template_revid != stored_template_revid:
-                logger.info("Template changed - will reparse all pages")
-                force = True
+    # Determine if any pages will be parsed
+    any_pages_to_parse = False
+    for page_info in mapped_pages:
+        title = page_info["title"]
+        if title in revision_info:
+            revid = revision_info[title]["revid"]
+            if needs_update(page_info["passport"], revid, stored_revisions, data_dir, force):
+                any_pages_to_parse = True
+                break
 
-    # Parse template if we have it
+    # Fetch template if any pages will be parsed
+    template_wikitext = None
     transclusions = {}
-    if template_wikitext:
+    if any_pages_to_parse and TEMPLATE_TITLE in revision_info:
+        logger.info("Fetching template...")
+        template_wikitext, _ = client.page_wikitext(TEMPLATE_TITLE)
+
+        # Update stored revisions
+        stored_revisions["_template"] = {
+            "revid": template_revid,
+            "timestamp": revision_info[TEMPLATE_TITLE]["timestamp"]
+        }
+
+        # Parse template
         try:
             from .transclusions import parse_template as do_parse_template
             transclusions = do_parse_template(template_wikitext)
