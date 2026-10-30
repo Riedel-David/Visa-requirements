@@ -26,6 +26,7 @@ from .publish import (
     write_report,
     write_summary_json
 )
+from .exports import write_csv_exports
 
 
 logger = logging.getLogger(__name__)
@@ -475,6 +476,11 @@ def run(
     logger.info("Writing output files...")
     write_index_json(data_dir, passport_metadata, blocked_passports)
     write_all_json(data_dir, all_passports_data)
+    try:
+        write_csv_exports(data_dir, all_passports_data)
+    except (KeyError, OSError) as e:
+        # Logged, but must not fail the run or stop the changelog/report below.
+        logger.error(f"CSV export failed: {e}")
     write_changelog(out_dir, all_changes)
     write_report(out_dir, results)
     write_summary_json(out_dir, results)
