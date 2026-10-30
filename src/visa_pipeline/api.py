@@ -3,6 +3,8 @@
 import os
 import time
 import random
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from typing import Any
 
 import requests
@@ -11,6 +13,30 @@ import requests
 class WikiAPIError(Exception):
     """Wikipedia API error."""
     pass
+
+
+MAX_RETRY_DELAY = 120.0
+
+
+def parse_retry_after(value: str | None, default: float = 0.0) -> float:
+    """Parse a Retry-After header (delta-seconds or HTTP-date), capped at MAX_RETRY_DELAY.
+
+    Unparseable or missing values give ``default`` (also capped).
+    """
+    delay = default
+    if value is not None:
+        value = str(value).strip()
+        try:
+            delay = float(value)
+        except ValueError:
+            try:
+                when = parsedate_to_datetime(value)
+                if when.tzinfo is None:
+                    when = when.replace(tzinfo=timezone.utc)
+                delay = (when - datetime.now(timezone.utc)).total_seconds()
+            except (TypeError, ValueError):
+                delay = default
+    return max(0.0, min(delay, MAX_RETRY_DELAY))
 
 
 class WikiClient:
@@ -76,7 +102,7 @@ class WikiClient:
 
                 # Check for rate limiting
                 if response.status_code == 429:
-                    retry_after = int(response.headers.get("Retry-After", 60))
+                    retry_after = parse_retry_after(response.headers.get("Retry-After"), 60)
                     if attempt < self.MAX_RETRIES - 1:
                         time.sleep(retry_after)
                         continue
@@ -84,7 +110,7 @@ class WikiClient:
 
                 # Check for server errors
                 if response.status_code >= 500:
-                    retry_after = int(response.headers.get("Retry-After", 0))
+                    retry_after = parse_retry_after(response.headers.get("Retry-After"), 0)
                     if attempt < self.MAX_RETRIES - 1:
                         delay = retry_after if retry_after > 0 else (2 ** attempt + random.uniform(0, 1))
                         time.sleep(delay)
@@ -92,7 +118,15 @@ class WikiClient:
                     raise WikiAPIError(f"Server error {response.status_code} after {self.MAX_RETRIES} attempts")
 
                 response.raise_for_status()
-                data = response.json()
+                try:
+                    data = response.json()
+                except ValueError:
+                    # 200 with a non-JSON body (proxy/error page): retry, bounded
+                    if attempt < self.MAX_RETRIES - 1:
+                        time.sleep(2 ** attempt + random.uniform(0, 1))
+                        continue
+                    raise WikiAPIError(
+                        f"Non-JSON response after {self.MAX_RETRIES} attempts")
 
                 # Check for maxlag error
                 if "error" in data:
@@ -100,7 +134,7 @@ class WikiClient:
                         if attempt < self.MAX_RETRIES - 1:
                             # Calculate delay based on lag if provided
                             lag = data["error"].get("lag", 5)
-                            retry_after = int(response.headers.get("Retry-After", lag))
+                            retry_after = parse_retry_after(response.headers.get("Retry-After"), lag)
                             time.sleep(retry_after)
                             continue
                         raise WikiAPIError(f"Max lag exceeded after {self.MAX_RETRIES} attempts")

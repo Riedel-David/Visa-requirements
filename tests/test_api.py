@@ -266,3 +266,59 @@ def test_rate_limiting():
 
     # Should take at least 0.1 seconds
     assert elapsed >= 0.1
+
+
+class NonJsonResponse(FakeResponse):
+    def json(self):
+        raise ValueError("not json")
+
+
+def test_retry_after_http_date_does_not_crash():
+    session = Mock()
+    session.get.side_effect = [
+        FakeResponse({}, 429, {"Retry-After": "Wed, 21 Oct 2099 07:28:00 GMT"}),
+        FakeResponse({"ok": 1}),
+    ]
+    client = WikiClient(min_interval=0.0, session=session)
+    with patch("visa_pipeline.api.time.sleep") as sleep:
+        assert client._request({"action": "query"}) == {"ok": 1}
+    assert sleep.call_args_list[0][0][0] == 120.0  # capped
+
+
+def test_retry_after_garbage_on_5xx_and_maxlag():
+    session = Mock()
+    session.get.side_effect = [
+        FakeResponse({}, 503, {"Retry-After": "soon"}),
+        FakeResponse({"error": {"code": "maxlag", "lag": 3}}, 200, {"Retry-After": "tomorrow"}),
+        FakeResponse({"ok": 1}),
+    ]
+    client = WikiClient(min_interval=0.0, session=session)
+    with patch("visa_pipeline.api.time.sleep"):
+        assert client._request({}) == {"ok": 1}
+
+
+def test_parse_retry_after_forms():
+    from visa_pipeline.api import parse_retry_after
+    assert parse_retry_after("7") == 7
+    assert parse_retry_after("9999") == 120
+    assert parse_retry_after("-3") == 0
+    assert parse_retry_after(None, 60) == 60
+    assert parse_retry_after("Wed, 21 Oct 1999 07:28:00 GMT") == 0
+
+
+def test_non_json_200_retried_then_succeeds():
+    session = Mock()
+    session.get.side_effect = [NonJsonResponse(None), FakeResponse({"ok": 1})]
+    client = WikiClient(min_interval=0.0, session=session)
+    with patch("visa_pipeline.api.time.sleep"):
+        assert client._request({}) == {"ok": 1}
+
+
+def test_non_json_200_bounded():
+    session = Mock()
+    session.get.return_value = NonJsonResponse(None)
+    client = WikiClient(min_interval=0.0, session=session)
+    with patch("visa_pipeline.api.time.sleep"):
+        with pytest.raises(WikiAPIError):
+            client._request({})
+    assert session.get.call_count == client.MAX_RETRIES
