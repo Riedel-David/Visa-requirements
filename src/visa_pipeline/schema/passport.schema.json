@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Riedel-David/Visa-requirements/schema/passport.schema.json",
+  "title": "Passport Visa Requirements",
+  "description": "Visa requirements for a specific passport",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "passport",
+    "source_title",
+    "source_url",
+    "source_revision",
+    "source_timestamp",
+    "generated_at",
+    "license",
+    "attribution",
+    "records"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "passport": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2 passport code"
+    },
+    "source_title": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "source_revision": {
+      "type": "string",
+      "pattern": "^\\d+$"
+    },
+    "source_timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "license": {
+      "type": "string"
+    },
+    "attribution": {
+      "type": "string"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "passport",
+          "destination",
+          "destination_name",
+          "area",
+          "status",
+          "alternative_statuses",
+          "allowed_stay_days",
+          "allowed_stay_raw",
+          "notes",
+          "is_territory_or_restricted",
+          "source_url",
+          "source_revision"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "passport": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$"
+          },
+          "destination": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$",
+            "description": "ISO 3166-1 alpha-2 or X-code"
+          },
+          "destination_name": {
+            "type": "string"
+          },
+          "area": {
+            "type": ["string", "null"],
+            "description": "Sub-national area or null for whole country"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "visa_free",
+              "visa_on_arrival",
+              "eta",
+              "evisa",
+              "visa_required",
+              "permit_required",
+              "admission_refused",
+              "special"
+            ]
+          },
+          "alternative_statuses": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "visa_free",
+                "visa_on_arrival",
+                "eta",
+                "evisa",
+                "visa_required",
+                "permit_required",
+                "admission_refused"
+              ]
+            }
+          },
+          "allowed_stay_days": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "allowed_stay_raw": {
+            "type": ["string", "null"]
+          },
+          "notes": {
+            "type": ["string", "null"]
+          },
+          "is_territory_or_restricted": {
+            "type": "boolean"
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "source_revision": {
+            "type": "string",
+            "pattern": "^\\d+$"
+          }
+        }
+      }
+    }
+  }
+}
