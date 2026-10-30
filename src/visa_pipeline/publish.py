@@ -141,6 +141,9 @@ def write_index_json(
         if iso2 in existing_index:
             passport_entries[iso2] = existing_index[iso2]
 
+    # Stable key order: processing order varies between runs and would rewrite the whole file
+    passport_entries = dict(sorted(passport_entries.items()))
+
     # Check if content changed (ignoring generated_at)
     generated_at = datetime.now(timezone.utc).isoformat()
     if index_path.exists():
@@ -198,7 +201,7 @@ def write_all_json(
                 "disclaimer": DISCLAIMER,
                 "license": "CC BY-SA 4.0",
                 "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
-                "passports": all_passports_data
+                "passports": dict(sorted(all_passports_data.items()))
             }
             if old_without_timestamp == new_without_timestamp:
                 # No change - keep old generated_at
@@ -210,7 +213,7 @@ def write_all_json(
         "disclaimer": DISCLAIMER,
         "license": "CC BY-SA 4.0",
         "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
-        "passports": all_passports_data
+        "passports": dict(sorted(all_passports_data.items()))
     }
 
     with open(all_path, "w") as f:

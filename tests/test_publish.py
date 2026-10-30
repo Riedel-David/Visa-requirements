@@ -8,6 +8,7 @@ from visa_pipeline.publish import (
     format_passport_data,
     write_passport_file,
     write_index_json,
+    write_all_json,
     DISCLAIMER
 )
 
@@ -240,3 +241,14 @@ def test_write_index_json_carries_over_blocked(tmp_path):
         data = json.load(f)
 
     assert data["passports"]["DE"]["source_revision"] == "123"
+
+
+def test_index_and_all_json_keys_are_sorted(tmp_path):
+    """Processing order must not change the published key order."""
+    meta = {"title": "T", "revid": 1, "timestamp": "2026-01-01T00:00:00Z", "record_count": 0, "last_changed": "x"}
+    write_index_json(tmp_path, {"US": meta, "AD": meta, "DE": meta}, {})
+    with open(tmp_path / "index.json") as f:
+        assert list(json.load(f)["passports"]) == ["AD", "DE", "US"]
+    write_all_json(tmp_path, {"US": [], "AD": [], "DE": []})
+    with open(tmp_path / "all.json") as f:
+        assert list(json.load(f)["passports"]) == ["AD", "DE", "US"]
