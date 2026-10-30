@@ -1,5 +1,6 @@
 """Main pipeline orchestration."""
 
+import hashlib
 import json
 import logging
 from pathlib import Path
@@ -26,6 +27,42 @@ from .publish import (
 
 
 logger = logging.getLogger(__name__)
+
+
+def compute_parser_fingerprint() -> str:
+    """Compute a SHA256 fingerprint of all parser modules and overrides.
+
+    Returns:
+        Hex string of the SHA256 hash
+    """
+    hasher = hashlib.sha256()
+
+    # Parser modules (in order)
+    parser_modules = [
+        'clean.py',
+        'table.py',
+        'status.py',
+        'stay.py',
+        'countries.py',
+        'transclusions.py',
+        'extract_main.py'
+    ]
+
+    package_dir = Path(__file__).parent
+
+    for module_name in parser_modules:
+        module_path = package_dir / module_name
+        if module_path.exists():
+            hasher.update(module_path.read_bytes())
+
+    # Override files (sorted by name)
+    overrides_dir = package_dir / "overrides"
+    if overrides_dir.exists():
+        for override_file in sorted(overrides_dir.iterdir()):
+            if override_file.is_file():
+                hasher.update(override_file.read_bytes())
+
+    return hasher.hexdigest()
 
 
 def load_all_existing_passports(data_dir: Path) -> tuple[dict[str, dict[str, Any]], dict[str, list[dict[str, Any]]]]:
@@ -185,6 +222,10 @@ def run(
 
     revision_info = client.revisions(titles)
 
+    # --force reparses everything and bypasses the safety thresholds; a template or
+    # parser change only reparses, so its effects still go through the thresholds
+    reparse_all = force
+
     # Check if template changed and if any pages need parsing
     template_revid = None
     if TEMPLATE_TITLE in revision_info:
@@ -193,7 +234,16 @@ def run(
 
         if stored_template_revid is not None and template_revid != stored_template_revid:
             logger.info("Template changed - will reparse all pages")
-            force = True
+            reparse_all = True
+
+    # Check if parser code changed
+    current_parser_fingerprint = compute_parser_fingerprint()
+    stored_parser_fingerprint = stored_revisions.get("_parser", {}).get("fingerprint")
+
+    # A missing fingerprint (state written before fingerprints existed) also forces a reparse
+    if stored_revisions and current_parser_fingerprint != stored_parser_fingerprint:
+        logger.info("Parser code changed - will reparse all pages")
+        reparse_all = True
 
     # Determine if any pages will be parsed
     any_pages_to_parse = False
@@ -201,7 +251,7 @@ def run(
         title = page_info["title"]
         if title in revision_info:
             revid = revision_info[title]["revid"]
-            if needs_update(page_info["passport"], revid, stored_revisions, data_dir, force):
+            if needs_update(page_info["passport"], revid, stored_revisions, data_dir, reparse_all):
                 any_pages_to_parse = True
                 break
 
@@ -224,6 +274,12 @@ def run(
             transclusions = do_parse_template(template_wikitext)
         except ImportError:
             pass
+
+    # Update parser fingerprint if any pages will be parsed
+    if any_pages_to_parse:
+        stored_revisions["_parser"] = {
+            "fingerprint": current_parser_fingerprint
+        }
 
     # Load all existing passport files first (so --only and failures don't lose data)
     passport_metadata, all_passports_data = load_all_existing_passports(data_dir)
@@ -269,7 +325,7 @@ def run(
         timestamp = revision_info[title]["timestamp"]
 
         # Check if update needed
-        if not needs_update(iso2, revid, stored_revisions, data_dir, force):
+        if not needs_update(iso2, revid, stored_revisions, data_dir, reparse_all):
             logger.info(f"{iso2}: Unchanged, skipping")
             results["pages_skipped_unchanged"] += 1
             # Data already loaded, just ensure metadata is current
@@ -327,6 +383,10 @@ def run(
                 max_status_changes,
                 max_record_drop_pct
             )
+            # Zero rows where rows existed stays a hard failure even with --force
+            if force and not is_safe and len(parse_result.records) > 0:
+                logger.warning(f"{iso2}: safety check bypassed by --force ({reason})")
+                is_safe, reason = True, None
 
             if not is_safe:
                 # Zero records where previous had records is FAILED (exit 1), not blocked

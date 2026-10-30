@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: 'Force update (bypass revision checks)'
+        description: 'Reparse all pages and bypass the safety thresholds'
         type: boolean
         default: false
       only:
