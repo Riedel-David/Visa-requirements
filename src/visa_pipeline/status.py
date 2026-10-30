@@ -199,6 +199,21 @@ def normalize_status(text: str) -> str:
     return ' '.join(text.lower().split())
 
 
+def _map_part(part: str) -> str:
+    """Map one part of a combined status via the table.
+
+    A leading "Free " is a fee qualifier ("Free ETA"); it is stripped only when
+    the full text is not itself in the table (e.g. "free evisa") and the
+    remainder is.
+    """
+    norm = normalize_status(part)
+    if norm in STATUS_MAP:
+        return STATUS_MAP[norm]
+    if norm.startswith('free '):
+        return STATUS_MAP.get(norm[5:], 'special')
+    return 'special'
+
+
 def parse_status(text: str) -> tuple[str, list[str]]:
     """Parse a visa status string into (primary_status, alternative_statuses).
 
@@ -239,7 +254,7 @@ def parse_status(text: str) -> tuple[str, list[str]]:
 
     mapped = []
     for part in parts:
-        status = STATUS_MAP.get(normalize_status(part), 'special')
+        status = _map_part(part)
         # One unmapped (or special) part makes the whole cell special, so the
         # caller reports it instead of us guessing from the remaining parts
         if status == 'special':

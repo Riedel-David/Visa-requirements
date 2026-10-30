@@ -262,6 +262,11 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
             # Remove leading punctuation like - or –
             area_cleaned = re.sub(r'^[-–\s]+', '', area_cleaned).strip()
             if area_cleaned:
+                # {{flagicon|US}} [[United States Minor Outlying Islands]]: the flag
+                # param is a bare country code (the flag of the sovereign), and the
+                # text is the actual destination - not an area of that country.
+                if re.fullmatch(r'[A-Z]{2}', flag_country):
+                    return area_cleaned, None
                 return flag_country, area_cleaned
 
         # No area, just the country

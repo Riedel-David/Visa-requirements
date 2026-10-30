@@ -107,3 +107,14 @@ class TestNormalization:
     def test_trailing_period_stripping(self):
         assert status.parse_status("Visa required.") == ("visa_required", [])
         assert status.parse_status("Visa not required.") == ("visa_free", [])
+
+
+class TestFreePrefixInCombined:
+    def test_free_eta_or_voa(self):
+        assert status.parse_status("Free ETA / Visa on arrival") == ('visa_on_arrival', ['eta'])
+
+    def test_free_prefix_other_part(self):
+        assert status.parse_status("Visa on arrival / Free eVisa") == ('visa_on_arrival', ['evisa'])
+
+    def test_free_unmapped_remainder_is_special(self):
+        assert status.parse_status("Free foo / Visa on arrival") == ('special', [])

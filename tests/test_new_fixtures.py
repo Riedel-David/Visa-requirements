@@ -189,3 +189,20 @@ class TestSmallPages:
 
         # This page has no standard visa requirements table, so 0 records is expected
         assert len(result.records) == 0
+
+
+@pytest.mark.parametrize("name,passport,title", [
+    ("Visa_requirements_for_Bahraini_citizens", "BH", "Visa requirements for Bahraini citizens"),
+    ("Visa_requirements_for_Belizean_citizens", "BZ", "Visa requirements for Belizean citizens"),
+])
+def test_flagicon_country_code_row_is_destination(transcl, name, passport, title):
+    """{{flagicon|US}} [[United States Minor Outlying Islands]] is UM, not an unmapped 'US'."""
+    wikitext, meta = load_fixture(name)
+    result = extract_main.parse_page(
+        wikitext, passport=passport, title=title,
+        revid=meta['revid'], transclusions=transcl,
+    )
+    assert not [u for u in result.unmapped_destinations if u['destination_name'] == 'US']
+    um = [r for r in result.records if r['destination'] == 'UM']
+    assert len(um) == 1
+    assert um[0]['status'] == 'permit_required'
