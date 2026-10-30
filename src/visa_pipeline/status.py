@@ -111,6 +111,9 @@ STATUS_MAP = {
     'voa': 'visa_on_arrival',
     'free visa on arrival': 'visa_on_arrival',
     'tourist card on arrival': 'visa_on_arrival',
+    'tourist cards on arrival': 'visa_on_arrival',
+    'visa stamp on arrival': 'visa_on_arrival',
+    'free visa stamp on arrival': 'visa_on_arrival',
     'entry permit on arrival': 'visa_on_arrival',
     'landing visa': 'visa_on_arrival',
     'visitor card on arrival': 'visa_on_arrival',
@@ -130,6 +133,9 @@ STATUS_MAP = {
     # Visa required (must obtain in advance)
     'visa required': 'visa_required',
     'visa necessary': 'visa_required',
+    'visa is required': 'visa_required',
+    'vesa required': 'visa_required',  # source typo
+    'tourist card required': 'visa_required',
     'online visa required': 'visa_required',
     'pre-arranged visa': 'visa_required',
     'de facto visa required': 'visa_required',

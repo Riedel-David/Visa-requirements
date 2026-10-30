@@ -443,7 +443,22 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
 
             if prev_status != primary_status:
                 # Statuses differ - keep the more specific (territory) row
-                if is_territory_or_restricted and not prev_is_territory:
+                if is_territory_or_restricted and not prev_is_territory and area is None:
+                    # Whole-country row vs. a partial restriction (e.g. Baikonur): the
+                    # territory row must not displace the whole-country answer. Keep both.
+                    result.warnings.append(
+                        f"SPLITTING {dest_code}: whole-country {prev_status} in '{prev_section}' kept, "
+                        f"{primary_status} row in '{section_name}' stored as area 'Restricted areas'"
+                    )
+                    area = 'Restricted areas'
+                    key = (dest_code, area)
+                    if key in result._seen_keys:
+                        result.warnings.append(
+                            f"Duplicate key {dest_code}+{area!r}: dropped row from '{section_name}'"
+                        )
+                        continue
+                    replace_idx = None
+                elif is_territory_or_restricted and not prev_is_territory:
                     # Current row is territory, previous was main - replace
                     result.warnings.append(
                         f"REPLACING {dest_code}+{area!r}: statuses differ ({prev_status} in '{prev_section}' vs {primary_status} in '{section_name}'), keeping territory row"

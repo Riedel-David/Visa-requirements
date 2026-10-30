@@ -118,3 +118,13 @@ class TestFreePrefixInCombined:
 
     def test_free_unmapped_remainder_is_special(self):
         assert status.parse_status("Free foo / Visa on arrival") == ('special', [])
+
+
+def test_tourist_card_and_typo_variants_are_mapped():
+    assert status.parse_status('Tourist card required') == ('visa_required', [])
+    assert status.parse_status('eVisa/Tourist Card required') == ('evisa', ['visa_required'])
+    assert status.parse_status('Tourist card')[0] == 'special'  # ambiguous, stays reported
+    assert status.parse_status('Vesa required') == ('visa_required', [])
+    assert status.parse_status('Visa is required') == ('visa_required', [])
+    assert status.parse_status('Tourist Cards on arrival') == ('visa_on_arrival', [])
+    assert status.parse_status('Free Visa stamp on arrival') == ('visa_on_arrival', [])

@@ -206,3 +206,25 @@ def test_flagicon_country_code_row_is_destination(transcl, name, passport, title
     um = [r for r in result.records if r['destination'] == 'UM']
     assert len(um) == 1
     assert um[0]['status'] == 'permit_required'
+
+
+class TestBritishRestrictedAreaDoesNotDisplaceCountry:
+    """Baikonur permit row (restricted-areas table) must not replace visa-free Kazakhstan."""
+
+    def test_kazakhstan_whole_country_kept(self, transcl):
+        wikitext, meta = load_fixture('Visa_requirements_for_British_citizens')
+        result = extract_main.parse_page(
+            wikitext,
+            passport='GB',
+            title='Visa requirements for British citizens',
+            revid=meta['revid'],
+            transclusions=transcl
+        )
+        kz = {r['area']: r['status'] for r in result.records if r['destination'] == 'KZ'}
+        assert kz.get(None) == 'visa_free'
+        assert kz.get('Restricted areas') == 'permit_required'
+
+
+def test_french_west_indies_maps_to_fr_area():
+    from visa_pipeline import countries
+    assert countries.lookup_area('French West Indies') == ('FR', 'French West Indies')
