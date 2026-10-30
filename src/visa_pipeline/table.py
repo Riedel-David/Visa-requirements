@@ -176,12 +176,14 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
 
             # Check for inline cells (!! or ||)
             delimiter = '!!' if is_header else '||'
-            cells_text = _split_inline_cells(line_content, delimiter)
+            # Special case: if line_content is empty, treat as one empty cell
+            if not line_content:
+                cells_text = ['']
+            else:
+                            cells_text = _split_inline_cells(line_content, delimiter)
 
             for cell_text in cells_text:
                 cell_text = cell_text.strip()
-                if not cell_text:
-                    continue
 
                 # Parse attributes
                 attrs, colspan, rowspan = _parse_cell_attributes(cell_text)
