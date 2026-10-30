@@ -2,6 +2,8 @@
 
 from unittest.mock import MagicMock
 
+import pytest
+
 from visa_pipeline.discover import discover_pages
 
 
@@ -136,3 +138,25 @@ def test_discover_pages_with_subcategories():
     assert passports == {"DE", "FR"}
     # Should call category_members 3 times
     assert client.category_members.call_count == 3
+
+
+def test_load_overrides_missing_file_raises(tmp_path):
+    from visa_pipeline.discover import load_overrides
+    with pytest.raises(FileNotFoundError):
+        load_overrides(tmp_path / "nope.json")
+
+
+def test_countries_overrides_missing_file_raises(monkeypatch, tmp_path):
+    from visa_pipeline import countries
+    monkeypatch.setattr(countries, "_overrides_cache", None)
+    monkeypatch.setattr(countries, "files", lambda pkg: tmp_path)
+    with pytest.raises(FileNotFoundError):
+        countries._load_overrides()
+    assert countries._overrides_cache is None
+
+
+def test_package_data_includes_overrides():
+    import tomllib
+    from pathlib import Path
+    cfg = tomllib.loads((Path(__file__).parent.parent / "pyproject.toml").read_text())
+    assert "overrides/*.json" in cfg["tool"]["setuptools"]["package-data"]["visa_pipeline"]
