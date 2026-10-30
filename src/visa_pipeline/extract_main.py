@@ -160,6 +160,11 @@ def _is_decorative_flag(template) -> bool:
     return param1.lower() in ('image', 'un') or param1.endswith('.svg')
 
 
+# "<country> and territories" / "and Crown dependencies": the row covers the whole country.
+_INCLUSIVE_SUFFIX = re.compile(
+    r'and (its )?((overseas|external|dependent) )?(territories|crown dependencies)', re.IGNORECASE)
+
+
 def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[str, str | None]:
     """Extract destination name and optional area from a destination cell.
 
@@ -226,7 +231,8 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
             area_cleaned = re.sub(r'^[-–\s]+', '', area_cleaned).strip()
             # "{{flag|Australia}} and territories": the row covers the country plus its
             # dependencies, so it is the whole-country answer, not an area.
-            if re.match(r'and\s', area_cleaned, re.IGNORECASE):
+            if (not re.fullmatch(r'[A-Z]{2}', flag_country)
+                    and _INCLUSIVE_SUFFIX.fullmatch(' '.join(area_cleaned.split()))):
                 warnings.append(f"Ignoring inclusive suffix {area_cleaned!r} for {flag_country!r}; whole-country row")
                 area_cleaned = ''
             if area_cleaned:

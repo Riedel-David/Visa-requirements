@@ -236,7 +236,13 @@ def test_inclusive_suffix_is_not_an_area():
                        ('{{flag|United Kingdom}} and Crown dependencies', 'United Kingdom')]:
         assert extract_main._extract_destination_and_area(cell, warnings) == (dest, None)
     assert extract_main._extract_destination_and_area(
+        '{{flag|Australia}} and\u00a0territories', warnings) == ('Australia', None)
+    assert extract_main._extract_destination_and_area(
         '{{flag|Eritrea}} (outside Asmara)', warnings) == ('Eritrea', '(outside Asmara)')
+    # two real places must keep the second one
+    dest, area = extract_main._extract_destination_and_area(
+        '{{flag|Sabah}} and {{flag|Sarawak}}', warnings)
+    assert area is not None and 'Sarawak' in area
 
 
 def test_british_page_has_whole_country_records_for_inclusive_rows(transcl):
