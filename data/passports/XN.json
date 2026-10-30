@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "passport": "XN",
+  "source_title": "Visa requirements for Northern Cypriot citizens",
+  "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Northern_Cypriot_citizens",
+  "source_revision": "1300485588",
+  "source_timestamp": "2025-07-14T16:25:54Z",
+  "generated_at": "2026-10-30T10:53:13.670844+00:00",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
+  "records": [
+    {
+      "passport": "XN",
+      "destination": "TR",
+      "destination_name": "Turkey",
+      "area": null,
+      "status": "special",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": false,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Northern_Cypriot_citizens",
+      "source_revision": "1300485588"
+    }
+  ]
+}

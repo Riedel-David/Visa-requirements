@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-30T09:32:12.185931+00:00",
+  "fetched_at": "2026-10-30T10:50:50.599301+00:00",
   "pages": [
     {
       "title": "Visa requirements for Abkhazian citizens",
-      "passport": "XA",
-      "reason": "override"
+      "passport": null,
+      "reason": "excluded by override"
     },
     {
       "title": "Visa requirements for Afghan citizens",
@@ -338,8 +338,8 @@
     },
     {
       "title": "Visa requirements for Faroese citizens",
-      "passport": "FO",
-      "reason": "demonym mapping"
+      "passport": null,
+      "reason": "excluded by override"
     },
     {
       "title": "Visa requirements for Fijian citizens",
@@ -388,8 +388,8 @@
     },
     {
       "title": "Visa requirements for Greenlandic citizens",
-      "passport": "GL",
-      "reason": "demonym mapping"
+      "passport": null,
+      "reason": "excluded by override"
     },
     {
       "title": "Visa requirements for Grenadian citizens",
@@ -888,8 +888,8 @@
     },
     {
       "title": "Visa requirements for South Ossetian citizens",
-      "passport": "XO",
-      "reason": "override"
+      "passport": null,
+      "reason": "excluded by override"
     },
     {
       "title": "Visa requirements for South Sudanese citizens",
@@ -968,8 +968,8 @@
     },
     {
       "title": "Visa requirements for Transnistrian citizens",
-      "passport": "XT",
-      "reason": "override"
+      "passport": null,
+      "reason": "excluded by override"
     },
     {
       "title": "Visa requirements for Trinidad and Tobago citizens",
