@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: visa-pipeline
+Version: 0.1.0
+Summary: Visa requirements by passport, parsed from Wikipedia via the MediaWiki API
+License-Expression: MIT
+Requires-Python: >=3.11
+Requires-Dist: requests>=2.32
+Requires-Dist: mwparserfromhell>=0.6
+Requires-Dist: jsonschema>=4.22
+Requires-Dist: pycountry>=24.6
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
+Requires-Dist: pyflakes>=3; extra == "dev"

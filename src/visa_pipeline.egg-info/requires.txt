@@ -1,0 +1,8 @@
+requests>=2.32
+mwparserfromhell>=0.6
+jsonschema>=4.22
+pycountry>=24.6
+
+[dev]
+pytest>=8
+pyflakes>=3

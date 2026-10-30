@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "visa-pipeline"
+version = "0.1.0"
+description = "Visa requirements by passport, parsed from Wikipedia via the MediaWiki API"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = [
+    "requests>=2.32",
+    "mwparserfromhell>=0.6",
+    "jsonschema>=4.22",
+    "pycountry>=24.6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pyflakes>=3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+visa_pipeline = ["*.json", "schema/*.json"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
