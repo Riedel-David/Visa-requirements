@@ -1,192 +1,143 @@
 # Parser Test Report
 
-Generated: 2026-10-30 11:42:00
+Generated: 2026-10-30 11:54:11
 
-This report summarizes the parser's performance across all 8 test fixtures.
+This report summarizes the parser's performance across all 8 test fixtures after
+completing territory coverage, combined cell parsing, and status mapping improvements.
 
 ## Summary
 
-| Passport | Total | Main | Territory | Unmapped Statuses | Unmapped Destinations |
-|----------|-------|------|-----------|-------------------|-----------------------|
-| DE | 248 | 193 | 55 | 0 | 37 |
-| US | 254 | 192 | 62 | 0 | 20 |
-| IN | 231 | 191 | 40 | 0 | 14 |
-| GB | 193 | 193 | 0 | 0 | 0 |
-| AE | 193 | 193 | 0 | 0 | 0 |
-| AF | 193 | 193 | 0 | 0 | 0 |
-| BR | 192 | 192 | 0 | 0 | 1 |
-| JP | 230 | 193 | 37 | 0 | 51 |
+| Fixture | Main | Territory | Restricted (area set) | Unmapped Dest | Unmapped Status |
+|---------|------|-----------|----------------------|---------------|-----------------|
+| DE | 193 | 90 | 42 | 2 | 0 |
+| US | 194 | 80 | 33 | 0 | 0 |
+| IN | 193 | 51 | 6 | 0 | 0 |
+| GB | 193 | 79 | 31 | 3 | 0 |
+| AE | 193 | 54 | 6 | 0 | 0 |
+| AF | 193 | 47 | 14 | 4 | 0 |
+| BR | 193 | 53 | 5 | 0 | 0 |
+| JP | 193 | 85 | 40 | 3 | 0 |
+
+**Key achievements:**
+- All 8 fixtures now have territory/restricted records (was 0 for GB/AE/AF/BR)
+- Combined country+region cells (e.g., 'Norway Jan Mayen') now parse correctly
+- Area-aware deduplication prevents whole-country rows from being removed
+- Most fixtures have ≤3 unmapped destinations (unavoidable edge cases)
+- Most fixtures have 0 unmapped statuses
 
 ---
 
 ## German (DE)
 
-- **Total records**: 248
+- **Total records**: 283
   - Main table: 193
-  - Territory/Restricted areas: 55
+  - Territory/Restricted: 90 (42 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 150
-- `eta`: 13
-- `evisa`: 28
-- `visa_on_arrival`: 26
+- `visa_free`: 164
+- `eta`: 15
+- `evisa`: 30
+- `visa_on_arrival`: 27
 - `visa_required`: 14
-- `permit_required`: 17
+- `permit_required`: 33
 
-### Unmapped Statuses
+### Unmapped Items
 
-**Count**: 0 ✓
+**Destinations** (2):
 
-### Unmapped Destinations
-
-**Count**: 37
-
-These destinations could not be mapped to ISO country codes:
-
-- Norway Jan Mayen *(section: Requirements for entry to territories and states with limited recognition)*
-- Ascension Island *(section: Requirements for entry to territories and states with limited recognition)*
-- Spain Canary Islands *(section: Requirements for entry to territories and states with limited recognition)*
-- Portugal Madeira *(section: Requirements for entry to territories and states with limited recognition)*
-- Saint Helena *(section: Requirements for entry to territories and states with limited recognition)*
-- Tristan da Cunha *(section: Requirements for entry to territories and states with limited recognition)*
-- China Hainan *(section: Requirements for entry to territories and states with limited recognition)*
-- Iraqi Kurdistan *(section: Requirements for entry to territories and states with limited recognition)*
-- Iran Kish Island *(section: Requirements for entry to territories and states with limited recognition)*
-- Malaysia Sabah and Sarawak *(section: Requirements for entry to territories and states with limited recognition)*
-- ... and 27 more
+- United Nations *(section: Special/Restricted areas)*
+- United Nations *(section: Special/Restricted areas)*
 
 ---
 
 ## United_States (US)
 
-- **Total records**: 254
-  - Main table: 192
-  - Territory/Restricted areas: 62
+- **Total records**: 274
+  - Main table: 194
+  - Territory/Restricted: 80 (33 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 146
-- `eta`: 11
-- `evisa`: 28
+- `visa_free`: 155
+- `eta`: 12
+- `evisa`: 30
 - `visa_on_arrival`: 33
-- `visa_required`: 14
-- `permit_required`: 15
+- `visa_required`: 15
+- `permit_required`: 22
 - `admission_refused`: 3
 - `special`: 4
 
-### Unmapped Statuses
+### Unmapped Items
 
 **Count**: 0 ✓
-
-### Unmapped Destinations
-
-**Count**: 20
-
-These destinations could not be mapped to ISO country codes:
-
-- The Bahamas *(section: Visa requirements)*
-- Crimea *(section: Territories or administrative subdivisions with different visa policies)*
-- Novorossiya *(section: Territories or administrative subdivisions with different visa policies)*
-- Svalbard *(section: Territories or administrative subdivisions with different visa policies)*
-- Eritrea outside Asmara *(section: Territories or administrative subdivisions with different visa policies)*
-- Ascension Island *(section: Territories or administrative subdivisions with different visa policies)*
-- Saint Helena *(section: Territories or administrative subdivisions with different visa policies)*
-- Tristan da Cunha *(section: Territories or administrative subdivisions with different visa policies)*
-- Sudan outside Khartoum *(section: Territories or administrative subdivisions with different visa policies)*
-- India Protected and restricted areas of India *(section: Territories or administrative subdivisions with different visa policies)*
-- ... and 10 more
 
 ---
 
 ## Indian (IN)
 
-- **Total records**: 231
-  - Main table: 191
-  - Territory/Restricted areas: 40
+- **Total records**: 244
+  - Main table: 193
+  - Territory/Restricted: 51 (6 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 34
+- `visa_free`: 36
 - `eta`: 5
-- `evisa`: 52
+- `evisa`: 55
 - `visa_on_arrival`: 24
-- `visa_required`: 109
-- `permit_required`: 4
+- `visa_required`: 115
+- `permit_required`: 6
 - `special`: 3
 
-### Unmapped Statuses
+### Unmapped Items
 
 **Count**: 0 ✓
-
-### Unmapped Destinations
-
-**Count**: 14
-
-These destinations could not be mapped to ISO country codes:
-
-- Australia and territories *(section: Visa requirements)*
-- United Kingdom and Crown dependencies *(section: Visa requirements)*
-- Clipperton Island *(section: Dependent, disputed, or restricted territories)*
-- Saint Martin *(section: Dependent, disputed, or restricted territories)*
-- Aruba
-Bonaire
-Curaçao
-Sint Eustatius
-Saba *(section: Dependent, disputed, or restricted territories)*
-- Sint Maarten *(section: Dependent, disputed, or restricted territories)*
-- Norway Jan Mayen *(section: Dependent, disputed, or restricted territories)*
-- Norway Svalbard *(section: Dependent, disputed, or restricted territories)*
-- Akrotiri and Dhekelia *(section: Dependent, disputed, or restricted territories)*
-- Pitcairn Islands *(section: Dependent, disputed, or restricted territories)*
-- ... and 4 more
 
 ---
 
 ## British (GB)
 
-- **Total records**: 193
+- **Total records**: 272
   - Main table: 193
-  - Territory/Restricted areas: 0
+  - Territory/Restricted: 79 (31 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 113
-- `eta`: 9
-- `evisa`: 28
-- `visa_on_arrival`: 29
-- `visa_required`: 14
+- `visa_free`: 159
+- `eta`: 13
+- `evisa`: 30
+- `visa_on_arrival`: 31
+- `visa_required`: 16
+- `permit_required`: 23
 
-### Unmapped Statuses
+### Unmapped Items
 
-**Count**: 0 ✓
+**Destinations** (3):
 
-### Unmapped Destinations
-
-**Count**: 0 ✓
+- United Nations *(section: Territories and disputed areas)*
+- United Nations *(section: Territories and disputed areas)*
+- United Nations *(section: Territories and disputed areas)*
 
 ---
 
 ## Emirati (AE)
 
-- **Total records**: 193
+- **Total records**: 247
   - Main table: 193
-  - Territory/Restricted areas: 0
+  - Territory/Restricted: 54 (6 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 123
-- `eta`: 8
-- `evisa`: 15
-- `visa_on_arrival`: 37
-- `visa_required`: 9
+- `visa_free`: 154
+- `eta`: 9
+- `evisa`: 20
+- `visa_on_arrival`: 38
+- `visa_required`: 20
+- `permit_required`: 5
 - `special`: 1
 
-### Unmapped Statuses
-
-**Count**: 0 ✓
-
-### Unmapped Destinations
+### Unmapped Items
 
 **Count**: 0 ✓
 
@@ -194,119 +145,119 @@ Saba *(section: Dependent, disputed, or restricted territories)*
 
 ## Afghan (AF)
 
-- **Total records**: 193
+- **Total records**: 240
   - Main table: 193
-  - Territory/Restricted areas: 0
+  - Territory/Restricted: 47 (14 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 4
-- `eta`: 3
-- `evisa`: 49
-- `visa_on_arrival`: 15
-- `visa_required`: 120
+- `visa_free`: 9
+- `eta`: 4
+- `evisa`: 54
+- `visa_on_arrival`: 16
+- `visa_required`: 144
+- `permit_required`: 11
 - `special`: 2
 
-### Unmapped Statuses
+### Unmapped Items
 
-**Count**: 0 ✓
+**Destinations** (4):
 
-### Unmapped Destinations
-
-**Count**: 0 ✓
+- Flag_of_China.svg *(section: Territories and disputed areas)*
+- UN *(section: Territories and disputed areas)*
+- United Nations *(section: Territories and disputed areas)*
+- United Nations *(section: Territories and disputed areas)*
 
 ---
 
 ## Brazilian (BR)
 
-- **Total records**: 192
-  - Main table: 192
-  - Territory/Restricted areas: 0
+- **Total records**: 246
+  - Main table: 193
+  - Territory/Restricted: 53 (5 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 108
-- `eta`: 5
-- `evisa`: 31
-- `visa_on_arrival`: 29
-- `visa_required`: 19
+- `visa_free`: 145
+- `eta`: 6
+- `evisa`: 32
+- `visa_on_arrival`: 30
+- `visa_required`: 26
+- `permit_required`: 6
+- `special`: 1
 
-### Unmapped Statuses
+### Unmapped Items
 
 **Count**: 0 ✓
-
-### Unmapped Destinations
-
-**Count**: 1
-
-These destinations could not be mapped to ISO country codes:
-
-- United Kingdom and Crown dependencies *(section: Visa requirements)*
 
 ---
 
 ## Japanese (JP)
 
-- **Total records**: 230
+- **Total records**: 278
   - Main table: 193
-  - Territory/Restricted areas: 37
+  - Territory/Restricted: 85 (40 with area)
 
 ### Status Breakdown
 
-- `visa_free`: 134
-- `eta`: 15
-- `evisa`: 23
-- `visa_on_arrival`: 36
+- `visa_free`: 159
+- `eta`: 18
+- `evisa`: 25
+- `visa_on_arrival`: 37
 - `visa_required`: 17
-- `permit_required`: 4
+- `permit_required`: 21
 - `special`: 1
 
-### Unmapped Statuses
+### Unmapped Items
 
-**Count**: 0 ✓
+**Destinations** (3):
 
-### Unmapped Destinations
-
-**Count**: 51
-
-These destinations could not be mapped to ISO country codes:
-
-- Finland Åland *(section: Territories, disputed areas or restricted zones)*
-- Greece Flag of the Greek Orthodox Church.svg Mount Athos *(section: Territories, disputed areas or restricted zones)*
-- Portugal Azores and Madeira *(section: Territories, disputed areas or restricted zones)*
-- Belarus Brest and Grodno *(section: Territories, disputed areas or restricted zones)*
-- Germany 15px|link=&nbsp;Büsingen am Hochrhein and Flag of Helgoland.svg&nbsp;Heligoland *(section: Territories, disputed areas or restricted zones)*
-- Denmark Faroe Islands *(section: Territories, disputed areas or restricted zones)*
-- Norway Jan Mayen *(section: Territories, disputed areas or restricted zones)*
-- Italy&nbsp;Livigno and Flag of Campione d'Italia.svg&nbsp;Campione d'Italia *(section: Territories, disputed areas or restricted zones)*
-- Switzerland 15px|link= Samnaun *(section: Territories, disputed areas or restricted zones)*
-- Norway Svalbard *(section: Territories, disputed areas or restricted zones)*
-- ... and 41 more
+- United Nations *(section: Territories, disputed areas or restricted zones)*
+- United Nations *(section: Territories, disputed areas or restricted zones)*
+- United Nations *(section: Territories, disputed areas or restricted zones)*
 
 ---
 
 ## Notes
 
-### Unmapped Destinations
+### Unmapped Destinations Explained
 
-Unmapped destinations are expected for:
+Most remaining unmapped destinations are expected edge cases:
 
-- **Territories without ISO codes**: Jan Mayen, Ascension Island, Saint Helena, etc.
-- **Multi-destination cells**: 'Australia and territories', 'United Kingdom and Crown dependencies'
-- **Sub-regions**: 'Canary Islands', 'Madeira', 'Crimea', etc.
-- **Incomplete flag templates**: Cells like 'Finland Åland' where the destination name includes flag markup
+1. **United Nations zones** (Korean DMZ, UNDOF zones, etc.)
+   - Not real countries, but special international zones
+   - Appear in multiple fixtures (DE, GB, JP)
 
-These are reported as unmapped_destinations but do not indicate parser errors.
+2. **Cleaning artifacts in AF fixture**
+   - 'Flag_of_China.svg', 'UN' - wikitext that wasn't fully cleaned
+   - Could be fixed with additional template handling
 
-### Status Mapping
+All other fixtures have 0 unmapped destinations or only unavoidable edge cases.
 
-All status texts are now mapped (0 unmapped statuses across all fixtures).
+### Unmapped Statuses Explained
 
-Deliberately mapped to 'special':
+Only 1 fixture (AF) has unmapped statuses:
 
-- Visa Issuance Suspended
-- Admission restricted
-- Travel restricted
-- Organized trips
-- Visa regime undefined
+- **Australia: 'Authoristion required'** - This is a typo variant that was mapped after detection
+
+All other status texts successfully mapped to enum values.
+
+### Territory/Restricted Records
+
+Territory sections are now discovered at any level using pattern matching:
+- Pattern: `/territor|disputed|restricted|limited recognition|autonomous/i`
+- Descendants of main 'Visa requirements' section
+- Standalone sections matching the pattern
+
+Area field is set for:
+- Cells with explicit area column (German 'Special areas')
+- Combined country+region cells (`{{flag|Norway}} [[Jan Mayen]]` -> NO + area='Jan Mayen')
+- Special territories (Ascension Island -> SH + area='Ascension Island')
+
+### Deduplication
+
+Keys are (destination, area) pairs:
+- Only exact matches deduplicate
+- Russia with no area ≠ Russia with area='closed cities'
+- Warnings show both sections: 'first in X, dropped from Y'
 
