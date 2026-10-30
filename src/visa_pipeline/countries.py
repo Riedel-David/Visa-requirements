@@ -100,11 +100,14 @@ WIKIPEDIA_ALIASES = {
 }
 
 # Cache for loaded overrides
-_overrides_cache: dict[str, str] | None = None
+_overrides_cache: dict | None = None
 
 
-def _load_overrides() -> dict[str, str]:
-    """Load destination overrides from overrides/destinations.json."""
+def _load_overrides() -> dict:
+    """Load destination overrides from overrides/destinations.json.
+
+    Returns dict with keys: codes (name->code), areas (name->dict), ignore (list)
+    """
     global _overrides_cache
     if _overrides_cache is not None:
         return _overrides_cache
@@ -113,11 +116,22 @@ def _load_overrides() -> dict[str, str]:
         override_file = files('visa_pipeline') / 'overrides' / 'destinations.json'
         content = override_file.read_text(encoding='utf-8')
         data = json.loads(content)
-        _overrides_cache = data
-        return data
+
+        # Support both old format (flat dict) and new format (structured)
+        if 'codes' in data:
+            # New format
+            _overrides_cache = data
+        else:
+            # Old format - convert to new structure
+            _overrides_cache = {
+                'codes': data,
+                'areas': {},
+                'ignore': []
+            }
+        return _overrides_cache
     except (FileNotFoundError, json.JSONDecodeError):
-        _overrides_cache = {}
-        return {}
+        _overrides_cache = {'codes': {}, 'areas': {}, 'ignore': []}
+        return _overrides_cache
 
 
 def normalize_name(name: str) -> str:
@@ -125,15 +139,52 @@ def normalize_name(name: str) -> str:
     return ' '.join(name.lower().split())
 
 
+def should_ignore(name: str) -> bool:
+    """Check if a destination name should be ignored (not reported as unmapped).
+
+    Args:
+        name: Destination name
+
+    Returns:
+        True if this name should be skipped
+    """
+    normalized = normalize_name(name)
+    overrides = _load_overrides()
+    ignore_list = [normalize_name(n) for n in overrides.get('ignore', [])]
+    return normalized in ignore_list
+
+
+def lookup_area(name: str) -> tuple[str, str] | None:
+    """Check if a name maps to a (code, area) pair.
+
+    Args:
+        name: Destination name
+
+    Returns:
+        (code, area) tuple if this is an area mapping, else None
+    """
+    normalized = normalize_name(name)
+    overrides = _load_overrides()
+    areas = overrides.get('areas', {})
+
+    if normalized in areas:
+        entry = areas[normalized]
+        return (entry['code'], entry['area'])
+
+    return None
+
+
 def lookup_country(name: str) -> str | None:
     """Map a destination name to an ISO 3166-1 alpha-2 code or X-code.
 
     Lookup order:
-    1. Overrides from destinations.json
+    1. Overrides from destinations.json (codes section)
     2. Wikipedia aliases
     3. pycountry by name
     4. pycountry by common_name
     5. pycountry by official_name
+
+    Note: This does NOT check the 'areas' section - use lookup_area() for that.
 
     Args:
         name: Destination name from the Wikipedia table
@@ -146,9 +197,10 @@ def lookup_country(name: str) -> str | None:
     # Load overrides
     overrides = _load_overrides()
 
-    # Check overrides first
-    if normalized in overrides:
-        return overrides[normalized]
+    # Check overrides codes first
+    codes = overrides.get('codes', {})
+    if normalized in codes:
+        return codes[normalized]
 
     # Check Wikipedia aliases
     if normalized in WIKIPEDIA_ALIASES:

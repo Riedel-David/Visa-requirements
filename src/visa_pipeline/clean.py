@@ -34,6 +34,9 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
     if warnings is None:
         warnings = []
 
+    # Fix malformed Timatic templates before parsing (trailing pipe without value: |})
+    text = re.sub(r'{{[Tt]imatic\|([^}]*)\|}}', r'{{Timatic|\1}}', text)
+
     wikicode = mwparserfromhell.parse(text)
 
     # Remove all <ref> tags

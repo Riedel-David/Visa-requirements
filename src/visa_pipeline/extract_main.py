@@ -185,7 +185,11 @@ def _identify_columns(headers: dict[str, str]) -> dict[str, str]:
 
         if any(kw in header_lower for kw in ['country', 'region', 'visitor to', 'territory', 'destination']):
             roles['destination'] = col_idx
-        elif any(kw in header_lower for kw in ['visa requirement', 'conditions of access', 'visa status']):
+        elif any(kw in header_lower for kw in ['visa requirement', 'entry requirement', 'conditions of access', 'visa status', 'requirement']):
+            roles['status'] = col_idx
+        elif any(kw in header_lower for kw in ['passport']) and 'status' not in roles:
+            # Column with "passport" (e.g., "Regular passports") is a status column if no other status column found yet
+            # This handles multi-passport-type tables like Northern Cyprus
             roles['status'] = col_idx
         elif any(kw in header_lower for kw in ['allowed stay', 'maximum stay', 'length of stay', 'stay']):
             roles['stay'] = col_idx
@@ -275,6 +279,35 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
     return cleaned.strip(), None
 
 
+def _is_header_row(row: dict[str, str]) -> bool:
+    """Check if a row looks like a header row (contains column names, not data).
+
+    Args:
+        row: Row dict from table parser
+
+    Returns:
+        True if this looks like a header row
+    """
+    if '_group_label' in row:
+        return False
+
+    # Check first few cells for header-like content
+    header_keywords = ['country', 'destination', 'visa', 'requirement', 'stay', 'duration',
+                       'notes', 'details', 'passport', 'regular', 'special', 'service',
+                       'diplomatic', 'area', 'territory', 'region', 'entry', 'allowed', 'visitor']
+
+    # Get first cell content and check if it's a common header term
+    first_cell = row.get('0', '')
+    first_cell_lower = first_cell.lower().strip().strip('[]')
+
+    # If first cell is a generic header term, likely a header row
+    # But if it contains flag templates, it's a data row
+    if 'flag' in first_cell_lower:
+        return False
+
+    return any(keyword in first_cell_lower for keyword in header_keywords)
+
+
 def _parse_table_rows(table_text: str, passport: str, section_name: str,
                      is_territory_or_restricted: bool, transclusions: dict[str, str],
                      source_url: str, source_revision: str,
@@ -295,7 +328,8 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
     if not rows:
         return
 
-    # First row should be headers (unless it's a group label)
+    # Collect header rows and data rows
+    # Multiple header rows can exist (e.g., Northern Cyprus has 2 header rows)
     headers = None
     data_rows = []
 
@@ -303,8 +337,11 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         if '_group_label' in row:
             # Skip group labels
             continue
-        if headers is None:
-            # This is the header row
+        # The first row is always a header (as before). Further header rows are only
+        # recognised directly after it: once data starts, a row can never replace the
+        # headers, however its first cell reads (e.g. "Tibet Autonomous Region").
+        if headers is None or (not data_rows and _is_header_row(row)):
+            # Use the last leading header row as the column definitions
             headers = row
         else:
             data_rows.append(row)
@@ -339,37 +376,31 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         if not dest_name:
             continue
 
-        # Look up country code
-        dest_code = countries.lookup_country(dest_name)
-        if not dest_code:
-            result.unmapped_destinations.append({
-                'passport': passport,
-                'destination_name': dest_name,
-                'section': section_name
-            })
+        # Check if this name should be ignored (e.g., "United Nations")
+        if countries.should_ignore(dest_name):
             continue
 
-        # Handle area column or area from destination cell
-        area = None
-        if has_area_column and 'area' in roles and roles['area'] in row:
-            area = clean.clean(row[roles['area']], transclusions, result.warnings).strip() or None
-        elif area_from_cell:
-            area = area_from_cell
+        # Check if this is an area mapping (e.g., "Canary Islands" -> ES + area="Canary Islands")
+        area_lookup = countries.lookup_area(dest_name)
+        if area_lookup:
+            dest_code, area = area_lookup
+        else:
+            # Look up country code
+            dest_code = countries.lookup_country(dest_name)
+            if not dest_code:
+                result.unmapped_destinations.append({
+                    'passport': passport,
+                    'destination_name': dest_name,
+                    'section': section_name
+                })
+                continue
 
-        # Special case: some destinations resolve to a parent code but should have area set
-        # based on the destination name itself (e.g., "Ascension Island" -> SH + area="Ascension Island")
-        if not area:
-            dest_name_lower = dest_name.lower()
-            if dest_name_lower in ['ascension island', 'tristan da cunha']:
-                area = dest_name
-            elif dest_name_lower in ['british antarctic territory', 'argentine antarctica', 'antartica chilena province', 'antártica chilena province']:
-                area = dest_name
-            elif 'kurdistan' in dest_name_lower:
-                area = 'Kurdistan Region'
-            elif dest_name_lower in ['galápagos', 'galapagos']:
-                area = 'Galápagos'
-            elif dest_name_lower in ['crimea', 'akrotiri and dhekelia', 'mount athos', 'svalbard']:
-                area = dest_name
+            # Handle area column or area from destination cell
+            area = None
+            if has_area_column and 'area' in roles and roles['area'] in row:
+                area = clean.clean(row[roles['area']], transclusions, result.warnings).strip() or None
+            elif area_from_cell:
+                area = area_from_cell
 
         # CRITICAL: In territory sections, if canonical name differs from destination name,
         # set area to destination name to distinguish from main-table rows
@@ -571,12 +602,21 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
     sections = _extract_section_hierarchy(wikitext)
     lines = wikitext.split('\n')
 
-    # Find the main "Visa requirements" section (first one at any level)
+    # Find the main "Visa requirements" section (level 2 or 3, exact or containing match)
+    # Skip "map" sections which typically just contain images
+    # Try multiple sections until we find one with tables
     main_section = None
     for section in sections:
-        if _normalize_heading(section['heading']) == 'visa requirements':
-            main_section = section
-            break
+        heading_normalized = _normalize_heading(section['heading'])
+        # Accept level 2 or 3 sections that contain "visa requirements" but not "map"
+        if (section['level'] in (2, 3) and
+                'visa requirements' in heading_normalized and
+                'map' not in heading_normalized):
+            # Check if this section has tables in its direct content
+            direct_content = _get_section_direct_content(section, sections, lines)
+            if re.search(r'\{\|.*?\|\}', direct_content, re.DOTALL):
+                main_section = section
+                break
 
     # Parse main table (direct content of main section only, not descendants)
     if main_section:

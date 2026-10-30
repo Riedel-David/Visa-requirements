@@ -1,0 +1,43 @@
+{{Short description|Administrative entry restrictions}}
+{{Use dmy dates|date=February 2020}}
+Since [[Abkhazia]] is only recognised as a sovereign state by a handful of nations, most countries do not accept Abkhaz passports and impose administrative entry restrictions on citizens of Abkhazia.<ref>{{cite web |url=https://www.rferl.org/a/users-guide-to-georgias-neutral-passports/24606006.html |title=A User's Guide To Georgia's 'Neutral' Passports  |last=Bigg |first=Claire |date=7 June 2012 |website=www.rferl.org |publisher=RadioFreeEurope/RadioLiberty |access-date=16 October 2017}}</ref>
+
+== Passport Validity ==
+{|style=" border-radius:1em; box-shadow: 0.1em 0.1em 0.5em rgba(0,0,0,0.75); background-color: white; border: 1px solid white; padding: 5px;"
+|- style="vertical-align:top;"
+| {{flag|Nicaragua}}
+|-
+| {{flag|Russia}}
+|-
+| {{flag|South Ossetia}}
+|-
+| {{flag|Syria}}
+|-
+| {{flag|Transnistria}}
+|-
+| {{flag|Tuvalu}}
+|-
+| {{flag|Venezuela}}
+|-
+|}
+
+==Visa waiver agreements==
+Abkhazia has mutual visa-free agreements with [[Nicaragua]], [[Russia]],<ref>[http://en.kremlin.ru/events/president/news/10866 Agreement on reciprocal visa-free travel by citizens of Russia and Abkhazia]</ref> [[South Ossetia]]<ref>[http://apsnypress.info/en/news/abkhazia-and-south-ossetia-have-entered-visa-free-travel-regime/ Abkhazia and South Ossetia have entered visa-free travel regime]</ref> and [[Tuvalu]].<ref>[https://www.rferl.org/a/tuvalu_visit_abkhazia_visa_deal_monitoring/24510530.html Tiny Tuvalu's Officials In Abkhazia For Visa-Free Deal, Monitoring]</ref>  Abkhazians can travel to Russia using internal (domestic) and foreign passports.
+
+==See also==
+{{portal|Abkhazia}}
+* [[Abkhazian passport]]
+* [[List of citizenships refused entry to foreign states]]
+* [[Visa policy of Abkhazia]]
+
+==References and notes==
+;References
+{{reflist|30em}}
+;Notes
+{{Reflist|30em|group="Note"}}
+
+{{Visa Requirements}}
+{{Visa policy by country}}
+
+[[Category:Visa requirements by nationality|Abkhazia]]
+[[Category:Foreign relations of Abkhazia]]
