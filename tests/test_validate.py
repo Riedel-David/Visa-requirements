@@ -1,5 +1,6 @@
 """Tests for validation."""
 
+import copy
 import json
 from pathlib import Path
 
@@ -212,9 +213,9 @@ def test_get_changes_for_changelog_removed(valid_passport_data):
 
 def test_get_changes_for_changelog_changed(valid_passport_data):
     """Test changelog detects status changes."""
-    previous = valid_passport_data.copy()
+    previous = copy.deepcopy(valid_passport_data)
 
-    new_data = valid_passport_data.copy()
+    new_data = copy.deepcopy(valid_passport_data)
     new_data["records"][0]["status"] = "visa_required"
 
     changes = get_changes_for_changelog(new_data, previous)
