@@ -13,6 +13,62 @@ class Cell:
     attributes: dict[str, str] | None = None
 
 
+def _mask_nested_content(text: str) -> tuple[str, dict[str, str]]:
+    """Mask {{...}}, [[...]], <ref>...</ref>, and <!-- --> to prevent pipe splitting.
+
+    Returns (masked_text, replacements_dict)
+    """
+    replacements = {}
+    counter = [0]
+
+    def make_placeholder():
+        counter[0] += 1
+        return f"___MASK{counter[0]}___"
+
+    # Mask HTML comments first
+    def mask_comments(m):
+        placeholder = make_placeholder()
+        replacements[placeholder] = m.group(0)
+        return placeholder
+    text = re.sub(r'<!--.*?-->', mask_comments, text, flags=re.DOTALL)
+
+    # Mask <ref>...</ref> tags
+    def mask_refs(m):
+        placeholder = make_placeholder()
+        replacements[placeholder] = m.group(0)
+        return placeholder
+    text = re.sub(r'<ref[^>]*>.*?</ref>', mask_refs, text, flags=re.DOTALL)
+    text = re.sub(r'<ref[^/>]*\s*/>', mask_refs, text)
+
+    # Mask {{...}} templates (with nesting)
+    while True:
+        original = text
+        def mask_templates(m):
+            placeholder = make_placeholder()
+            replacements[placeholder] = m.group(0)
+            return placeholder
+        # Match innermost templates first
+        text = re.sub(r'\{\{[^{}]*\}\}', mask_templates, text)
+        if text == original:
+            break
+
+    # Mask [[...]] links
+    def mask_links(m):
+        placeholder = make_placeholder()
+        replacements[placeholder] = m.group(0)
+        return placeholder
+    text = re.sub(r'\[\[[^\]]*\]\]', mask_links, text)
+
+    return text, replacements
+
+
+def _unmask_content(text: str, replacements: dict[str, str]) -> str:
+    """Unmask previously masked content."""
+    for placeholder, original in replacements.items():
+        text = text.replace(placeholder, original)
+    return text
+
+
 def _parse_cell_attributes(attr_text: str) -> tuple[dict[str, str], int]:
     """Parse cell attributes and return (attributes_dict, colspan, rowspan).
 
@@ -145,7 +201,10 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
         List of dicts, one per row. Regular rows have numeric string keys.
         Group headers have a single "_group_label" key.
     """
-    lines = table_text.strip().split('\n')
+    # Mask nested content to prevent multi-line templates/refs from breaking table structure
+    masked_text, replacements = _mask_nested_content(table_text)
+
+    lines = masked_text.strip().split('\n')
     rows: list[list[Cell]] = []
     current_row: list[Cell] | None = None
 
@@ -174,13 +233,13 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
             is_header = line.startswith('!')
             line_content = line[1:].strip()
 
-            # Check for inline cells (!! or ||)
-            delimiter = '!!' if is_header else '||'
             # Special case: if line_content is empty, treat as one empty cell
             if not line_content:
                 cells_text = ['']
             else:
-                            cells_text = _split_inline_cells(line_content, delimiter)
+                # Check for inline cells (!! or ||)
+                delimiter = '!!' if is_header else '||'
+                cells_text = _split_inline_cells(line_content, delimiter)
 
             for cell_text in cells_text:
                 cell_text = cell_text.strip()
@@ -208,7 +267,7 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
                             content = cell_text[i+1:].strip()
                             found_pipe = True
                             break
-                
+
                 if not found_pipe:
                     # Glued form or no attributes - remove leading attribute if present
                     attr_match = re.match(r'^\w+(?:-\w+)*=(["\'])([^"\']*?)\1\s+', cell_text)
@@ -238,7 +297,9 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
         # Check if this is a group header (single cell with large colspan >= 3)
         # Small colspans (2) are treated as normal headers
         if len(row) == 1 and row[0].colspan >= 3:
-            result.append({"_group_label": row[0].content})
+            # Unmask the content before adding
+            content = _unmask_content(row[0].content, replacements)
+            result.append({"_group_label": content})
             continue
 
         # Build row dict
@@ -262,14 +323,16 @@ def parse_table(table_text: str) -> list[dict[str, str]]:
                 col_idx += 1
 
             # Place this cell and handle colspan
+            # Unmask content before placing
+            unmasked_content = _unmask_content(cell.content, replacements)
             for span_offset in range(cell.colspan):
-                row_dict[str(col_idx + span_offset)] = cell.content
+                row_dict[str(col_idx + span_offset)] = unmasked_content
 
             # Track rowspan for future rows
             if cell.rowspan > 1:
                 for span_offset in range(cell.colspan):
                     rowspan_carry[col_idx + span_offset] = Cell(
-                        content=cell.content,
+                        content=unmasked_content,
                         is_header=cell.is_header,
                         rowspan=cell.rowspan - 1,
                         colspan=1,
