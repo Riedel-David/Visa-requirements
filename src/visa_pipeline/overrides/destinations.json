@@ -1,0 +1,11 @@
+{
+  "_comment": "User-assigned codes for non-ISO destinations. X-codes avoid conflicts with future ISO assignments.",
+  "kosovo": "XK",
+  "northern cyprus": "XN",
+  "somaliland": "XS",
+  "abkhazia": "XA",
+  "south ossetia": "XO",
+  "transnistria": "XT",
+  "sahrawi arab democratic republic": "XW",
+  "western sahara": "XW"
+}
