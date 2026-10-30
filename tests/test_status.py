@@ -1,5 +1,4 @@
 """Tests for status.py - visa status text mapping."""
-import pytest
 
 from visa_pipeline import status
 

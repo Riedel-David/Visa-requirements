@@ -1,5 +1,4 @@
 """Tests for table.py - wikitable parsing."""
-import pytest
 
 from visa_pipeline import table
 

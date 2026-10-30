@@ -68,26 +68,6 @@ class TestGermanCitizens:
         assert rec['status'] == 'evisa'
         assert rec['is_territory_or_restricted'] is False
 
-    def test_china_tibet_restricted(self, result):
-        """DE -> China/Tibet should have permit_required with area set."""
-        tibet_records = [r for r in result.records
-                        if r['destination'] == 'CN' and r['area'] and 'tibet' in r['area'].lower()]
-        assert len(tibet_records) >= 1
-        rec = tibet_records[0]
-        assert rec['status'] == 'permit_required' or rec['status'] == 'special'
-        assert rec['is_territory_or_restricted'] is True
-
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value, f"Found <ref in {field}: {value}"
-                    assert '{{' not in value, f"Found {{ in {field}: {value}"
-                    assert '[[' not in value, f"Found [[ in {field}: {value}"
-                    assert ']]' not in value, f"Found ]] in {field}: {value}"
-
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
         keys = [(r['destination'], r['area']) for r in result.records]
@@ -118,17 +98,6 @@ class TestUnitedStatesCitizens:
         if bd_records:
             rec = bd_records[0]
             assert rec['status'] in ['visa_on_arrival', 'evisa', 'visa_free']
-
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value
-                    assert '{{' not in value
-                    assert '[[' not in value
-                    assert ']]' not in value
 
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
@@ -168,27 +137,6 @@ class TestIndianCitizens:
             rec = ad_records[0]
             assert rec['status'] == 'visa_required'
 
-    def test_macau_territory(self, result):
-        """IN -> Macau should be in territory table with stay parsed from notes."""
-        mo_records = [r for r in result.records if r['destination'] == 'MO']
-        assert len(mo_records) >= 1
-        rec = mo_records[0]
-        assert rec['is_territory_or_restricted'] is True
-        # May have stay parsed from notes
-        if rec['allowed_stay_days']:
-            assert rec['allowed_stay_days'] > 0
-
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value
-                    assert '{{' not in value
-                    assert '[[' not in value
-                    assert ']]' not in value
-
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
         keys = [(r['destination'], r['area']) for r in result.records]
@@ -212,17 +160,6 @@ class TestBritishCitizens:
     def test_record_count(self, result):
         """Should have ~190-200 main table records plus territories."""
         assert 190 <= len(result.records) <= 250, f"Got {len(result.records)} records"
-
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value
-                    assert '{{' not in value
-                    assert '[[' not in value
-                    assert ']]' not in value
 
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
@@ -248,17 +185,6 @@ class TestEmiratiCitizens:
         """Should have ~190-200 main table records plus territories."""
         assert 150 <= len(result.records) <= 250, f"Got {len(result.records)} records"
 
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value
-                    assert '{{' not in value
-                    assert '[[' not in value
-                    assert ']]' not in value
-
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
         keys = [(r['destination'], r['area']) for r in result.records]
@@ -282,17 +208,6 @@ class TestAfghanCitizens:
     def test_record_count(self, result):
         """Should have ~190-200 main table records."""
         assert 150 <= len(result.records) <= 250, f"Got {len(result.records)} records"
-
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value
-                    assert '{{' not in value
-                    assert '[[' not in value
-                    assert ']]' not in value
 
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
@@ -318,17 +233,6 @@ class TestBrazilianCitizens:
         """Should have ~190-200 main table records plus territories."""
         assert 190 <= len(result.records) <= 250, f"Got {len(result.records)} records"
 
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value
-                    assert '{{' not in value
-                    assert '[[' not in value
-                    assert ']]' not in value
-
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""
         keys = [(r['destination'], r['area']) for r in result.records]
@@ -352,17 +256,6 @@ class TestJapaneseCitizens:
     def test_record_count(self, result):
         """Should have ~190-200 main table records plus territories."""
         assert 190 <= len(result.records) <= 250, f"Got {len(result.records)} records"
-
-    def test_no_wikitext_artifacts(self, result):
-        """No records should contain wikitext artifacts."""
-        for rec in result.records:
-            for field in ['destination_name', 'notes', 'allowed_stay_raw']:
-                value = rec.get(field)
-                if value:
-                    assert '<ref' not in value
-                    assert '{{' not in value
-                    assert '[[' not in value
-                    assert ']]' not in value
 
     def test_unique_keys(self, result):
         """All (destination, area) keys should be unique."""

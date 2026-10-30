@@ -1,5 +1,4 @@
 """Tests for stay.py - stay duration parsing."""
-import pytest
 
 from visa_pipeline import stay
 

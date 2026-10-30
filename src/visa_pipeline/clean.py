@@ -1,6 +1,5 @@
 """Clean wikitext: remove refs, resolve links, unwrap templates, normalize whitespace."""
 import re
-from typing import Any
 
 import mwparserfromhell
 
