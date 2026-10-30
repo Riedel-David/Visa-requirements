@@ -37,8 +37,11 @@ STATUS_MAP = {
     # Visa-free entry
     'visa not required': 'visa_free',
     'visa not required (conditional)': 'visa_free',
+    'visa not required(conditional)': 'visa_free',
+    'not required': 'visa_free',
     'visa-free': 'visa_free',
     'visa free': 'visa_free',
+    'visa free with payment': 'visa_free',
     'no visa required': 'visa_free',
     'freedom of movement': 'visa_free',
     'visa not required (ease)': 'visa_free',
@@ -53,6 +56,13 @@ STATUS_MAP = {
     'electronic travel authorization': 'eta',
     'electronic travel authority': 'eta',
     'electronic authorization': 'eta',
+    'electronic authorisation': 'eta',
+    'authorisation required': 'eta',
+    'authorization required': 'eta',
+    'authoristion required': 'eta',  # Common typo
+    'special authorisation permit': 'eta',
+    'special authorization permit': 'eta',
+    'pre-registration required': 'eta',
     'eta': 'eta',
     'esta': 'eta',
     'evisitor': 'eta',
@@ -96,6 +106,7 @@ STATUS_MAP = {
     # Special permits (more restrictive than regular visa)
     'special permit required': 'permit_required',
     'permit required': 'permit_required',
+    'access permit required': 'permit_required',
     'travel permit required': 'permit_required',
     'special permission required': 'permit_required',
     'permission required': 'permit_required',
@@ -110,6 +121,7 @@ STATUS_MAP = {
     'special authorisation required': 'permit_required',
     'special access required': 'permit_required',
     'special permits required': 'permit_required',
+    '4 days': 'permit_required',  # Mount Athos - duration info mixed with permit requirement
 
     # Admission refused
     'admission refused': 'admission_refused',
