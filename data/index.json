@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-30T17:10:15.743372+00:00",
+  "generated_at": "2026-11-02T12:32:41.005665+00:00",
   "disclaimer": "Visa data is community-sourced from Wikipedia and may be incomplete, outdated or wrong. Always verify entry requirements with the official embassy or government source of the destination before travelling.",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -46,10 +46,10 @@
       "file": "passports/AL.json",
       "source_title": "Visa requirements for Albanian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "source_revision": "1382793891",
-      "source_timestamp": "2026-10-30T09:36:54Z",
+      "source_revision": "1382895999",
+      "source_timestamp": "2026-10-30T21:58:15Z",
       "record_count": 264,
-      "last_changed": "2026-10-30T15:04:06.866521+00:00"
+      "last_changed": "2026-11-02T12:32:34.743545+00:00"
     },
     "AM": {
       "file": "passports/AM.json",
@@ -721,10 +721,10 @@
       "file": "passports/IN.json",
       "source_title": "Visa requirements for Indian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
-      "source_revision": "1381845023",
-      "source_timestamp": "2026-10-25T04:11:02Z",
+      "source_revision": "1382948393",
+      "source_timestamp": "2026-10-31T03:58:29Z",
       "record_count": 245,
-      "last_changed": "2026-10-30T17:08:14.819830+00:00"
+      "last_changed": "2026-11-02T12:32:35.825446+00:00"
     },
     "IQ": {
       "file": "passports/IQ.json",
@@ -1360,10 +1360,10 @@
       "file": "passports/RU.json",
       "source_title": "Visa requirements for Russian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
-      "source_revision": "1380020542",
-      "source_timestamp": "2026-10-13T08:44:09Z",
+      "source_revision": "1383094589",
+      "source_timestamp": "2026-10-31T23:33:38Z",
       "record_count": 249,
-      "last_changed": "2026-10-30T17:09:22.728524+00:00"
+      "last_changed": "2026-11-02T12:32:37.787762+00:00"
     },
     "RW": {
       "file": "passports/RW.json",
@@ -1378,10 +1378,10 @@
       "file": "passports/SA.json",
       "source_title": "Visa requirements for Saudi citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saudi_citizens",
-      "source_revision": "1374621826",
-      "source_timestamp": "2026-09-13T04:14:12Z",
+      "source_revision": "1383137925",
+      "source_timestamp": "2026-11-01T04:43:42Z",
       "record_count": 203,
-      "last_changed": "2026-10-30T10:53:40.622804+00:00"
+      "last_changed": "2026-11-02T12:32:38.669634+00:00"
     },
     "SB": {
       "file": "passports/SB.json",
