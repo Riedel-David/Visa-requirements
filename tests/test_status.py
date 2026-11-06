@@ -1,5 +1,7 @@
 """Tests for status.py - visa status text mapping."""
 
+import pytest
+
 from visa_pipeline import status
 
 
@@ -123,8 +125,99 @@ class TestFreePrefixInCombined:
 def test_tourist_card_and_typo_variants_are_mapped():
     assert status.parse_status('Tourist card required') == ('visa_required', [])
     assert status.parse_status('eVisa/Tourist Card required') == ('evisa', ['visa_required'])
-    assert status.parse_status('Tourist card')[0] == 'special'  # ambiguous, stays reported
+    assert status.parse_status('Tourist card') == ('evisa', [])  # decided: bare Tourist card is evisa
     assert status.parse_status('Vesa required') == ('visa_required', [])
     assert status.parse_status('Visa is required') == ('visa_required', [])
     assert status.parse_status('Tourist Cards on arrival') == ('visa_on_arrival', [])
     assert status.parse_status('Free Visa stamp on arrival') == ('visa_on_arrival', [])
+
+
+@pytest.mark.parametrize("text,expected", [
+    ("Required", "visa_required"),
+    ("Pre-enrolment", "evisa"),
+    ("Tourist Card", "evisa"),
+    ("Tourist Card / eVisa", "evisa"),
+    ("Free electronic travel authorisation", "eta"),
+    ("Free electronic travel authorization", "eta"),
+    ("eVisitors", "eta"),
+    ("Special entry permit", "eta"),
+])
+def test_new_keys(text, expected):
+    assert status.parse_status(text)[0] == expected
+
+
+@pytest.mark.parametrize("text", ["Visa not", "90 days; ID card valid."])
+def test_unmapped_text_stays_special_and_reported(text):
+    """Not in STATUS_MAP on purpose: stays special and stays reported as unmapped."""
+    assert status.parse_status(text) == ("special", [])
+
+
+@pytest.mark.parametrize("text", ["Unknown", "Admission restricted"])
+def test_deliberate_special_mappings(text):
+    """In STATUS_MAP as 'special' so they show in the report with context."""
+    assert status.STATUS_MAP[status.normalize_status(text)] == "special"
+    assert status.parse_status(text) == ("special", [])
+
+
+class TestSplitFootnote:
+    def test_footnote_after_status(self):
+        text = "Visa not required\nValid ID card is enough"
+        assert status.split_footnote(text) == ("Visa not required", "Valid ID card is enough")
+
+    def test_combined_status_with_footnote_splits(self):
+        text = "eVisa / Visa on arrival\nNote text"
+        assert status.split_footnote(text) == ("eVisa / Visa on arrival", "Note text")
+
+    def test_later_alternative_line_leaves_text_unchanged(self):
+        text = "Visa not required\nsee note\neVisa"
+        assert status.split_footnote(text) == (text, None)
+
+    def test_bullets_stripped_and_joined(self):
+        text = "Visa not required\n* first\n\u2022 second"
+        assert status.split_footnote(text) == ("Visa not required", "first second")
+
+    def test_combined_status_untouched(self):
+        assert status.split_footnote("Visa not required\neVisa") == ("Visa not required\neVisa", None)
+
+    def test_unmapped_first_line_untouched(self):
+        assert status.split_footnote("Whatever\nmore") == ("Whatever\nmore", None)
+
+    def test_single_line_untouched(self):
+        assert status.split_footnote("Visa not required") == ("Visa not required", None)
+
+    @pytest.mark.parametrize("text", [
+        "Visa required\nVisa on arrival at airport",
+        "Visa not required\nsee note / eVisa",
+        "Visa not required\nsee note\nRequired",
+        "Visa not required\nAn ETA may apply",
+    ])
+    def test_embedded_alternative_leaves_text_unchanged(self, text):
+        assert status.split_footnote(text) == (text, None)
+
+    def test_short_key_needs_word_boundary(self):
+        text = "Visa not required\nComplete the form quietly"
+        assert status.split_footnote(text) == ("Visa not required", "Complete the form quietly")
+
+    def test_leading_blank_line(self):
+        text = "\nVisa not required\nnote"
+        assert status.split_footnote(text) == (text, None)
+
+    def test_bare_bullet_line_is_not_a_footnote(self):
+        assert status.split_footnote("Visa not required\n*") == ("Visa not required\n*", None)
+
+    def test_empty_bullets_dropped_single_space(self):
+        text = "Visa not required\n* a\n*\n* b"
+        assert status.split_footnote(text) == ("Visa not required", "a b")
+
+    def test_same_status_phrase_in_footnote_splits(self):
+        # "id card" maps to visa_free, the first line's status; line alone is special
+        assert status.split_footnote("Visa not required\nid card is enough") == (
+            "Visa not required", "id card is enough")
+
+    def test_different_status_phrase_in_footnote_blocks_split(self):
+        # "e-tourist card" maps to evisa; the line as a whole is not a status
+        text = "Visa not required\nan e-tourist card helps"
+        assert status.split_footnote(text) == (text, None)
+
+    def test_trailing_newline_is_unchanged(self):
+        assert status.split_footnote("Visa not required\n") == ("Visa not required\n", None)
