@@ -444,6 +444,14 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
                 result.warnings.append(f"Skipping row with duration instead of status: {dest_name} in '{section_name}' (found '{status_cleaned}')")
                 continue
 
+        # Not for status_in_stay tables: the cell holds stay text there, which is not a footnote
+        status_footnote = None
+        if not status_in_stay:
+            status_cleaned, status_footnote = status.split_footnote(status_cleaned)
+        if status_footnote:
+            result.warnings.append(
+                f"Status footnote split: {dest_name} '{status_cleaned}' + note '{status_footnote}'"
+            )
         primary_status, alternatives = status.parse_status(status_cleaned)
 
         # Check for duplicate (destination, area) key AFTER status extraction
@@ -551,6 +559,12 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
                 # Remove this note from notes
                 notes_parts = notes_parts[1:]
                 notes = '\n'.join(notes_parts) if notes_parts else None
+
+        # A footnote after <br /> in the status cell. Added after the heuristic
+        # above so a footnote like "90 days" is never taken for the stay.
+        if status_footnote:
+            notes_parts.append(status_footnote)
+            notes = '\n'.join(notes_parts)
 
         # Build record
         record = {

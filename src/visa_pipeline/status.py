@@ -69,6 +69,10 @@ STATUS_MAP = {
     'eta': 'eta',
     'esta': 'eta',
     'evisitor': 'eta',
+    'evisitors': 'eta',
+    'free electronic travel authorisation': 'eta',
+    'free electronic travel authorization': 'eta',
+    'special entry permit': 'eta',
     'eta-il': 'eta',
     'k-eta': 'eta',
     'nzeta': 'eta',
@@ -100,6 +104,10 @@ STATUS_MAP = {
     'electronic entry visa': 'evisa',
     'e-tourist card': 'evisa',
     'evoa': 'evisa',
+    'pre-enrolment': 'evisa',
+    # Bare form is evisa by decision (Cuba rows read "Tourist Card / eVisa");
+    # 'tourist card required' below stays visa_required.
+    'tourist card': 'evisa',
     'pre-visa on arrival': 'evisa',
     'online visitor e600 visa': 'evisa',
     'visitor e600 visa': 'evisa',
@@ -131,6 +139,7 @@ STATUS_MAP = {
     'electronic visa on arrival': 'visa_on_arrival',
 
     # Visa required (must obtain in advance)
+    'required': 'visa_required',
     'visa required': 'visa_required',
     'visa necessary': 'visa_required',
     'visa is required': 'visa_required',
@@ -274,3 +283,39 @@ def parse_status(text: str) -> tuple[str, list[str]]:
     alternatives = [s for s in mapped if s != primary]
 
     return primary, alternatives
+
+
+# Whole-word match of any STATUS_MAP key, longest first so alternation prefers the full phrase
+_STATUS_PHRASE_RE = re.compile(
+    r'(?<!\w)(?:' + '|'.join(re.escape(k) for k in sorted(STATUS_MAP, key=len, reverse=True)) + r')(?!\w)'
+)
+
+
+def split_footnote(text: str) -> tuple[str, str | None]:
+    """Split "Status\nFootnote" into (status, footnote) when only the first line is a status.
+
+    clean() turns <br /> into a newline. parse_status() reads a newline as a
+    separator between alternatives, so a trailing sentence makes the cell
+    special. If the whole text is special, its first line parses to a status,
+    and no later line does (a later status is a real alternative that must stay
+    visible), the rest is a footnote that belongs in the notes. Leading bullet
+    characters are stripped and the lines are joined into one string.
+    """
+    if '\n' not in text or parse_status(text)[0] != 'special':
+        return text, None
+    first, *rest = [line.strip() for line in text.split('\n')]
+    rest = [re.sub(r'^[*\u2022]\s*', '', line) for line in rest]
+    rest = [line for line in rest if line]
+    if not rest or parse_status(first)[0] == 'special':
+        return text, None
+    if any(parse_status(line)[0] != 'special' for line in rest):
+        return text, None
+    # Conservative: any known status phrase anywhere in the footnote may be a
+    # real alternative ("Visa on arrival at airport"), so leave the cell special.
+    # A phrase that maps to a status the first line already carries changes
+    # nothing ("... ID card is enough" after "Visa not required").
+    primary, alternatives = parse_status(first)
+    for m in _STATUS_PHRASE_RE.finditer(normalize_status(' '.join(rest))):
+        if STATUS_MAP[m.group()] not in (primary, *alternatives):
+            return text, None
+    return first, ' '.join(rest)

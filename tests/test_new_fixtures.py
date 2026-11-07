@@ -118,9 +118,28 @@ class TestNorthernCypriotCitizens:
         """Check Turkey record."""
         assert result.records[0]['destination'] == 'TR'
         assert result.records[0]['destination_name'] == 'Turkey'
-        # Status is 'special' because the cleaned text includes extra info after newline
-        # This is expected for this edge-case table structure
-        assert result.records[0]['status'] in ['visa_free', 'special']
+        # The sentence after <br /> is a footnote, not part of the status
+        assert result.records[0]['status'] == 'visa_free'
+        assert 'ID card' in result.records[0]['notes']
+
+    def test_split_is_reported_in_warnings(self, result):
+        assert any(w.startswith("Status footnote split: Turkey 'Visa not required'") for w in result.warnings)
+
+    def test_duration_like_footnote_is_not_taken_as_stay(self, transcl):
+        wikitext, meta = load_fixture('Visa_requirements_for_Northern_Cypriot_citizens')
+        marker = "A valid [[Northern Cypriot identity card|ID card]] is enough for passing"
+        assert marker in wikitext
+        result = extract_main.parse_page(
+            wikitext.replace(marker, "90 days"),
+            passport='XN',
+            title='Visa requirements for Northern Cypriot citizens',
+            revid=meta['revid'],
+            transclusions=transcl
+        )
+        rec = result.records[0]
+        assert rec['status'] == 'visa_free'
+        assert rec['notes'] == '90 days'
+        assert rec['allowed_stay_days'] is None
 
 
 class TestDanishCitizens:
