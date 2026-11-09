@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-02T12:32:41.005665+00:00",
+  "generated_at": "2026-11-09T13:01:02.712563+00:00",
   "disclaimer": "Visa data is community-sourced from Wikipedia and may be incomplete, outdated or wrong. Always verify entry requirements with the official embassy or government source of the destination before travelling.",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -67,7 +67,7 @@
       "source_revision": "1356522921",
       "source_timestamp": "2026-05-28T07:55:24Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:01.640862+00:00"
+      "last_changed": "2026-11-09T12:57:55.658664+00:00"
     },
     "AR": {
       "file": "passports/AR.json",
@@ -244,10 +244,10 @@
       "file": "passports/BY.json",
       "source_title": "Visa requirements for Belarusian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belarusian_citizens",
-      "source_revision": "1377545086",
-      "source_timestamp": "2026-09-29T23:30:05Z",
+      "source_revision": "1383290407",
+      "source_timestamp": "2026-11-01T23:28:32Z",
       "record_count": 246,
-      "last_changed": "2026-10-30T15:04:20.962385+00:00"
+      "last_changed": "2026-11-09T12:58:06.704280+00:00"
     },
     "BZ": {
       "file": "passports/BZ.json",
@@ -397,10 +397,10 @@
       "file": "passports/DE.json",
       "source_title": "Visa requirements for German citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens",
-      "source_revision": "1379323599",
-      "source_timestamp": "2026-10-09T06:43:46Z",
+      "source_revision": "1384031672",
+      "source_timestamp": "2026-11-06T06:31:53Z",
       "record_count": 282,
-      "last_changed": "2026-10-30T10:52:09.288091+00:00"
+      "last_changed": "2026-11-09T12:58:53.780413+00:00"
     },
     "DJ": {
       "file": "passports/DJ.json",
@@ -427,7 +427,7 @@
       "source_revision": "1374828324",
       "source_timestamp": "2026-09-14T08:54:04Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:45.641203+00:00"
+      "last_changed": "2026-11-09T12:58:36.673446+00:00"
     },
     "DO": {
       "file": "passports/DO.json",
@@ -526,7 +526,7 @@
       "source_revision": "1376550146",
       "source_timestamp": "2026-09-24T21:33:01Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:50.627124+00:00"
+      "last_changed": "2026-11-09T12:59:40.695139+00:00"
     },
     "FR": {
       "file": "passports/FR.json",
@@ -643,7 +643,7 @@
       "source_revision": "1362019067",
       "source_timestamp": "2026-07-01T13:12:07Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T12:03:28.719745+00:00"
+      "last_changed": "2026-11-09T12:59:00.658847+00:00"
     },
     "HK": {
       "file": "passports/HK.json",
@@ -730,10 +730,10 @@
       "file": "passports/IQ.json",
       "source_title": "Visa requirements for Iraqi citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1375302779",
-      "source_timestamp": "2026-09-17T00:48:54Z",
+      "source_revision": "1384331744",
+      "source_timestamp": "2026-11-07T19:37:14Z",
       "record_count": 194,
-      "last_changed": "2026-10-30T10:52:24.173332+00:00"
+      "last_changed": "2026-11-09T12:59:07.669570+00:00"
     },
     "IR": {
       "file": "passports/IR.json",
@@ -775,10 +775,10 @@
       "file": "passports/JO.json",
       "source_title": "Visa requirements for Jordanian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
-      "source_revision": "1381707986",
-      "source_timestamp": "2026-10-24T07:40:24Z",
+      "source_revision": "1383590529",
+      "source_timestamp": "2026-11-03T15:16:39Z",
       "record_count": 287,
-      "last_changed": "2026-10-30T11:59:58.809942+00:00"
+      "last_changed": "2026-11-09T12:59:14.752579+00:00"
     },
     "JP": {
       "file": "passports/JP.json",
@@ -865,10 +865,10 @@
       "file": "passports/KW.json",
       "source_title": "Visa requirements for Kuwaiti citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens",
-      "source_revision": "1382342135",
-      "source_timestamp": "2026-10-28T05:05:23Z",
+      "source_revision": "1383632222",
+      "source_timestamp": "2026-11-03T20:39:47Z",
       "record_count": 260,
-      "last_changed": "2026-10-30T15:05:38.926341+00:00"
+      "last_changed": "2026-11-09T12:59:19.717148+00:00"
     },
     "KZ": {
       "file": "passports/KZ.json",
@@ -976,7 +976,7 @@
       "source_revision": "1381708515",
       "source_timestamp": "2026-10-24T07:47:14Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:36.615733+00:00"
+      "last_changed": "2026-11-09T12:59:26.683816+00:00"
     },
     "MA": {
       "file": "passports/MA.json",
@@ -1003,16 +1003,16 @@
       "source_revision": "1379406080",
       "source_timestamp": "2026-10-09T20:36:08Z",
       "record_count": 259,
-      "last_changed": "2026-10-30T15:06:00.919695+00:00"
+      "last_changed": "2026-11-09T12:59:41.720509+00:00"
     },
     "ME": {
       "file": "passports/ME.json",
       "source_title": "Visa requirements for Montenegrin citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Montenegrin_citizens",
-      "source_revision": "1379336607",
-      "source_timestamp": "2026-10-09T09:32:42Z",
+      "source_revision": "1383714714",
+      "source_timestamp": "2026-11-04T09:47:13Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:53:00.728576+00:00"
+      "last_changed": "2026-11-09T12:59:43.702830+00:00"
     },
     "MG": {
       "file": "passports/MG.json",
@@ -1036,10 +1036,10 @@
       "file": "passports/MK.json",
       "source_title": "Visa requirements for citizens of North Macedonia",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_citizens_of_North_Macedonia",
-      "source_revision": "1350470291",
-      "source_timestamp": "2026-04-22T03:17:17Z",
+      "source_revision": "1383975342",
+      "source_timestamp": "2026-11-05T22:58:38Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:54:26.039513+00:00"
+      "last_changed": "2026-11-09T13:01:02.694032+00:00"
     },
     "ML": {
       "file": "passports/ML.json",
@@ -1099,10 +1099,10 @@
       "file": "passports/MU.json",
       "source_title": "Visa requirements for Mauritian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritian_citizens",
-      "source_revision": "1361914710",
-      "source_timestamp": "2026-06-30T20:46:18Z",
-      "record_count": 242,
-      "last_changed": "2026-10-30T17:08:48.588196+00:00"
+      "source_revision": "1383870819",
+      "source_timestamp": "2026-11-05T07:19:11Z",
+      "record_count": 243,
+      "last_changed": "2026-11-09T12:59:38.708537+00:00"
     },
     "MV": {
       "file": "passports/MV.json",
@@ -1246,7 +1246,7 @@
       "source_revision": "1380600010",
       "source_timestamp": "2026-10-16T19:07:53Z",
       "record_count": 248,
-      "last_changed": "2026-10-30T17:09:12.654445+00:00"
+      "last_changed": "2026-11-09T13:00:02.702551+00:00"
     },
     "PE": {
       "file": "passports/PE.json",
@@ -1444,7 +1444,7 @@
       "source_revision": "1374272143",
       "source_timestamp": "2026-09-10T23:39:14Z",
       "record_count": 278,
-      "last_changed": "2026-10-30T15:06:46.934252+00:00"
+      "last_changed": "2026-11-09T13:00:26.740918+00:00"
     },
     "SL": {
       "file": "passports/SL.json",
@@ -1462,7 +1462,7 @@
       "source_revision": "1345971488",
       "source_timestamp": "2026-03-29T06:18:38Z",
       "record_count": 243,
-      "last_changed": "2026-10-30T15:06:37.967922+00:00"
+      "last_changed": "2026-11-09T13:00:18.680272+00:00"
     },
     "SN": {
       "file": "passports/SN.json",
@@ -1612,10 +1612,10 @@
       "file": "passports/TR.json",
       "source_title": "Visa requirements for Turkish citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
-      "source_revision": "1382732684",
-      "source_timestamp": "2026-10-30T00:26:23Z",
+      "source_revision": "1383440721",
+      "source_timestamp": "2026-11-02T18:17:48Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:54:10.607684+00:00"
+      "last_changed": "2026-11-09T13:00:47.687904+00:00"
     },
     "TT": {
       "file": "passports/TT.json",
@@ -1768,7 +1768,7 @@
       "source_revision": "1300485588",
       "source_timestamp": "2025-07-14T16:25:54Z",
       "record_count": 1,
-      "last_changed": "2026-10-30T10:53:13.670844+00:00"
+      "last_changed": "2026-11-09T12:59:56.606499+00:00"
     },
     "YE": {
       "file": "passports/YE.json",

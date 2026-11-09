@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guyanese_citizens",
   "source_revision": "1362019067",
   "source_timestamp": "2026-07-01T13:12:07Z",
-  "generated_at": "2026-10-30T12:03:28.719745+00:00",
+  "generated_at": "2026-11-09T12:59:00.658847+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -564,7 +564,7 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
+      "status": "evisa",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
       "allowed_stay_raw": "90 days",

@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Northern_Cypriot_citizens",
   "source_revision": "1300485588",
   "source_timestamp": "2025-07-14T16:25:54Z",
-  "generated_at": "2026-10-30T10:53:13.670844+00:00",
+  "generated_at": "2026-11-09T12:59:56.606499+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -14,11 +14,11 @@
       "destination": "TR",
       "destination_name": "Turkey",
       "area": null,
-      "status": "special",
+      "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
-      "notes": null,
+      "notes": "A valid ID card is enough for passing",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Northern_Cypriot_citizens",
       "source_revision": "1300485588"

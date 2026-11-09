@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
   "source_revision": "1356522921",
   "source_timestamp": "2026-05-28T07:55:24Z",
-  "generated_at": "2026-10-30T17:07:01.640862+00:00",
+  "generated_at": "2026-11-09T12:57:55.658664+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -520,7 +520,7 @@
       "destination": "CI",
       "destination_name": "Côte d'Ivoire",
       "area": null,
-      "status": "special",
+      "status": "evisa",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
       "allowed_stay_raw": "90 days",

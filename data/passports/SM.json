@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sammarinese_citizens",
   "source_revision": "1345971488",
   "source_timestamp": "2026-03-29T06:18:38Z",
-  "generated_at": "2026-10-30T15:06:37.967922+00:00",
+  "generated_at": "2026-11-09T13:00:18.680272+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -2352,7 +2352,7 @@
       "destination": "PG",
       "destination_name": "Papua New Guinea",
       "area": null,
-      "status": "special",
+      "status": "eta",
       "alternative_statuses": [],
       "allowed_stay_days": 60,
       "allowed_stay_raw": "60 days",

@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moldovan_citizens",
   "source_revision": "1379406080",
   "source_timestamp": "2026-10-09T20:36:08Z",
-  "generated_at": "2026-10-30T15:06:00.919695+00:00",
+  "generated_at": "2026-11-09T12:59:41.720509+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -3008,7 +3008,7 @@
       "destination": "SV",
       "destination_name": "El Salvador",
       "area": null,
-      "status": "special",
+      "status": "eta",
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,

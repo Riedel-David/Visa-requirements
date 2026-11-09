@@ -5,7 +5,7 @@
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
   "source_revision": "1380600010",
   "source_timestamp": "2026-10-16T19:07:53Z",
-  "generated_at": "2026-10-30T17:09:12.654445+00:00",
+  "generated_at": "2026-11-09T13:00:02.702551+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -688,7 +688,7 @@
       "destination": "CU",
       "destination_name": "Cuba",
       "area": null,
-      "status": "special",
+      "status": "evisa",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
       "allowed_stay_raw": "90 days",
