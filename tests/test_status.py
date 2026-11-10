@@ -221,3 +221,27 @@ class TestSplitFootnote:
 
     def test_trailing_newline_is_unchanged(self):
         assert status.split_footnote("Visa not required\n") == ("Visa not required\n", None)
+
+
+class TestSplitFootnoteStaysConservative:
+    """A footnote that mentions "required" or "unknown" is NOT split off, on purpose.
+
+    Splitting it would record the first line's status (e.g. visa_free) for a cell whose
+    footnote may carry a real condition ("Permits required for restricted areas") or an
+    admitted uncertainty ("Status unknown"). Left whole, the cell becomes `special` and is
+    reported for review, which is the safe outcome.
+    """
+
+    @pytest.mark.parametrize("footnote", [
+        "Permits required for restricted areas",
+        "Passport required",
+        "Status unknown",
+        "Duration unknown",
+    ])
+    def test_footnote_with_required_or_unknown_keeps_the_cell_whole(self, footnote):
+        text = f"Visa not required\n{footnote}"
+        assert status.split_footnote(text) == (text, None)
+
+    def test_cell_that_really_says_visa_required_still_parses_as_visa_required(self):
+        assert status.split_footnote("Visa required") == ("Visa required", None)
+        assert status.parse_status("Visa required") == ("visa_required", [])

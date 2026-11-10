@@ -388,3 +388,49 @@ def test_image_flag_template_is_not_area():
     assert extract_main._extract_destination_and_area(
         "{{flagicon image|Flag_of_China.svg}} [[Tibet Autonomous Region]]", []
     ) == ("Tibet Autonomous Region", None)
+
+
+_GERMAN_STYLE_TABLE = """{{| class="wikitable"
+! Country !! Area !! Maximum stay
+|-
+| [[France]] || || {stay}
+|}}"""
+
+
+def _parse_german_style(stay_cell, transcl):
+    result = extract_main.ParseResult()
+    extract_main._parse_table_rows(
+        _GERMAN_STYLE_TABLE.format(stay=stay_cell), 'DE', 'Test', False, transcl, 'url', 'rev', result
+    )
+    return result
+
+
+def test_status_in_stay_table_reads_status_from_the_stay_column(transcl):
+    result = _parse_german_style("Visa not required", transcl)
+    assert [r['status'] for r in result.records] == ['visa_free']
+
+
+def test_status_in_stay_table_does_not_split_a_footnote_off_the_stay_cell(transcl):
+    # The cell holds stay text there, so a second line is not a footnote;
+    # the whole cell stays unmapped and reported rather than guessed as visa_free.
+    result = _parse_german_style("Visa not required<br />ID card is enough", transcl)
+    assert [r['status'] for r in result.records] == ['special']
+    assert not any(w.startswith("Status footnote split") for w in result.warnings)
+    assert 'Visa not required' in result.unmapped_statuses[0]['raw_status']
+
+
+def test_status_in_stay_table_skips_a_row_whose_cell_is_only_a_duration(transcl):
+    result = _parse_german_style("90 days", transcl)
+    assert result.records == []
+
+
+def test_table_without_the_status_in_stay_shape_still_splits_footnotes(transcl):
+    table = """{| class="wikitable"
+! Country !! Visa requirement
+|-
+| [[France]] || Visa not required<br />90 days
+|}"""
+    result = extract_main.ParseResult()
+    extract_main._parse_table_rows(table, 'DE', 'Test', False, transcl, 'url', 'rev', result)
+    assert [r['status'] for r in result.records] == ['visa_free']
+    assert any(w.startswith("Status footnote split") for w in result.warnings)
