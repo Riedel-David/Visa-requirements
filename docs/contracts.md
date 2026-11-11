@@ -7,7 +7,7 @@ Package: `src/visa_pipeline/`. Python 3.11+. Tests: `tests/`, fixtures in `tests
 | Module | Owner branch | Purpose |
 |---|---|---|
 | `clean.py`, `table.py`, `status.py`, `stay.py`, `countries.py`, `transclusions.py`, `extract_main.py`, `overrides/destinations.json` | parser | wikitext -> records |
-| `api.py`, `discover.py`, `demonyms.py`, `validate.py`, `publish.py`, `run.py`, `__main__.py`, `schema/passport.schema.json`, `overrides/passports.json` | pipeline | fetch, state, safety, output |
+| `api.py`, `discover.py`, `demonyms.py`, `validate.py`, `publish.py`, `run.py`, `__main__.py`, `schema/passport.schema.json`, `overrides/passports.json`, `exports.py`, `iso3.json`, `schema/index.schema.json`, `schema/status.schema.json` | pipeline | fetch, state, safety, output |
 | `.github/`, `README.md`, `DATA_FORMAT.md`, `LICENSE`, `LICENSE-DATA.md`, community files | repo-setup | hygiene, workflow, docs |
 
 `overrides/` lives at `src/visa_pipeline/overrides/` (package data).
@@ -78,7 +78,7 @@ added to `unmapped_statuses`. Never guess.
 
 ```json
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "DE",
   "source_title": "Visa requirements for German citizens",
   "source_url": "...",
@@ -104,18 +104,21 @@ before travelling."
 ## CLI (pipeline branch provides, workflow calls)
 
 `python -m visa_pipeline run [--data data] [--state state] [--out out] [--only DE,US]
-[--max-status-changes 15] [--max-record-drop-pct 10] [--force]`
+[--max-status-changes 15] [--max-record-drop-pct 10] [--force] [--refresh-pages] [--min-interval 1.0]`
+(`--force` bypasses the safety thresholds, not the 24h cooling-off.)
 
 - `data/` = published, committed output. Also the "previous run" for diffs.
-- `state/` = committed run state: `pages.json` (discovered pages + mapping) and `revisions.json`.
+- `state/` = committed run state: `pages.json` (discovered pages + mapping), `revisions.json` and `stale.json` (per-passport stale streaks).
+- `data/status.json` = rewritten on every full run (`--only` runs leave it alone).
 - `out/` = gitignored run artifacts: `summary.json`, `report.md`, `changelog.md`.
 - Exit 0 = ok (blocked passports allowed). Exit 1 = a hard failure (zero rows where rows existed
-  before, an exception on a page, schema-invalid output). Good passports are still written before
-  exiting 1.
+  before, an exception on a page, schema-invalid output), or a passport blocked by the thresholds
+  for 3+ consecutive runs (`BLOCKED_ALERT_RUNS` in `run.py`; written before exiting so the
+  failed-run notification fires). Good passports are still written before exiting 1.
 - `out/summary.json`: `{"pages_found", "pages_mapped", "pages_unmapped": [...], "pages_parsed",
   "pages_skipped_unchanged", "rows", "blocked": [{"passport","reason"}], "failed":
   [{"passport","reason"}], "unmapped_statuses": [...], "unmapped_destinations": [...],
-  "changes": n}`.
+  "deferred": [{"passport","revid","timestamp"}], "changes": n}`.
 
 ## Wikipedia access
 

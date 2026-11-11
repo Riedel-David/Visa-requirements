@@ -1,3 +1,5 @@
+> Generated snapshot from 2026-10-30; not maintained. Regenerate with the fixtures script if needed.
+
 # Parser Test Report
 
 Generated: 2026-10-30 11:54:11
