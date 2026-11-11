@@ -38,11 +38,13 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
 
 ## Status enum
 
-`visa_free | visa_on_arrival | eta | evisa | visa_required | permit_required | admission_refused | special`
+`visa_free | visa_on_arrival | eta | evisa | visa_required | permit_required | admission_refused | special | travel_ban`
 
-Order = least to most restrictive (`special` sits outside the order). For combined statuses
+Order = least to most restrictive (`special` and `travel_ban` sit outside the order). For combined statuses
 ("eVisa / Visa on arrival"), `status` is the least restrictive one and the others go in
-`alternative_statuses`, in the order they appear. Unmapped text becomes `special` and is
+`alternative_statuses`, in the order they appear. Exception: a `travel_ban` part always wins
+(the traveller's government forbids travel whatever the destination allows); the destination's
+own status stays in `alternative_statuses`. Unmapped text becomes `special` and is
 added to `unmapped_statuses`. Never guess.
 
 ## Record (one per passport x destination x area)

@@ -255,6 +255,9 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
                 warnings.append(f"Ignoring inclusive suffix {area_cleaned!r} for {flag_country!r}; whole-country row")
                 area_cleaned = ''
             area_cleaned = clean.clean_area(area_cleaned, flag_country) or ''
+            # {{flagicon|Maldives}} [[Maldives]]: the link repeats the country name; no area
+            if area_cleaned and countries.normalize_name(area_cleaned) == countries.normalize_name(flag_country):
+                area_cleaned = ''
             if area_cleaned:
                 # {{flagicon|US}} [[United States Minor Outlying Islands]]: the flag
                 # param is a bare country code (the flag of the sovereign), and the
@@ -602,6 +605,10 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         if status_footnote:
             notes_parts.append(status_footnote)
             notes = '\n'.join(notes_parts)
+
+        # A ban makes a stay length meaningless; allowed_stay_raw and notes keep the text
+        if primary_status == 'travel_ban':
+            stay_days = None
 
         # Build record
         record = {

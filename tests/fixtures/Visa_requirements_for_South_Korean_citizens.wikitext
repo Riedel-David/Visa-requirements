@@ -1,0 +1,1682 @@
+{{Short description|Administrative entry restrictions}}
+{{Use dmy dates|date=November 2020}}
+[[File:KOR ePassport.jpg|thumb|180px|[[South Korean passport]]]]
+
+As of 2026, [[South Korean nationality law|South Korean citizens]] have visa-free or visa on arrival access to 187 countries and territories, ranking the [[South Korean passport]] 2nd in the world according to the [[Henley & Partners Passport Index|Henley Passport Index]].<ref>{{cite web | url=https://www.henleyglobal.com/passport-index/ranking | title=Global Passport Ranking - The Henley Passport Index}}</ref>
+
+As of 2026, the passports of South Korea, [[Andorran passport|Andorra]], [[Bruneian passport|Brunei]], [[Chilean passport|Chile]], [[Israeli passport|Israel]] and [[Palauan passport|Palau]] are the only ones to provide visa-free access to all [[G8]] countries, and the passports of South Korea, Andorra, [[Antigua and Barbuda passport|Antigua and Barbuda]], [[Argentine passport|Argentina]], [[Brazilian passport|Brazil]], Chile, [[Hong Kong Special Administrative Region passport|Hong Kong]], Israel, Palau and [[Uruguayan passport|Uruguay]] are the only ones to provide visa-free access to all European countries.{{efn|South Korean citizens are currently prohibited from entering [[Ukraine]] due to safety concerns.}} In addition, the South Korean passport provides visa-free access to the largest area of the world.
+
+The South Korean government has banned travel to several countries to ensure the safety of its citizens. Neither consular assistance nor protections will be provided to people traveling to those countries with the [[South Korean passport]], unless they have been given special authorization before traveling.
+
+==Visa requirements map==
+[[File:Visa Requirements for South Korean Nationals.svg|800px|thumb|none|Visa requirements for South Korean citizens holding ordinary passports
+{{legend|#002377|South Korea}}
+{{legend|#22B14C|Visa not required / [[Electronic System for Travel Authorization|ESTA]] / [[w:Electronic Travel Authorisation|ETA]]{{refn|group=Note|ETA required for [[w:Visa policy of Australia#Electronic Travel Authority (ETA) (subclass 601)|Australia]], [[w:Visa policy of Canada#Electronic Travel Authorization|Canada if arriving by air]], [[w:Visa policy of Israel|Israel]], [[w:Visa policy of Kenya#Electronic Travel Authorisation (eTA)|Kenya]], [[w:Visa policy of Mozambique#Mozambique Electronic Travel Authority|Mozambique]], [[w:Visa policy of New Zealand#New Zealand Electronic Travel Authority|New Zealand]], [[w:Visa policy of Saint Kitts and Nevis#Saint Kitts and Nevis Electronic Travel Authority|Saint Kitts and Nevis]], [[w:Visa policy of Seychelles|Seychelles]] and the [[w:Electronic Travel Authorisation (United Kingdom)|United Kingdom]]}}}}
+{{legend|#B5E61D|Visa on arrival}}
+{{legend|#73D0AA|eVisa}}
+{{legend|#79D343|Visa available both on arrival or online}}
+{{legend|#C0C0C0|Visa required}}
+{{legend|#999999|Visit Certificate from the Ministry of Unification required}}
+<!-- {{legend|#555555|Travel banned by the South Korean government due to safety concerns}} -->
+]]
+
+==Visa requirements==
+Visa requirements for holders of normal passports travelling for tourist purposes:
+
+{{sticky header}}
+
+{| class="wikitable sortable sticky-header" style="background:#f8f9faff;"
+|-
+! style="width:18%;"| Country / Region
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#bfd; color:#000000; padding:3px 6px; border-radius:3px;">eVisa<ref>{{Timatic|nationality=KR|destination=AF}}</ref><ref>{{cite web | url=https://visaportal.eafghans.com | title=Afghanistan eVisa}}</ref></span><br />Travel banned
+|
+| style="background:#FFC7C7;" |
+* Travel has been banned since July 2007 after the [[2007 South Korean hostage crisis in Afghanistan|South Korean hostage crisis in Afghanistan]].
+* Separately, according to visa policy of Afghanistan, visitors can apply for an e-Visa. They must arrive at Kabul International (KBL).
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AL}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=DZ}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Algeria. VOA}}
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AD}}</ref>
+| 90 days
+|
+|-
+| {{flag|Angola}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AG}}</ref>
+| 6 months
+|
+|-
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AM}}</ref>
+| 180 days
+| style="background:#FFB; |
+* As of 15 April 2023, due to safety concerns, the South Korean government bans its citizens from visiting within 10km from the Azerbaijani border.<ref>{{cite web | url=https://0404.go.kr/dev/country_view.mofa?idx=334 | title=Armenia Information}}</ref>
+|-
+| {{flag|Australia}}
+| {{yes|[[Visa policy of Australia#Electronic visas|Electronic Travel Authority]]}}<ref>{{Timatic|nationality=KR|destination=AU}}</ref>
+| 90 days
+|
+* 90 days on each visit in 12-month period if granted. May enter using [[SmartGate]] on arrival in Australia.<ref>{{cite web | url=https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601 | title=Australia Subclass 601 ETA}}</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AT}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Azerbaijan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AZ}}</ref><ref>{{cite web | url=https://evisa.gov.az | title=Azerbaijan eVisa}}</ref>
+| 30 days
+| style="background:#FFB; |
+* Upon arrival at the any international airport, visitors can obtain visa through a kiosk.
+* As of 15 April 2023, due to safety concerns, the South Korean government bans its citizens from visiting within 5km from the Armenian border.<ref>{{cite web | url=https://0404.go.kr/dev/country_view.mofa?idx=335 | title=Azerbaijan Information}}</ref>
+* As of 1 July 2026 to 30 June 2027, temporary visa free for Rep. of Korean and Japanese.
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BS}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=BH}}</ref><ref>{{cite web | url=https://www.evisa.gov.bh | title=Bahrain eVisa}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=BD}}</ref>
+| 30 days
+|
+* Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BB}}</ref>
+| 90 days
+|
+|-
+| {{flag|Belarus}}
+| {{yes|Visa not required / eVisa}}<ref>{{Timatic|nationality=KR|destination=BY}}</ref><ref>{{cite web | url=https://e-pasluga.by/en_US/services/visas-and-travel | title=Belarus eVisa}}</ref>
+| 30 days
+| style="background:#FFB; |
+* Must arrive and leave via [[Minsk National Airport]] and not flights to/from Russia
+* e-Visa is available at land border and airport.
+* As of 8 March 2022, due to safety concerns, the South Korean government bans its citizens from visiting within 30km from the Ukrainian border.<ref>{{cite web | url=https://0404.go.kr/dev/country_view.mofa?idx=333 | title=Belarus Information}}</ref>
+|-
+| {{flag|Belgium}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BE}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BZ}}</ref>
+| 90 days
+|
+|-
+| {{flag|Benin}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=BJ}}</ref><ref>{{cite web | url=https://evisa.bj | title=Benin eVisa}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Benin. eVisa}}
+|-
+| {{flag|Bhutan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=BT}}</ref><ref>{{cite web | url=https://immi.gov.bt | title=Bhutan Immigration Services Portal}}</ref>
+| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Bhutan. SDF}}
+|-
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BO}}</ref><ref>{{cite web | url=https://cancilleria.gob.bo/mre/2025/12/01/23577/ | title=Bolivia eliminates visa restrictions for eight countries starting today}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BW}}</ref>
+| 90 days
+|
+* 90 days within any year period.
+|-
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BN}}</ref>
+| 30 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BG}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Burkina Faso}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=BF}}</ref><ref>{{cite web | url=https://applicant.visaburkina.bf | title=Burkina Faso eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Burundi}}
+| {{Optional|Online Visa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=BI}}</ref><ref>{{cite web | url=https://migration.gov.bi | title=Burundi migration department}}</ref>
+| 1 month
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=KH}}</ref><ref>{{cite web | url=https://www.evisa.gov.kh | title=Cambodia eVisa}}</ref>
+| 30 days
+| style="background:#FFB; |
+* As of October 16, 2025, due to safety concerns, the South Korean government bans its citizens from traveling to Boko San District, Bavet City, and Poipet City in [[Kampot Province]].<ref>{{cite web | url=https://0404.go.kr/bbs/travelAlertAjmt/ATC0000000048124/detail | title=Cambodia travel alert}}</ref><ref>{{cite web | url=https://0404.go.kr/ntnSafetyInfo/259/detail | title=Cambodia Travel Information}}</ref>
+|-
+| {{flag|Cameroon}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=CM}}</ref><ref>{{cite web | url=https://www.evisacam.com | title=Cameroon eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Canada}}
+| {{yes|Electronic Travel Authorization}}<ref>{{Timatic|nationality=KR|destination=CA}}</ref>
+| 6 months
+|
+* [[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>{{cite web | url=https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html | title=Canada eTA |website=Canada.ca| date=15 April 2015}}</ref>
+* Also, an eTA not required when arriving by car, bus, train or boat (including a cruise ship).
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=CV}}</ref><ref>{{cite web | url=https://www.ease.gov.cv | title=Cape Verde EASE|website=Ease.gov.cv}}</ref>
+| 30 days
+|
+* Available at Sal, Boa Vista, São Vicente, or Santiago international airports. Cost for a visa on arrival is around 25 EUR.<ref>{{cite web | url=https://www.capeverdeislands.org/visa/ | title=Visa policy of Cape Verde|website=Paf.gov.gn | date=29 April 2017}}</ref>
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CF}}</ref>
+|
+|
+|-
+| {{flag|Chad}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=TD}}</ref><ref>{{cite web | url=https://evisa.td | title=Chad eVisa|website=Evisa.td}}</ref>
+| 30 days
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CL}}</ref>
+| 90 days
+|
+|-
+| {{flag|People's Republic of China|name=China}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CN}}</ref><ref>{{cite web | url=https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202411/t20241130_11535783.shtml | title=Frequently Asked Questions on Visa-free Entry into China}}</ref>
+| 30 days
+|
+* Visa waiver is valid until 31 December, 2026.
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|-
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=KM}}</ref>
+| 45 days
+|
+* Nationals of any country can obtain a visa on arrival for a maximum stay of 45 days. Also, the cost is 30 EUR or 50 [[USD]].
+|-
+| {{flag|Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CG}}</ref>
+|
+|
+* As of January 1st, 2027, an E-visa will be launched.
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=CD}}</ref><ref>{{cite web | url=https://evisa.gouv.cd | title=DR Congo eVisa}}</ref>
+| 7 days
+| style="background:#FFB; |
+* As of 1 February 2025, due to safety concerns, the South Korean government bans its citizens from visiting the North Kivu Province.<ref>{{cite web | url=https://0404.go.kr/bbs/travelAlertAjmt/ATC0000000047733/detail | title=Democratic Republic of the Congo travel alert}}</ref>
+* As of 19 February 2025, due to safety concerns, the South Korean government bans its citizens from visiting the South Kivu Province.<ref>{{cite web | url=https://0404.go.kr/bbs/travelAlertAjmt/ATC0000000048042/detail | title=Democratic Republic of the Congo travel alert}}</ref><ref>{{cite web | url=https://0404.go.kr/ntnSafetyInfo/215/detail | title=Democratic Republic of the Congo Information}}</ref>
+|-
+| {{flag|Costa Rica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d'Ivoire}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=CI}}</ref><ref>{{cite web | url=https://snedai.com/e-visa/ | title=CI eVisa}}</ref>
+| 3 months
+|
+* e-Visa holders must arrive via [[Félix-Houphouët-Boigny International Airport]].
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HR}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Cuba}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=CU}}</ref><ref>{{cite web | url=https://evisacuba.cu | title=Cuba eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CY}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period.
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CZ}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DK}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=DJ}}</ref><ref>{{cite web | url=https://www.evisa.gouv.dj | title=Djibouti eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DM}}</ref>
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=EC}}</ref>
+| 90 days
+|
+|-
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=EG}}</ref><ref>{{cite web | url=https://www.visa2egypt.gov.eg | title=Egypt eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SV}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=GQ}}</ref><ref>{{cite web | url=https://equatorialguinea-evisa.com/ | title=Equatorial Guinea eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=EE}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=ET}}</ref>
+| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Ethiopia. eVisa/VOA}}
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FI}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FR}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=GA}}</ref><ref>{{cite web | url=https://evisa.dgdi.ga | title=Gabon eVisa}}</ref>
+| 90 days
+|
+* e-Visa holders must arrive via [[Léon-Mba International Airport]].
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=GM}}</ref>
+|
+|
+* An entry clearance must be obtained from the Gambian Immigration prior to travel.
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GE}}</ref>
+| 1 year
+|
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DE}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Ghana}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=GH}}</ref>
+| 90 days
+|
+|-
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GR}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GD}}</ref>
+| 3 months
+|
+|-
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=GN}}</ref><ref>{{cite web | url=https://www.paf.gov.gn/visa | title=Guinea eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GY}}</ref>
+| 30 days
+|
+|-
+| {{flag|Haiti}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#9eff9e; color:#000000; padding:3px 6px; border-radius:3px;">Visa not required<ref>{{Timatic|nationality=KR|destination=HT}}</ref></span><br />Travel banned
+| 90 days
+| style="background:#FFC7C7; |
+* As of 1 May 2024, due to safety concerns, the South Korean government bans its citizens from visiting Haiti.<ref>{{cite web | url=https://0404.go.kr/dev/country_view.mofa?idx=324 | title=Haiti Information}}</ref>
+* Separately, the Haitian government grants visa exemption to Koreans (90 days).
+|-
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HU}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=IS}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|India}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=IN}}</ref><ref>{{cite web | url=https://indianvisaonline.gov.in/visa/tvoa.html | title=India eVisa}}</ref>
+| 30 days / 60 days
+|
+* Visa on Arrival is only granted at Bengaluru, Chennai, Delhi, Hyderabad, Kolkata and Mumbai airport.<ref>{{cite web | url=https://indianvisaonline.gov.in/visa/visa-on-arrival.html | title=Indian Visa on arrival}}</ref>
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{Optional|e-VOA / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=ID}}</ref>
+| 30 days<ref>{{cite web | url=https://evisa.imigrasi.go.id | title=The Official e-Visa(e-VOA) Website for Indonesia}}</ref>
+|
+|-
+| {{flag|Iran}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#bfd; color:#000000; padding:3px 6px; border-radius:3px;">eVisa<ref>{{Timatic|nationality=KR|destination=IR}}</ref><ref>{{cite web | url=https://evisa.mfa.ir | title=Iran eVisa}}</ref></span><br />Travel banned
+| 30 days
+| style="background:#FFC7C7; |
+* As of March 5, 2026, the South Korean government bans its citizens from traveling to Iran due to the worsening situation in the Middle East.<ref name="Iran notice">{{cite web | url=https://www.0404.go.kr/bbs/travelAlertAjmt/ATC0000000048283/detail | title=Iran travel ban issued}}</ref>
+|-
+| {{flag|Iraq}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#bfd; color:#000000; padding:3px 6px; border-radius:3px;">eVisa<ref>{{Timatic|nationality=KR|destination=IQ}}</ref><ref>{{cite web | url=https://evisa.iq | title=Iraq eVisa}}</ref></span><br />Travel banned
+| 30 days
+| style="background:#FFC7C7; |
+* Since 2004, it has been recommended to refrain from entering Iraq due to the danger of Al Qaeda, and since August 7, 2007, penalties have been introduced for Koreans entering Iraq.
+* Separately, according to Iraqi policy, visitors can apply for an e-Visa.
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=IE}}</ref>
+| 3 months
+|
+|-
+| {{flag|Israel}}
+| {{yes|Electronic Travel Authorization}}<ref>{{Timatic|nationality=KR|destination=IL}}</ref><ref>{{cite web | url=https://israel-entry.piba.gov.il | title=ETA-IL}}</ref>
+| 90 days
+| style="background:#FFB; |
+* As of 7 August 2024, due to [[Israel-Hezbollah conflict (2023-present)|heightened tensions and instability between Israel and Lebanon]], the South Korean government bans its citizens from visiting within 4km from the Lebanese border.<ref>{{cite web | url=https://www.0404.go.kr/dev/newest_view.mofa?id=ATC0000000009514&pagenum=1&mst_id=MST0000000000040&ctnm=&div_cd=177&st=title&stext= | title=Israel travel alert}}</ref><ref>{{cite web | url=https://www.0404.go.kr/dev/country_view.mofa?idx=177 | title=Israel travel information}}</ref>
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=IT}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=JM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=JP}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=JO}}</ref><ref>{{cite web | url=https://eservices.moi.gov.jo | title=Jordan E-Services}}</ref>
+| 30 days
+|
+* Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except [[Allenby Bridge|King Hussein/Allenby Bridge]])
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=KZ}}</ref>
+| 30 days
+|
+* 60 days within any 180-day period.
+|-
+| {{flag|Kenya}}
+| {{yes|Electronic Travel Authorization}}<ref>{{Timatic|nationality=KR|destination=KE}}</ref><ref>{{cite web | url=https://www.etakenya.go.ke | title=Kenya eTA}}</ref>
+| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Kenya. eTA}}
+* Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda.<ref name="migration.gov.rw">{{cite web | url=https://www.migration.gov.rw/visa/visitors-visa | title=Visitors visa - East African tourist visa}}</ref>
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=KI}}</ref>
+| 90 days
+|
+|-
+| {{flag|North Korea}}
+| {{n/a|Particular visit regime}}<ref>{{Timatic|nationality=KR|destination=KP}}</ref>
+|
+| style="background: var(--background-color-interactive, #ececec); |
+* Nationals of either Koreas seeking to visit the other must submit the North/South Korea visitation verification certificate and the Departure card to the Immigration Officer at the immigration port and go through immigration inspection. Also, nationals of South Korea must seek governmental authorization before departure.<ref>{{cite web | title=Travel between North and South Korea | url=https://www.hikorea.go.kr/pt/InfoDetailR_en.pt | website=Hi Korea: Government for Foreigners | access-date=5 March 2021 | language=ko}}</ref>
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=KW}}</ref><ref>{{cite web | url=https://evisa.moi.gov.kw | title=Kuwait eVisa}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=KG}}</ref>
+| 30 days
+|
+* 30 days within any 60-day period.
+|-
+| {{flag|Laos}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LA}}</ref><ref>{{cite web | url=https://laoevisa.gov.la | title=Laos eVisa}}</ref>
+| 30 days<ref>{{cite web | url=http://www.ttrweekly.com/site/2018/09/laos-drops-visa-for-koreans/ | title = Laos drops visa for Koreans &#124; TTR Weekly | date=13 September 2018}}</ref>
+| style="background:#FFB; |
+* As of 1 February 2024, due to safety concerns, the South Korean government bans its citizens from visiting the [[Golden Triangle Special Economic Zone]].<ref>{{cite web | url=https://www.0404.go.kr/dev/country_view.mofa?idx=36&chkvalue=no1&stext=&group_idx=5&alert_level=0 | title=Laos travel information}}</ref>
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LV}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Lebanon}}
+| {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=KR|destination=LB}}</ref>
+| 1 month
+| style="background:#FFB; |
+* 1 month extendable for 2 additional months.
+* Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or stamp in the passport, and in possession of a phone number & address to be visited in Lebanon, and a non-refundable onward or round trip ticket.
+* As of 7 August 2024, due to safety concerns, the South Korean government bans its citizens from visiting within 4km from the Israeli border. And from 12 October 2024, the South Korean government expanded the ban to the [[South Governorate]], and the [[Nabatieh Governorate]].<ref>{{cite web | url=https://www.0404.go.kr/dev/country_view.mofa?idx=40&chkvalue=no1&stext=&group_idx=6&alert_level=0 | title=Lebanon travel information}}</ref>
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LS}}</ref>
+| 60 days
+|
+|-
+| {{flag|Liberia}}
+| {{yes2|e-VOA}}<ref>{{Timatic|nationality=KR|destination=LR}}</ref><ref>{{cite web | url=https://visaonarrival.lis.gov.lr | title=Liberia e-VOA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Libya}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#bfd; color:#000000; padding:3px 6px; border-radius:3px;">eVisa<ref>{{Timatic|nationality=KR|destination=LY}}</ref><ref>{{cite web | url=https://evisa.gov.ly | title=Libya eVisa}}</ref></span><br />Travel banned
+|
+| style="background:#FFC7C7; |
+* As of 2014, due to threats by [[Libyan civil war (2014-2020)|Libyan Civil War]], the South Korean government bans its citizens from visiting Libya.
+* Separately, according to Libya's e-Visa site, visitors can apply for an e-Visa.
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LI}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LT}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LU}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Madagascar}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MG}}</ref><ref>{{cite web | url=https://evisamada-mg.com | title=Madagascar eVisa}}</ref>
+| 90 days
+|
+* For stays of 61 to 90 days, the visa fee is 59 USD.
+|-
+| {{flag|Malawi}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MW}}</ref><ref>{{cite web | url=https://evisa.gov.mw | title=Malawi eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref name="ReferenceA">{{Timatic|nationality=KR|destination=MY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#FFC7C7; color:#000000; padding:3px 6px; border-radius:3px;">Visa required<ref>{{Timatic|nationality=KR|destination=ML}}</ref></span><br />Travel banned
+|
+| style="background:#FFC7C7; |
+* As of November 4, 2025, due to safety concerns and threats by [[Al-Qaeda]] in the country, the South Korean government has imposed a ban on its citizens traveling to Mali.<ref>{{cite web | url=https://0404.go.kr/bbs/travelAlertAjmt/ATC0000000048143/detail | title=Mali Travel Warning}}</ref><ref>{{cite web | url=https://0404.go.kr/ntnSafetyInfo/57/detail | title=Mali Travel Information}}</ref>
+* Separately, according to visa policy of Mali, visitors must obtain a visa in advance.
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MT}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MH}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritania}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=MR}}</ref><ref>{{cite web | url=https://anrpts.gov.mr/en | title=Mauritania eVisa}}</ref>
+| 30 days
+|
+* Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MU}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MX}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MD}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period.
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MC}}</ref>
+|
+|
+|-
+| {{flag|Mongolia}}
+| {{Yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MN}}</ref>
+| 90 days
+|
+* Visa waiver is valid until 31 December, 2026.
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ME}}</ref>
+| 90 days
+|
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Mozambique}}
+| {{yes|Electronic Travel Authorization}}<ref>{{Timatic|nationality=KR|destination=MZ}}</ref><ref>{{cite web | url=https://evisa.gov.mz | title=Mozambique eVisa}}</ref>
+| 30 days
+|
+* Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.
+|-
+| {{flag|Myanmar}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MM}}</ref><ref>{{cite web | url=https://evisa.moip.gov.mm | title=Myanmar eVisa}}</ref>
+| 28 days / 30 days
+| style="background:#FFB; |
+* Visa on arrival - from October 21, 2025 for 1 year.
+* Must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]].
+* As of 1 May 2024, due to safety concerns, the South Korean government bans its citizens from visiting [[Rakhine State]].<ref>{{cite web | url=https://0404.go.kr/dev/country_view.mofa?idx=75 | title=Myanmar Information}}</ref>
+|-
+| {{flag|Namibia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=NA}}</ref><ref>{{cite web | url=https://eservices.mhaiss.gov.na | title=Namibia E-Services}}</ref>
+| 3 months / 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Namibia. Visa on arrival}}
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=NR}}</ref>
+| 
+|
+* Pre-arranged visa on arrival is available. (Simplified visa procedure is available. not exceeding 3 months of stay.)
+|-
+| {{flag|Nepal}}
+| {{Optional|Online Visa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=NP}}</ref>
+| 90 days<ref>{{cite web | url=https://nepaliport.immigration.gov.np | title=Nepal Online Visa}}</ref>
+|
+|-
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NL}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|New Zealand}}
+| {{yes|[[New Zealand Electronic Travel Authority|Electronic Travel Authority]]}}<ref>{{Timatic|nationality=KR|destination=NZ}}</ref>
+| 3 months
+|
+* May enter using [[SmartGate|eGate]].<ref name="NZ eGate">{{cite web | url=https://www.customs.govt.nz/personal/travel-to-and-from-nz/travelling-to-nz/egate/ | title=eGate |website=customs.govt.nz | publisher=New Zealand Customs Service}}</ref>
+* [[International Visitor Conservation and Tourism Levy]] must be paid upon requesting an Electronic Travel Authority.<ref name="NZ IVL">{{cite web | url=https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/your-journey-to-new-zealand/before-you-travel-to-new-zealand/paying-ivl | title=Paying the International Visitor Conservation and Tourism Levy | website=immigration.govt.nz | publisher=Immigration New Zealand |quote=Many tourists, people on working holidays, and some students and workers coming to New Zealand must pay an International Visitor Conservation and Tourism Levy (IVL) of NZD $35.}}</ref>
+* Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the [[Trans-Tasman Travel Arrangement]]), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.<ref name="Australian Resident Visa">{{cite web | url=https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/visa-factsheet/australian-resident-visa | title=Information about: Australian Resident Visa | website=immigration.govt.nz | publisher=Immigration New Zealand | quote=Australian citizens and permanent residents can visit, work and live in New Zealand. You do not need a visa before you travel to New Zealand.}}</ref>  Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.<ref name="NZ IVL" />
+|-
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| style="background:#FFC7C7; color:#000000; text-align:center;" |
+Visa required<ref>{{Timatic|nationality=KR|destination=NE}}</ref><br /><span style="background:#000000; color:#FFF; padding:3px 6px; border-radius:3px;">Travel banned in most areas</span>
+|
+| style="background:#FFC7C7; |
+* As of November 8, 2025, due to safety concerns, the South Korean government has imposed a ban on its citizens traveling to all region of Niger, with the exception of [[Niamey]].<ref>{{cite web | url=https://0404.go.kr/bbs/travelAlertAjmt/ATC0000000048147/detail | title=Niger travel alert}}</ref><ref>{{cite web | url=https://0404.go.kr/ntnSafetyInfo/27/detail | title=Niger Travel Information}}</ref>
+* Separately, according to visa policy of Niger, visitors must obtain a visa in advance.
+|-
+| {{flag|Nigeria}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=NG}}</ref><ref>{{cite web | url=https://evisa.immigration.gov.ng | title=Nigeria eVisa}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MK}}</ref>
+| 90 days
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NO}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Oman}}
+| {{yes|Visa not required / eVisa}}<ref>{{Timatic|nationality=KR|destination=OM}}</ref><ref>{{cite web | url=https://evisa.rop.gov.om | title=Oman eVisa}}</ref>
+| 14 days / 30 days
+|
+* For stays up to 30 days an e-Visa can be obtained.
+|-
+| {{flag|Pakistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=SG|destination=PK}}</ref><ref>{{cite web | url=https://visa.nadra.gov.pk | title=Pakistan Online Visa}}</ref>
+| 3 months
+|
+<!-- {{#section-h::Template:Transcluded sections for the visa articles|Pakistan. Online Visa/1}} -->
+|-
+| {{flag|Palau}}
+| {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=KR|destination=PW}}</ref>
+| 30 days
+|
+* Can be extended by twice only with a fee.
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=PG}}</ref><ref>{{cite web | url=https://evisa.ica.gov.pg/evisa/account/Apply | title=PNG Easy Visitor Permit}}</ref>
+| 60 days
+|
+* Available at [[Gurney Airport|Gurney Airport (Alotau)]], [[Mount Hagen Airport]], [[Port Moresby Airport]] and [[Rabaul Airport|Tokua Airport (Rabaul)]].
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PY}}</ref>
+| 30 days
+|
+|-
+| {{flag|Peru}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PE}}</ref> 
+| 90 days
+|
+|-
+| {{flag|Philippines}}
+| {{yes|Visa not required / eVisa}}<ref>{{Timatic|nationality=KR|destination=PH}}</ref>
+| 30 days / 59 days
+| style="background:#FFB; |
+* A single or multiple entry eVisa for stays of up to 59 days is also available.<ref>{{cite web | url=https://evisa.gov.ph/ |title=Apply for your Philippine Visa - The Easy and Convenient Way | website=eVisaPH - Official Website}}</ref><ref>{{cite web | url=https://evisa.gov.ph/frequently-ask-questions | title=Frequently Asked Questions (FAQs) on the Philippine e-Visa | website=eVisaPH - Official Website | quote=To check the list of eVisa eligible nationalities and the eVisa fees, look for '''How much is the e-Visa?''' at the bottom part of the page.}}</ref>
+* Single entry e-Visa is valid for 3 months, while multiple entry e-Visa is valid for 6 months or 1 year.
+* As of 1 December 2015, due to safety concerns, the South Korean government bans its citizens from visiting [[Basilan]], [[Sulu Archipelago]], [[Tawi-Tawi]], and [[Zamboanga City]].<ref>{{cite web | url=https://0404.go.kr/dev/country_view.mofa?idx=252 | title=Philippines Information}}</ref>
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PL}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PT}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=QA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=RO}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=RU}}</ref>
+| 60 days
+| style="background:#FFB; |
+* 90 days within any 180-day period.<ref>{{cite web | url=https://ru.mofa.go.kr/ru-ko/brd/m_27115/view.do?seq=1346905&page=2 | title=Regarding the announcement by the Russian Federal Government of a shortened temporary stay period for foreigners entering Russia, the 'Korea-Russia Visa exemption agreement' is valid}}</ref>
+* As of June 30, 2025, foreigners entering Russia without a visa must pre-register in the ruID mobile app and receive a digital code at least 72 hours before entry. However, this is currently optional and not mandatory.
+* As of 8 March 2022, due to safety concerns, the South Korean government bans its citizens from visiting within 30km from the Ukrainian border. And as of November 21, 2024, the ban was expanded to include the entire [[Kursk Oblast]] region.<ref>{{cite web | url=https://0404.go.kr/ntnSafetyInfo/39/detail | title=Russia Information}}</ref><ref>{{cite web | url=https://0404.go.kr/bbs/travelAlertAjmt/ATC0000000048033/detail | title=Russia travel alert}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=RW}}</ref><ref>{{cite web | url=https://irembo.gov.rw/home/citizen/all_services | title=Rwanda E-Services}}</ref>
+| 30 days
+|
+* Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda.<ref name="migration.gov.rw"/>
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Electronic Travel Authorisation}}<ref>{{Timatic|nationality=KR|destination=KN}}</ref><ref>{{cite web | url=https://www.knatravelform.kn/en | title=Saint Kitts and Nevis eTA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LC}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VC}}</ref>
+| 3 months
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|Entry permit on arrival}}<ref>{{Timatic|nationality=KR|destination=WS}}</ref>
+| 90 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SM}}</ref>
+| 90 days
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ST}}</ref>
+| 15 days<ref>{{cite web | url=https://www.facebook.com/MNECSTeP/photos/pb.1584593218475928.-2207520000.1494779850./1872829479652299/?type=3&theater | title=Facebook | website=[[Facebook]] | access-date=2022-03-06}}</ref>
+|
+|-
+| {{flag|Saudi Arabia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=KS}}</ref><ref>{{cite web | url=https://visa.visitsaudi.com | title=Saudi Arabia eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=RS}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period.
+|-
+| {{flag|Seychelles}}
+| {{yes|Electronic Border System}}<ref>{{Timatic|nationality=KR|destination=SC}}</ref><ref>{{cite web | url=https://seychelles.govtas.com | title=Seychelles Electronic Border System}}</ref>
+| 3 months
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Seychelles. SEBS}}
+|-
+| {{flag|Sierra Leone}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=SL}}</ref><ref>{{cite web | url=https://evisa.sl | title=Sierra Leone eVisa}}</ref>
+| 3 months / 30 days
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SK}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SI}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Free Visitor's Permit on arrival}}}}<ref>{{Timatic|nationality=KR|destination=SB}}</ref>
+| 3 months
+|
+* Visitors may obtain a free permit valid for 3 months within any 1-year period on arrival.
+|-
+| {{flag|Somalia}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#bfd; color:#000000; padding:3px 6px; border-radius:3px;">eVisa<ref>{{Timatic|nationality=KR|destination=SO}}</ref><ref>{{cite web | url=https://etas.gov.so | title=Somalia eTAS}}</ref></span><br />Travel banned
+| 30 days
+| style="background:#FFC7C7; |
+* Since 2006, due to safety concerns, South Koreans have been requested to refrain from entering Somalia, and since August 7, 2007, Koreans entering Somalia are subject to punishment.
+* Separately, according to Somalia's e-Visa site, visitors can apply for an e-Visa.
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}} <ref>{{Timatic|nationality=KR|destination=ZA}}</ref>
+| 30 days
+|
+|-
+| {{flag|South Sudan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=SS}}</ref><ref>{{cite web | url=https://www.evisa.gov.ss | title=South Sudan eVisa}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|South Sudan. eVisa}}
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ES}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|ETA / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=LK}}</ref><ref>{{cite web | url=https://eta.gov.lk/slvisa/ | title=LK ETA}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#FFC7C7; color:#000000; padding:3px 6px; border-radius:3px;">Visa required<ref>{{Timatic|nationality=KR|destination=SD}}</ref></span><br />Travel banned
+|
+| style="background:#FFC7C7; |
+* As of 29 April 2023, the South Korean government bans its citizens from visiting Sudan during the [[Sudanese civil war (2023–present)|Sudanese civil war]].
+* Separately, according to visa policy of Sudan, visitors must obtain a visa in advance.
+|-
+| {{flag|Suriname}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SR}}</ref><ref>{{cite web | url=https://suriname.vfsevisa.com/suriname/online/home/index | title=Suriname eVisa}}</ref>
+| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Suriname. Information}}
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SE}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CH}}</ref><ref>{{cite web | url=https://www.sem.admin.ch/sem/de/home/publiservice/weisungen-kreisschreiben/visa/liste1_staatsangehoerigkeit.html | title=Übersicht der Ausweis - und Visumvorschriften nach Staatsangehörigkeit}}</ref>
+| 90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]].
+|-
+| {{flag|Syria}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#bfd; color:#000000; padding:3px 6px; border-radius:3px;">eVisa<ref>{{Timatic|nationality=KR|destination=SY}}</ref><ref>{{cite web | url=https://evisa.sy | title=Syria eVisa}}</ref></span><br />Travel banned
+|
+| style="background:#FFC7C7; |
+* As of 2011 and 2014, due to threats by [[Islamic State of Iraq and the Levant]], the South Korean government bans its citizens from visiting Syria.
+* Separately, according to Syria's e-Visa site, visitors can apply for an e-Visa.
+|-
+| {{flag|Tajikistan}}
+| {{yes|Visa not required / eVisa}}<ref>{{Timatic|nationality=KR|destination=TJ}}</ref>
+| 30 days / 60 days
+|
+* e-Visa also available for stays up to 60 days.<ref>{{cite web | url=https://www.evisa.tj | title=Tajikistan eVisa}}</ref>
+* e-Visa holders can enter through all border points.
+|-
+| {{flag|Tanzania}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TZ}}</ref><ref>{{cite web | url=https://visa.immigration.go.tz | title=Tanzania eVisa}}</ref>
+| 90 days
+|
+|-
+| {{flag|Thailand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TH}}</ref><ref>{{Cite web|url=https://consular.mfa.go.th/th/content/1-9-69-00?cate=5ddbe42115e39c4768007e1d|title=สรุปมาตรการยกเว้นการตรวจลงตราและการให้สิทธิการตรวจลงตราต่าง ๆ ของไทย ปี 2569|website=กรมการกงสุล กระทรวงการต่างประเทศ|access-date=29 September 2026}}</ref>
+| 90 days
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TL}}</ref>
+| 30 days
+|
+* Not available at all entry points but obtainable at [[Presidente Nicolau Lobato International Airport]] or at Dili Sea Port.
+* Fee : transit 20 USD; tourist 30 USD; business 50 USD.
+|-
+| {{flag|Togo}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=TG}}</ref><ref>{{cite web | url=https://voyage.gouv.tg | title=Togo eVisa}}</ref>
+| 15 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TO}}</ref>
+| 31 days
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Turkmenistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=TM}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Turkmenistan. Visa}}
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TV}}</ref>
+| 1 month
+|
+* Visa is issued free of charge.
+|-
+| {{flag|Uganda}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=UG}}</ref><ref>{{cite web | url=https://visas.immigration.go.ug | title=Uganda eVisa}}</ref>
+| 3 months
+|
+* Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.<ref name="migration.gov.rw"/>
+* International Certificate of Vaccination required.
+|-
+| {{flag|Ukraine}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#9eff9e; color:#000000; padding:3px 6px; border-radius:3px;">Visa not required<ref>{{Timatic|nationality=KR|destination=UA}}</ref></span><br />Travel banned
+| 90 days
+| style="background:#FFC7C7; |
+* As of 13 February 2022, due to safety concerns, the South Korean government bans its citizens from visiting Ukraine.
+* Separately, the Ukrainian government grants visa exemption to Koreans (90 days within 180 days).
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AE}}</ref>
+| 90 days
+|
+|-
+| {{flag|United Kingdom}}
+| {{yes|Electronic Travel Authorisation}}<ref>{{Timatic|nationality=KR|destination=GB}}</ref><ref>{{cite web | url=https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta | title=United Kingdom ETA}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=KR|destination=US}}</ref><ref>{{cite web | url=https://esta.cbp.dhs.gov | title=Official ESTA Application}}</ref>
+| 90 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|United States. ESTA}}
+* ESTA is not required for [[Guam]] and [[Northern Mariana Islands]].
+|-
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=UY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=UZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VU}}</ref>
+| 120 days
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VA}}</ref>
+|
+|
+|-
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VE}}</ref>
+| 90 days
+| style="background:#FFB; |
+* As of 21 November 2025, due to safety concerns, the South Korean government bans its citizens from visiting the border states of [[Zulia]], [[Táchira]], [[Apure]], and [[Sucre (state)|Sucre]], excluding their respective capitals and the eastern part of Zulia.
+|-
+| {{flag|Vietnam}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VN}}</ref>
+| 45 days
+|
+* A single entry e-Visa valid for 90 days is also available.<ref>{{cite web | url=https://evisa.gov.vn | title=Vietnam eVisa}}</ref>
+|-
+| {{flag|Yemen}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#FFC7C7; color:#000000; padding:3px 6px; border-radius:3px;">Visa required<ref>{{Timatic|nationality=KR|destination=YE}}</ref></span><br />Travel banned
+|
+| style="background:#FFC7C7; |
+* Special permission needed for travel outside [[Sanaa]] or [[Aden]].
+* As of 2011 and 2014, due to threats by [[Islamic State of Iraq and the Levant]], the South Korean government bans its citizens from visiting Yemen.
+{{#section-h::Template:Transcluded sections for the visa articles|Yemen. eVisa/2}}
+|-
+| {{flag|Zambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ZM}}</ref>
+| 30 days
+|
+* Visitors are eligible for a [[Visa policy of Zambia#Universal visa|universal (KAZA) visa]] allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=ZW}}</ref><ref>{{cite web | url=https://www.evisa.gov.zw | title=Zimbabwe eVisa}}</ref>
+| 1 month
+|
+* Visitors are eligible for a [[Visa policy of Zimbabwe#Universal visa|universal (KAZA) visa]] allowing access to Zambia.
+|}
+
+===Territories, disputed areas or restricted zones===
+Visa requirements for South Korean citizens for visits to various territories, disputed areas, partially recognized countries and restricted zones:
+
+{{mw-datatable}}
+{{sticky header}}
+
+{| class="wikitable sortable sticky-header mw-datatable" style="text-align: left; table-layout: fixed;background:#f8f9faff; "
+|-
+! style="width:18%;"| Visitor to
+! style="width:22%;"| Visa requirement
+! Notes (excluding departure fees)
+|-
+! colspan="3" | Europe
+|-
+| {{flag|Abkhazia}}
+| {{no|Visa required}}<ref>{{cite web | url=https://mfaapsny.org/en/consular-service/visa-free/ | title=Visa-free entry in Abkhazia}}</ref>
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Abkhazia. Visa}}
+|-
+| [[File:Flag of the Greek Orthodox Church.svg|21px]] [[Mount Athos]]
+| {{no2|Special permit required}}
+|
+* Special permit required (4 days: 25 [[EUR]] for [[Eastern Orthodox Church|Orthodox]] visitors, 35 EUR for non-Orthodox visitors, 18 EUR for students).<br /> There is a visitors' quota: maximum 100 [[Eastern Orthodox Church|Orthodox]] and 10 non-Orthodox per day and women are not allowed.<ref>{{cite web | url=http://www.athosfriends.org/PilgrimsGuide/planning/ | title=The Friends of Mount Athos - A Pilgrim's Guide to Mount Athos: Planning Your Visit | access-date=3 April 2014  |archive-date=1 December 2017 | archive-url=https://web.archive.org/web/20171201154734/http://athosfriends.org/PilgrimsGuide/planning/ | url-status=dead}}</ref><ref>{{cite web | url=http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html | title=Mount Athos Infos . Gr | access-date=2014-04-03 | archive-url=https://web.archive.org/web/20071201150655/http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html | archive-date=2007-12-01 |url-status=dead}}</ref>
+|-
+| {{flagicon|Belarus}} [[Brest, Belarus|Brest]] and [[Grodno]]
+| {{yes|Visa not required}}
+|
+* Visa-free for 10 days.<ref>{{cite web | url=http://eng.belta.by/president/view/visa-free-travel-time-up-to-ten-days-in-parts-of-brest-oblast-grodno-oblast-as-from-1-january-107990-2017/ | title = Visa-free travel time up to ten days in parts of Brest Oblast, Grodno Oblast as from 1 January | date = 26 December 2017}}</ref>
+|-
+| {{flagicon|Crimea}} [[Crimea]]
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#9eff9e; color:#000000; padding:3px 6px; border-radius:3px;">Visa not required</span><br />Travel banned
+|
+* Visa policy of Russia applies de facto.<ref>{{cite web | url=http://www.themoscowtimes.com/news/article/foreigners-now-need-russian-visa-to-visit-crimea/497173.html | title=Foreigners Now Need Russian Visa to Visit Crimea | date=April 2014}}</ref>
+* As of 13 February 2022, due to safety concerns, the South Korean government bans its citizens from visiting Ukraine. The travel ban includes visiting Crimea.
+|-
+| {{flag|Faroe Islands}}
+| {{yes|Visa not required}}<ref name="gov.uk">{{cite web | url=https://www.gov.uk/foreign-travel-advice/denmark/entry-requirements | title=Entry requirements - Denmark travel advice}}</ref>
+|
+|-
+| {{flag|Gibraltar}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GI}}</ref>
+|
+|-
+| {{flag|Guernsey}}
+| {{yes|Visa not required}}<ref>{{cite web | url=http://www.gov.gg/doirequireanentryclearance | title=Do I require an entry clearance/ VISA | access-date=2018-05-09 | archive-url=https://web.archive.org/web/20131202222421/http://www.gov.gg/doirequireanentryclearance | archive-date=2013-12-02 | url-status=dead}}</ref>
+|
+|-
+| {{flag|Isle of Man}}
+| {{yes|Visa not required}}<ref>{{cite web | url=http://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man/ | title=An overview of Immigration in the Isle of Man | access-date=2018-05-09 | archive-url=https://web.archive.org/web/20131123192018/http://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man | archive-date=2013-11-23 | url-status=dead}}</ref>
+|
+|-
+| {{flag|Northern Cyprus}}
+| {{yes|Visa not required}}
+|
+* 3 months<ref>{{cite web | url=http://www.cypnet.co.uk/ncyprus/tourism/tourist.html | title=How to get to North Cyprus? - Passport, Visa & Entry Requirements}}</ref>
+|-
+| {{flagicon|Norway}} [[Jan Mayen]]
+| {{no2|Permit required}}
+|
+* Permit issued by the local police required for staying for less than 24 hours<ref>{{cite web |url=http://www.jan-mayen.no/visit.htm |title=Jan Mayen Homesite, Edited by the Jan Mayen Crew |access-date=3 April 2014 |archive-date=30 April 2013 |archive-url=https://web.archive.org/web/20130430074108/http://www.jan-mayen.no/visit.htm |url-status=dead }}</ref> and permit issued by the [[Norwegian Police Service|Norwegian police]] for staying for more than 24 hours.<ref>{{cite web | url=https://www.lovdata.no/for/sf/jd/xd-19620601-0001.html | title=Forskrifter om utlendingers adgang til Jan Mayen}}</ref>
+|-
+| {{flag|Jersey}}
+| {{yes|Visa not required}}<ref>{{cite web | url=http://www.gov.je/Travel/InformationAdvice/Visitors/Pages/VisaPassport.aspx | title=Visa and passport requirements for visitors}}</ref>
+|
+|-
+| {{flag|Kosovo}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=RK}}</ref><ref>{{cite web | url=https://ambasadat.net/visas/ | title=VISAS FOR FOREIGN NATIONALS | date=18 March 2022}}</ref>
+|
+* 90 days
+|-
+| {{flag|Russia}}
+| {{no2|Special authorization required}}
+|
+* Several [[Russian closed city|closed cities and regions in Russia]] require special authorization.<ref>{{cite web|title=Russian Federation Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1006.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=18 November 2013|archive-url=https://web.archive.org/web/20131203003453/http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1006.html#entry_requirements|archive-date=3 December 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flag|South Ossetia}}
+| {{no|Visa required}}
+|
+{{#section-h::Template:Transcluded sections for the visa articles|South Ossetia. Visa}}
+|-
+| {{flagicon|Norway}} [[Svalbard]]
+| {{free|Visa not required}}
+|
+* Unlimited period under [[Svalbard Treaty]].<ref>{{cite web | url=https://www.sysselmesteren.no/en/visas-and-immigration/ | title=Governor of Svalbard : Visas and immigration|website=Sysselmesteren.no}}</ref><ref>{{cite web | url=https://www.bbc.com/travel/article/20200514-welcome-to-svalbard-a-place-anyone-can-call-home | title=Welcome to Svalbard : a place anyone can call home|website=Bbc.com}}</ref>
+|-
+| {{flag|Transnistria}}
+| {{yes|Visa not required}}
+|
+* Registration required after 24h.<ref>{{cite web | url=http://www.luxlana.net/Transdniestr.html | title=Transnistria useful information, warnings, visas, border crossings, budget accommodation | access-date=2018-05-15 | archive-url=https://web.archive.org/web/20131022114723/http://www.luxlana.net/Transdniestr.html | archive-date=2013-10-22 | url-status=dead}}</ref><ref>{{cite web | url=https://transnistria-tour.com/en/rules-and-tipps | title = Rules and recommendations |website=Transnistria-tour.com}}</ref>
+|-
+| {{flagicon|United Nations}} [[United Nations Buffer Zone in Cyprus|UN Buffer Zone in Cyprus]]
+| {{no2|Access Permit required}}<ref>{{cite web | url=http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 | title=UNFICYP > Buffer Zone Permits | access-date=2014-07-23 | archive-url=https://web.archive.org/web/20141021143210/http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 | archive-date=2014-10-21 | url-status=dead }}</ref>
+|
+* Access Permit is required for travelling inside the zone, except Civil Use Areas.
+|-
+! colspan="3" | Africa
+|-
+| {{flag|Ascension Island}}
+| {{yes2|eVisa}}<ref>{{cite web | url=https://www.ascension-visas.com | title=Ascension Island E-Visa System | date=13 November 2018}}</ref><ref>{{cite web | url=http://www.ascension-island.gov.ac/entry-visas/ | title=Entry Visas | date=13 November 2018 | access-date=24 November 2018 | archive-date=16 November 2018 | archive-url=https://web.archive.org/web/20181116084227/http://www.ascension-island.gov.ac/entry-visas/ | url-status=dead}}</ref>
+|
+* 3 months within any 12-month period.
+|-
+| {{flag|British Indian Ocean Territory}}
+| {{no2|Special permit required}}
+|
+* Special permit required.<ref>{{cite web | url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/asia-oceania/british-indian-ocean-territory?ta=entryRequirements&pg=4 | title=British Indian Ocean Territory travel advice}}</ref>
+|-
+| {{flag|Eritrea}} outside [[Asmara]]
+| {{no2|Travel permit required}}
+|
+* To travel in the rest of the country, a Travel Permit for Foreigners is required (20 [[Eritrean nakfa]]).<ref>{{cite web|url=http://www.eritrea.be/MoT.htm|title = Ministry of Tourism - Tourism Service Center}}</ref>
+|-
+| {{flag|Mayotte}}
+| {{yes|Visa not required}}<ref name="France" />
+|
+|-
+| {{flag|Réunion}}
+| {{yes|Visa not required}}<ref name="France" />
+|
+|-
+| {{flag|Saint Helena}}
+| {{yes|Visa not required}}<ref>{{cite web | url=https://evisa.sainthelena.gov.sh/do-i-need-e-visa/ | title=Do i need a visa?}}</ref>
+|
+|-
+| {{flag|Tristan da Cunha}}
+| {{no2|Permission required}}
+|
+* Permission to land required for 15/30 [[pound sterling|pounds sterling]] (yacht/ship passenger) for Tristan da Cunha Island or 20 [[pound sterling|pounds sterling]] for [[Gough Island]], [[Inaccessible Island]] or [[Nightingale Islands]].<ref>{{cite web | url=https://www.tristandc.com/visitsadmin.php | title=Tristan da Cunha Tourism}}</ref>
+|-
+| {{flag|Sahrawi Arab Democratic Republic}}
+| {{n/a|Visa regime undefined}}
+| style="background: var(--background-color-interactive, #ececec); |
+* Undefined visa regime in the [[Free Zone (region)|Western Sahara controlled territory]].
+|-
+| {{flag|Somaliland}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#FFD; color:#000000; padding:3px 6px; border-radius:3px;">Visa on arrival<ref>{{cite web | url=https://www.slimmigration.com/visa-section/ | title=Types Of Somaliland Visa}}</ref></span><br />Travel banned
+| style="background:#FFC7C7; |
+* As of 2007, due to safety concerns, the South Korean government bans its citizens from visiting Somalia. The travel ban includes visiting Somaliland.
+|-
+| {{flag|Sudan}} outside [[Khartoum]]
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#FFC7C7; color:#000000; padding:3px 6px; border-radius:3px;">Visa required</span><br />Travel banned
+| style="background:#FFC7C7; |
+* All foreigners traveling more than 25 kilometers outside of [[Khartoum]] must obtain a travel permit.
+* As of 29 April 2023, the South Korean government bans its citizens from visiting Sudan during [[2023 Sudan conflict]]. The travel ban also includes visiting [[Darfur]].
+|-
+|{{flagicon|Sudan}} [[Darfur]]
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#FFC7C7; color:#000000; padding:3px 6px; border-radius:3px;">Visa required</span><br />Travel banned
+| style="background:#FFC7C7; |
+* Separate travel permit is required.<ref>{{cite web|title=Republic of South Sudan Country Specific Information|url=https://travel.state.gov/travel/cis_pa_tw/cis/cis_5525.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=19 November 2013|archive-url=https://web.archive.org/web/20131105150822/http://travel.state.gov/travel/cis_pa_tw/cis/cis_5525.html#entry_requirements|archive-date=5 November 2013|url-status=dead|df=dmy-all}}</ref>
+* As of 29 April 2023, the South Korean government bans its citizens from visiting Sudan during [[2023 Sudan conflict]].
+|-
+! colspan="3" | Asia
+|-
+| {{flag|Kazakhstan}} [[Baikonur]] and [[Priozersk, Kazakhstan|Priozersk]]
+| {{no2|Special permission required}}
+|
+* Special permission required for the town of [[Baikonur]] and surrounding areas in [[Kyzylorda Oblast]], and the town of [[Gvardeyskiy, Kazakhstan|Gvardeyskiy]] near [[Almaty]].<ref>{{cite web|title=Kazakhstan Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1150.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=18 November 2013|archive-url=https://web.archive.org/web/20131102170930/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1150.html#entry_requirements|archive-date=2 November 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flagicon|Tajikistan}} [[Gorno-Badakhshan Autonomous Province]]
+| {{no2|OIVR permit required}}
+|
+* OIVR permit required (15+5 [[Tajikistani Somoni]]) and another special permit (free of charge) is required for [[Lake Sarez]].<ref>{{cite web |url=http://www.pamirs.org/visas.htm |title=Pamirs - the roof of the world |access-date=3 April 2014 |archive-date=30 June 2017 |archive-url=https://web.archive.org/web/20170630035659/http://www.pamirs.org/visas.htm |url-status=dead}}</ref><ref>{{cite web |url=http://www.traveltajikistan.com/visas/gbao.html |title=Travel Tajikistan - Permit to visit Gorno-Badakhshan Autonomous Oblast (GBAO) |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20150423031531/http://www.traveltajikistan.com/visas/gbao.html |archive-date=2015-04-23 |url-status=dead }}</ref><ref>{{cite web |url=http://tajiktourism.com/tajikistan-visa/ |title=Tajikistan Visa &#124; Tajik Tourism |access-date=3 April 2014 |archive-date=6 July 2017 |archive-url=https://web.archive.org/web/20170706121812/http://tajiktourism.com/tajikistan-visa/ |url-status=dead }}</ref>
+|-
+| {{flagicon|China}} [[Hainan]]
+| {{yes|Visa not required}}<ref>{{cite web | url=https://www.nia.gov.cn/News/news/content.jsp?id=1646389 | title=Announcement from the National Immigration Administration on Implementing a Visa-Free Policy for Tourists from 59 Countries in Hainan Province}}</ref>
+|
+* 30 days
+|-
+| {{flag|Hong Kong}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HK}}</ref>
+|
+* 90 days<ref>{{cite web | url=https://www.gov.hk/en/nonresidents/visarequire/echannel/kor.htm | title=e-Channel Service}}</ref>
+|-
+| {{flag|India}} PAP/RAP
+| {{no2|PAP/RAP required}}
+|
+* Protected Area Permit (PAP) required for whole states of [[Nagaland]] and [[Sikkim]] and parts of states [[Manipur]], [[Arunachal Pradesh]], [[Uttaranchal]], [[Jammu and Kashmir (union territory)|Jammu and Kashmir]], [[Rajasthan]], [[Himachal Pradesh]]. Restricted Area Permit (RAP) required for all of [[Andaman and Nicobar Islands]] and parts of [[Sikkim]]. <br /> Some of these requirements are occasionally lifted for a year.<ref>{{cite web |url=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=IN&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C |title=Visa information |access-date=2014-03-14 |archive-url=https://archive.today/20140314003632/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=IN&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C |archive-date=2014-03-14 |url-status=dead}}</ref><ref>{{cite web|url=http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |title=Entry Formalities to Andaman |access-date=26 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120426085021/http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |archive-date=26 April 2012}}</ref><ref>{{cite web |url=http://arunachaltourism.com/entry_formalities.php |title=Arunachal Tourism |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140701111837/http://arunachaltourism.com/entry_formalities.php |archive-date=2014-07-01 |url-status=dead}}</ref><ref>{{cite web |url=http://manipurbhawan.nic.in/entryformalities.htm |title=Entry Formalities in Manipur |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20110809003009/http://manipurbhawan.nic.in/entryformalities.htm |archive-date=2011-08-09 |url-status=dead}}</ref><ref>{{cite web |url=http://manipurhub.com/news/manipur/protected-area-permit-requirement-lifted-from-manipur-for-one-year/ |title=时时彩平台推广&#124;时时彩平台推广官网【Pk彩票官方授权】|website=manipurhub.com |access-date=15 January 2022 |archive-url=https://web.archive.org/web/20190329112747/http://manipurhub.com/news/manipur/protected-area-permit-requirement-lifted-from-manipur-for-one-year/ |archive-date=29 March 2019 |url-status=dead}}</ref><ref>{{cite web |url=http://lakshadweeptourism.nic.in/web9.htm |title=Tourism in Lakshadweep |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140713171604/http://lakshadweeptourism.nic.in/web9.htm |archive-date=2014-07-13 |url-status=dead}}</ref>
+|-
+| {{flag|Iraqi Kurdistan}}
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#bfd; color:#000000; padding:3px 6px; border-radius:3px;">eVisa<ref>{{Cite web|url=https://visit.gov.krd/|title=e-Visa Portal|website=Visit.gov.krd|access-date=29 September 2026}}</ref></span><br />Travel banned
+| style="background:#FFC7C7; |
+* Since 2004, it has been recommended to refrain from entering Iraq due to the danger of Al Qaeda, and since August 7, 2007, penalties have been introduced for Koreans entering Iraq.
+* Separately, according to Kurdistan policy, visitors can apply for an e-Visa (30 days) that is only valid in Kurdistan.
+|-
+| {{flagicon|Iran}} [[Kish Island]]
+| style="background:#000000; color:#fff; text-align:center;" |
+<span style="background:#9eff9e; color:#000000; padding:3px 6px; border-radius:3px;">Visa not required<ref>{{cite web | url=http://www.irantravelingcenter.com/no-visa-required-for-iran/ | title=No Visa required for Iran free trade zones | date=30 June 2015 | access-date=14 January 2018 | archive-date=4 August 2021 | archive-url=https://web.archive.org/web/20210804022303/https://www.irantravelingcenter.com/no-visa-required-for-iran/ | url-status=dead}}</ref></span><br />Travel banned
+| style="background:#FFC7C7; |
+* 14 days
+* As of March 5, 2026, the South Korean government bans its citizens from traveling to Iran due to the worsening situation in the Middle East.<ref name="Iran notice" />
+|-
+| {{flag|North Korea}} outside [[Pyongyang]]
+| {{n/a|Particular visit regime}}
+| style="background: var(--background-color-interactive, #ececec); |
+* DPRK government does not recognize ROK passports.
+|-
+| {{flag|North Korea}} Kaesong Industrial Complex
+| {{n/a|Particular visit regime}}
+| style="background: var(--background-color-interactive, #ececec); |
+* North Korean government closed Kaesong Industrial Complex in 2016.
+|-
+| {{flag|Macao}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MO}}</ref>
+|
+* 90 days
+|-
+| {{flagicon|Maldives}} [[Maldives]]
+| {{no2|Permission required}}
+|
+* With the exception of the capital [[Malé]], tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.<ref>{{cite web|title=Maldives Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_961.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=18 November 2013|archive-url=https://web.archive.org/web/20131202232123/http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_961.html#entry_requirements|archive-date=2 December 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flag|Palestine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PS}}</ref>
+| style="background:#FFB; |
+* As of 29 August 2023, the South Korean government bans its citizens from visiting the [[Gaza Strip]].<ref>{{cite web | url=https://www.0404.go.kr/dev/country_view.mofa?idx=177&hash=&chkvalue=no2&stext=&group_idx=&alert_level=0 | title=Country/Region Information - Israel}}</ref>
+|-
+| {{flagicon|Malaysia}} [[Sabah]] and [[Sarawak]]
+| {{yes|Visa not required}}
+|
+* These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.<ref>{{cite web|title=Malaysia Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_960.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=18 November 2013|archive-url=https://web.archive.org/web/20131128154523/http://travel.state.gov/travel/cis_pa_tw/cis/cis_960.html#entry_requirements|archive-date=28 November 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flag|Taiwan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TW}}</ref>
+|
+* 90 days
+|-
+| {{flagicon|People's Republic of China}} [[Tibet Autonomous Region]]
+| {{no2|TTP required}}
+|
+* Tibet Travel Permit required (USD 10).<ref>{{cite web |url=http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |title=Travel Documents - Notice - China TIBET Tourism Bureau |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20131017213737/http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |archive-date=2013-10-17 |url-status=dead}}</ref><ref>{{cite web|url=https://www.tibettravel.org/tibet-travel-permit/tibet-permits.html|title = How to get Tibet Travel Permit, Successful Application Tips}}</ref><ref>{{cite web |url=http://www.tibettravelplanner.com/travel_permit.htm |title=How to get a Tibet Travel Permits - Tibet Visa 2016? |access-date=2014-04-03 |archive-url=https://web.archive.org/web/20171022061211/http://www.tibettravelplanner.com/travel_permit.htm |archive-date=2017-10-22 |url-status=dead}}</ref>
+|-
+| {{flag|Turkmenistan}}
+| {{no2|Special permit required}}
+|
+* A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: [[Atamurat]], [[Cheleken]], [[Dashoguz]], [[Serakhs]] and [[Serhetabat]].<ref>{{cite web |url=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=TM&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C |title=Visa information |access-date=2014-03-14 |archive-url=https://archive.today/20140314003610/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=TM&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C |archive-date=2014-03-14 |url-status=dead }}</ref>
+|-
+| {{flagicon|United Nations}} [[Korean Demilitarized Zone]]
+| {{no2|Special permission required}}
+|
+* Special permission required for south part of [[Joint Security Area]], is only group visitors over 30 to less 45 people{{copy edit inline|date=September 2026}} and aged 10 years and over, and other areas are restricted.
+|-
+| {{flagicon|United Nations}} [[UNDOF Zone]] and [[Ghajar]]
+| {{n/a|Access restricted}}
+| style="background: var(--background-color-interactive, #ececec); |
+* Restricted zone.
+|-
+! colspan="3" | Caribbean and North Atlantic
+|-
+| {{flag|Anguilla}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AI}}</ref>
+|
+* 3 months
+|-
+| {{flag|Aruba}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AW}}</ref>
+|
+* 30 days, extendable to 180 days.<ref>{{cite web |title=Aruba Country Specific Information |url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1153.html#entry_requirements |publisher=Bureau of Consular Affairs, U.S. Department of State |access-date=19 November 2013 |archive-url=https://web.archive.org/web/20131114042613/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1153.html#entry_requirements |archive-date=14 November 2013 |url-status=dead |df=dmy-all}}</ref>
+|-
+| {{flag|Bermuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BM}}</ref>
+|
+* 6 months, decided on arrival.
+|-
+| {{flagicon|Netherlands}} [[Bonaire]], [[St. Eustatius]] and [[Saba (island)|Saba]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BQ}}</ref>
+|
+* 3 months<ref>{{cite web|title=Bonaire, St. Eustatius, and Saba (BES) Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_5555.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=19 November 2013|archive-url=https://web.archive.org/web/20131105155941/http://travel.state.gov/travel/cis_pa_tw/cis/cis_5555.html#entry_requirements|archive-date=5 November 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flag|British Virgin Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VG}}</ref>
+|
+* 30 days, extensions possible.
+|-
+| {{flag|Cayman Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=KY}}</ref>
+|
+* Visa not required only if permanent resident of USA, Canada or UK. 6 months.<ref>{{cite web |url=http://www.immigration.gov.ky/pls/portal/docs/PAGE/IMMHOME/VISITINGHERE/VISAS/VISITORSVISAS/LISTOFCOUNTRIES/LIST_OF_COUNTRIES_20OCT_FINAL.PDF |title=Archived copy |access-date=2015-04-06 |archive-url=https://web.archive.org/web/20150209053937/http://www.immigration.gov.ky/pls/portal/docs/PAGE/IMMHOME/VISITINGHERE/VISAS/VISITORSVISAS/LISTOFCOUNTRIES/LIST_OF_COUNTRIES_20OCT_FINAL.PDF |archive-date=2015-02-09 |url-status=dead }}</ref>
+* Visa-free for 1 day when arrived by cruise.
+|-
+| {{flag|Curaçao}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CW}}</ref>
+|
+* 3 months
+|-
+| {{flagicon|France}} [[French Guiana]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GF}}</ref>
+|
+|-
+| {{flagicon|France}} [[French West Indies]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GP}}</ref>
+|
+* French West Indies refers to [[Martinique]], [[Guadeloupe]], [[Collectivity of Saint Martin|Saint Martin]] and [[Saint Barthélemy]].
+|-
+| {{flag|Greenland}}
+| {{yes|Visa not required}}<ref name="gov.uk"/>
+|
+|-
+| {{flagicon|Venezuela}} [[Margarita Island]]
+| {{yes|Visa not required}}
+|
+* All visitors are fingerprinted.<ref>{{cite web|title=Vietnam Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1060.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=19 November 2013|archive-url=https://web.archive.org/web/20131203101554/http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1060.html#entry_requirements|archive-date=3 December 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flag|Montserrat}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MS}}</ref>
+|
+* 6 months
+|-
+| {{flag|Puerto Rico}}
+| {{yes|[[Electronic System for Travel Authorization]]}}<ref>{{Timatic|nationality=KR|destination=PR}}</ref>
+|
+* Visa not required under the [[Visa Waiver Program]], for 90 days on arrival from overseas for 2 years. ESTA required.
+|-
+| {{flag|Saint Pierre and Miquelon}}
+| {{yes|Visa not required}}<ref name="France" />
+|
+|-
+| {{flagicon|Colombia}} [[San Andrés Island|San Andrés]] and [[Leticia, Amazonas|Leticia]]
+| {{yes-no|Tourist Card on arrival}}
+|
+* Visitors arriving at [[Gustavo Rojas Pinilla International Airport]] and [[Alfredo Vásquez Cobo International Airport]] must buy tourist cards on arrival.<ref>{{cite web |url=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=CO&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C |title=Visa information |access-date=2013-12-17 |archive-url=https://archive.today/20140314004126/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=CO&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C |archive-date=2014-03-14 |url-status=dead}}</ref>
+|-
+| {{flag|Sint Maarten}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SX}}</ref>
+|
+* 3 months<ref>{{cite web|title=Sint Maarten Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_5527.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=19 November 2013|archive-url=https://web.archive.org/web/20131203021909/http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_5527.html#entry_requirements|archive-date=3 December 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flag|Turks and Caicos Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TC}}</ref>
+|
+* 90 days
+|-
+| {{flag|U.S. Virgin Islands}}
+| {{yes|[[Electronic System for Travel Authorization]]}}<ref>{{Timatic|nationality=KR|destination=VI}}</ref>
+|
+* Visa not required under the [[Visa Waiver Program]], for 90 days on arrival from overseas for 2 years. ESTA required.
+|-
+! colspan="3" | Oceania
+|-
+| {{flag|American Samoa}}
+| {{yes2|Electronic authorization}}<ref>{{cite web | url=https://legalaffairs.as.gov/usvisa30day | title=US Visa / Waiver 30-Day Visitor Permit}}</ref>
+|
+* 30 days
+|-
+| {{flagicon|Australia}} [[Ashmore and Cartier Islands]]
+| {{no2|Special authorisation required}}
+|
+* Special authorisation required.<ref>{{cite web | url=http://www.environment.gov.au/coasts/mpa/ashmore/activities.html | title=Ashmore Reef National Nature Reserve and Cartier Island Marine Reserve - Activities Allowed | access-date=4 August 2015 | url-status=dead | archive-url=https://web.archive.org/web/20121031132558/http://environment.gov.au/coasts/mpa/ashmore/activities.html | archive-date=31 October 2012}}</ref>
+|-
+| {{flagicon|Australia}} [[Macquarie Island]]
+| {{no2|Special authorisation permit}}
+|
+* A written authorisation of the Director of National Parks and Wildlife is required.
+|-
+| {{flag|Christmas Island}}
+| {{yes|[[Visa policy of Australia#Electronic visas|Electronic Travel Authority]]}}
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Christmas Island and Cocos (Keeling) Islands}}
+|-
+| {{flagicon|France}} [[Clipperton Island]]
+| {{no2|Special permit required}}
+|
+* Special permit required.<ref>{{cite web|url=http://www.clipperton.fr/incagen.html?geopolitique.htm~main|title = Clipperton - Ile de la Passion}}</ref>
+|-
+| {{flag|Cook Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CK}}</ref>
+|
+* 31 days
+|-
+| {{flag|Cocos (Keeling) Islands}}
+| {{yes|[[Visa policy of Australia#Electronic visas|Electronic Travel Authority]]}}
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Christmas Island and Cocos (Keeling) Islands}}
+|-
+| {{flag|French Polynesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PF}}</ref>
+|
+|-
+| {{flag|Guam}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GU}}</ref>
+|
+* 45 days
+|-
+| {{flagicon|Fiji}} [[Lau Province]]
+| {{no2|Special permission required}}
+|
+* Special permission required.<ref>{{cite web|title=Fiji Country Specific Information|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1114.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|access-date=18 November 2013|archive-url=https://web.archive.org/web/20131102204202/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1114.html#entry_requirements|archive-date=2 November 2013|url-status=dead|df=dmy-all}}</ref>
+|-
+| {{flag|New Caledonia}}<ref>{{Timatic|nationality=KR|destination=NC}}</ref>
+| {{yes|Visa not required}}<ref name="France">{{cite web | title=Foreign nationals holding ordinary passports exempt from visa requirements | url=http://www.diplomatie.gouv.fr/en/coming-to-france/getting-a-visa/article/foreign-nationals-holding-ordinary | publisher=Ministère des Affaires étrangères | access-date=22 November 2013}}</ref>
+|
+|-
+| {{flag|Niue}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NU}}</ref><ref>{{cite web | url=https://www.niueisland.com/discover-niue/know-before-you-go | title=Know before you go}}</ref>
+|
+* 30 days
+|-
+| {{flag|Norfolk Island}}
+| {{yes|[[Visa policy of Australia#Electronic visas|Electronic Travel Authority]]}}
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Norfolk Island. Travel}}
+|-
+| {{flag|Northern Mariana Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MP}}</ref>
+|
+* 45 days
+|-
+| {{flag|Pitcairn Islands}}
+| {{yes|Visa not required}}
+|
+* 14 days visa-free and landing fee 35 USD or tax of 5 USD if not going ashore.<ref>{{cite web |url=http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |title=Tourist Information &#124; Visas & Legal Info &#124; Pitcairn Island Tourism |access-date=2018-05-15 |archive-url=https://web.archive.org/web/20131018001850/http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |archive-date=2013-10-18 |url-status=dead }}</ref><ref>{{cite web|url=http://www.government.pn/visaInfo.php|title=Pitcairn Islands|access-date=3 April 2014|archive-date=21 October 2017|archive-url=https://web.archive.org/web/20171021104351/http://www.government.pn/visaInfo.php|url-status=dead}}</ref><ref>{{cite web | url=http://www.government.pn/immigration%20ordinance.pdf | title=Immigration Control Ordinance 2006 | access-date=3 April 2014 | archive-date=6 November 2021 | archive-url=https://web.archive.org/web/20211106205311/http://www.government.pn/immigration%20ordinance.pdf | url-status=dead }}</ref>
+|-
+| {{flagicon|United States}} [[United States Minor Outlying Islands]]
+| {{no2|Special permits required}}
+|
+* Special permits required for [[Baker Island]], [[Howland Island]], [[Jarvis Island]], [[Johnston Atoll]], [[Kingman Reef]], [[Midway Atoll]], [[Palmyra Atoll]] and [[Wake Island]].<ref>{{cite web|url=http://www.fws.gov/bakerisland/visit.html |title=Visiting - Baker Island National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131017211743/http://www.fws.gov/bakerisland/visit.html |archive-date=17 October 2013}}</ref><ref>{{cite web|url=http://www.fws.gov/howlandisland/visit.html |title=Visiting Howland National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131017212340/http://www.fws.gov/howlandisland/visit.html |archive-date=17 October 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/jarvisisland/|title = Redirect Page}}</ref><ref>{{cite web|url=http://www.fws.gov/johnstonisland/visit.html |title=Visiting Johnston Atoll National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130607120346/http://www.fws.gov/johnstonisland/visit.html |archive-date=7 June 2013}}</ref><ref>{{cite web|url=http://www.fws.gov/kingmanreef/visit.html |title=Visiting Kingman Reef National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131017212056/http://www.fws.gov/kingmanreef/visit.html |archive-date=17 October 2013}}</ref><ref>{{cite web|url=http://www.fws.gov/midway/visit.html |title=Visiting Midway Atoll National Wildlife Refuge |access-date=12 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140128062001/http://www.fws.gov/midway/visit.html |archive-date=28 January 2014}}</ref><ref>{{cite web|url=http://www.fws.gov/palmyraatoll/visit.html |title=Visiting - Palmyra National Wildlife Refuge |access-date=16 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130522074332/http://www.fws.gov/palmyraatoll/visit.html |archive-date=22 May 2013}}</ref>
+|-
+| {{flag|Wallis and Futuna}}
+| {{yes|Visa not required}}<ref name="France" />
+|
+|-
+! colspan="3" | South America
+|-
+| [[File:Bandera Província Galápagos.svg|border|22x20px]] [[Galapagos Province|Galápagos]]
+| {{yes2|Pre-registration required}}
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Galápagos. Pre-registration}}
+|-
+! colspan="3" | South Atlantic and Antarctica
+|-
+| {{flag|Falkland Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FK}}</ref>
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Falkland Islands. Visitor permit}}
+|-
+| {{flag|South Georgia and the South Sandwich Islands}}
+| {{no2|Permit required}}
+|
+* Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 [[pound sterling|pounds sterling]]).<ref>{{cite web | url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/south-america/south-georgia-south-sandwich#entryRequirements | title = South Georgia and South Sandwich Islands (British Overseas Territory) travel advice}}</ref><ref>{{cite web | url=http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis | title=Information for Visitors to South Georgia - South Georgia Website | access-date=2018-05-15 | archive-url=https://web.archive.org/web/20080412170649/http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis | archive-date=2008-04-12 | url-status=dead}}</ref>
+|-
+| [[Antarctica]]
+| {{no2|Special permits required}}
+|
+* Special permits by Ministry of Foreign Affairs required for {{flag|British Antarctic Territory}}, {{flag|French Southern and Antarctic Lands}}, {{flag|Argentine Antarctica}}, {{flagicon|Australia}} [[Australian Antarctic Territory]], {{flagicon|Antártica Chilena Province}} [[Chilean Antarctic Territory]], {{flagicon|Australia}} [[Heard Island and McDonald Islands]], {{flagicon|Norway}} [[Peter I Island]], {{flagicon|Norway}} [[Queen Maud Land]], {{flagicon|New Zealand}} [[Ross Dependency]].<ref>{{cite web | url=https://www.antarctica.ac.uk/about_antarctica/tourism/index.php | title = Antarctic tourism}}</ref><ref>{{cite web | url=http://www.fco.gov.uk/content/en/travel-advice/north-central-south-america/12940285/fco_trv_ca_britishantarcticterr?ta=travelSummary&pg=1 | title=Archived copy | access-date=2011-04-27 | archive-url=http://webarchive.nationalarchives.gov.uk/20110427210122/http://www.fco.gov.uk/content/en/travel-advice/north-central-south-america/12940285/fco_trv_ca_britishantarcticterr?ta=travelSummary&pg=1 | archive-date=2011-04-27 | url-status=dead}}</ref><ref>{{cite web | url=http://britishantarcticterritory.fco.gov.uk/en/tourism/ | title=British Antarctic Territory - GOV.UK}}</ref><ref>{{cite web | url=http://www.taaf.fr/Acces-a-l-Antarctique | title=Accès à l'Antarctique | access-date=2014-04-03 | archive-url=https://web.archive.org/web/20180501210951/http://www.taaf.fr/Acces-a-l-Antarctique | archive-date=2018-05-01 | url-status=dead}}</ref><ref>{{cite web | url=http://www.taaf.fr/Acces-aux-iles-australes | title=Accès aux Terres australes françaises | access-date=2014-04-03 | archive-url=https://web.archive.org/web/20140502032950/http://www.taaf.fr/Acces-aux-iles-australes | archive-date=2014-05-02 |url-status=dead}}</ref><ref>{{cite web | url=http://www.taaf.fr/Acces-aux-iles-Eparses | title=Accès aux îles Eparses | access-date=2014-04-03 | archive-url=https://web.archive.org/web/20180417172311/http://www.taaf.fr/Acces-aux-iles-Eparses | archive-date=2018-04-17 | url-status=dead}}</ref><ref>{{cite web | url=http://www.dna.gov.ar/DIVULGAC/INDEX.HTM | title=Dna-IAA - la Antártida | access-date=2014-08-01 | archive-url=https://web.archive.org/web/20140805081831/http://www.dna.gov.ar/DIVULGAC/INDEX.HTM | archive-date=2014-08-05 | url-status=dead}}</ref><ref>{{cite web | url=https://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information | title=Forms expeditioners must sign — Australian Antarctic Division | access-date=3 April 2014 | archive-date=27 November 2012 | archive-url=https://archive.today/20121127122832/https://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information | url-status=dead}}</ref><ref>{{cite web|url=http://www.heardisland.aq/about/frequently-asked-questions#visit_heard_island|title = Frequently asked questions| date=28 February 2005 }}</ref><ref>{{cite web | url=http://www.npolar.no/en/antarctica/peter-I-oy.html | title=Peter I Øy - Norwegian Polar Institute | access-date=12 May 2014 | url-status=dead | archive-url=https://web.archive.org/web/20131017215217/http://www.npolar.no/en/antarctica/peter-I-oy.html | archive-date=17 October 2013}}</ref><ref>{{cite web | url=http://www.npolar.no/en/antarctica/dronning-maud-land.html | title=Dronning Maud Land - Norwegian Polar Institute | access-date=20 August 2011 | url-status=dead | archive-url=https://web.archive.org/web/20131017215832/http://www.npolar.no/en/antarctica/dronning-maud-land.html | archive-date=17 October 2013}}</ref><ref>{{cite web | url=http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php | title=Antarctica - NZ Procedures for Non-Governmental Visitors to Antarctica: NZ Ministry of Foreign Affairs and Trade | access-date=3 April 2014 | archive-date=22 May 2010 | archive-url=https://web.archive.org/web/20100522033603/http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php | url-status=dead}}</ref>
+|}
+
+==Access-restricted countries==
+{{Wikinews|19 South Koreans return home after release from Taliban captivity}}
+From January 1, 2014 to present, the South Korean government, due to safety concerns, has banned its citizens and permanent residents from visiting [[Afghanistan]], [[Haiti]], [[Iraq]], [[Somalia]], [[Sudan]], [[Syria]], [[Ukraine]], [[Yemen]] and other regions for safety reasons.<ref>{{cite web | url=https://www.0404.go.kr/walking/prohibition_system.jsp | title=Travel ban system - Ministry of Foreign Affairs Overseas safe travel}}</ref> These measures are being extended every 6 months.
+
+Also, South Korean citizens are basically not allowed to visit North Korea except when special authorizations are granted by the Ministry of Unification on a limited basis (e.g. workers and businessmen visiting or commuting to / from [[Kaesong Industrial Region|Kaesong Industrial Complex]]).<ref>{{cite web | url=https://www.tongtong.go.kr/web/jsp/usrsys/main/Index.jsp | title=Sorry Page | access-date=17 January 2014 | archive-date=28 April 2014 | archive-url=https://web.archive.org/web/20140428183614/https://www.tongtong.go.kr/web/jsp/usrsys/main/Index.jsp | url-status=dead }}</ref> Yet 8 people on 6 occasions, from [[Lim Su-kyung]] in 1989 to [[Ro Su-hui]] in 2012, who visited one or more banned countries without prior authorization and returned to South Korea via [[Panmunjom]],<ref>{{cite web | url=http://www.dailynk.com/english/m/read.php?cataId=nk00400&num=9485 | title=Stop Pardoning the North Korea Visitors | author=Mok Yong Jae | date=2012-07-09 | publisher=[[Daily NK]] | access-date=24 February 2014}}</ref> were sentenced to imprisonment of up to 10 years.<ref>Article 6 of the [[National Security Act (South Korea)]]</ref>
+
+==APEC Business Travel Card==
+[[File:APEC Business Travel Card Member States.svg|thumb|450px|right|
+{{legend|green|Full members of the scheme}}
+{{legend|lime|Transitional members (United States, Canada)}}
+]]
+
+Holders of an [[APEC Business Travel Card|APEC Business Travel Card (ABTC)]] travelling on business do not require a visa to the following countries:<ref>{{cite web | url=https://www.apec.org/docs/default-source/groups/abtc/0-abtc-economy-entry-information-table-(as-of-18-oct-2022)852440b8682b4b84b94ccbe4745b0dbc.pdf?sfvrsn=260f0b80_2 | title=ABTC Economy Entry Information}}</ref>
+
+{| style="border-radius:1em; box-shadow:0.1em 0.1em 0.5em rgba(0,0,0,0.75); background:white; border:1px solid white; padding:5px;"
+|- style="vertical-align:top;"
+|
+* {{flag|Australia}}<sup>2</sup>
+* {{flag|Brunei}}<sup>2</sup>
+* {{flag|Chile}}<sup>2</sup>
+* {{flag|China}}<sup>4</sup>
+* {{flag|Hong Kong}}<sup>4</sup>
+* {{flag|Indonesia}}<sup>4</sup>
+* {{flag|Japan}}<sup>2</sup>
+* {{flag|Malaysia}}<sup>2</sup>
+* {{flag|Mexico}}<sup>1</sup>
+|valign="top"|
+* {{flag|New Zealand}}<sup>2</sup>
+* {{flag|Papua New Guinea}}<sup>4</sup>
+* {{flag|Peru}}<sup>2</sup>
+* {{flag|Philippines}}<sup>4</sup>
+* {{flag|Russia}}<sup>3</sup>
+* {{flag|Singapore}}<sup>4</sup>
+* {{flag|Taiwan}}<sup>2</sup>
+* {{flag|Thailand}}<sup>2</sup>
+* {{flag|Vietnam}}<sup>4</sup>
+|
+|}
+
+<sub>1 - Up to 180 days</sub><br />
+<sub>2 - Up to 90 days</sub><br />
+<sub>3 - Up to 90 days in a period of 180 days</sub><br />
+<sub>4 - Up to 60 days</sub>
+
+The card must be used in conjunction with a passport and has the following advantages:<ref>{{cite web | url=https://www.apec.org/groups/committee-on-trade-and-investment/business-mobility-group/abtc | title=APEC Business Travel Card}}</ref>
+* No need to apply for a visa or entry permit to [[APEC]] countries, as the card is treated as such (except by [[Canada]] and [[United States]])
+* Undertake legitimate business in participating economies
+* Expedited border crossing in all member economies, including transitional members
+
+==Non-visa restrictions==
+{{Transcluded section|Non-visa travel restrictions}}{{#section-h:Non-visa travel restrictions|List of common non-visa travel restrictions}}
+
+==Consular protection of South Korean citizens abroad==
+[[File:Diplomatic missions of the Republic of Korea.png|thumb|800px|none|Diplomatic missions of South Korea]]
+
+South Korea and North Korea each sets the territorial scope in '''their respective constitutions''' to cover '''the entire Korean Peninsula'''.
+
+So the two Koreas regard each other's territory as part of their own territory and do not recognize the sovereignty of the other side as a country. For this reason, embassies based on the premise of establishing diplomatic relations between '''foreign countries''' cannot be mutually established.
+
+Inter-Korean exchange relations are not under the jurisdiction of the Ministry of Foreign Affairs of each government, but the Ministry of Unification on the South Korean side and the Workers' Party of Korea on the North Korean side.
+
+{{See also|List of diplomatic missions of South Korea}}
+
+==See also==
+{{Portal|South Korea}}
+* [[List of nationalities forbidden at border]]
+* [[Republic of Korea passport|South Korean passport]]
+* [[Visa policy of South Korea]]
+
+==References and notes==
+===Notes===
+{{notelist}}
+{{Reflist|30em|group="Note"}}
+
+===References===
+{{reflist}}
+
+{{Visa policy by country}}
+{{Visa Requirements}}
+
+[[Category:Foreign relations of South Korea]]
+[[Category:Visa requirements by nationality|Korea, South]]

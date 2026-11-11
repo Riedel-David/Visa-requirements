@@ -45,7 +45,7 @@ def test_format_passport_data(sample_records):
     )
 
     assert data["passport"] == "DE"
-    assert data["schema_version"] == "1.0.0"
+    assert data["schema_version"] == "1.1.0"
     assert data["source_revision"] == "123456"
     assert len(data["records"]) == 1
     assert "generated_at" in data
@@ -205,7 +205,7 @@ def test_write_index_json(tmp_path):
     with open(index_file) as f:
         data = json.load(f)
 
-    assert data["schema_version"] == "1.0.0"
+    assert data["schema_version"] == "1.1.0"
     assert data["disclaimer"] == DISCLAIMER
     assert "DE" in data["passports"]
     assert data["passports"]["DE"]["record_count"] == 193

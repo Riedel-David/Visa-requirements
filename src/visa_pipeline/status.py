@@ -6,12 +6,16 @@ This module provides the canonical mapping from cleaned, normalized status text
 Status enum order (least to most restrictive):
     visa_free < visa_on_arrival < eta < evisa < visa_required < permit_required < admission_refused
 
-special sits outside this order and is used for unmapped or unusual statuses.
+special and travel_ban sit outside this order. special is used for unmapped or
+unusual statuses; travel_ban means the traveller's own government forbids travel
+to the destination (the destination itself may still admit them).
 
 For combined statuses like "eVisa / Visa on arrival", the parser splits on "/" and " or ",
 takes the least restrictive as the main status, and puts others in alternative_statuses.
 If any one part is unmapped, the whole combined cell becomes 'special' (no guessing
-from the remaining parts).
+from the remaining parts). A travel_ban part has no place in the ordering, so it is
+not part of the least-restrictive choice: a combined cell with a travel_ban part becomes
+travel_ban and the other parts (the destination's own regime) become alternatives.
 
 ## Mapping principles
 
@@ -182,6 +186,10 @@ STATUS_MAP = {
     'no admission': 'admission_refused',
     'travel not permitted': 'admission_refused',
 
+    # Travel ban: the traveller's own government forbids travel (not the destination)
+    'travel banned': 'travel_ban',
+    'travel prohibited': 'travel_ban',
+
     # Special cases - deliberate 'special' mappings
     # These are mapped to 'special' rather than leaving unmapped so they appear
     # in the final report with context rather than as unknown statuses
@@ -191,8 +199,6 @@ STATUS_MAP = {
     'undefined': 'special',
     'visa regime undefined': 'special',
     'organized trips': 'special',  # Only via organized tours
-    'travel banned': 'special',
-    'travel prohibited': 'special',
     'visa restricted': 'special',
     'partial visa restrictions': 'special',
     'particular visit regime': 'special',
@@ -207,9 +213,10 @@ STATUS_MAP = {
     'travel restricted by u.s. government/admission refused for u.s. citizens with foreign nationality': 'special',
 }
 
-# Status enum order, least to most restrictive; 'special' is last only so it sorts somewhere
+# Status enum order, least to most restrictive. 'special' and 'travel_ban' sit outside the ordering
+# (parse_status returns them before ranking); they are listed last only so they have an index.
 STATUS_ORDER = ['visa_free', 'visa_on_arrival', 'eta', 'evisa', 'visa_required',
-                'permit_required', 'admission_refused', 'special']
+                'permit_required', 'admission_refused', 'special', 'travel_ban']
 
 
 def normalize_status(text: str) -> str:
@@ -277,6 +284,11 @@ def parse_status(text: str) -> tuple[str, list[str]]:
             return 'special', []
         if status not in mapped:
             mapped.append(status)
+
+    # "eVisa\nTravel banned": the home government's ban overrides the destination's own
+    # regime, which stays available as an alternative
+    if 'travel_ban' in mapped:
+        return 'travel_ban', [s for s in mapped if s != 'travel_ban']
 
     # Least restrictive is primary; the rest keep their order of appearance
     primary = min(mapped, key=STATUS_ORDER.index)

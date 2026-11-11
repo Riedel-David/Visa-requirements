@@ -98,7 +98,8 @@
               "visa_required",
               "permit_required",
               "admission_refused",
-              "special"
+              "special",
+              "travel_ban"
             ]
           },
           "alternative_statuses": {
