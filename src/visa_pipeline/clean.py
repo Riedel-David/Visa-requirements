@@ -63,8 +63,8 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
                 display_text = str(template.get(2).value).strip()
                 cleaned_text = clean(display_text, transclusions, warnings)
                 replacements.append((template, cleaned_text))
-            elif template.has(1):
-                # {{sort|eVisa}}: a single argument is the text itself
+            elif template.has(1) and not str(template.get(1).value).strip().isdigit():
+                # {{sort|eVisa}}: a single argument is the text itself (a bare number is a sort key)
                 replacements.append((template, clean(str(template.get(1).value).strip(), transclusions, warnings)))
             else:
                 removals.append(template)
@@ -177,10 +177,10 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
 
 
 # File-image debris left in area text when a flag/coat-of-arms image link is flattened.
-_FILE_DEBRIS = re.compile(r'\S*\.(?:png|jpe?g|svg|gif)\b|\bCoats?_of_arms_of_\S*', re.IGNORECASE)
+_FILE_DEBRIS = re.compile(r'(?:\b(?:Flag|Coat of arms)(?: of)?\s+)?\S*\.(?:png|jpe?g|svg|gif)\b|\bCoats?_of_arms_of_\S*', re.IGNORECASE)
 # Genuine reduplicated place names that the duplicate-word collapse must not touch.
 _REDUPLICATED_NAMES = {'Bora Bora', 'Pago Pago', 'Wagga Wagga', 'Walla Walla', 'Hua Hua', 'Ban Ban'}
-_DOUBLED = re.compile(r'\b(\w[\w\'’.-]*(?: \w[\w\'’.-]*)*?) \1\b')
+_DOUBLED = re.compile(r'\b(\w[\w\'’.-]*(?: \w[\w\'’.-]*)*?) \1(?![\w-])')
 _EDGE_PUNCT = ' \t\n,;:&-–—'
 
 

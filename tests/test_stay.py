@@ -108,3 +108,8 @@ class TestWeeks:
     def test_months_unchanged(self):
         assert stay.parse_stay("3 months") == (90, None)
         assert stay.parse_stay("12 months") == (365, None)
+
+
+def test_compound_week_stay_is_not_guessed():
+    assert stay.parse_stay('1 month 2 weeks')[0] is None
+    assert stay.parse_stay('6 weeks')[0] == 42

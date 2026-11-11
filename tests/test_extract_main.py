@@ -502,3 +502,11 @@ def test_usually_template_and_single_arg_sort_keep_their_text():
     assert clean.clean('{{yes2|{{sort|eVisa}}}}', {}, []) == 'eVisa'
     assert clean.clean('{{free|{{sort|Freedom of movement}}}}', {}, []) == 'Freedom of movement'
     assert clean.clean('{{sort|1|Visa required}}', {}, []) == 'Visa required'
+
+
+def test_area_debris_hyphen_and_numeric_sort_key():
+    from visa_pipeline import clean
+    assert clean.clean_area('Flag of Sabah.svg') is None
+    assert clean.clean_area('Flag of Sabah.svg Sabah') == 'Sabah'
+    assert clean.clean_area('Guinea Guinea-Bissau') == 'Guinea Guinea-Bissau'
+    assert clean.clean('{{sort|4}}{{no|Visa required}}', {}, []) == 'Visa required'

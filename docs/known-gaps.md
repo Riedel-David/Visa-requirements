@@ -13,5 +13,7 @@ record as "unknown", never as "visa required".
 - **`special` status**: also covers government travel bans (for example `KR` to Iran or
   Ukraine) and undefined regimes (Western Sahara). The reason is in `notes`; for banned
   destinations `allowed_stay_days` may still be set from the underlying visa rule.
-- **Whole-country rows for multi-area territories**: Bonaire/Saba/Sint Eustatius (`BQ`),
-  and Ascension and Tristan da Cunha (`SH`) are published as area records only.
+- **Multi-area territories**: Bonaire, Saba and Sint Eustatius (`BQ`) are published as area
+  records only. For `SH`, the island of Saint Helena is the whole-country record
+  (`area: null`) and Ascension and Tristan da Cunha are area records, so `area: null` on `SH`
+  means the island of Saint Helena, not the whole group.

@@ -445,7 +445,7 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
             # Handle area column or area from destination cell
             area = None
             if has_area_column and 'area' in roles and roles['area'] in row:
-                area = clean.clean(row[roles['area']], transclusions, result.warnings).strip() or None
+                area = clean.clean_area(clean.clean(row[roles['area']], transclusions, result.warnings))
             elif area_from_cell:
                 area = area_from_cell
 

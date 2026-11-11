@@ -53,7 +53,10 @@ def parse_stay(text: str) -> tuple[int | None, str | None]:
 
     # Extract weeks (a single unambiguous duration: N * 7 days)
     weeks_match = re.search(r'(\d+)\s*weeks?', text, re.IGNORECASE)
-    if weeks_match:
+    # '1 month 2 weeks' is a compound stay: not guessed, left unparsed
+    if weeks_match and re.search(r'\d+\s*(?:months?|years?)', text, re.IGNORECASE):
+        return None, text
+    if weeks_match and not re.search(r'\d+\s*days?', text, re.IGNORECASE):
         remainder = text[weeks_match.end():].strip()
         return int(weeks_match.group(1)) * 7, remainder or None
 
