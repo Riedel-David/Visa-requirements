@@ -19,3 +19,35 @@ record as "unknown", never as "visa required".
   records only. For `SH`, the island of Saint Helena is the whole-country record
   (`area: null`) and Ascension and Tristan da Cunha are area records, so `area: null` on `SH`
   means the island of Saint Helena, not the whole group.
+- **Partial bans**: "Travel banned in most areas" (Niger) stays `special`; it is not a full ban
+  and we do not guess.
+- **Restricted zones** (for example Russia): rows for restricted areas carry the section name
+  as `area`.
+- **Unmapped statuses stay `special`** (about 70 distinct texts, reported in every run
+  report): multi-line cells, "Visa not ...", stay-in-status values and the like. Decide per
+  case only if a consumer needs one; add it to `status.py`, never a one-off patch.
+- **Nagorno-Karabakh** (as a destination, for example from `JO`) stays unmapped on purpose:
+  disputed and no ISO code.
+- **Armenia to Kosovo**: Wikipedia contradicts itself (main table says visa required,
+  territories table says visa free). The whole-country record is `visa_required`; the other
+  claim is a separate area record.
+- **Unverified**: destination `US` in the `BH` and `BZ` territory sections was never
+  investigated (no fixtures). The main-page table regex `\{\|.*?\|\}` is non-greedy, so nested
+  tables would break it.
+
+## Policy
+
+No hand-written data overrides for single rows. A fix must come from generic parsing of
+Wikipedia, so the dataset keeps itself up to date without maintenance. The override files
+only carry name/code mappings and ignore lists.
+
+## Not started
+
+- Secondary datasets (vaccination, passport validity, entry bans).
+- Integrating the data into the Beyond-Borders app is a separate task in that repo.
+
+## Verify after the next forced Update Data run (delete once checked)
+
+Croatia about 259 records; China to the UK has a whole-country row; Italy to Saint Pierre and
+Miquelon is its own record; `data/status.json` exists; Korea shows 17 `travel_ban` records; the
+first scheduled run makes a "Refresh status.json" commit.

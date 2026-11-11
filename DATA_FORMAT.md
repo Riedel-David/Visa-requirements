@@ -10,7 +10,7 @@ The dataset is published in these main formats (plus `status.json`, see below):
 2. **`passports/<ISO2>.json`** - Per-passport visa requirements (e.g., `passports/DE.json`)
 3. **`all.json`** - All passports in a single file (minified). Not committed to git; available on GitHub Pages and as a GitHub Release asset
 
-All files are served via GitHub Pages: `https://riedel-david.github.io/Visa-requirements/`
+All files are served via GitHub Pages: `https://riedel-david.github.io/Visa-requirements/` (e.g. `/status.json`, `/index.json`)
 
 ## JSON Schema
 

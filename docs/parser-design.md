@@ -1,5 +1,7 @@
 # Parser design (step 1 findings, 2026-10-30)
 
+> Original design document; the module list and some decisions have since changed — see docs/contracts.md for the current interface.
+
 Fixtures: `tests/fixtures/Visa_requirements_for_{German,United_States,Indian}_citizens.wikitext`
 (+ `.meta.json` with revid). Fetched with `scripts/fetch_fixture.py`.
 
@@ -41,12 +43,13 @@ src/visa_pipeline/
                   colour templates, resolve #section-h from the fetched template
   status.py       ONE mapping table: normalised text -> enum, ordered rules, unmapped -> special+report
   stay.py         raw -> days (90 days, 3 months=90, 1 year=365, "30 days within 180" -> 30
-                  + note, Unlimited/FoM -> null + note)
+                  + note, Unlimited/FoM -> null + note; "N weeks" -> N*7 days, compound stays like
+                  "1 month 2 weeks" are not guessed and stay null)
   countries.py    destination name -> ISO2 (static table + data/overrides/destinations.json)
   extract_main.py column roles detected from header text (destination / status / stay / notes /
                   area), so 3-, 4- and 5-column tables share one code path
   extract_extra.py vaccination, passport validity/blank pages, entry bans (after main is solid)
-  validate.py     JSON Schema + diff thresholds (N=15 status changes, -10% rows, zero rows)
+  validate.py     JSON Schema + diff thresholds (N=15 status changes, -10% rows, zero rows); the 24h cooling-off lives in run.py
   publish.py      per-passport files, index.json, all.json, changelog
 ```
 
@@ -67,7 +70,7 @@ Key decisions:
    use user-assigned codes from an override file (`XK` is conventional for Kosovo; others get
    `X?` codes or null + report). Needs your decision — see question.
 5. **Transcluded notes**: fetch the template page once per run, split by heading, substitute.
-6. **Publishing (proposed)**: deploy as a Pages artifact, no data commits. Previous state =
+6. **Publishing (proposed; superseded by the Decisions section: data is committed to `main`)**: deploy as a Pages artifact, no data commits. Previous state =
    the currently published site: the run downloads live `index.json` (revids) and
    `passports/*.json` (previous records for the diff/threshold check) and fails loudly if it
    can't. The published data is then the only source of truth, so state can't drift from what
