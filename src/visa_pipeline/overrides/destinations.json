@@ -23,6 +23,33 @@
     "taiwan (republic of china)": "TW"
   },
 
+  "whole_country": {
+    "_comment": "Page rows that ARE a whole ISO 3166-1 entity, written in a common name that differs from the pycountry name. In territory sections these get area null (not area = row name). Keys are normalized names -> ISO code; the code must equal the looked-up destination code. Genuine sub-areas (Ascension, Tristan da Cunha, Bonaire/Saba/Sint Eustatius, Clipperton, ...) belong in 'areas', not here. Saint Helena (proper) is whole-country SH; Ascension and Tristan keep their areas.",
+    "taiwan": "TW",
+    "taiwan (republic of china)": "TW",
+    "british virgin islands": "VG",
+    "u.s. virgin islands": "VI",
+    "us virgin islands": "VI",
+    "palestine": "PS",
+    "state of palestine": "PS",
+    "palestinian territory": "PS",
+    "pitcairn islands": "PN",
+    "sint maarten": "SX",
+    "curacao": "CW",
+    "curaçao": "CW",
+    "saint martin": "MF",
+    "saint-martin": "MF",
+    "falkland islands": "FK",
+    "macau": "MO",
+    "macao": "MO",
+    "french southern and antarctic lands": "TF",
+    "turks and caicos": "TC",
+    "turks and caicos islands": "TC",
+    "aland": "AX",
+    "russia": "RU",
+    "saint helena": "SH"
+  },
+
   "areas": {
     "_comment": "Destinations that map to a sovereign code + area. Key is destination name.",
     "ascension island": {"code": "SH", "area": "Ascension Island"},

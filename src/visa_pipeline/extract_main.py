@@ -449,7 +449,9 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         # CRITICAL: In territory sections, if canonical name differs from destination name,
         # set area to destination name to distinguish from main-table rows
         # (e.g., "Clipperton Island" -> FR but should be FR+"Clipperton Island")
-        if is_territory_or_restricted and not area:
+        # Exception: rows that are a whole ISO entity under a common name (Taiwan, Palestine,
+        # Macau ...) are listed in the whole_country table and stay area-null.
+        if is_territory_or_restricted and not area and not countries.is_whole_country(dest_name, dest_code):
             canonical_name = countries.get_canonical_name(dest_code)
             if canonical_name and countries.normalize_name(canonical_name) != countries.normalize_name(dest_name):
                 area = dest_name
