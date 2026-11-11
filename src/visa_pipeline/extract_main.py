@@ -160,6 +160,24 @@ def _is_decorative_flag(template) -> bool:
     return param1.lower() in ('image', 'un') or param1.endswith('.svg')
 
 
+def _split_flag_pair(cell_text: str) -> list[str]:
+    """Split "{{flag|A}} and {{flag|B}}" into two single-destination cells.
+
+    Only when the cell is nothing but flag templates joined by "and" / "&" / ",";
+    anything else (area text, footnotes, one flag) is returned whole.
+    """
+    flags = [t for t in mwparserfromhell.parse(cell_text).filter_templates(recursive=False)
+             if 'flag' in t.name.strip().lower() and not _is_decorative_flag(t)]
+    if len(flags) < 2:
+        return [cell_text]
+    rest = cell_text
+    for t in flags:
+        rest = rest.replace(str(t), '', 1)
+    if re.sub(r'\b(and)\b|[&,\s]', '', rest, flags=re.IGNORECASE):
+        return [cell_text]
+    return [str(t) for t in flags]
+
+
 # "<country> and territories" / "and Crown dependencies": the row covers the whole country.
 _INCLUSIVE_SUFFIX = re.compile(
     r'and (its )?((overseas|external|dependent) )?(territories|crown dependencies)', re.IGNORECASE)
@@ -374,10 +392,22 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         if any(kw in sample_stay.lower() for kw in ['required', 'visa', 'permit']):
             status_in_stay = True
 
+    # A cell naming two places ("French Guiana and Saint Pierre and Miquelon") becomes
+    # one row per place, each carrying the same status, stay and notes.
+    dest_col = roles.get('destination')
+    if dest_col:
+        expanded = []
+        for row in data_rows:
+            cells = _split_flag_pair(row[dest_col]) if dest_col in row else []
+            if len(cells) > 1:
+                expanded.extend({**row, dest_col: c} for c in cells)
+            else:
+                expanded.append(row)
+        data_rows = expanded
+
     # Parse data rows
     for row in data_rows:
         # Extract destination
-        dest_col = roles.get('destination')
         if not dest_col or dest_col not in row:
             continue
 

@@ -272,3 +272,26 @@ def test_british_page_has_whole_country_records_for_inclusive_rows(transcl):
     assert not [r for r in result.records if (r['area'] or '').lower().startswith('and ')]
     keys = [(r['destination'], r['area']) for r in result.records]
     assert len(keys) == len(set(keys))
+
+
+class TestTwoPlaceCells:
+    """A cell naming two places splits into one record per place."""
+
+    def _parse(self, transcl, name, passport):
+        wikitext, meta = load_fixture(f'Visa_requirements_for_{name}_citizens')
+        return extract_main.parse_page(
+            wikitext, passport=passport, title=f'Visa requirements for {name} citizens',
+            revid=meta['revid'], transclusions=transcl)
+
+    def test_italian_french_guiana_and_saint_pierre(self, transcl):
+        result = self._parse(transcl, 'Italian', 'IT')
+        by_dest = {r['destination']: r for r in result.records}
+        for code, name in (('GF', 'French Guiana'), ('PM', 'Saint Pierre and Miquelon')):
+            assert by_dest[code]['destination_name'] == name
+            assert by_dest[code]['area'] is None
+            assert by_dest[code]['status'] == 'visa_free'
+
+    def test_chinese_united_kingdom_and_crown_dependencies_is_whole_country(self, transcl):
+        result = self._parse(transcl, 'Chinese', 'CN')
+        gb = [r for r in result.records if r['destination'] == 'GB' and not r['area']]
+        assert len(gb) == 1 and gb[0]['status'] == 'visa_required'
