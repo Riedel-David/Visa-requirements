@@ -4,6 +4,7 @@ Examples:
 - "90 days" → (90, None)
 - "3 months" → (90, None)
 - "1 year" → (365, None)
+- "6 weeks" → (42, None)
 - "30 days within 180" → (30, "within 180")
 - "90 days in any 180-day period" → (90, "in any 180-day period")
 - "Unlimited" → (None, "Unlimited")
@@ -49,6 +50,15 @@ def parse_stay(text: str) -> tuple[int | None, str | None]:
         # Everything after the number is context ("within 180", "in any 180-day period")
         remainder = text[days_match.end():].strip()
         return days, remainder or None
+
+    # Extract weeks (a single unambiguous duration: N * 7 days)
+    weeks_match = re.search(r'(\d+)\s*weeks?', text, re.IGNORECASE)
+    # '1 month 2 weeks' is a compound stay: not guessed, left unparsed
+    if weeks_match and re.search(r'\d+\s*(?:months?|years?)', text, re.IGNORECASE):
+        return None, text
+    if weeks_match and not re.search(r'\d+\s*days?', text, re.IGNORECASE):
+        remainder = text[weeks_match.end():].strip()
+        return int(weeks_match.group(1)) * 7, remainder or None
 
     # Extract months (convert to days: month * 30, except 12 months = 365)
     months_match = re.search(r'(\d+)\s*months?', text, re.IGNORECASE)

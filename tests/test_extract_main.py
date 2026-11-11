@@ -434,3 +434,79 @@ def test_table_without_the_status_in_stay_shape_still_splits_footnotes(transcl):
     extract_main._parse_table_rows(table, 'DE', 'Test', False, transcl, 'url', 'rev', result)
     assert [r['status'] for r in result.records] == ['visa_free']
     assert any(w.startswith("Status footnote split") for w in result.warnings)
+
+
+class TestAreaCleanup:
+    """Junk in destination-cell area text: parentheses, &nbsp;, file debris, doubled words."""
+
+    @staticmethod
+    def area(cell):
+        return extract_main._extract_destination_and_area(cell, [])
+
+    @pytest.mark.parametrize("cell,expected", [
+        ("{{flag|Belarus}} ([[Brest]] and [[Grodno]])", ("Belarus", "Brest and Grodno")),
+        ("{{flag|Switzerland}} ( [[Samnaun]])", ("Switzerland", "Samnaun")),
+        ("{{flag|Germany}} (&nbsp;[[Büsingen am Hochrhein]] and &nbsp;[[Heligoland]])",
+         ("Germany", "Büsingen am Hochrhein and Heligoland")),
+        ("{{flag|Germany}} &nbsp;[[Büsingen am Hochrhein]] and &nbsp;[[Heligoland]]",
+         ("Germany", "Büsingen am Hochrhein and Heligoland")),
+        ("{{flag|Kazakhstan}} ([[Baikonur]] & [[File:Coats_of_arms_of_Priosjorsk.PNG|20px]] [[Priozersk]])",
+         ("Kazakhstan", "Baikonur & Priozersk")),
+        ("{{flag|Netherlands}} (Bonaire, Sint Eustatius and Saba)",
+         ("Netherlands", "Bonaire, Sint Eustatius and Saba")),
+        ("{{flagicon|Malaysia}} {{flagicon|Sabah}} [[Sabah]] and {{flagicon|Sarawak}} [[Sarawak]]",
+         ("Malaysia", "Sabah and Sarawak")),
+        ("{{flag|Malaysia}} Malaysia:<br>{{flagicon|Sabah}} [[Sabah]] and {{flagicon|Sarawak}} [[Sarawak]]",
+         ("Malaysia", "Sabah and Sarawak")),
+        ("{{flag|Guadeloupe}},", ("Guadeloupe", None)),
+        ("{{flag|Guadeloupe}} ( )", ("Guadeloupe", None)),
+    ])
+    def test_cleaned(self, cell, expected):
+        assert self.area(cell) == expected
+
+    @pytest.mark.parametrize("cell", [
+        "{{flag|China}} (People's Republic of)",
+        "China (People's Republic of)",
+    ])
+    def test_name_qualifier_is_not_area(self, cell):
+        assert self.area(cell) == ("China", None)
+
+    @pytest.mark.parametrize("cell,expected", [
+        ("{{flag|China}} [[Hainan]]", ("China", "Hainan")),
+        ("{{flag|China}} [[Tibet Autonomous Region]]", ("China", "Tibet Autonomous Region")),
+        ("{{flag|France}} French West Indies (Martinique, Guadeloupe and Saint Martin)",
+         ("France", "French West Indies (Martinique, Guadeloupe and Saint Martin)")),
+        ("{{flag|French Polynesia}} [[Bora Bora]]", ("French Polynesia", "Bora Bora")),
+        ("{{flag|Japan}}", ("Japan", None)),
+    ])
+    def test_unchanged(self, cell, expected):
+        assert self.area(cell) == expected
+
+    def test_newline_separated_list_keeps_line_breaks(self):
+        from visa_pipeline import clean
+        assert clean.clean_area("Bonaire\nCuraçao\n Saba ") == "Bonaire\nCuraçao\nSaba"
+        assert clean.clean_area("Malaysia:\nSabah Sabah and Sarawak Sarawak", "Malaysia") == "Sabah and Sarawak"
+
+
+def test_only_peoples_republic_qualifier_is_stripped_from_names():
+    # Stripping any "(... of)" would turn DR Congo into Congo (a different country)
+    name, area = extract_main._extract_destination_and_area("China (People's Republic of)", [])
+    assert (name, area) == ('China', None)
+    name, _ = extract_main._extract_destination_and_area("Congo (Democratic Republic of the)", [])
+    assert name == 'Congo (Democratic Republic of the)'
+
+
+def test_usually_template_and_single_arg_sort_keep_their_text():
+    from visa_pipeline import clean
+    assert clean.clean('{{usually|Freedom of movement}}', {}, []) == 'Freedom of movement'
+    assert clean.clean('{{yes2|{{sort|eVisa}}}}', {}, []) == 'eVisa'
+    assert clean.clean('{{free|{{sort|Freedom of movement}}}}', {}, []) == 'Freedom of movement'
+    assert clean.clean('{{sort|1|Visa required}}', {}, []) == 'Visa required'
+
+
+def test_area_debris_hyphen_and_numeric_sort_key():
+    from visa_pipeline import clean
+    assert clean.clean_area('Flag of Sabah.svg') is None
+    assert clean.clean_area('Flag of Sabah.svg Sabah') == 'Sabah'
+    assert clean.clean_area('Guinea Guinea-Bissau') == 'Guinea Guinea-Bissau'
+    assert clean.clean('{{sort|4}}{{no|Visa required}}', {}, []) == 'Visa required'

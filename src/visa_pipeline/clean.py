@@ -7,7 +7,7 @@ import mwparserfromhell
 # Colour templates that wrap status text
 COLOUR_TEMPLATES = {
     'yes', 'yes2', 'no', 'no2', 'free', 'optional', 'yes-no',
-    'black', 'n/a', 'partial', 'cmain', 'crecurring', 'na',
+    'black', 'n/a', 'partial', 'cmain', 'crecurring', 'na', 'usually',
 }
 
 # Flag templates that render country names
@@ -63,6 +63,9 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
                 display_text = str(template.get(2).value).strip()
                 cleaned_text = clean(display_text, transclusions, warnings)
                 replacements.append((template, cleaned_text))
+            elif template.has(1) and not str(template.get(1).value).strip().isdigit():
+                # {{sort|eVisa}}: a single argument is the text itself (a bare number is a sort key)
+                replacements.append((template, clean(str(template.get(1).value).strip(), transclusions, warnings)))
             else:
                 removals.append(template)
             continue
@@ -171,3 +174,57 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
     result = result.strip()
 
     return result
+
+
+# File-image debris left in area text when a flag/coat-of-arms image link is flattened.
+_FILE_DEBRIS = re.compile(r'(?:\b(?:Flag|Coat of arms)(?: of)?\s+)?\S*\.(?:png|jpe?g|svg|gif)\b|\bCoats?_of_arms_of_\S*', re.IGNORECASE)
+# Genuine reduplicated place names that the duplicate-word collapse must not touch.
+_REDUPLICATED_NAMES = {'Bora Bora', 'Pago Pago', 'Wagga Wagga', 'Walla Walla', 'Hua Hua', 'Ban Ban'}
+_DOUBLED = re.compile(r'\b(\w[\w\'’.-]*(?: \w[\w\'’.-]*)*?) \1(?![\w-])')
+_EDGE_PUNCT = ' \t\n,;:&-–—'
+
+
+def _tidy_ws(text: str) -> str:
+    """Collapse runs of spaces and strip each line; keep line breaks (they separate list items)."""
+    return '\n'.join(' '.join(line.split()) for line in text.split('\n') if line.strip())
+
+
+def _unwrap_parens(text: str) -> str:
+    """Strip one pair of parentheses that wraps the whole string."""
+    if text.startswith('(') and text.endswith(')'):
+        depth = 0
+        for i, ch in enumerate(text):
+            depth += (ch == '(') - (ch == ')')
+            if depth == 0 and i < len(text) - 1:
+                return text
+        return text[1:-1]
+    return text
+
+
+def clean_area(text: str | None, country: str | None = None) -> str | None:
+    """Tidy area text taken from a destination cell; None if nothing is left.
+
+    Strips surrounding parentheses, whitespace, &nbsp; and stray punctuation, removes
+    file-image debris ("X.png", "Coats_of_arms_of_..."), collapses a word repeated by
+    flag-name + link-text ("Sabah Sabah" -> "Sabah"), and drops a leading "<country>:".
+    A parenthetical that is only a country-name qualifier ("(People's Republic of)")
+    is not an area and yields None.
+    """
+    if not text:
+        return None
+    text = text.replace('&nbsp;', ' ').replace('\xa0', ' ')
+    text = _FILE_DEBRIS.sub(' ', text)
+    text = _tidy_ws(text)
+    for _ in range(5):  # peel alternating parens / punctuation
+        before = text
+        text = text.strip(_EDGE_PUNCT)
+        if re.fullmatch(r"\(\s*People['’]s Republic of\s*\)", text, re.IGNORECASE):
+            return None
+        text = _unwrap_parens(text)
+        if country and text.lower().startswith(country.lower() + ':'):
+            text = text[len(country) + 1:]
+        if text == before:
+            break
+    text = _DOUBLED.sub(lambda m: m.group(0) if m.group(0) in _REDUPLICATED_NAMES else m.group(1), text)
+    text = _tidy_ws(text).strip(_EDGE_PUNCT)
+    return text or None

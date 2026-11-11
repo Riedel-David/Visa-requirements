@@ -90,3 +90,26 @@ class TestAmbiguousDurations:
         assert days == 90
         # Should include extra context
         assert note is not None
+
+
+class TestWeeks:
+    """Unambiguous 'N weeks' converts at 7 days/week; hours and alternatives stay null."""
+
+    @pytest.mark.parametrize("text,days", [("6 weeks", 42), ("2 weeks", 14), ("4 Weeks", 28), ("1 week", 7)])
+    def test_weeks(self, text, days):
+        assert stay.parse_stay(text) == (days, None)
+
+    @pytest.mark.parametrize("text", [
+        "24 hours", "30 days or 60 days", "30, 90 or 365 days", "2-4 weeks", "30 or 90 days",
+    ])
+    def test_not_guessed(self, text):
+        assert stay.parse_stay(text)[0] is None
+
+    def test_months_unchanged(self):
+        assert stay.parse_stay("3 months") == (90, None)
+        assert stay.parse_stay("12 months") == (365, None)
+
+
+def test_compound_week_stay_is_not_guessed():
+    assert stay.parse_stay('1 month 2 weeks')[0] is None
+    assert stay.parse_stay('6 weeks')[0] == 42

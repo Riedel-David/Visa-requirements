@@ -257,7 +257,7 @@ def test_inclusive_suffix_is_not_an_area():
     assert extract_main._extract_destination_and_area(
         '{{flag|Australia}} and\u00a0territories', warnings) == ('Australia', None)
     assert extract_main._extract_destination_and_area(
-        '{{flag|Eritrea}} (outside Asmara)', warnings) == ('Eritrea', '(outside Asmara)')
+        '{{flag|Eritrea}} (outside Asmara)', warnings) == ('Eritrea', 'outside Asmara')
     # two real places must keep the second one
     dest, area = extract_main._extract_destination_and_area(
         '{{flag|Sabah}} and {{flag|Sarawak}}', warnings)
@@ -272,3 +272,118 @@ def test_british_page_has_whole_country_records_for_inclusive_rows(transcl):
     assert not [r for r in result.records if (r['area'] or '').lower().startswith('and ')]
     keys = [(r['destination'], r['area']) for r in result.records]
     assert len(keys) == len(set(keys))
+
+
+class TestTwoPlaceCells:
+    """A cell naming two places splits into one record per place."""
+
+    def _parse(self, transcl, name, passport):
+        wikitext, meta = load_fixture(f'Visa_requirements_for_{name}_citizens')
+        return extract_main.parse_page(
+            wikitext, passport=passport, title=f'Visa requirements for {name} citizens',
+            revid=meta['revid'], transclusions=transcl)
+
+    def test_italian_french_guiana_and_saint_pierre(self, transcl):
+        result = self._parse(transcl, 'Italian', 'IT')
+        by_dest = {r['destination']: r for r in result.records}
+        for code, name in (('GF', 'French Guiana'), ('PM', 'Saint Pierre and Miquelon')):
+            assert by_dest[code]['destination_name'] == name
+            assert by_dest[code]['area'] is None
+            assert by_dest[code]['status'] == 'visa_free'
+
+    def test_chinese_united_kingdom_and_crown_dependencies_is_whole_country(self, transcl):
+        result = self._parse(transcl, 'Chinese', 'CN')
+        gb = [r for r in result.records if r['destination'] == 'GB' and not r['area']]
+        assert len(gb) == 1 and gb[0]['status'] == 'visa_required'
+
+
+@pytest.mark.parametrize('cell,expected', [
+    ('{{flag|A}} and {{flag|B}}', 2),
+    ('{{flag|A}}, {{flag|B}} & {{flag|C}}', 3),
+    ('{{flagicon|Finland}} {{flag|Åland}}', 1),
+    ('{{flagicon|Belarus}} {{flag|Brest}} and {{flag|Grodno}}', 1),
+    ('{{flagu|Cyprus}} {{flagicon|United Nations}}', 1),
+    ('{{flag|A}} and {{flag|B}} and', 1),
+    ('{{flag|A}} {{flag|A}}', 1),
+    ('{{flag|A}} or {{flag|B}}', 1),
+    ('{{flag|A}}', 1),
+])
+def test_split_flag_pair(cell, expected):
+    assert len(extract_main._split_flag_pair(cell)) == expected
+
+
+# ---------------------------------------------------------------------------
+# Territory-section area handling: whole ISO entities must be area-null.
+# ---------------------------------------------------------------------------
+
+def _parse_all_fixtures(transcl):
+    out = {}
+    for wt in sorted(FIXTURES.glob("Visa_requirements_for_*.wikitext")):
+        name = wt.stem
+        meta = json.loads(wt.with_suffix('.meta.json').read_text(encoding='utf-8'))
+        out[name] = extract_main.parse_page(
+            wt.read_text(encoding='utf-8'), passport='XX', title=meta['title'],
+            revid=meta['revid'], transclusions=transcl)
+    return out
+
+
+@pytest.fixture(scope="module")
+def all_results(transcl):
+    return _parse_all_fixtures(transcl)
+
+
+@pytest.fixture(scope="module")
+def german(all_results):
+    return all_results['Visa_requirements_for_German_citizens']
+
+
+# Destination names that legitimately equal their area: genuine parts of an ISO
+# entity that are named after themselves in the 'areas' override table.
+GENUINE_SAME_NAME_AREAS = {
+    'Ascension Island', 'Tristan da Cunha',                      # SH parts
+    'Bonaire', 'Saba', 'Sint Eustatius', 'Caribbean Netherlands',  # BQ islands
+    'Clipperton Island',                                          # FR
+    'Akrotiri and Dhekelia', 'Mount Athos', 'Svalbard',
+    'Crimea', 'Novorossiya', 'Galápagos', 'Kurdistan Region',
+    'British Antarctic Territory', 'Argentine Antarctica', 'Antártica Chilena Province',
+    'Tibet Autonomous Region',
+}
+
+
+class TestTerritoryAreaNull:
+    @pytest.mark.parametrize('code', ['TW', 'PS', 'MO', 'VG', 'FK', 'SH', 'PN', 'SX', 'VI'])
+    def test_german_whole_country_row_has_null_area(self, german, code):
+        rows = [r for r in german.records if r['destination'] == code]
+        assert any(r['area'] is None for r in rows), (code, [r['area'] for r in rows])
+
+    def test_german_sub_areas_keep_area(self, german):
+        areas = {(r['destination'], r['area']) for r in german.records}
+        assert ('SH', 'Ascension Island') in areas
+        assert ('SH', 'Tristan da Cunha') in areas
+        # German page lists the Caribbean Netherlands islands as one NL row
+        assert ('NL', 'Bonaire, St. Eustatius and Saba') in areas
+
+    def test_bq_islands_keep_area(self, all_results):
+        areas = {(r['destination'], r['area'])
+                 for res in all_results.values() for r in res.records}
+        for island in ('Bonaire', 'Saba', 'Sint Eustatius'):
+            assert ('BQ', island) in areas, island
+        assert ('FR', 'Clipperton Island') in areas
+
+    def test_no_area_equals_own_name_except_genuine(self, all_results):
+        offenders = {
+            (f, r['destination'], r['destination_name'])
+            for f, res in all_results.items() for r in res.records
+            if r['area'] and r['area'] == r['destination_name']
+            and r['destination_name'] not in GENUINE_SAME_NAME_AREAS
+        }
+        assert not offenders, sorted(offenders)
+
+    def test_whole_country_table_is_consistent(self):
+        from visa_pipeline import countries
+        table = countries._load_overrides()['whole_country']
+        for name, code in table.items():
+            if name.startswith('_'):
+                continue
+            assert countries.lookup_country(name) == code, name
+            assert countries.lookup_area(name) is None, name

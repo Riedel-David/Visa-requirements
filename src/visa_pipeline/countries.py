@@ -165,6 +165,15 @@ def lookup_area(name: str) -> tuple[str, str] | None:
     return None
 
 
+def is_whole_country(name: str, code: str) -> bool:
+    """True if `name` is a whole ISO entity (explicit table), not a part of `code`.
+
+    Backed by the single 'whole_country' table in overrides/destinations.json
+    (normalized name -> ISO code). Exact match only; the code must agree.
+    """
+    return _load_overrides().get('whole_country', {}).get(normalize_name(name)) == code
+
+
 def lookup_country(name: str) -> str | None:
     """Map a destination name to an ISO 3166-1 alpha-2 code or X-code.
 

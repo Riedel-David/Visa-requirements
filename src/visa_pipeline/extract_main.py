@@ -160,6 +160,25 @@ def _is_decorative_flag(template) -> bool:
     return param1.lower() in ('image', 'un') or param1.endswith('.svg')
 
 
+def _split_flag_pair(cell_text: str) -> list[str]:
+    """Split "{{flag|A}} and {{flag|B}}" into single-destination cells.
+
+    Only plain {{flag}} templates (not flagicon/flagu, which decorate a sovereign),
+    with nothing between consecutive flags but "and" / "&" / ",", and nothing before
+    or after them. Anything else, or a repeated flag, is returned whole.
+    """
+    flags = [t for t in mwparserfromhell.parse(cell_text).filter_templates(recursive=False)
+             if t.name.strip().lower() == 'flag' and not _is_decorative_flag(t)]
+    if len(flags) < 2 or len({str(t) for t in flags}) < len(flags):
+        return [cell_text]
+    pieces = re.split('|'.join(re.escape(str(t)) for t in flags), cell_text)
+    if pieces[0].strip() or pieces[-1].strip():
+        return [cell_text]
+    if not all(re.fullmatch(r'\s*(and|&|&amp;|,)\s*', p, re.IGNORECASE) for p in pieces[1:-1]):
+        return [cell_text]
+    return [str(t) for t in flags]
+
+
 # "<country> and territories" / "and Crown dependencies": the row covers the whole country.
 _INCLUSIVE_SUFFIX = re.compile(
     r'and (its )?((overseas|external|dependent) )?(territories|crown dependencies)', re.IGNORECASE)
@@ -235,6 +254,7 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
                     and _INCLUSIVE_SUFFIX.fullmatch(' '.join(area_cleaned.split()))):
                 warnings.append(f"Ignoring inclusive suffix {area_cleaned!r} for {flag_country!r}; whole-country row")
                 area_cleaned = ''
+            area_cleaned = clean.clean_area(area_cleaned, flag_country) or ''
             if area_cleaned:
                 # {{flagicon|US}} [[United States Minor Outlying Islands]]: the flag
                 # param is a bare country code (the flag of the sovereign), and the
@@ -255,6 +275,8 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
         if len(parts) == 2:
             return parts[0].strip(), parts[1].strip()
 
+    # "China (People's Republic of)": the parenthetical is part of the country name.
+    cleaned = re.sub(r"\s*\(\s*People['’]s Republic of\s*\)\s*$", '', cleaned, flags=re.IGNORECASE)
     return cleaned.strip(), None
 
 
@@ -374,10 +396,23 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         if any(kw in sample_stay.lower() for kw in ['required', 'visa', 'permit']):
             status_in_stay = True
 
+    # A cell naming two places ("French Guiana and Saint Pierre and Miquelon") becomes
+    # one row per place, each carrying the same status, stay and notes.
+    dest_col = roles.get('destination')
+    if dest_col:
+        expanded = []
+        for row in data_rows:
+            cells = _split_flag_pair(row[dest_col]) if dest_col in row else []
+            if len(cells) > 1:
+                result.warnings.append(f"Split destination cell into {len(cells)} records: {cells}")
+                expanded.extend({**row, dest_col: c} for c in cells)
+            else:
+                expanded.append(row)
+        data_rows = expanded
+
     # Parse data rows
     for row in data_rows:
         # Extract destination
-        dest_col = roles.get('destination')
         if not dest_col or dest_col not in row:
             continue
 
@@ -410,14 +445,16 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
             # Handle area column or area from destination cell
             area = None
             if has_area_column and 'area' in roles and roles['area'] in row:
-                area = clean.clean(row[roles['area']], transclusions, result.warnings).strip() or None
+                area = clean.clean_area(clean.clean(row[roles['area']], transclusions, result.warnings))
             elif area_from_cell:
                 area = area_from_cell
 
         # CRITICAL: In territory sections, if canonical name differs from destination name,
         # set area to destination name to distinguish from main-table rows
         # (e.g., "Clipperton Island" -> FR but should be FR+"Clipperton Island")
-        if is_territory_or_restricted and not area:
+        # Exception: rows that are a whole ISO entity under a common name (Taiwan, Palestine,
+        # Macau ...) are listed in the whole_country table and stay area-null.
+        if is_territory_or_restricted and not area and not countries.is_whole_country(dest_name, dest_code):
             canonical_name = countries.get_canonical_name(dest_code)
             if canonical_name and countries.normalize_name(canonical_name) != countries.normalize_name(dest_name):
                 area = dest_name
