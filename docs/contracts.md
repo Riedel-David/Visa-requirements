@@ -105,15 +105,15 @@ before travelling."
 
 `python -m visa_pipeline run [--data data] [--state state] [--out out] [--only DE,US]
 [--max-status-changes 15] [--max-record-drop-pct 10] [--force] [--refresh-pages] [--min-interval 1.0]`
-(`--force` bypasses the safety thresholds, not the 24h cooling-off.)
+(`--force` bypasses the diff thresholds, not the 24h cooling-off, and not zero-row detection.)
 
 - `data/` = published, committed output. Also the "previous run" for diffs.
 - `state/` = committed run state: `pages.json` (discovered pages + mapping), `revisions.json` and `stale.json` (per-passport stale streaks).
 - `data/status.json` = rewritten on every full run (`--only` runs leave it alone).
 - `out/` = gitignored run artifacts: `summary.json`, `report.md`, `changelog.md`.
-- Exit 0 = ok (blocked passports allowed). Exit 1 = a hard failure (zero rows where rows existed
-  before, an exception on a page, schema-invalid output), or a passport blocked by the thresholds
-  for 3+ consecutive runs (`BLOCKED_ALERT_RUNS` in `run.py`; written before exiting so the
+- Exit 0 = ok (blocked passports allowed, unless the streak rule below applies). Exit 1 = a hard failure (zero rows where rows existed
+  before, an exception on a page, schema-invalid output), or a passport that is blocked by the thresholds
+  and stale for 3+ consecutive runs (any reason) (`BLOCKED_ALERT_RUNS` in `run.py`; written before exiting so the
   failed-run notification fires). Good passports are still written before exiting 1.
 - `out/summary.json`: `{"pages_found", "pages_mapped", "pages_unmapped": [...], "pages_parsed",
   "pages_skipped_unchanged", "rows", "blocked": [{"passport","reason"}], "failed":

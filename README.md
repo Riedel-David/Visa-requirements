@@ -153,7 +153,7 @@ The pipeline includes safety checks to prevent publishing bad data:
 - **Status change threshold**: Max 15 status changes per passport
 - **Record drop threshold**: Max 10% drop in record count
 - **Cooling-off**: A page whose latest Wikipedia revision is under 24 hours old is deferred: the old data stays and the page is picked up on a later run once the revision has aged (reverts of vandalism are usually quick). Deferred passports are listed in `summary.json` under `deferred`; pages never parsed before are not deferred, and `--force` does not bypass this
-- **Repeated blocks**: A passport blocked by the thresholds for 3+ runs in a row makes the run exit non-zero
+- **Repeated blocks**: A passport that is blocked by the thresholds and has been stale (any reason) for 3+ runs in a row makes the run exit non-zero. This shows up as a failed workflow run (notification), not as an issue
 - **Zero-row detection**: A passport that parses to zero rows when it had data before counts as a failure (the run exits non-zero)
 
 When a threshold is exceeded:
@@ -174,7 +174,7 @@ Override with CLI flags:
 3. **Parsing**: Extracts visa requirements from wikitext tables using `mwparserfromhell`
 4. **Status mapping**: Normalizes visa status text to the enum (unmapped statuses → `special` + report)
 5. **Validation**: Checks data quality with JSON Schema and safety thresholds
-6. **Publishing**: Generates per-passport JSON files, index, `status.json`, `all.json`, CSV exports, `report.md`, `summary.json`, and changelog
+6. **Publishing**: Generates the published files in `data/` (per-passport JSON, `index.json`, `status.json`; `all.json` and the CSV exports are generated there too but not committed) and the run artifacts in `out/` (`report.md`, `summary.json`, changelog)
 
 The pipeline:
 - Uses only the Wikipedia MediaWiki API (no scraping)
@@ -227,9 +227,9 @@ The dataset is updated automatically via GitHub Actions:
 - **Schedule**: Every Monday at 04:17 UTC
 - **Manual trigger**: Via workflow_dispatch (supports `--force` and `--only` options)
 - **On data changes**: Data and state are committed to `main` with a `data-YYYY-MM-DD` tag and a release
-- **Only `status.json` moved**: If just `data/status.json` / `state/stale.json` changed (`last_checked_at` changes every run), a "Refresh status.json (no data changes)" commit goes to `main`, with no tag or release. If nothing changed, there is no commit
+- **Only `status.json` moved**: If just `data/status.json` / `state/stale.json` changed (`last_checked_at` changes every run), a "Refresh status.json (no data changes)" commit goes to `main`, with no tag or release. A full run therefore commits every week; only `--only` runs can end with no commit
 - **Releases**: Each data update also publishes a GitHub Release for the tag, with the changelog as release notes and `all.json` plus the CSV files attached
-- **On issues**: An issue is opened/updated only when passports are blocked by the safety thresholds or fail to parse (unmapped statuses appear in the run report, not as issues)
+- **On issues**: An issue is opened/updated only when passports are blocked by the safety thresholds or fail to parse in that run (the repeated-blocks exit code alone opens no issue) (unmapped statuses appear in the run report, not as issues)
 - **Deployment**: Published to GitHub Pages automatically
 
 ### Why Commit Data to Main?

@@ -49,7 +49,7 @@ src/visa_pipeline/
   extract_main.py column roles detected from header text (destination / status / stay / notes /
                   area), so 3-, 4- and 5-column tables share one code path
   extract_extra.py vaccination, passport validity/blank pages, entry bans (after main is solid)
-  validate.py     JSON Schema + diff thresholds (N=15 status changes, -10% rows, zero rows; plus a 24h cooling-off for fresh revisions)
+  validate.py     JSON Schema + diff thresholds (N=15 status changes, -10% rows, zero rows); the 24h cooling-off lives in run.py
   publish.py      per-passport files, index.json, all.json, changelog
 ```
 
