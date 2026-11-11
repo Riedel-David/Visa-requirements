@@ -100,13 +100,30 @@ def test_exit_code_after_three_blocked_runs(tmp_path):
     assert (env[0] / "index.json").exists()
 
 
-def test_update_stale_state_reason_change_and_only():
+def test_update_stale_state_streak_survives_reason_change_and_only():
     prev = {"DE": {"reason": "blocked", "consecutive_runs": 4, "latest_seen_revision": 1},
             "FR": {"reason": "failed", "consecutive_runs": 2, "latest_seen_revision": 1},
             "XX": {"reason": "failed", "consecutive_runs": 2, "latest_seen_revision": 1}}
     new = update_stale_state(
         prev, {"DE": {"reason": "failed", "latest_seen_revision": 2}},
         processed={"DE"}, known={"DE", "FR"})
-    assert new["DE"]["consecutive_runs"] == 1 and new["DE"]["reason"] == "failed"
+    assert new["DE"]["consecutive_runs"] == 5 and new["DE"]["reason"] == "failed"
     assert new["FR"] == prev["FR"]  # not processed (--only): carried over
     assert "XX" not in new  # no longer a known passport
+
+
+def test_only_run_does_not_refresh_status_json(tmp_path):
+    env = _two_page_env(tmp_path, ENV)
+    _run_two(env, now=NOW)
+    before = (env[0] / "status.json").read_text()
+    later = datetime(2026, 11, 20, tzinfo=timezone.utc)
+    _run_two(env, now=later, only=["DE"])
+    assert (env[0] / "status.json").read_text() == before
+
+
+def test_streak_continues_when_reason_changes(tmp_path):
+    env = _two_page_env(tmp_path, ENV)
+    _run_two(env, flip=("DE",), now=NOW)       # blocked
+    _run_two(env, fail=("DE",), now=NOW)       # failed
+    entry = _status(env)["passports_stale"][0]
+    assert entry["reason"] == "failed" and entry["consecutive_runs"] == 2

@@ -69,7 +69,7 @@ Rewritten on every pipeline run (also when no data changed), so it tells you whe
 - `last_checked_at`: UTC time of the last completed run. `source_timestamp` and `source_revision` only move when a passport's data changes, so they cannot tell "checked and unchanged" from "stale"; this field can.
 - `last_run_status`: `ok`, or `partial` when `passports_stale` is non-empty.
 - `dataset_version`: `data-YYYY-MM-DD` of the run date. A date label; a git tag of that name exists only for runs that changed data.
-- `passports_stale`: passports whose published data is older than their Wikipedia page. `reason` is `blocked` (change exceeded the safety thresholds, old data kept), `failed` (parse error or no rows, old data kept) or `cooling_off` (latest edit under 24h old, deferred). `data_revision` is the revision of the published data (`null` if none), `latest_seen_revision` the page's newest revision. `consecutive_runs` counts runs in a row with this reason.
+- `passports_stale`: passports whose published data is older than their Wikipedia page. `reason` is `blocked` (change exceeded the safety thresholds, old data kept), `failed` (parse error or no rows, old data kept) or `cooling_off` (latest edit under 24h old, deferred). `data_revision` is the revision of the published data (`null` if none), `latest_seen_revision` the page's newest revision. `consecutive_runs` counts runs in a row in which the passport was stale (for any reason). `status.json` is only rewritten by full runs, not by `--only` runs.
 
 **Usage**: alert or show a warning if `last_checked_at` is older than about 10 days (runs are weekly). For a passport listed in `passports_stale`, its data is older than the Wikipedia page; it is still the last validated data.
 

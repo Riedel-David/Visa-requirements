@@ -172,7 +172,7 @@ def update_stale_state(
     """Compute the new stale state.
 
     Passports processed this run (``processed``) are recounted: stale ones continue
-    their streak when the reason is unchanged (else restart at 1), clean ones are
+    their streak whatever the reason (a blocked page that is deferred one week by a fresh edit is still stuck), clean ones are
     dropped. Entries for passports not processed (``--only``) carry over unchanged
     if still ``known``.
     """
@@ -180,7 +180,7 @@ def update_stale_state(
                  if iso2 not in processed and iso2 in known}
     for iso2, entry in stale_now.items():
         prev = previous.get(iso2)
-        runs = prev["consecutive_runs"] + 1 if prev and prev["reason"] == entry["reason"] else 1
+        runs = prev["consecutive_runs"] + 1 if prev else 1
         new_state[iso2] = {
             "reason": entry["reason"],
             "consecutive_runs": runs,
@@ -594,7 +594,6 @@ def run(
     stale_state = update_stale_state(
         load_stale_state(state_dir), stale_now,
         processed={p["passport"] for p in mapped_pages}, known=mapped_iso2s)
-    save_stale_state(state_dir, stale_state)
     passports_stale = [
         {
             "passport": iso2,
@@ -607,12 +606,15 @@ def run(
     ]
     status = build_status(now, len(passport_metadata), passports_stale)
     validate_status_file(status, load_schema(Path(__file__).parent / "schema" / "status.schema.json"))
+    save_stale_state(state_dir, stale_state)
 
     # Write output files
     logger.info("Writing output files...")
     write_index_json(data_dir, passport_metadata, blocked_passports)
     write_all_json(data_dir, all_passports_data)
-    write_status_json(data_dir, status)
+    if not only:
+        # A partial (--only) run must not refresh last_checked_at for the whole dataset
+        write_status_json(data_dir, status)
     try:
         write_csv_exports(data_dir, all_passports_data)
     except Exception as e:
