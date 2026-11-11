@@ -27,6 +27,16 @@ def validate_passport_file(data: dict[str, Any], schema: dict[str, Any]) -> None
     jsonschema.validate(instance=data, schema=schema)
 
 
+def validate_status_file(data: dict[str, Any], schema: dict[str, Any]) -> None:
+    """Validate data/status.json content against status.schema.json."""
+    jsonschema.validate(instance=data, schema=schema)
+
+
+def validate_index_file(data: dict[str, Any], schema: dict[str, Any]) -> None:
+    """Validate data/index.json content against index.schema.json."""
+    jsonschema.validate(instance=data, schema=schema)
+
+
 def load_previous_passport(data_dir: Path, iso2: str) -> dict[str, Any] | None:
     """
     Load previous passport data for diff comparison.

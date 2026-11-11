@@ -73,24 +73,41 @@ jobs:
       - name: Check for data changes
         id: check_changes
         run: |
-          if [ -n "$(git status --porcelain data state)" ]; then
+          # status.json (last_checked_at) and state/stale.json (streak counters) change on
+          # every run; they must not count as a data change (commit message, tag, release)
+          if [ -n "$(git status --porcelain data state ':(exclude)data/status.json' ':(exclude)state/stale.json')" ]; then
             echo "data_changed=true" >> $GITHUB_OUTPUT
           else
             echo "data_changed=false" >> $GITHUB_OUTPUT
           fi
+          if [ -n "$(git status --porcelain data state)" ]; then
+            echo "anything_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "anything_changed=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push changes
         id: commit
-        if: steps.check_changes.outputs.data_changed == 'true'
+        if: steps.check_changes.outputs.anything_changed == 'true'
+        env:
+          DATA_CHANGED: ${{ steps.check_changes.outputs.data_changed }}
         run: |
           DATESTAMP=$(date +%Y-%m-%d)
 
           git config user.name "github-actions[bot]"
           git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
 
+          git add data state
+          if [ "$DATA_CHANGED" != "true" ]; then
+            # Only data/status.json (and state counters) moved: commit it, but no tag or release
+            git commit -m "Refresh status.json (no data changes)"
+            git pull --rebase origin main
+            git push origin main
+            exit 0
+          fi
+
           # Create commit with first ~50 lines of changelog
           CHANGELOG_EXCERPT=$(head -n 50 out/changelog.md 2>/dev/null || true)
-          git add data state
           git commit -m "Update visa data $DATESTAMP" -m "$CHANGELOG_EXCERPT"
           git pull --rebase origin main
           git push origin main
