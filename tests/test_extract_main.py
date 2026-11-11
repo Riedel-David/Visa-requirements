@@ -494,3 +494,11 @@ def test_only_peoples_republic_qualifier_is_stripped_from_names():
     assert (name, area) == ('China', None)
     name, _ = extract_main._extract_destination_and_area("Congo (Democratic Republic of the)", [])
     assert name == 'Congo (Democratic Republic of the)'
+
+
+def test_usually_template_and_single_arg_sort_keep_their_text():
+    from visa_pipeline import clean
+    assert clean.clean('{{usually|Freedom of movement}}', {}, []) == 'Freedom of movement'
+    assert clean.clean('{{yes2|{{sort|eVisa}}}}', {}, []) == 'eVisa'
+    assert clean.clean('{{free|{{sort|Freedom of movement}}}}', {}, []) == 'Freedom of movement'
+    assert clean.clean('{{sort|1|Visa required}}', {}, []) == 'Visa required'

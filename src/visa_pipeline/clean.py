@@ -7,7 +7,7 @@ import mwparserfromhell
 # Colour templates that wrap status text
 COLOUR_TEMPLATES = {
     'yes', 'yes2', 'no', 'no2', 'free', 'optional', 'yes-no',
-    'black', 'n/a', 'partial', 'cmain', 'crecurring', 'na',
+    'black', 'n/a', 'partial', 'cmain', 'crecurring', 'na', 'usually',
 }
 
 # Flag templates that render country names
@@ -63,6 +63,9 @@ def clean(text: str, transclusions: dict[str, str] | None = None, warnings: list
                 display_text = str(template.get(2).value).strip()
                 cleaned_text = clean(display_text, transclusions, warnings)
                 replacements.append((template, cleaned_text))
+            elif template.has(1):
+                # {{sort|eVisa}}: a single argument is the text itself
+                replacements.append((template, clean(str(template.get(1).value).strip(), transclusions, warnings)))
             else:
                 removals.append(template)
             continue
