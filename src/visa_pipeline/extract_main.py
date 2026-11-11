@@ -254,6 +254,7 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
                     and _INCLUSIVE_SUFFIX.fullmatch(' '.join(area_cleaned.split()))):
                 warnings.append(f"Ignoring inclusive suffix {area_cleaned!r} for {flag_country!r}; whole-country row")
                 area_cleaned = ''
+            area_cleaned = clean.clean_area(area_cleaned, flag_country) or ''
             if area_cleaned:
                 # {{flagicon|US}} [[United States Minor Outlying Islands]]: the flag
                 # param is a bare country code (the flag of the sovereign), and the
@@ -274,6 +275,8 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
         if len(parts) == 2:
             return parts[0].strip(), parts[1].strip()
 
+    # "China (People's Republic of)": the parenthetical is part of the country name.
+    cleaned = re.sub(r'\s*\(\s*[^()]*\bof(?: the)?\s*\)\s*$', '', cleaned, flags=re.IGNORECASE)
     return cleaned.strip(), None
 
 

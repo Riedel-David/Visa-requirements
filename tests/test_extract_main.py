@@ -434,3 +434,55 @@ def test_table_without_the_status_in_stay_shape_still_splits_footnotes(transcl):
     extract_main._parse_table_rows(table, 'DE', 'Test', False, transcl, 'url', 'rev', result)
     assert [r['status'] for r in result.records] == ['visa_free']
     assert any(w.startswith("Status footnote split") for w in result.warnings)
+
+
+class TestAreaCleanup:
+    """Junk in destination-cell area text: parentheses, &nbsp;, file debris, doubled words."""
+
+    @staticmethod
+    def area(cell):
+        return extract_main._extract_destination_and_area(cell, [])
+
+    @pytest.mark.parametrize("cell,expected", [
+        ("{{flag|Belarus}} ([[Brest]] and [[Grodno]])", ("Belarus", "Brest and Grodno")),
+        ("{{flag|Switzerland}} ( [[Samnaun]])", ("Switzerland", "Samnaun")),
+        ("{{flag|Germany}} (&nbsp;[[Büsingen am Hochrhein]] and &nbsp;[[Heligoland]])",
+         ("Germany", "Büsingen am Hochrhein and Heligoland")),
+        ("{{flag|Germany}} &nbsp;[[Büsingen am Hochrhein]] and &nbsp;[[Heligoland]]",
+         ("Germany", "Büsingen am Hochrhein and Heligoland")),
+        ("{{flag|Kazakhstan}} ([[Baikonur]] & [[File:Coats_of_arms_of_Priosjorsk.PNG|20px]] [[Priozersk]])",
+         ("Kazakhstan", "Baikonur & Priozersk")),
+        ("{{flag|Netherlands}} (Bonaire, Sint Eustatius and Saba)",
+         ("Netherlands", "Bonaire, Sint Eustatius and Saba")),
+        ("{{flagicon|Malaysia}} {{flagicon|Sabah}} [[Sabah]] and {{flagicon|Sarawak}} [[Sarawak]]",
+         ("Malaysia", "Sabah and Sarawak")),
+        ("{{flag|Malaysia}} Malaysia:<br>{{flagicon|Sabah}} [[Sabah]] and {{flagicon|Sarawak}} [[Sarawak]]",
+         ("Malaysia", "Sabah and Sarawak")),
+        ("{{flag|Guadeloupe}},", ("Guadeloupe", None)),
+        ("{{flag|Guadeloupe}} ( )", ("Guadeloupe", None)),
+    ])
+    def test_cleaned(self, cell, expected):
+        assert self.area(cell) == expected
+
+    @pytest.mark.parametrize("cell", [
+        "{{flag|China}} (People's Republic of)",
+        "China (People's Republic of)",
+    ])
+    def test_name_qualifier_is_not_area(self, cell):
+        assert self.area(cell) == ("China", None)
+
+    @pytest.mark.parametrize("cell,expected", [
+        ("{{flag|China}} [[Hainan]]", ("China", "Hainan")),
+        ("{{flag|China}} [[Tibet Autonomous Region]]", ("China", "Tibet Autonomous Region")),
+        ("{{flag|France}} French West Indies (Martinique, Guadeloupe and Saint Martin)",
+         ("France", "French West Indies (Martinique, Guadeloupe and Saint Martin)")),
+        ("{{flag|French Polynesia}} [[Bora Bora]]", ("French Polynesia", "Bora Bora")),
+        ("{{flag|Japan}}", ("Japan", None)),
+    ])
+    def test_unchanged(self, cell, expected):
+        assert self.area(cell) == expected
+
+    def test_newline_separated_list_keeps_line_breaks(self):
+        from visa_pipeline import clean
+        assert clean.clean_area("Bonaire\nCuraçao\n Saba ") == "Bonaire\nCuraçao\nSaba"
+        assert clean.clean_area("Malaysia:\nSabah Sabah and Sarawak Sarawak", "Malaysia") == "Sabah and Sarawak"

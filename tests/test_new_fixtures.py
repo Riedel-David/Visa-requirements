@@ -257,7 +257,7 @@ def test_inclusive_suffix_is_not_an_area():
     assert extract_main._extract_destination_and_area(
         '{{flag|Australia}} and\u00a0territories', warnings) == ('Australia', None)
     assert extract_main._extract_destination_and_area(
-        '{{flag|Eritrea}} (outside Asmara)', warnings) == ('Eritrea', '(outside Asmara)')
+        '{{flag|Eritrea}} (outside Asmara)', warnings) == ('Eritrea', 'outside Asmara')
     # two real places must keep the second one
     dest, area = extract_main._extract_destination_and_area(
         '{{flag|Sabah}} and {{flag|Sarawak}}', warnings)
