@@ -41,7 +41,7 @@ def format_passport_data(
     )
 
     return {
-        "schema_version": "1.0.0",
+        "schema_version": "1.1.0",
         "passport": passport,
         "source_title": title,
         "source_url": f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
@@ -151,7 +151,7 @@ def write_index_json(
             old_data = json.load(f)
             old_without_timestamp = {k: v for k, v in old_data.items() if k != "generated_at"}
             new_without_timestamp = {
-                "schema_version": "1.0.0",
+                "schema_version": "1.1.0",
                 "disclaimer": DISCLAIMER,
                 "license": "CC BY-SA 4.0",
                 "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -163,7 +163,7 @@ def write_index_json(
                 generated_at = old_data["generated_at"]
 
     index_data = {
-        "schema_version": "1.0.0",
+        "schema_version": "1.1.0",
         "generated_at": generated_at,
         "disclaimer": DISCLAIMER,
         "license": "CC BY-SA 4.0",
@@ -222,7 +222,7 @@ def write_all_json(
             old_data = json.load(f)
             old_without_timestamp = {k: v for k, v in old_data.items() if k != "generated_at"}
             new_without_timestamp = {
-                "schema_version": "1.0.0",
+                "schema_version": "1.1.0",
                 "disclaimer": DISCLAIMER,
                 "license": "CC BY-SA 4.0",
                 "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
@@ -233,7 +233,7 @@ def write_all_json(
                 generated_at = old_data["generated_at"]
 
     all_data = {
-        "schema_version": "1.0.0",
+        "schema_version": "1.1.0",
         "generated_at": generated_at,
         "disclaimer": DISCLAIMER,
         "license": "CC BY-SA 4.0",

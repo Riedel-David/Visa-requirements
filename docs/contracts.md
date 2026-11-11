@@ -38,7 +38,7 @@ def parse_page(wikitext: str, *, passport: str, title: str, revid: int,
 
 ## Status enum
 
-`visa_free | visa_on_arrival | eta | evisa | visa_required | permit_required | admission_refused | special`
+`visa_free | visa_on_arrival | eta | evisa | visa_required | permit_required | admission_refused | special | travel_ban`
 
 Order = least to most restrictive (`special` sits outside the order). For combined statuses
 ("eVisa / Visa on arrival"), `status` is the least restrictive one and the others go in

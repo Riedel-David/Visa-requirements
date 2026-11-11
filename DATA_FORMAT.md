@@ -24,7 +24,7 @@ Provides metadata for all passports and helps detect changes:
 
 ```json
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "generated_at": "2026-10-30T06:00:00Z",
   "disclaimer": "Visa data is community-sourced from Wikipedia...",
   "license": "CC BY-SA 4.0",
@@ -79,7 +79,7 @@ Individual passport file with all visa requirements:
 
 ```json
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "DE",
   "source_title": "Visa requirements for German citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens",
@@ -116,7 +116,7 @@ All passports in one file (minified):
 
 ```json
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "generated_at": "2026-10-30T06:00:00Z",
   "disclaimer": "Visa data is community-sourced from Wikipedia...",
   "license": "CC BY-SA 4.0",
@@ -141,7 +141,7 @@ Three CSV files are generated into `data/` at the end of every run. They are not
 
 - Only the whole-country record (`area` is null) is used. `Requirement` is our `status` value as is:
   `visa_free`, `visa_on_arrival`, `eta`, `evisa`, `visa_required`, `permit_required`,
-  `admission_refused`, `special`. No stay days, no notes.
+  `admission_refused`, `special`, `travel_ban`. No stay days, no notes.
 - Missing passport/destination pairs have no row in the tidy files and an empty cell in the matrix.
 - Rows and columns are sorted by ISO-2 code, so identical input gives byte-identical files.
 - ISO-3 codes come from the static table `src/visa_pipeline/iso3.json`. Codes without an ISO-3
@@ -183,6 +183,7 @@ Within a passport file, records are unique by `(destination, area)`. Most record
 | `permit_required` | Special permit required |
 | `admission_refused` | Entry not permitted |
 | `special` | Unmapped or special case (check `notes` for details) |
+| `travel_ban` | The traveller's own government forbids travel to the destination (source text `Travel banned` / `Travel prohibited`); `allowed_stay_days` is always null, `allowed_stay_raw` and `notes` keep the source text |
 
 ### Status Ordering
 
@@ -191,7 +192,7 @@ Statuses are ordered from least to most restrictive:
 visa_free < visa_on_arrival < eta < evisa < visa_required < permit_required < admission_refused
 ```
 
-`special` sits outside the ordering and represents unmapped cases.
+`special` and `travel_ban` sit outside the ordering. `special` represents unmapped cases; `travel_ban` is a mapped status meaning the home government forbids travel (the destination may still admit the traveller).
 
 ### Combined Statuses
 
@@ -206,6 +207,7 @@ The mapping table is `STATUS_MAP` in `src/visa_pipeline/status.py`.
 - Mapping is by the cell **text**, not the template colour: `{{free|Visa required}}` exists and maps to `visa_required`.
 - In a combined cell, `status` is the least restrictive option because the traveller can pick the easiest one listed; the others remain available and are kept in `alternative_statuses`.
 - If any part of a combined cell is unmapped, the whole cell becomes `special` (no guessing from the remaining parts). Unmapped text is reported on every run.
+- `travel_ban` has no place in the restrictiveness order, so a combined cell containing it (e.g. `eVisa / Travel banned`) also becomes `special`.
 
 Judgement calls:
 
@@ -215,7 +217,7 @@ Judgement calls:
 | `Ease`, `Pre-registration required` | `eta` | Online registration, not a visa |
 | `ID card` | `visa_free` | Entry without a visa on an ID card |
 | `Easy visitor permit`, `Visitor's pass required` | `permit_required` | A permit must be obtained |
-| `Travel banned` | `special` | Usually the home government forbids travel, not the destination |
+| `Travel banned`, `Travel prohibited` | `travel_ban` | The home government forbids travel, not the destination; stay days are dropped |
 
 ## X-Codes (Non-ISO Destinations)
 
@@ -241,13 +243,13 @@ The `schema_version` field follows semantic versioning:
 - **Minor version** changes indicate backward-compatible additions (new fields, new enum values)
 - **Patch version** changes indicate documentation or non-breaking fixes
 
-Current version: `1.0.0`
+Current version: `1.1.0` (1.1.0 added the `travel_ban` status)
 
 ## Stability Guarantees
 
 - Field names and types are stable within a major version
 - The status enum may expand with new values (minor version bump). Consumers must treat any unknown `status` value as `special`.
-- `status.json` is versioned independently of the data files (its own `schema_version`); adding it did not change the data files, so their version stays `1.0.0`
+- `status.json` is versioned independently of the data files (its own `schema_version`); it is currently `1.0.0` and did not change with the data files' `1.1.0`
 - Records may have `null` for nullable fields (always check before accessing)
 - The `notes` field is free-form text and should not be parsed programmatically
 

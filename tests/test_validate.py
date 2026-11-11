@@ -67,6 +67,17 @@ def test_validate_passport_file_invalid_status(schema, valid_passport_data):
         validate_passport_file(valid_passport_data, schema)
 
 
+def test_validate_passport_file_travel_ban(schema, valid_passport_data):
+    """travel_ban is a valid status; a misspelling is not."""
+    valid_passport_data["records"][0]["status"] = "travel_ban"
+    valid_passport_data["records"][0]["allowed_stay_days"] = None
+    validate_passport_file(valid_passport_data, schema)
+
+    valid_passport_data["records"][0]["status"] = "travel_baned"
+    with pytest.raises(jsonschema.ValidationError):
+        validate_passport_file(valid_passport_data, schema)
+
+
 def test_validate_passport_file_missing_field(schema, valid_passport_data):
     """Test validation rejects missing required field."""
     del valid_passport_data["records"][0]["destination"]

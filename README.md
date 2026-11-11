@@ -45,7 +45,7 @@ Each passport file contains:
 
 ```json
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "DE",
   "source_title": "Visa requirements for German citizens",
   "source_url": "https://en.wikipedia.org/wiki/...",
@@ -91,7 +91,7 @@ Three CSV files are generated into `data/` at the end of every run. They are not
 
 - Only the whole-country record (`area` is null) is used. `Requirement` is our `status` value as is:
   `visa_free`, `visa_on_arrival`, `eta`, `evisa`, `visa_required`, `permit_required`,
-  `admission_refused`, `special`. No stay days, no notes.
+  `admission_refused`, `special`, `travel_ban`. No stay days, no notes.
 - Missing passport/destination pairs have no row in the tidy files and an empty cell in the matrix.
 - Rows and columns are sorted by ISO-2 code, so identical input gives byte-identical files.
 - ISO-3 codes come from the static table `src/visa_pipeline/iso3.json`. Codes without an ISO-3
@@ -112,6 +112,7 @@ The pipeline normalizes Wikipedia's visa status descriptions into these categori
 | `permit_required` | Special permit required (e.g., for restricted areas) |
 | `admission_refused` | Entry not permitted |
 | `special` | Unmapped or special case (see `notes` field) |
+| `travel_ban` | The traveller's own government forbids travel (`allowed_stay_days` is null) |
 
 ### Combined Statuses
 

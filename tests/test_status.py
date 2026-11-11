@@ -42,6 +42,20 @@ class TestSingleStatus:
         assert status.parse_status("Admission refused") == ("admission_refused", [])
         assert status.parse_status("Entry denied") == ("admission_refused", [])
 
+    def test_travel_ban(self):
+        for text in ("Travel banned", "travel prohibited", "  Travel   Banned.", "TRAVEL PROHIBITED"):
+            assert status.parse_status(text) == ("travel_ban", [])
+
+    def test_travel_ban_neighbours_unchanged(self):
+        assert status.parse_status("Travel not permitted") == ("admission_refused", [])
+        assert status.parse_status("Travel restricted") == ("special", [])
+        assert status.parse_status("Visa issuance suspended") == ("special", [])
+
+    def test_travel_ban_in_combined_cell_is_special(self):
+        # travel_ban has no place in the restrictiveness order: treated like special
+        assert status.parse_status("eVisa / Travel banned") == ("special", [])
+        assert status.parse_status("Travel prohibited or Visa required") == ("special", [])
+
     def test_unmapped(self):
         primary, alts = status.parse_status("Something completely unknown")
         assert primary == "special"

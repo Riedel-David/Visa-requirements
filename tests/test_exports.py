@@ -49,6 +49,12 @@ def test_outputs(tmp_path):
     ]
 
 
+def test_travel_ban_passes_through(tmp_path):
+    write_csv_exports(tmp_path, {"KR": [rec("KR", "UA", "travel_ban"), rec("KR", "JP", "visa_free")]})
+    assert read(tmp_path / exports.TIDY_ISO2)[1:] == [["KR", "JP", "visa_free"], ["KR", "UA", "travel_ban"]]
+    assert "travel_ban" in (tmp_path / exports.MATRIX_ISO2).read_text()
+
+
 def test_deterministic(tmp_path):
     a, b = tmp_path / "a", tmp_path / "b"
     a.mkdir()

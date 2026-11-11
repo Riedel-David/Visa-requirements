@@ -603,6 +603,10 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
             notes_parts.append(status_footnote)
             notes = '\n'.join(notes_parts)
 
+        # A ban makes a stay length meaningless; allowed_stay_raw and notes keep the text
+        if primary_status == 'travel_ban':
+            stay_days = None
+
         # Build record
         record = {
             'passport': passport,

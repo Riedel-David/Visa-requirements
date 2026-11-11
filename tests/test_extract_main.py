@@ -350,6 +350,24 @@ class TestTableScanning:
         assert {r["destination"] for r in result.records} == {"JP", "FR"}
 
 
+    def test_travel_ban_has_null_stay_but_keeps_raw(self, transcl):
+        wikitext = (
+            "== Visa requirements ==\n{| class=\"wikitable\"\n"
+            "! Country !! Visa requirement !! Allowed stay !! Notes\n|-\n"
+            "| {{flag|Ukraine}} || {{no|Travel banned}} || 90 days || Government bans travel\n|-\n"
+            "| {{flag|France}} || {{yes|Visa not required}} || 90 days ||\n|}\n"
+        )
+        result = extract_main.parse_page(wikitext, passport="KR", title="T", revid=1,
+                                         transclusions=transcl)
+        by = {r["destination"]: r for r in result.records}
+        assert by["UA"]["status"] == "travel_ban"
+        assert by["UA"]["allowed_stay_days"] is None
+        assert by["UA"]["allowed_stay_raw"] == "90 days"
+        assert by["UA"]["notes"] == "Government bans travel"
+        assert by["FR"]["allowed_stay_days"] == 90
+        assert result.unmapped_statuses == []
+
+
 class TestDestinationAndArea:
     """Finding 6."""
 
