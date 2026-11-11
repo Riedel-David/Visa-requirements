@@ -486,3 +486,11 @@ class TestAreaCleanup:
         from visa_pipeline import clean
         assert clean.clean_area("Bonaire\nCuraçao\n Saba ") == "Bonaire\nCuraçao\nSaba"
         assert clean.clean_area("Malaysia:\nSabah Sabah and Sarawak Sarawak", "Malaysia") == "Sabah and Sarawak"
+
+
+def test_only_peoples_republic_qualifier_is_stripped_from_names():
+    # Stripping any "(... of)" would turn DR Congo into Congo (a different country)
+    name, area = extract_main._extract_destination_and_area("China (People's Republic of)", [])
+    assert (name, area) == ('China', None)
+    name, _ = extract_main._extract_destination_and_area("Congo (Democratic Republic of the)", [])
+    assert name == 'Congo (Democratic Republic of the)'

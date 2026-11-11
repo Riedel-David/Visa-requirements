@@ -215,7 +215,7 @@ def clean_area(text: str | None, country: str | None = None) -> str | None:
     for _ in range(5):  # peel alternating parens / punctuation
         before = text
         text = text.strip(_EDGE_PUNCT)
-        if re.fullmatch(r'\([^()]*\bof(?: the)?\s*\)', text, re.IGNORECASE):
+        if re.fullmatch(r"\(\s*People['’]s Republic of\s*\)", text, re.IGNORECASE):
             return None
         text = _unwrap_parens(text)
         if country and text.lower().startswith(country.lower() + ':'):

@@ -276,7 +276,7 @@ def _extract_destination_and_area(cell_text: str, warnings: list[str]) -> tuple[
             return parts[0].strip(), parts[1].strip()
 
     # "China (People's Republic of)": the parenthetical is part of the country name.
-    cleaned = re.sub(r'\s*\(\s*[^()]*\bof(?: the)?\s*\)\s*$', '', cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\s*\(\s*People['’]s Republic of\s*\)\s*$", '', cleaned, flags=re.IGNORECASE)
     return cleaned.strip(), None
 
 
