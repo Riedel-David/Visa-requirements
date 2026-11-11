@@ -177,6 +177,31 @@ def write_index_json(
         f.write("\n")
 
 
+def build_status(
+    now: datetime,
+    passports_total: int,
+    passports_stale: list[dict[str, Any]]
+) -> dict[str, Any]:
+    """Build the data/status.json content for one run."""
+    now_utc = now.astimezone(timezone.utc) if now.tzinfo else now.replace(tzinfo=timezone.utc)
+    return {
+        "schema_version": "1.0.0",
+        "last_checked_at": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "last_run_status": "partial" if passports_stale else "ok",
+        "dataset_version": f"data-{now_utc.strftime('%Y-%m-%d')}",
+        "passports_total": passports_total,
+        "passports_stale": sorted(passports_stale, key=lambda e: e["passport"]),
+    }
+
+
+def write_status_json(data_dir: Path, status: dict[str, Any]) -> None:
+    """Write data/status.json (rewritten on every run, unlike index.json)."""
+    data_dir.mkdir(parents=True, exist_ok=True)
+    with open(data_dir / "status.json", "w") as f:
+        json.dump(status, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+
 def write_all_json(
     data_dir: Path,
     all_passports_data: dict[str, list[dict[str, Any]]]

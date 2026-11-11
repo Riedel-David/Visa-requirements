@@ -4,7 +4,7 @@ This document describes the JSON schema for the visa requirements dataset, inten
 
 ## Overview
 
-The dataset is published in three main formats:
+The dataset is published in these main formats (plus `status.json`, see below):
 
 1. **`index.json`** - Metadata about all available passports
 2. **`passports/<ISO2>.json`** - Per-passport visa requirements (e.g., `passports/DE.json`)
@@ -14,7 +14,7 @@ All files are served via GitHub Pages: `https://riedel-david.github.io/Visa-requ
 
 ## JSON Schema
 
-The authoritative JSON Schema is available at: `src/visa_pipeline/schema/passport.schema.json`
+The authoritative JSON Schemas are in `src/visa_pipeline/schema/`: `passport.schema.json`, `index.schema.json`, `status.schema.json`.
 
 ## File Formats
 
@@ -47,6 +47,31 @@ Provides metadata for all passports and helps detect changes:
 ```
 
 **Usage**: Compare `source_revision` to detect if a passport's data has changed. It moves only when the visa data changes, not on every Wikipedia edit.
+
+### `status.json`
+
+Rewritten on every pipeline run (also when no data changed), so it tells you whether the data is fresh and complete. `index.json` stays unchanged when the data does.
+
+```json
+{
+  "schema_version": "1.0.0",
+  "last_checked_at": "2026-11-09T04:17:31Z",
+  "last_run_status": "partial",
+  "dataset_version": "data-2026-11-09",
+  "passports_total": 199,
+  "passports_stale": [
+    {"passport": "DE", "reason": "blocked", "latest_seen_revision": 1383000000,
+     "data_revision": 1379323599, "consecutive_runs": 2}
+  ]
+}
+```
+
+- `last_checked_at`: UTC time of the last completed run. `source_timestamp` and `source_revision` only move when a passport's data changes, so they cannot tell "checked and unchanged" from "stale"; this field can.
+- `last_run_status`: `ok`, or `partial` when `passports_stale` is non-empty.
+- `dataset_version`: `data-YYYY-MM-DD` of the run date. A date label; a git tag of that name exists only for runs that changed data.
+- `passports_stale`: passports whose published data is older than their Wikipedia page. `reason` is `blocked` (change exceeded the safety thresholds, old data kept), `failed` (parse error or no rows, old data kept) or `cooling_off` (latest edit under 24h old, deferred). `data_revision` is the revision of the published data (`null` if none), `latest_seen_revision` the page's newest revision. `consecutive_runs` counts runs in a row with this reason.
+
+**Usage**: alert or show a warning if `last_checked_at` is older than about 10 days (runs are weekly). For a passport listed in `passports_stale`, its data is older than the Wikipedia page; it is still the last validated data.
 
 ### `passports/<ISO2>.json`
 
@@ -221,7 +246,8 @@ Current version: `1.0.0`
 ## Stability Guarantees
 
 - Field names and types are stable within a major version
-- The status enum may expand with new values (minor version bump)
+- The status enum may expand with new values (minor version bump). Consumers must treat any unknown `status` value as `special`.
+- `status.json` is versioned independently of the data files (its own `schema_version`); adding it did not change the data files, so their version stays `1.0.0`
 - Records may have `null` for nullable fields (always check before accessing)
 - The `notes` field is free-form text and should not be parsed programmatically
 

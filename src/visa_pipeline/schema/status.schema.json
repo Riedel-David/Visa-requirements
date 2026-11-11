@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Riedel-David/Visa-requirements/schema/status.schema.json",
+  "title": "Pipeline Status",
+  "description": "Freshness and completeness of the dataset, rewritten on every pipeline run",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "last_checked_at",
+    "last_run_status",
+    "dataset_version",
+    "passports_total",
+    "passports_stale"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$"},
+    "last_checked_at": {"type": "string", "format": "date-time"},
+    "last_run_status": {"type": "string", "enum": ["ok", "partial"]},
+    "dataset_version": {"type": "string", "pattern": "^data-\\d{4}-\\d{2}-\\d{2}$"},
+    "passports_total": {"type": "integer", "minimum": 0},
+    "passports_stale": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["passport", "reason", "latest_seen_revision", "data_revision", "consecutive_runs"],
+        "additionalProperties": false,
+        "properties": {
+          "passport": {"type": "string", "pattern": "^[A-Z]{2}$"},
+          "reason": {"type": "string", "enum": ["blocked", "failed", "cooling_off"]},
+          "latest_seen_revision": {"type": ["integer", "null"]},
+          "data_revision": {"type": ["integer", "null"]},
+          "consecutive_runs": {"type": "integer", "minimum": 1}
+        }
+      }
+    }
+  }
+}

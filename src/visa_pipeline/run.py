@@ -15,6 +15,7 @@ from .transclusions import TEMPLATE_TITLE, parse_template
 from .validate import (
     load_schema,
     validate_passport_file,
+    validate_status_file,
     load_previous_passport,
     check_safety,
     get_changes_for_changelog
@@ -23,6 +24,8 @@ from .publish import (
     format_passport_data,
     write_passport_file,
     write_index_json,
+    build_status,
+    write_status_json,
     write_all_json,
     write_changelog,
     write_report,
@@ -35,6 +38,10 @@ logger = logging.getLogger(__name__)
 
 # A changed page younger than this is deferred (vandalism usually gets reverted quickly)
 COOLING_OFF_HOURS = 24
+
+# A passport blocked by the safety thresholds this many runs in a row makes the run exit
+# non-zero (after everything is written), so the failed-run notification fires
+BLOCKED_ALERT_RUNS = 3
 
 
 def compute_parser_fingerprint() -> str:
@@ -136,6 +143,50 @@ def save_revisions_state(state_dir: Path, revisions: dict[str, dict[str, Any]]) 
     with open(revisions_file, "w") as f:
         json.dump(revisions, f, indent=2, ensure_ascii=False)
         f.write("\n")
+
+
+def load_stale_state(state_dir: Path) -> dict[str, dict[str, Any]]:
+    """Load per-passport stale tracking: iso2 -> {reason, consecutive_runs, latest_seen_revision}."""
+    stale_file = state_dir / "stale.json"
+    if not stale_file.exists():
+        return {}
+
+    with open(stale_file) as f:
+        return json.load(f)
+
+
+def save_stale_state(state_dir: Path, stale: dict[str, dict[str, Any]]) -> None:
+    """Save stale tracking state file."""
+    state_dir.mkdir(parents=True, exist_ok=True)
+    with open(state_dir / "stale.json", "w") as f:
+        json.dump(dict(sorted(stale.items())), f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+
+def update_stale_state(
+    previous: dict[str, dict[str, Any]],
+    stale_now: dict[str, dict[str, Any]],
+    processed: set[str],
+    known: set[str]
+) -> dict[str, dict[str, Any]]:
+    """Compute the new stale state.
+
+    Passports processed this run (``processed``) are recounted: stale ones continue
+    their streak when the reason is unchanged (else restart at 1), clean ones are
+    dropped. Entries for passports not processed (``--only``) carry over unchanged
+    if still ``known``.
+    """
+    new_state = {iso2: entry for iso2, entry in previous.items()
+                 if iso2 not in processed and iso2 in known}
+    for iso2, entry in stale_now.items():
+        prev = previous.get(iso2)
+        runs = prev["consecutive_runs"] + 1 if prev and prev["reason"] == entry["reason"] else 1
+        new_state[iso2] = {
+            "reason": entry["reason"],
+            "consecutive_runs": runs,
+            "latest_seen_revision": entry["latest_seen_revision"],
+        }
+    return new_state
 
 
 def needs_update(
@@ -341,6 +392,7 @@ def run(
 
     all_changes = []
     blocked_passports = {}
+    stale_now: dict[str, dict[str, Any]] = {}
     exit_code = 0
 
     # Load schema
@@ -358,6 +410,7 @@ def run(
                 "passport": iso2,
                 "reason": "no revision info"
             })
+            stale_now[iso2] = {"reason": "failed", "latest_seen_revision": None}
             stored_revisions.pop(iso2, None)
             exit_code = 1
             continue
@@ -370,6 +423,7 @@ def run(
         if is_cooling_off(iso2, revid, timestamp, stored_revisions, data_dir, now):
             logger.info(f"{iso2}: Latest revision {revid} is under {COOLING_OFF_HOURS}h old, deferred")
             results["deferred"].append({"passport": iso2, "revid": revid, "timestamp": timestamp})
+            stale_now[iso2] = {"reason": "cooling_off", "latest_seen_revision": revid}
             continue
 
         # Check if update needed
@@ -421,6 +475,7 @@ def run(
                     "passport": iso2,
                     "reason": "no rows parsed (new page)"
                 })
+                stale_now[iso2] = {"reason": "failed", "latest_seen_revision": revid}
                 stored_revisions.pop(iso2, None)
                 # Don't write file, don't change exit code, keep going
                 continue
@@ -445,6 +500,7 @@ def run(
                         "passport": iso2,
                         "reason": reason
                     })
+                    stale_now[iso2] = {"reason": "failed", "latest_seen_revision": revid}
                     stored_revisions.pop(iso2, None)
                     exit_code = 1
                     # Keep old file unchanged (already loaded in index/all)
@@ -456,6 +512,7 @@ def run(
                     "passport": iso2,
                     "reason": reason
                 })
+                stale_now[iso2] = {"reason": "blocked", "latest_seen_revision": revid}
                 stored_revisions.pop(iso2, None)
                 blocked_passports[iso2] = {
                     "title": title,
@@ -516,6 +573,7 @@ def run(
                 "passport": iso2,
                 "reason": str(e)
             })
+            stale_now[iso2] = {"reason": "failed", "latest_seen_revision": revid}
             stored_revisions.pop(iso2, None)
             exit_code = 1
 
@@ -532,10 +590,29 @@ def run(
     # Save revisions state
     save_revisions_state(state_dir, stored_revisions)
 
+    # Track how many runs in a row each passport has been stale
+    stale_state = update_stale_state(
+        load_stale_state(state_dir), stale_now,
+        processed={p["passport"] for p in mapped_pages}, known=mapped_iso2s)
+    save_stale_state(state_dir, stale_state)
+    passports_stale = [
+        {
+            "passport": iso2,
+            "reason": entry["reason"],
+            "latest_seen_revision": entry["latest_seen_revision"],
+            "data_revision": passport_metadata[iso2]["revid"] if iso2 in passport_metadata else None,
+            "consecutive_runs": entry["consecutive_runs"],
+        }
+        for iso2, entry in stale_state.items()
+    ]
+    status = build_status(now, len(passport_metadata), passports_stale)
+    validate_status_file(status, load_schema(Path(__file__).parent / "schema" / "status.schema.json"))
+
     # Write output files
     logger.info("Writing output files...")
     write_index_json(data_dir, passport_metadata, blocked_passports)
     write_all_json(data_dir, all_passports_data)
+    write_status_json(data_dir, status)
     try:
         write_csv_exports(data_dir, all_passports_data)
     except Exception as e:
@@ -550,5 +627,12 @@ def run(
         logger.info("Deferred (cooling-off): " + ", ".join(d["passport"] for d in results["deferred"]))
     logger.info(f"Pipeline complete - {results['pages_parsed']} parsed, "
                 f"{len(results['deferred'])} deferred, {results['rows']} rows")
+
+    long_blocked = sorted(e["passport"] for e in status["passports_stale"]
+                          if e["reason"] == "blocked" and e["consecutive_runs"] >= BLOCKED_ALERT_RUNS)
+    if long_blocked:
+        logger.error(f"Blocked by safety thresholds for {BLOCKED_ALERT_RUNS}+ runs in a row: "
+                     + ", ".join(long_blocked))
+        exit_code = 1
 
     return exit_code
