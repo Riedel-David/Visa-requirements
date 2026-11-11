@@ -161,19 +161,20 @@ def _is_decorative_flag(template) -> bool:
 
 
 def _split_flag_pair(cell_text: str) -> list[str]:
-    """Split "{{flag|A}} and {{flag|B}}" into two single-destination cells.
+    """Split "{{flag|A}} and {{flag|B}}" into single-destination cells.
 
-    Only when the cell is nothing but flag templates joined by "and" / "&" / ",";
-    anything else (area text, footnotes, one flag) is returned whole.
+    Only plain {{flag}} templates (not flagicon/flagu, which decorate a sovereign),
+    with nothing between consecutive flags but "and" / "&" / ",", and nothing before
+    or after them. Anything else, or a repeated flag, is returned whole.
     """
     flags = [t for t in mwparserfromhell.parse(cell_text).filter_templates(recursive=False)
-             if 'flag' in t.name.strip().lower() and not _is_decorative_flag(t)]
-    if len(flags) < 2:
+             if t.name.strip().lower() == 'flag' and not _is_decorative_flag(t)]
+    if len(flags) < 2 or len({str(t) for t in flags}) < len(flags):
         return [cell_text]
-    rest = cell_text
-    for t in flags:
-        rest = rest.replace(str(t), '', 1)
-    if re.sub(r'\b(and)\b|[&,\s]', '', rest, flags=re.IGNORECASE):
+    pieces = re.split('|'.join(re.escape(str(t)) for t in flags), cell_text)
+    if pieces[0].strip() or pieces[-1].strip():
+        return [cell_text]
+    if not all(re.fullmatch(r'\s*(and|&|&amp;|,)\s*', p, re.IGNORECASE) for p in pieces[1:-1]):
         return [cell_text]
     return [str(t) for t in flags]
 
@@ -400,6 +401,7 @@ def _parse_table_rows(table_text: str, passport: str, section_name: str,
         for row in data_rows:
             cells = _split_flag_pair(row[dest_col]) if dest_col in row else []
             if len(cells) > 1:
+                result.warnings.append(f"Split destination cell into {len(cells)} records: {cells}")
                 expanded.extend({**row, dest_col: c} for c in cells)
             else:
                 expanded.append(row)

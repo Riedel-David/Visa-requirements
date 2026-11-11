@@ -295,3 +295,18 @@ class TestTwoPlaceCells:
         result = self._parse(transcl, 'Chinese', 'CN')
         gb = [r for r in result.records if r['destination'] == 'GB' and not r['area']]
         assert len(gb) == 1 and gb[0]['status'] == 'visa_required'
+
+
+@pytest.mark.parametrize('cell,expected', [
+    ('{{flag|A}} and {{flag|B}}', 2),
+    ('{{flag|A}}, {{flag|B}} & {{flag|C}}', 3),
+    ('{{flagicon|Finland}} {{flag|Åland}}', 1),
+    ('{{flagicon|Belarus}} {{flag|Brest}} and {{flag|Grodno}}', 1),
+    ('{{flagu|Cyprus}} {{flagicon|United Nations}}', 1),
+    ('{{flag|A}} and {{flag|B}} and', 1),
+    ('{{flag|A}} {{flag|A}}', 1),
+    ('{{flag|A}} or {{flag|B}}', 1),
+    ('{{flag|A}}', 1),
+])
+def test_split_flag_pair(cell, expected):
+    assert len(extract_main._split_flag_pair(cell)) == expected
