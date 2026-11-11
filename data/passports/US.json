@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "US",
   "source_title": "Visa requirements for United States citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-  "source_revision": "1379509330",
-  "source_timestamp": "2026-10-10T11:41:43Z",
-  "generated_at": "2026-10-30T10:54:16.110232+00:00",
+  "source_revision": "1383116952",
+  "source_timestamp": "2026-11-01T02:00:07Z",
+  "generated_at": "2026-11-11T14:52:24.061688+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -35,7 +35,7 @@
       "notes": "Extension possible with a fee.\nIris scan taken on arrival.\nU.S. passport holders can sign up for E-Gate access on arrival/departure at Dubai International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -49,7 +49,7 @@
       "notes": "e-Visa : Visitors must arrive at Kabul International (KBL).\nVisitors born in Afghanistan do not require a visa.\nAll visitors are required to register with the Ministry of Foreign Affairs upon arrival.\nThe U.S. government forced all Afghan diplomatic missions in the U.S. to close in March 2022. Applicants must now obtain a visa from a mission in another country, unless applying for a visitor eVisa online.\nSince 2024, the Taliban only accepts visas issued by approved diplomatic missions, though those who have already entered on a visa issued by another mission are allowed to stay.\nThe U.S. government advises its citizens not to visit Afghanistan due to civil unrest, crime, terrorism, risk of wrongful detention, kidnapping, and limited health facilities. U.S. citizens in Afghanistan are urged to depart immediately via commercial means if possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -63,7 +63,7 @@
       "notes": "Stringent application of rules regarding proof of sufficient funds, return ticket and accommodation.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -91,7 +91,7 @@
       "notes": "One must leave for 90 days to reset the visa-free period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -105,7 +105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -119,7 +119,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -133,7 +133,7 @@
       "notes": "Special permits required for Bouvet Island, British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australia Australian Antarctic Territory, Antártica Chilena Province Chilean Antarctic Territory, Australia Heard Island and McDonald Islands, Norway Peter I Island, Norway Queen Maud Land, New Zealand Ross Dependency.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -147,7 +147,7 @@
       "notes": "Extendable up to 180 days.\nArgentina requires travelers to have health insurance prior to the arrival as of July 2025.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -161,7 +161,7 @@
       "notes": "By being Argentine territories, the same visa policy applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -175,7 +175,7 @@
       "notes": "Those classed as Samoan under local law enjoy permanent residence",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -189,7 +189,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.\nResidence permit (''Aufenthaltstitel'') for stays of longer than 90 days obtainable after arrival under certain conditions.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -203,7 +203,7 @@
       "notes": "eTA fee is AUD$20\n90 days on each visit in 12-month period if granted.\nMay enter using SmartGate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -217,7 +217,7 @@
       "notes": "Special authorisation required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -231,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -245,7 +245,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -259,7 +259,7 @@
       "notes": "Visitors departing from New York can obtain a visa at the airport upon arrival in Baku, however no airline currently operates this route. Visa can be obtained on arrival in certain emergency situations.\nIf staying in Azerbaijan for more than ten days, visitors must register at the State Migration Service within three days of arrival.\nApplicants of Armenian ancestry or with Armenian visas in their passport may be denied a visa.\nTravellers with a visa or evidence of travel to the now-defunct Republic of Artsakh (stamps) are permanently denied entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -273,7 +273,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -287,7 +287,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -301,7 +301,7 @@
       "notes": "Visa on arrival is available at Dhaka, Chittagong, and Sylhet international airports, pre arrival visa required if arriving by sea or by land border crossing.\nNo visa required for Bangladeshi Americans and their spouse and children with a copy of a former Bangladeshi passport, a Dual Nationality Certificate, NVR, a Bangladeshi NID, or a digital birth registration certificate.\nThe VOA fee is 50 USD, excluding processing fees.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -315,7 +315,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area\nResidence permit (''Titre de séjour''/''Verblijfstitel''/''Aufenthaltstitel'') obtainable after arrival for stays longer than 90 days under certain conditions.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -329,7 +329,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.\nThe U.S. government advises its citizens not to visit Burkina Faso for any reason due to terrorism, crime, and kidnapping.\nFollowing Niger's example, Burkina Faso has suspended visa services for U.S. citizens and barred Americans from entering.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -343,7 +343,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -359,7 +359,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -375,7 +375,7 @@
       "notes": "Visa on arrival obtainable at Bujumbura International Airport, and all land borders.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -389,7 +389,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.\nThree types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -403,7 +403,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -417,7 +417,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -431,13 +431,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "BQ",
       "destination_name": "Caribbean Netherlands",
-      "area": "(Bonaire, St. Eustatius and Saba)",
+      "area": "Bonaire, St. Eustatius and Saba",
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 180,
@@ -445,7 +445,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -459,7 +459,7 @@
       "notes": "Brazilian authorities have announced that United States citizens will require a visa beginning April 10, 2025. United States citizens will be able to obtain visas online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -473,7 +473,7 @@
       "notes": "Passport card or enhanced drivers license valid for sea travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -487,7 +487,7 @@
       "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.\nTour guide required for all travelers except in city of Thimpu and Paro. Even in these cities, tourists are not permitted to enter any tourist attraction without a guide. They are only allowed to walk and shop around these cities without a guide.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -501,7 +501,7 @@
       "notes": "90 days within any 1-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -515,7 +515,7 @@
       "notes": "The U.S. government advises its citizens not to visit Belarus due to the Belarusian authorities’ arbitrary enforcement of local laws, the risk of detention, the continued facilitation of Russia’s war against Ukraine, the potential of civil unrest, and the Embassy’s limited ability to assist U.S. citizens residing in or traveling to Belarus. U.S. citizens in Belarus are advised to depart immediately.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -529,7 +529,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -543,7 +543,7 @@
       "notes": "Mandatory Car Disinfection at border. If one fails to do so, they will be sent back to go through this procedure. A fee does apply.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -557,7 +557,7 @@
       "notes": "Anyone with a criminal record (including misdemeanors or alcohol-related driving offenses in the US) may not be able to enter Canada without first obtaining an approval for rehabilitation or a Temporary Resident Permit (TRP).\nPassport Card, NEXUS card, or enhanced drivers license valid for land and sea travel.\nUnited States citizens and permanent residents are exempt from obtaining Canada ETA.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -571,7 +571,7 @@
       "notes": "90 days; Passports and visas are not required when travelling from the Australian mainland. However, photographic identification must be produced for clearance through Customs and Immigration. Normal Australian Customs and Immigration procedures apply when entry is made from outside Australia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -585,7 +585,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.\nRegistration required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -599,7 +599,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.\nThe U.S. government advises its citizens not to visit Central African Republic (CAR) due to armed conflict, crime, civil unrest, and kidnapping, as well as Embassy Bangui’s limited capacity to provide support to U.S. citizens.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -613,7 +613,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.\nIn April 2019 Congolese authorities announced a plan to introduce an electronic visa in August 2019. Visa applications can already be submitted online at the Republic of the Congo embassy in France website.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -627,7 +627,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -641,7 +641,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.\nInternational Certificate of Vaccination or Prophylaxis required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -655,7 +655,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -669,7 +669,7 @@
       "notes": "No reciprocity fees required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -683,7 +683,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis and current immunization records required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -697,7 +697,7 @@
       "notes": "'''''This entry is about formal laws. '''''\n30-day visa‑free entry to Hainan Province if arriving at the island from outside Mainland China.\n240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n* During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits.\n24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport.\n* Travellers who need to leave the airport may obtain a temporary entry permit from immigration.\n5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.\nMay apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.\nVisas for U.S. citizens are valid for up to 10 years.\nU.S. citizens arriving via cruise ports as part of tour groups are visa exempt for stays of up to 15 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -711,7 +711,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -725,7 +725,7 @@
       "notes": "Tibet Travel Permit required in addition to Chinese visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -739,7 +739,7 @@
       "notes": "Extendable up to 180-days stay within a one-year period\nColombian-born U.S. citizens and U.S. citizens traveling with children may face special exit requirements.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -753,7 +753,7 @@
       "notes": "Visitors arriving at Gustavo Rojas Pinilla International Airport and Alfredo Vásquez Cobo International Airport must buy tourist cards on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -767,7 +767,7 @@
       "notes": "90 days out of any 12-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -781,7 +781,7 @@
       "notes": "Tourist travel is prohibited under U.S. law for U.S. citizens, permanent residents, and others subject to U.S. jurisdiction. Under the Cuban Assets Control Regulations, all persons subject to U.S. jurisdiction are not permitted to travel to Cuba unless licensed to engage in travel-related transactions. In addition to specific licenses granted by the Office of Foreign Assets Control (OFAC), there are 12 \"general licenses\" that people can choose to travel on without being required to notify OFAC, and the broad and self-reported nature of these licenses means travel is in practice subject to few restrictions.\nCuba requires travelers to purchase a tourist card prior to arrival, which can be obtained from the airline or a Cuban diplomatic mission. Tourist cards are valid for one entry and a 30-day stay, which can be extended once by 90 days at a hotel or immigration office in Cuba.\nCuba requires travelers to have health insurance valid in Cuba, which can be purchased from the airline.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -795,7 +795,7 @@
       "notes": "Must register online at least five days prior to arrival.\nVisitors must pay the Airport Security Fee (TSA) before visiting. The cost is 3,400 CVE (approx. 31 EUR) and can be paid via the online platform (EASE).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -809,7 +809,7 @@
       "notes": "Maximum consecutive period of six months each calendar year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -823,7 +823,7 @@
       "notes": "90 days; Passports and visas are not required when travelling from the Australian mainland. However, photographic identification must be produced for clearance through Customs and Immigration. Normal Australian Customs and Immigration procedures apply when entry is made from outside Australia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -837,7 +837,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -851,7 +851,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -865,7 +865,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area\nResidence permit (''Aufenthaltstitel'') for stays of longer than 90 days obtainable after arrival under certain conditions.\nGermany requires that all passports be signed.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -879,7 +879,7 @@
       "notes": "e-Visas valid at any port of entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -893,7 +893,7 @@
       "notes": "U.S. citizens can enter Denmark for up to 90 days out of any 180 day period, regardless of time spent in other Schengen countries prior to entry into Denmark.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -907,7 +907,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -921,7 +921,7 @@
       "notes": "Extendable up to 90 days.\nPassport card or enhanced drivers license valid for sea travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -935,7 +935,7 @@
       "notes": "Application for a tourist visa to Algeria must be accompanied by a certificate of accommodation.\nPersons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\nPersons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\nVisitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -949,7 +949,7 @@
       "notes": "Extendable for another 90 days, per year",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -963,7 +963,7 @@
       "notes": "60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -977,7 +977,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -993,7 +993,7 @@
       "notes": "e-Visa issued for 30 days.\nVisa-free travel for tourists arriving at Sharm El Sheikh, St. Catherine, or Taba airports and remaining in the Sinai resorts up to 15 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1007,7 +1007,7 @@
       "notes": "Permit required to leave capital.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1021,7 +1021,7 @@
       "notes": "Travel Permit for Foreigners is required to travel outside of the capital.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1035,7 +1035,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1051,7 +1051,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1065,7 +1065,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1079,7 +1079,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1093,13 +1093,13 @@
       "notes": "Special permission required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -1107,7 +1107,7 @@
       "notes": "A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1121,7 +1121,7 @@
       "notes": "Under Part 8 of the Federated States of Micronesia Immigration Regulations, a U.S. citizen entering the FSM to visit or remain is not required to obtain an entry permit, but must complete Form 5004 upon arrival.\nU.S. citizens entering the FSM have the right to reside, work and do business in the FSM without additional immigration-related documents or procedures, and are not required to register their presence in the FSM.\nUnlimited",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1135,7 +1135,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1149,7 +1149,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area (in Regions of France)\nA bilateral agreement pre-dating the Schengen area may allow 90 days of stay in France regardless of days spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1163,7 +1163,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1177,7 +1177,7 @@
       "notes": "International Certificate of Vaccination required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1191,7 +1191,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1205,7 +1205,7 @@
       "notes": "US Embassy in Libreville announced that effective January 1, 2026, Gabon has issued a reciprocal visa ban for U.S. Citizens.\ne-Visas are available for one to six months.\ne-Visa holders must arrive via Libreville International Airport.\nInternational Certificate of Vaccination or Prophylaxis required.\nEmbassy visas are valid for 5 years and multiple entries for US citizens",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1219,7 +1219,7 @@
       "notes": "An ETA is required to travel to the United Kingdom, including Northern Ireland.\neTA fee is £16\n6 months on each visit in 2-year period if granted.\nUp to 90 days if arriving from Ireland (Common Travel Area)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1233,7 +1233,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1247,7 +1247,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1261,7 +1261,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1275,7 +1275,7 @@
       "notes": "Pre approved visa can be obtained on arrival.\nInternational Certificate of Vaccination or Prophylaxis required.\nVisas for US citizens are either single entry or multiple entry and valid for 5 years. The fee for single entry 3 month validity is 60 USD and the fee for the multiple entry visa is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1289,7 +1289,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1303,7 +1303,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1317,7 +1317,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required only for travellers arriving high risk countries and having transited for more than 12 hours",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1331,7 +1331,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1345,7 +1345,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required if one is traveling from a country with risk of yellow fever.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1359,7 +1359,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1373,7 +1373,7 @@
       "notes": "Females and non-Christians denied entry.\nNon-Orthodox Christians may obtain a permit (diamonitirion) from the Mount Athos Pilgrims' Bureau in Thessaloniki authorizing a stay of up to 4 days, limited to 10 people per day.\nOrthodox Christians may obtain a permit for a stay of up to 4 days, limited to 100 people per day.\nArrangements must be made in advance with monastic communities for accommodation. Persons may only stay in a monastery for one night.\nA permit may be issued to persons for 4-365 days to stay at one specific monastery in limited conditions.\nOrthodox clerics must also receive permission from the Ecumenical Patriarchate of Constantinople in Istanbul\nVisitors may only arrive by sea.\nCertificate of Baptism required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1387,7 +1387,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1401,7 +1401,7 @@
       "notes": "Part of the Central America-4 Free Mobility Agreement.\nIn the CA4 area, one gets 90 days total for the entire area. To reset one's stay, they must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1415,7 +1415,7 @@
       "notes": "U.S. citizens and U.S. nationals citizens may live and work freely in Guam.\nPassport / EDL is required for entry. Under certain circumstances, a government issued photo ID and proof of citizenship may be used in lieu a passport on a case-by-case basis.\nUnlimited",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1429,7 +1429,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1443,7 +1443,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1457,7 +1457,7 @@
       "notes": "Visa required for holders of US diplomatic passports",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1471,7 +1471,7 @@
       "notes": "Part of the Central America-4 Free Mobility Agreement.\nIn the CA4 area, one gets 90 days total for the entire area. To reset one's stay, they must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1485,7 +1485,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1499,7 +1499,7 @@
       "notes": "Travel currently almost impossible due to gang violence. Only open borders are the sea borders. Air borders are currently not open, nor is the border with the Dominican Republic.\nForeign visitors are required to pay a US$10 Tourist visa fee.\nThe U.S. government advises its citizens not to visit Haiti due to kidnapping, crime, terrorist activity, civil unrest, and limited health care.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1513,7 +1513,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1527,7 +1527,7 @@
       "notes": "Can be bought for IDR 500.000 (approx. US$35).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1541,7 +1541,7 @@
       "notes": "Residence permit for stays of longer than 90 days obtainable after arrival under certain conditions.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1555,7 +1555,7 @@
       "notes": "ETA-IL fee is 25 NIS\n90 days on each visit in 2-year period if granted.\nDual nationals of Israel and the United States who don't have an Israeli passport, including infants, may be required to obtain an Israeli passport in order to leave Israel.\nEntry prohibited for any person \"who knowingly issues a public call for boycotting Israel\".",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1569,7 +1569,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1583,7 +1583,7 @@
       "notes": "American citizens are also eligible for a ten-year, multiple-entry tourist visa.\nAmerican citizens of Pakistani heritage are not eligible for an eVisa nor are they eligible for a ten-year, multiple-entry tourist visa, and must apply for a regular visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1597,7 +1597,7 @@
       "notes": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh.\nRestricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim.\nSome of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1611,7 +1611,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1625,7 +1625,7 @@
       "notes": "Authorities in Iraq have decided to remove the visa-on-arrival requirement for nationals of the European Union and several other countries, requiring them to now apply for an e-visa to enter Iraq through the official platform.\nThe U.S. government advises its citizens not to visit Iraq for any reason due to terrorism, kidnapping, armed conflict, civil unrest, and the U.S. government’s limited ability to provide emergency services to U.S. citizens in Iraq.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1639,7 +1639,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1653,7 +1653,7 @@
       "notes": "Iranian visas must be obtained from the Iranian Interests section of the Embassy of Pakistan, Washington, D.C. or an Iranian embassy in a third country.\nIndependent travelers must be accompanied by an authorized guide at all times.\nAdmission refused if passport contains stamps or visas issued by Israel.\nThe U.S. government advises its citizens not to visit Iran due to the risk of terrorism, civil unrest, kidnapping, arbitrary arrest of U.S. citizens, and wrongful detention.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1667,7 +1667,7 @@
       "notes": "Tourists for Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1681,7 +1681,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1695,7 +1695,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area\nA bilateral agreement pre-dating the Schengen area may allow 90 days of stay in Italy regardless of days spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1709,7 +1709,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1723,7 +1723,7 @@
       "notes": "Departure tax collected by airline for all arrivals by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1739,7 +1739,7 @@
       "notes": "Visa can be obtained upon arrival.\nNot available at King Hussein/Allenby Bridge\nCrossing via any border with Israel may cause issues when entering some countries.\nVisa fee can be waived with Jordan Pass and three night hotel stay.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1753,7 +1753,7 @@
       "notes": "Persons who have been sentenced to 1 year or more of jail are not eligible for visa free travel to Japan. United States citizens are also eligible for a Japanese eVisa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1767,7 +1767,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1781,7 +1781,7 @@
       "notes": "30 days within any 60-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1797,7 +1797,7 @@
       "notes": "Visa is also obtainable online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1811,7 +1811,7 @@
       "notes": "May not exceed 90 days within any 12-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1825,7 +1825,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1839,7 +1839,7 @@
       "notes": "ETA fee is 17 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1853,7 +1853,7 @@
       "notes": "U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel. Such validations are only ever issued if travel is in the interests of US national security.\nUnited States citizens require a visa when traveling to North Korea; as there is no North Korean diplomatic mission in the United States, US citizens must obtain a visa from a diplomatic mission in a third country.\nU.S. secretary of state Rex Tillerson authorized a ban on American travel to North Korea that went into effect in August 2017, following the death of Otto Warmbier, a US student who was detained in North Korea and sentenced to 15 years of hard labor for allegedly stealing a propaganda poster.\nThe U.S. government advises its citizens not to visit North Korea for any reason due to the continuing serious risk of arrest, long-term detention, and the threat of wrongful detention of U.S. nationals.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1867,7 +1867,7 @@
       "notes": "From September 2021, travelers require the Korean Electronic Travel Authorization (K-ETA). The validity period is 3 years from the date of approval.\nThe government of the Republic of Korea announced that from April 1, 2023, to December 31, 2026, a K-ETA is not required for 27 countries citizens visiting Korea for 90 days or less for business or tourism.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1883,7 +1883,7 @@
       "notes": "Visa fee is 10 KWD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1897,7 +1897,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1911,7 +1911,7 @@
       "notes": "Visa free was granted in 2014 under the unilateral visa waiver for countries with high investment in the Kazakhstan economy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1925,7 +1925,7 @@
       "notes": "Special permission required for the city of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Priozersk near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1941,7 +1941,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1955,7 +1955,7 @@
       "notes": "Extendable for 2 additional months.\nVisa waiver granted if there is no Israeli visa or seal and traveler has a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.\nPagers and handheld radios prohibited from boarding flights in Lebanon to protect aviation safety.\nThe US government advises its citizens not to visit Lebanon due to crime, terrorism, civil unrest, kidnapping, unexploded landmines, and the risk of armed conflict.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1964,12 +1964,12 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1983,7 +1983,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -1999,7 +1999,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2013,7 +2013,7 @@
       "notes": "All persons entering Liberia are required to have a valid Certificate of Immunization (Yellow Book).\n3-year Multiple Entry Visa is the only option.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2027,7 +2027,7 @@
       "notes": "Extendable up to 180 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2041,7 +2041,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.\nMandatory medical insurance.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2055,7 +2055,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2069,7 +2069,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.\nA bilateral agreement pre-dating the Schengen area allows an additional 90 days of stay in Latvia (to a total of 180) regardless of days spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2083,7 +2083,7 @@
       "notes": "The U.S. government advises its citizens not to visit Libya due to crime, terrorism, unexploded landmines, civil unrest, kidnapping, and armed conflict. U.S. citizens who are in Libya are urged to depart as soon as possible via commercial means if possible.\nIndependent travel is not permitted, and visitors must organize their visit through a tour guide. A tourist police escort is required at all times.\nAn eVisa will not be granted without a sponsor or tour agency.\nA security letter issued by the Libyan Immigration Authorities may also be required.\nHolders of passports containing an Israeli stamp or visa will be refused entry in Libya.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2097,7 +2097,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2111,7 +2111,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2125,7 +2125,7 @@
       "notes": "90 days within any 180-day period.\nIf entering Moldova through Transnistria, visitors should register their arrival with Moldovan authorities within three days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2139,7 +2139,7 @@
       "notes": "Registration with the local police within 24 hours of arrival is mandatory.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2155,7 +2155,7 @@
       "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2169,7 +2169,7 @@
       "notes": "Section 112 of the Immigration Act 2006 provides that a person who is not a citizen of the Republic may enter only if they hold a visa or are exempt from the requirement to hold a visa.\nSection 113 of the Immigration Act 2006 exempts citizens of the United States, Palau and the Federated States of Micronesia from the requirement to hold a visa to enter the Republic.\nExempt persons remain subject to immigration clearance procedures upon arrival and departure and may be refused entry if ineligible for an entry permit under section 114.\nUnlimited",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2183,7 +2183,7 @@
       "notes": "Registration with the local police within 24 hours of arrival is mandatory.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2197,7 +2197,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.\nVisas for U.S. citizens are valid for 5 years and are 185 USD.\nThe U.S. government advises its citizens not to visit Mali due to crime, terrorism, and kidnapping.\nFollowing Niger's example, Mali has suspended visa services for U.S. citizens and barred Americans from entering.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2211,7 +2211,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings at Tachileik, Myawaddy, Kawthaung, Rih Khaw Dar or Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\nThe U.S. government advises its citizens not to visit Myanmar due to armed conflict, the potential for civil unrest, arbitrary enforcement of local laws, poor health infrastructure, land mines and unexploded ordnance, crime, and wrongful detentions.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2225,13 +2225,13 @@
       "notes": "Registration required after 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "MO",
       "destination_name": "Macau",
-      "area": "Macau",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -2239,7 +2239,7 @@
       "notes": "Visa required for holders of US diplomatic passports",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2253,7 +2253,7 @@
       "notes": "U.S. citizens and U.S. nationals citizens may live and work freely in the Northern Mariana Islands.\nPassport / EDL is not required for entry of U.S. Citizens.\nUnlimited",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2267,7 +2267,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required only for travellers arriving from high risk countries",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2281,7 +2281,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2295,7 +2295,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2309,7 +2309,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2323,7 +2323,7 @@
       "notes": "Extendable up to 90 days.\nPermission from the Maldivian government required to travel to non resort islands.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2337,7 +2337,7 @@
       "notes": "Tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of the Maldives.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2353,7 +2353,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2367,7 +2367,7 @@
       "notes": "Visitors must obtain a Multiple Immigration Form. There is no charge for a tourist FMM for stays of less than 7 days when entering by land. For visitors staying more than 7 days and entering by land, it will cost 687 Mexican pesos or around US$40. The FMM is required for all visitors entering via air, regardless of length of stay, and the cost is included in the traveler's airfare and remitted by the airline.\nPassport card or enhanced drivers license is valid for land and sea travel.\nExit stamp required if one entered using paper FMM (All land POEs)\nA person is in Mexico illegally if they did not get a FMM at the border (even if using the 7 day FMM fee exemption via land) or eFMM\nMandatory car disinfection at Mexico's southern borders (Guatemala and Belize)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2381,7 +2381,7 @@
       "notes": "Immigration offenses, such as visa overstaying, are punishable by caning.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2395,7 +2395,7 @@
       "notes": "These states have their own immigration authorities and a passport is required to travel to them, but the same visa applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2409,7 +2409,7 @@
       "notes": "Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2425,7 +2425,7 @@
       "notes": "Beginning April 1st, 2025, US citizens will have to obtain a visa for Namibia. US citizens will be issued with visas on arrival upon payment of a designated fee.\nCan be obtained online or on arrival for a fee of N$1,600 (approximately €82 / US$88).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2439,7 +2439,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2453,7 +2453,7 @@
       "notes": "Holders of a pre-approved confirmation from the National Police may obtain a visa on arrival (flyer visa) upon arrival at Niamey. The passport will be compounded for 1 working day and the traveler is required to appear at the Director General of Immigration the next working day to register and collect their passport.\nInternational Certificate of Vaccination or Prophylaxis required.\nThe U.S. government advises its citizens not to travel to Niger due to crime, unrest, terrorism, health, and kidnapping.\nNiger has suspended issuance of visas to U.S. citizens and openly barred Americans from entering.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2467,7 +2467,7 @@
       "notes": "30 days; Visa is issued upon arrival for a visit of up to max stay of 120 days, for holders of a multiple entry Electronic Travel authority (ETA) issued by Australia, valid 30 days beyond the period of intended stay in Norfolk Island.\nFrom 1 July 2016 all movement between Norfolk Island and Australian mainland are considered as domestic movement, however all passenger are still required to carry passports or, for Australian citizens, some type of photographic identification and pass Customs and Immigration. Normal Australian Customs and Immigration procedures apply when entry is made from outside Australia. Passenger not carrying their passports are not eligible to purchase duty-free goods on Norfolk Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2481,7 +2481,7 @@
       "notes": "Business eVisas-on-arrival available for \"Frequently Traveled Business Persons of International Reputes\" or \"Executives of Multi-national Companies\", as well as for government officials\nInternational Certificate of Vaccination or Prophylaxis required if arriving from a country with a risk of yellow fever transmission.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2495,7 +2495,7 @@
       "notes": "Tourist card must be purchased upon arrival.\nPart of the Central America-4 Free Mobility Agreement.\nIn the CA4 area, a person gets 90 days total for the entire area. To reset their stay, they must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2509,7 +2509,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area (European Netherlands).\nResidence permit (''Verblijfstitel'') for stays of longer than 90 days obtainable after arrival under certain conditions.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2523,7 +2523,7 @@
       "notes": "3 months within a 6-month period, regardless of previous time spent in other Schengen countries, but including time spent in other Nordic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2537,7 +2537,7 @@
       "notes": "Permit issued by the local police required for stays less than 24 hours\nPermit issued by the Norwegian police required for stays of more than 24 hours.\n24 hours",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2553,7 +2553,7 @@
       "notes": "Obtainable at Tribhuvan International Airport and certain land borders.\nTotal aggregate stay of no more than 150 days in any given calendar year.\nU.S. citizens are eligible for five-year multiple entry visas.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2567,7 +2567,7 @@
       "notes": "Visas are issued with validity of 30 days.\nVisa can be obtained in the Nauruan Press Office at the United Nations.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2581,7 +2581,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2595,7 +2595,7 @@
       "notes": "eTA fee is NZD$17 requested via mobile app or NZD$23 requested via online plus an International Visitor Conservation and Tourism Levy (IVL) of NZD$100 must be paid. IVL not required for American Samoan citizens.\n3 months on each visit in 2-year period if granted.\nMay enter using eGate.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement).\nStrict enforcement of food import laws, fines of NZD$400 for not declaring food.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2611,7 +2611,7 @@
       "notes": "Visa exemption valid for 14 days, e-Visa for 30 days.\nHolders of a visa or entrance stamp of the Emirate of Dubai that is valid for at least 21 days are visa exempt.\nHolders of a visa for Qatar that is valid for travel to Oman and valid for at least one month are visa exempt when arriving directly from Qatar.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2625,7 +2625,7 @@
       "notes": "Denial of entry or transit to any person who has a criminal conviction.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2639,7 +2639,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2653,7 +2653,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2667,7 +2667,7 @@
       "notes": "Extendable for 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2681,7 +2681,7 @@
       "notes": "Naturalized US citizens who have ever held Philippine nationality (current or formerly) allowed to stay for up to one year as a ''balikbayan''. This extends to their spouse and children of any age traveling with the dual-citizen/former Filipino, and present proof of association such as their marriage or birth certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2695,7 +2695,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2709,13 +2709,13 @@
       "notes": "90 days within any 180-day period in the Schengen Area.\nDual nationals must use their Polish passport.\nA bilateral agreement pre-dating the Schengen area allows a stay in Poland of 90 days, regardless of days spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 14,
@@ -2723,7 +2723,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2737,13 +2737,13 @@
       "notes": "U.S. citizens and U.S. nationals may live and work freely in Puerto Rico.\nPassport/EDL is not required for entry of U.S. Citizens.\nUnlimited",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2751,7 +2751,7 @@
       "notes": "Travel to Gaza Strip may be restricted.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2765,7 +2765,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2779,7 +2779,7 @@
       "notes": "No visa is required for stays of one year or less.\nPassport must have six months' validity beyond arrival and at least one blank page available for stamp.\nYellow fever vaccination is required if arriving from certain countries in South America or Africa; cholera vaccination is required if arriving from certain countries experiencing outbreaks.\nAmounts of US$10,000 or more must be declared on entry and exit.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2793,7 +2793,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2807,7 +2807,7 @@
       "notes": "Effective October 1, 2024, eligible US citizens will be granted 90 days visa free travel to the State Of Qatar\nVisa issued upon arrival for no cost. There is a QAR 76 entry fee, valid for 90 days.\nPersons with unpaid fines are prohibited from departing Qatar.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2821,7 +2821,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2835,7 +2835,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2849,7 +2849,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2863,7 +2863,7 @@
       "notes": "72-hour visa-free transit for international cruise ship/ferry passengers only if travelling with an organized tour and accompanied at all times by a tour operator.\nRegistration required after 7 business days.\nRussia signed the \"Shared Values Visa\" law on August 19, 2024, aimed at simplifying the residence permits for citizens of countries that do not conform to Russia's traditional spirit and values. This means that one can obtain a three-month temporary residency without passing the exam. The focus of this law is to simplify the residence permit for foreign citizens with traditional Russian spirit and values. As long as they comply with Russian values, foreign citizens do not need to prove their knowledge of Russian language, Russian history, or Russian law (without examination), and can obtain a temporary residence permit for three months. By simplifying the process, more people can be attracted to settle in Russia, and these foreign citizens must come from countries that oppose Russian values. This list applies to 47 regions, including United States.\nAmerican citizens may receive multiple-entry visas valid for three years.\nResidents of Alaska who are members of the indigenous population do not require a visa to visit Chukotka Autonomous Okrug if they have relatives (blood relatives, members of the same tribe, native people who have similar language and cultural heritage) in Chukotka. Individuals must be invited by a relative in Chukotka and must leave Chukotka within 90 days. Entry points are in Anadyr, Provideniya, Lavrentiya and Uelen.\nThe U.S. government advises its citizens not to visit Russia for any reason for the following reasons:\n* Danger associated with the continuing war between Russia and Ukraine.\n* The risk of harassment or wrongful detention by Russian security officials.\n* The arbitrary enforcement of local laws.\n* The possibility of terrorism.\nUS citizens in Russia are advised to leave immediately.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2877,7 +2877,7 @@
       "notes": "Several closed cities and regions in Russia require special authorization.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2893,7 +2893,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required only if arriving from high risk countries as defined by WHO.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2909,7 +2909,7 @@
       "notes": "Access to Mecca and Medina are restricted to Muslims only and non-Muslims are denied entry.\nImport of alcohol strictly prohibited.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2923,7 +2923,7 @@
       "notes": "Non-Muslims and those following the Ahmadiyya religious movement are strictly prohibited from entry.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2937,7 +2937,7 @@
       "notes": "3 months within 12 months.\nVisitors visa issued upon arrival for free.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2951,7 +2951,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2965,7 +2965,7 @@
       "notes": "If arriving from a country of high yellow fever risk and stayed for more than 12 hours, then Yellow Fever vaccine required.\nExit visa required.\nRegistration within 3 days mandatory.\nThe U.S. government advises its citizens not to visit Sudan due to armed conflict, civil unrest, crime, terrorism, and kidnapping.\nKhartoum International Airport is currently closed, making it very difficult for Americans to leave the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2979,7 +2979,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -2993,7 +2993,7 @@
       "notes": "All foreigners traveling more than 25 kilometers outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3007,7 +3007,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3021,7 +3021,21 @@
       "notes": "US citizens can use Automated Border Control",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
+    },
+    {
+      "passport": "US",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "visa_free",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3035,21 +3049,7 @@
       "notes": "3 months within any 1-year period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
-    },
-    {
-      "passport": "US",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "visa_free",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": null,
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3063,7 +3063,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island\n20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3077,7 +3077,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.\nRegistration with the local police required within 72 hours of arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3091,7 +3091,7 @@
       "notes": "Anyone of any nationality may live and work freely in Svalbard per the Svalbard Treaty.\nUnlimited",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3105,7 +3105,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.\nMedical insurance required.\nSufficient funds of US$50 per person per day required.\nRegistration within 3 working days required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3121,7 +3121,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3135,7 +3135,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3149,7 +3149,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3163,7 +3163,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey.\nThe U.S. government advises its citizens not to visit Somalia due to crime, terrorism, civil unrest, health, kidnapping, piracy, and lack of availability of routine consular services.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3177,7 +3177,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3191,7 +3191,7 @@
       "notes": "Printed visa authorization must be presented at the time of travel.\nInternational Certificate of Vaccination or Prophylaxis required.\nThe US government advises its citizens not to visit South Sudan due to the security situation in the country. Crime, kidnappings, and armed conflict are present throughout the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3205,7 +3205,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3219,13 +3219,13 @@
       "notes": "Part of the Central America-4 Free Mobility Agreement. One ninety-day extension may be granted if applied five days before the first expires.\nIn the CA4 area, one gets 90 days total for the entire area. To reset one's stay, they must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 180,
@@ -3233,7 +3233,7 @@
       "notes": "Maximum stay allowed is 6 months uninterrupted with the possibility to extend.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3249,7 +3249,7 @@
       "notes": "The eVisa portal is currently suspended.\nPersons with passports bearing Israeli visas or entry/exit stamps are denied entry.\nVisa not required for foreign citizens with proof of Syrian origin, such as an identification card or passport.\nDual-citizen males ages 17–42 need military service book.\nIf not forgiven by the military, dual-citizens may apply for a visit visa once a year through the embassy.\nThe U.S. government advises its citizens not to visit Syria for any reason due to the risk of terrorism, unrest, kidnapping, hostage taking, crime, and armed conflict.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3263,7 +3263,7 @@
       "notes": "Extendable up to 60 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3277,7 +3277,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3291,7 +3291,7 @@
       "notes": "On June 5, 2025, Chad suspended visa issuances to U.S. citizens in response to Donald Trump's travel ban; visas issued on or prior to June 5, 2025 will still be honored until their expiration.\nDual-citizens of Chad can still travel to Chad but can only travel with a valid Chad passport.\nPassengers with an entry authorisation issued by the authorities of Chad can obtain a visa on arrival.\nInternational Certificate of Vaccination or Prophylaxis required only if arriving from a high risk country as defined by the WHO.\nRegistration within 72 hours is mandatory prior to arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3305,7 +3305,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3319,7 +3319,7 @@
       "notes": "Visa waiver program rules:\n# One can enter for 30 days per visa exempt stay.\n# One can enter an unlimited number of times via air.\n# Maximum of two entries if entering by sea or land. Else, one need hard visa.\n# Overstayers will be banned and fined upon departure depending on length of overstay.\nAll passengers must complete the Thai Digital Arrival Card (TDAC), which is available starting 3 days before arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3335,7 +3335,7 @@
       "notes": "e-Visa also available.\ne-Visa holders can enter through all border points.\nVisa waiver stay is 30 days.\ne-Visa gives a stay of 60.\n/ 60 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3349,7 +3349,7 @@
       "notes": "OIVR permit required.\nSpecial permit required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3363,7 +3363,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3377,7 +3377,7 @@
       "notes": "For arrivals by air only",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3391,7 +3391,7 @@
       "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.\nWhen transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3405,7 +3405,7 @@
       "notes": "A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3419,7 +3419,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3433,7 +3433,7 @@
       "notes": "Visas issued upon arrival at no charge to the passenger. Valid for 31 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3447,7 +3447,7 @@
       "notes": "Tourism and business purposes only.\nMaximum stay of 90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3461,7 +3461,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3475,7 +3475,7 @@
       "notes": "Extendable up to 3 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3489,7 +3489,7 @@
       "notes": "Persons importing pork to Taiwan can be fined up to 1 million NT if caught.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3505,7 +3505,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3519,7 +3519,7 @@
       "notes": "90 days within any 180-day period\nEntry via Russian occupied territories are considered illegal and will result in legal consequences\nEntry only possible via land or sea following closure of air borders on February 24, 2022 due to the Russian invasion of Ukraine.\nThe U.S. government advises its citizens not to visit Ukraine due to Russia's aggression towards Ukraine.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3533,7 +3533,7 @@
       "notes": "Visa issued by Russia is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3547,7 +3547,7 @@
       "notes": "Crossing from Ukraine requires visit purpose to be explained to Ukrainian passport control on exit and those who entered from Russia are not allowed to proceed further into Ukraine.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3561,7 +3561,7 @@
       "notes": "Must apply online at least 2 business days prior to travel.\nAirlines may deny passengers permission to board flights to Uganda without proof that they had successfully applied for an eVisa.\nUgandan immigration authorities may require additional documentation, including proof of a return plane ticket and detailed tour itinerary in Uganda.\nInternational Certificate of Vaccination or Prophylaxis required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3575,7 +3575,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3589,7 +3589,7 @@
       "notes": "5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.\nRegistration within 3 days is mandatory.\nStarting January 1, 2026, all U.S. citizens will be able to enter Uzbekistan visa-free and stay for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3603,7 +3603,7 @@
       "notes": "Open borders but ''de facto'' follows Italian visa policy.\nNo foreign accommodations, residency restricted to Vatican citizens only.\nEven though no hotels exist in the Vatican, there is no limit to how many times a person may enter the country in a year.\nN/A",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3617,7 +3617,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3631,13 +3631,13 @@
       "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -3645,13 +3645,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3659,7 +3659,7 @@
       "notes": "U.S. citizens and U.S. nationals may live and work freely in the U.S. Virgin Islands.\nPassport / EDL is not required for entry of U.S. Citizens.\nUnlimited",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3673,7 +3673,7 @@
       "notes": "e-Visa is valid up to the exit date stated on application with a maximum length of 90 days, single and multiple entry options.\nPhú Quốc visa exemption for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3687,7 +3687,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3701,7 +3701,7 @@
       "notes": "Extendable up to 120 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3715,7 +3715,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3729,7 +3729,7 @@
       "notes": "Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3743,7 +3743,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3757,7 +3757,7 @@
       "notes": "Under certain conditions, may be only thirty or sixty days",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3771,7 +3771,7 @@
       "notes": "To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3785,7 +3785,7 @@
       "notes": "Obtainable on arrival or at the Somaliland Mission in Alexandria, VA.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3799,7 +3799,7 @@
       "notes": "Visitors must complete and obtain a temporary migration card at the border checkpoint. The maximum period of stay is 45 days, and it can be extended multiple times through this card.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3813,7 +3813,7 @@
       "notes": "Undefined visa regime in the Western Sahara, same entry requirements with Morocco, controlled territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3827,7 +3827,7 @@
       "notes": "Exit visa required for stays over 30 days.\nPassengers can transit without visa with a confirmed onward ticket for a flight to a third country within 24 hours. They must stay in the international transit area of the airport and have documents required for the next destination.\nPassengers can transit without visa with a confirmed onward ticket for a flight to a third country within 24 hours. They must stay in the international transit area of the airport and have documents required for the next destination.\nSeparately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).\nThe U.S. government advises its citizens not to visit Yemen due to terrorism, civil unrest, crime, health risks, kidnapping, armed conflict, and landmines.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3841,7 +3841,7 @@
       "notes": "Special permission needed for travel outside Sanaa or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3855,7 +3855,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3869,7 +3869,7 @@
       "notes": "Holders of passports without 2 blank pages may be denied entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3883,7 +3883,7 @@
       "notes": "Visitors are eligible for a universal (KAZA) visa allowing access to Zimbabwe.\nInternational Certificate of Vaccination or Prophylaxis required only travellers arriving from certain places as defined by Government. Please check the WHO 2020 Yellow Fever vaccination requirements document for exact list.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     },
     {
       "passport": "US",
@@ -3899,7 +3899,7 @@
       "notes": "Visitors are eligible for a universal (KAZA) visa allowing access to Zambia.\nTourism purposes only.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330"
+      "source_revision": "1383116952"
     }
   ]
 }

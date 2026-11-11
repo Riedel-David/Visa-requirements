@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "GB",
   "source_title": "Visa requirements for British citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-  "source_revision": "1382143140",
-  "source_timestamp": "2026-10-26T21:45:21Z",
-  "generated_at": "2026-10-30T15:04:30.008330+00:00",
+  "source_revision": "1384511376",
+  "source_timestamp": "2026-11-08T16:19:56Z",
+  "generated_at": "2026-11-11T14:49:41.901003+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -35,7 +35,7 @@
       "notes": "Individuals wishing to stay longer may make a request with the Immigration Officer at the airport or contact the local General Directorate of Residency and Foreign Affairs at least 3 days prior to the expiry date.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -49,7 +49,7 @@
       "notes": "e-Visa : Visitors must arrive at Kabul International (KBL).\nDue to safety concerns, the UK Government advises its citizens to avoid travelling to Afghanistan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -77,7 +77,7 @@
       "notes": "British citizens with a connection to the territory have right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -105,7 +105,7 @@
       "notes": "Visa upon arrival for a maximum term of 180 days in a year.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -119,7 +119,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -133,7 +133,7 @@
       "notes": "Special permits required for French Southern and Antarctic Lands, Argentine Antarctica, Australia Australian Antarctic Territory, Antártica Chilena Province Chilean Antarctic Territory, Australia Heard Island and McDonald Islands, Norway Peter I Island, Norway Queen Maud Land, New Zealand Ross Dependency.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -161,7 +161,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -175,7 +175,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -189,7 +189,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -203,7 +203,7 @@
       "notes": "If granted, eVisitor allows British citizens to stay in Australia for 90 days per visit. Multiple entry allowed during the eVisitor visa 12 months period.\nIssued free of charge and valid for 1 year.\nAccording to HPI (Henley Passport Index) methodology pre-departure government approval, like eVisitor manual processing is not considered as visa free.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -217,7 +217,7 @@
       "notes": "Special authorisation required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -231,7 +231,7 @@
       "notes": "Visa not required for 30 days, extendable to 180 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -245,7 +245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -259,7 +259,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -273,7 +273,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -287,7 +287,7 @@
       "notes": "Visa on arrival available at Hazrat Shahjalal International Airport",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -301,7 +301,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -315,7 +315,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -329,7 +329,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -345,7 +345,7 @@
       "notes": "Visas can be issued on arrival for a stay up to 3 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -361,7 +361,7 @@
       "notes": "From December 2021, passengers of all countries that required visa, can now obtain visa on arrival at Bujumbura International Airport, and all land borders.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -375,7 +375,7 @@
       "notes": "Must have an international vaccination certificate.\nThree types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -389,7 +389,7 @@
       "notes": "British citizens with a connection to the territory have right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -403,7 +403,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -417,7 +417,7 @@
       "notes": "As of 2025, travellers may be given an initial 30 days stamp (on arrival) and can extend it for another 60 days.\nThe Department of Immigration has imposed an annual limit for tourists of 90 days without a visa. For longer periods advice must be sought before travelling from the Bolivian Embassy in London.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -431,7 +431,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -445,7 +445,7 @@
       "notes": "As of 2025, UK passport holders are exempt from VIVIS as long as their stay does not exceed 90 days per year (counted from the date of first entry, multiple entries permitted).\nExtension of stay: the stay may be extended for up to the same amount of time granted upon first entry (i.e. up to 90, 60 or 30 days).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -459,7 +459,7 @@
       "notes": "Extendable up to 8 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -473,7 +473,7 @@
       "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -487,7 +487,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -501,7 +501,7 @@
       "notes": "Visa free until 31st December 2026.\nDue to safety concerns, the UK Government advises its citizens to avoid travelling to Belarus.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -515,7 +515,7 @@
       "notes": "Visa-free for 10 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -529,7 +529,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -543,7 +543,7 @@
       "notes": "Electronic Travel Authorization required if arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -557,7 +557,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -571,7 +571,7 @@
       "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Central African Republic.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -585,7 +585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -599,7 +599,7 @@
       "notes": "UK citizens do not require an entry visa for Switzerland for either short stays or for long stays (over 90 days).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -613,7 +613,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -627,7 +627,7 @@
       "notes": "Visa not required for 31 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -641,7 +641,7 @@
       "notes": "May be extended.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -655,7 +655,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -669,7 +669,7 @@
       "notes": "30-day visa-free stay if arriving by December 31, 2026.\n30-day visa-free stay in Hainan Island, if arriving on the island directly from outside Mainland China such as Hong Kong, Macau, Taiwan, or any country with direct flights to the island.\n240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n* During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits.\n24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport.\n* Travellers who need to leave the airport may obtain a temporary entry permit from immigration.\n5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.\nMay apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.\nVisiting visas issued to British citizens are generally valid for 2 years.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -683,7 +683,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -697,7 +697,7 @@
       "notes": "Tibet Travel Permit required (10 USD).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -711,7 +711,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -725,7 +725,7 @@
       "notes": "Visitors arriving at Gustavo Rojas Pinilla International Airport and Alfredo Vásquez Cobo International Airport must buy tourist cards on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -739,7 +739,7 @@
       "notes": "As of 2025, British passport holders can visit Costa Rica without a visa for up to 180 days under a tourist visa waiver. The exact period is at the discretion of the immigration officer on arrival. If they plan to work, or stay for a longer period, the visitor must consult the Costa Rican Embassy in the UK.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -753,7 +753,7 @@
       "notes": "As of July 2025, an evisa is needed (online) for single entry 90 day period. Visa is extendable.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -767,7 +767,7 @@
       "notes": "Must register online at least five days prior to arrival.\nVisitors must pay the Airport Security Fee (TSA) before visiting. The cost is 3,400 CVE (approx. 31 EUR) and can be paid via the online platform (EASE).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -781,7 +781,7 @@
       "notes": "Visa not required for 3 months.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -795,7 +795,7 @@
       "notes": "90 days within 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -809,7 +809,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -823,7 +823,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -837,7 +837,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -851,7 +851,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -865,7 +865,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -879,7 +879,7 @@
       "notes": "Will normally be granted a 30-day stay on arrival. This can be extended up to 120 days by an extension online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -893,7 +893,7 @@
       "notes": "Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\nVisitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -907,7 +907,7 @@
       "notes": "As of 2025, can enter without a visa for up to 90 days in any 12-month period.\nIf British passport holders are already in Ecuador and want to stay longer than 90 days, they pay to extend their stay by an extra 90 days. They must apply for an extension before the first 90-day period ends.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -921,7 +921,7 @@
       "notes": "60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -935,7 +935,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -951,7 +951,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -965,7 +965,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -979,7 +979,7 @@
       "notes": "Visa covers Asmara only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -993,7 +993,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1009,7 +1009,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1023,7 +1023,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1037,7 +1037,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1051,13 +1051,13 @@
       "notes": "Special permission required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -1065,7 +1065,7 @@
       "notes": "A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month.\nVisitors who have a connection with the Falkland Islands have right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1079,7 +1079,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1093,7 +1093,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1107,7 +1107,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1121,7 +1121,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1135,7 +1135,7 @@
       "notes": "French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1149,7 +1149,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1163,7 +1163,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1177,7 +1177,7 @@
       "notes": "Beginning on 1 December 2020, all travellers to Grenada will be required to complete an online application in order to receive a Pure Safe Travel Authorization Certificate to enter Grenada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1191,7 +1191,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1205,7 +1205,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1219,7 +1219,7 @@
       "notes": "Anyone working and/or living in Guernsey requires a Permit/Certificate to do so.\nIn Alderney, a work or employment permit is required for persons without Guernsey (Alderney) status.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1233,7 +1233,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1247,7 +1247,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area, strictly for tourism only with no right to live and work in Gibraltar, unless they are also a Gibraltar resident.\nBritish nationals and EEA nationals, who want to live and work in Gibraltar must apply for a resident permit, subject to age, salary level and business registration requirements.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1261,7 +1261,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1275,7 +1275,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1289,7 +1289,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1303,7 +1303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1317,7 +1317,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1331,7 +1331,7 @@
       "notes": "Special permit required (4 days: EUR 25 for Orthodox visitors, EUR 35 for non-Orthodox visitors, EUR 18 for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1345,7 +1345,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for £110/160).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1359,7 +1359,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1373,7 +1373,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1387,7 +1387,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1401,7 +1401,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1415,21 +1415,21 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "HN",
       "destination_name": "Honduras",
       "area": null,
-      "status": "visa_required",
+      "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
+      "allowed_stay_days": 90,
+      "allowed_stay_raw": "90 days",
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1443,7 +1443,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1457,7 +1457,7 @@
       "notes": "Due to security concerns, the UK government advises its citizens to avoid travelling to Haiti.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1471,7 +1471,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1485,7 +1485,7 @@
       "notes": "The (Visa on Arrival) costs 500,000 Indonesian rupiah (£25), payable in cash or by card. It is valid for single entry only. Travellers must meet passport validity requirements and have a return or onward ticket. Visas prior to arrival are available online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1499,7 +1499,7 @@
       "notes": "British citizens have many of the same rights and entitlements as Irish citizens\nFreedom of movement (Common Travel Area).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1513,7 +1513,7 @@
       "notes": "Entry refused to anyone who \"knowingly issues a public call for boycotting Israel.\"",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1527,7 +1527,7 @@
       "notes": "Work or employment permit is required for persons without \"Isle of Man worker\" status.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1541,7 +1541,7 @@
       "notes": "30 days, 1 year and 5 years of eTourist visa is now available from [https://indianvisaonline.gov.in/evisa/tvoa.html Indian eVisa]. However this service is not available for British citizens of Pakistani origin (i.e. someone with at least 1 Pakistani parent or grandparent).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1555,7 +1555,7 @@
       "notes": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1569,7 +1569,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1583,7 +1583,7 @@
       "notes": "British citizens are no longer able to get a visit visa on arrival in Iraq. They must apply for a visa on the e-visa portal of the Government of Iraq at least 24 hours before travel. The visa costs 160 USD and is valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1597,7 +1597,7 @@
       "notes": "30 days; An Iraqi Kurdistan e-Visa does not grant access to the rest of Iraq.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1611,7 +1611,7 @@
       "notes": "British citizens must have their visa stamped in their passport in advance of arrival in Iran.\nDue to security concerns, the UK Government advises its citizens to avoid travelling to Iran.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1625,7 +1625,7 @@
       "notes": "Tourists for Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1639,7 +1639,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1653,7 +1653,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1667,7 +1667,7 @@
       "notes": "Work or employment permit is not required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1681,7 +1681,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1697,7 +1697,7 @@
       "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings (except King Hussein/Allenby Bridge)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1711,7 +1711,7 @@
       "notes": "Visitors can travel to Japan for tourism or business for up to 90 days. A visa is given on arrival; it is not necessary to apply before travel. The Japan immigration authorities may extend that visa by another 90 days at their discretion. Extensions do not happen automatically and must be applied for.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1725,7 +1725,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.\nVisitors can also be entered on an East Africa tourist visa issued by Rwanda or Uganda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1739,7 +1739,7 @@
       "notes": "30 days within any 60-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1755,7 +1755,7 @@
       "notes": "Extendable for another 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1769,7 +1769,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1783,7 +1783,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1797,7 +1797,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1811,7 +1811,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1825,7 +1825,7 @@
       "notes": "People are not allowed to leave the capital city, tourists may only leave the capital with a governmental tourist guide (no independent visits)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1839,7 +1839,7 @@
       "notes": "K-ETA exemption until the end of 2026.\nBritish citizens can enter South Korea as a short term visit (e.g., tours, visiting relatives or friends, attending simple meetings) up to 90 days without a visa, though they should remain aware of the quarantine requirements. An onward or return ticket is mandatory. It is illegal to work on a tourist visa, whether as a teacher or in any other capacity.\nOne must be in possession of a Korea Electronic Travel Authorization (K-ETA) to enter Korea visa-free, which can be completed up to 24 hours before boarding a flight, and is valid for 3 years from the date of approval. There is a small, non-refundable charge.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1855,7 +1855,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1869,7 +1869,7 @@
       "notes": "British citizens with a connection to the territory have right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1883,7 +1883,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1897,7 +1897,7 @@
       "notes": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1913,7 +1913,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1927,7 +1927,7 @@
       "notes": "Extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non-refundable return or circle trip ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1936,12 +1936,12 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1955,7 +1955,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1969,7 +1969,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1983,7 +1983,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -1997,7 +1997,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2011,7 +2011,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2025,7 +2025,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2039,7 +2039,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2053,7 +2053,7 @@
       "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Libya.\nIndependent travel is not permitted, and visitors must organize their visit through a tour guide. A tourist police escort is required at all times.\nAn eVisa will not be granted without a sponsor or tour agency.\nA security letter issued by the Libyan Immigration Authorities may also be required.\nHolders of passports containing an Israeli stamp or visa will be refused entry in Libya.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2067,7 +2067,7 @@
       "notes": "For periods of longer than 90 days, a resident permit is required and can be issued by the Police Department in place of residence in Morocco.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2081,7 +2081,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2095,7 +2095,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2109,7 +2109,7 @@
       "notes": "Must register with the local police station (either through a tourist organization or at hotel reception) within 24 hours of arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2125,7 +2125,7 @@
       "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2139,7 +2139,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2153,7 +2153,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2167,7 +2167,7 @@
       "notes": "Due to safety concerns, the UK Government advises its citizens to avoid travelling to Mali.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2181,7 +2181,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business purposes (allowed stay is 70 days).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2195,13 +2195,13 @@
       "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "MO",
       "destination_name": "Macau",
-      "area": "Macau",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 180,
@@ -2209,7 +2209,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2223,7 +2223,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2237,7 +2237,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2251,7 +2251,7 @@
       "notes": "British citizens with a connection to the territory have right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2265,7 +2265,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2279,7 +2279,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2293,7 +2293,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2307,7 +2307,7 @@
       "notes": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2323,7 +2323,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2337,7 +2337,7 @@
       "notes": "Visa stamp (up to 180 days) length determined on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2351,7 +2351,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2365,7 +2365,7 @@
       "notes": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2381,7 +2381,7 @@
       "notes": "Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2397,7 +2397,7 @@
       "notes": "Can be obtained online or on arrival for a fee of N$1,600 (approximately €82 / US$88).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2411,7 +2411,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2425,7 +2425,7 @@
       "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Niger.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2439,7 +2439,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2453,7 +2453,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2467,7 +2467,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2481,7 +2481,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2495,7 +2495,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2511,7 +2511,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2525,7 +2525,7 @@
       "notes": "In addition of a visa, an application should be obtained by email via the Directorate of Immigration.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2539,7 +2539,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2553,7 +2553,7 @@
       "notes": "May enter using eGate.\nInternational Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2569,7 +2569,7 @@
       "notes": "/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2583,7 +2583,7 @@
       "notes": "As of 2024, British nationals entering Panama now have a 90 day (3 month) tourist visa stamped in their passport to mark entry to Panama. Extensions are not normally allowed unless an application is made to change immigration status within the 90 days (business, marriage).\nmaximum amount of time that British passport holders can stay in Panama as a tourist is three (3) months. If they want to stay longer than three months, they may extend their stay by applying for an extension through the Offices of Immigration in Panama. (Panama embassy U.K.)\nBritish nationals don't need a visa to visit Panama except if arriving by sea.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2597,7 +2597,7 @@
       "notes": "Visa stamp (up to 183 accumulated days within a 365 day period) length determined on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2611,7 +2611,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2627,7 +2627,7 @@
       "notes": "Visa on arrival is only available at Port Moresby Airport.\ne-Visa is available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2641,7 +2641,7 @@
       "notes": "A tourist visa is available from the Philippine Embassy before travelling, which will allow an initial total of 59-day stay.\nFor longer periods, a visa extension is available once inside the country from the Bureau of immigration.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2655,7 +2655,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2669,7 +2669,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2683,13 +2683,13 @@
       "notes": "Visa not required for 90 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 14,
@@ -2697,7 +2697,7 @@
       "notes": "Landing fee applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2711,13 +2711,13 @@
       "notes": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2725,7 +2725,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2739,7 +2739,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2753,7 +2753,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2767,7 +2767,7 @@
       "notes": "British passport holders do not need a visa to visit Paraguay. Normally permission to stay for 90 days on arrival. Staying for another 90 days, check with the [https://migraciones.gov.py/entrada-y-salida-del-pais/ Paraguayan Immigration Department] (in Spanish).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2781,7 +2781,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2795,7 +2795,7 @@
       "notes": "90 days within 180-day period.\nValid ID or Passport Required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2809,7 +2809,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2823,7 +2823,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2837,7 +2837,7 @@
       "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Russia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2851,7 +2851,7 @@
       "notes": "Several closed cities require special authorisation.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2865,7 +2865,7 @@
       "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2879,7 +2879,7 @@
       "notes": "e-Visa / Visa on arrival can also be obtained.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2893,7 +2893,7 @@
       "notes": "Non-Muslims and those following the Ahmadiyya religious movement are strictly prohibited from entry.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2907,7 +2907,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2921,7 +2921,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2935,7 +2935,7 @@
       "notes": "The UK government advises against all travel to Sudan due to the ongoing military conflict in Khartoum and other parts of the country, widespread violent crime, and a high threat of terrorism, kidnapping, enforced disappearances, and unlawful arrest. Khartoum International Airport is closed. While Port Sudan Airport is the only civilian airport operating international flights, it is subject to drone attacks and at high risk of intermittent closure. The British Embassy in Khartoum is closed, and consular support in Sudan is severely limited, with no in-person assistance available. The UK government is no longer evacuating people from Sudan, and any attempts to leave the country are at the individual's own risk.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2949,7 +2949,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2963,7 +2963,7 @@
       "notes": "All foreigners travelling more than 25 kilometres outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2977,7 +2977,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -2991,7 +2991,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
+    },
+    {
+      "passport": "GB",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "visa_free",
+      "alternative_statuses": [],
+      "allowed_stay_days": 183,
+      "allowed_stay_raw": "183 days",
+      "notes": "The entry permit costs £25 and is issued on arrival.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3005,21 +3019,7 @@
       "notes": "3 months within any year period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
-    },
-    {
-      "passport": "GB",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "visa_free",
-      "alternative_statuses": [],
-      "allowed_stay_days": 183,
-      "allowed_stay_raw": "183 days",
-      "notes": "The entry permit costs £25 and is issued on arrival.",
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3033,7 +3033,7 @@
       "notes": "Permission to land required: £15 for ship and £30 for yacht passengers for Tristan da Cunha Island; £20 for Gough Island, Inaccessible Island or Nightingale Islands unless there is a connection with Tristan da Cunha, in which case right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3047,7 +3047,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3061,7 +3061,7 @@
       "notes": "Unlimited Stay (Indefinite Stay).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3075,7 +3075,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3091,7 +3091,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3105,7 +3105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3119,7 +3119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3133,7 +3133,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3147,7 +3147,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3161,7 +3161,7 @@
       "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.\nPrinted visa authorization must be presented at the time of travel.\nDue to security concerns, the UK government advises its citizens to avoid travelling to South Sudan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3175,7 +3175,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3189,13 +3189,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3203,7 +3203,7 @@
       "notes": "Visa not required for 3 months.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3219,7 +3219,7 @@
       "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Syria.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3233,7 +3233,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3247,7 +3247,7 @@
       "notes": "British citizens with a connection to the territory have right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3261,7 +3261,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3275,7 +3275,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3289,7 +3289,7 @@
       "notes": "If not arriving by air, British citizens are only permitted two visits per year.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3303,7 +3303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3317,7 +3317,7 @@
       "notes": "OVIR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3331,7 +3331,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3345,7 +3345,7 @@
       "notes": "Visa on arrival is only available at the Presidente Nicolau Lobato International Airport or at the Dili Sea Port.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3359,7 +3359,7 @@
       "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.\nWhen transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3373,7 +3373,7 @@
       "notes": "A special permit, issued prior to arrival by the Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3387,7 +3387,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3401,7 +3401,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3415,7 +3415,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3429,7 +3429,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3443,13 +3443,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3457,7 +3457,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3473,7 +3473,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3487,7 +3487,7 @@
       "notes": "Due to ongoing Russian invasion of Ukraine, the UK Government advises its citizens to avoid travelling to Ukraine.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3501,7 +3501,7 @@
       "notes": "Can also be entered on an East Africa tourist visa issued by Kenya or Rwanda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3515,7 +3515,7 @@
       "notes": "ESTA is valid for 2 years from the date of issuance.\nESTA is also required when entering the country by cruise ship or land.\nA Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.\nVisa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3529,7 +3529,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3543,7 +3543,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3557,7 +3557,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3571,7 +3571,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3585,7 +3585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3599,7 +3599,7 @@
       "notes": "Entry is visa-free on a 'tourist card', issued on arrival. A return or onward travel ticket must be shown. Extensions of up to 90 days can be arranged at any SAIME (immigration service) for a fee and must apply before one's tourist card and stamp expire.\nOne can only apply for or extend their (residency permit) at the main SAIME office in Caracas.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3613,13 +3613,13 @@
       "notes": "All visitors are fingerprinted.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -3627,13 +3627,13 @@
       "notes": "Extension of stay possible.\nBritish citizens with a connection to the territory have right of abode.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "eta",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3641,7 +3641,7 @@
       "notes": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3655,7 +3655,7 @@
       "notes": "A single entry e-Visa valid for 90 days is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3669,7 +3669,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3683,7 +3683,7 @@
       "notes": "Visa not required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3697,7 +3697,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3711,7 +3711,7 @@
       "notes": "Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3725,7 +3725,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3739,7 +3739,7 @@
       "notes": "Visa-free access for 3 months. Passport required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3753,7 +3753,7 @@
       "notes": "To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3767,7 +3767,7 @@
       "notes": "Visa issued on arrival (30 days for 30 USD, payable on arrival).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3781,7 +3781,7 @@
       "notes": "Visitors must complete and obtain a temporary migration card at the border checkpoint. The maximum period of stay is 45 days, and it can be extended multiple times through this card.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3795,7 +3795,7 @@
       "notes": "Visa not required up to 3 months in the Western Sahara controlled territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3809,7 +3809,7 @@
       "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Yemen.\nSeparately, Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3823,7 +3823,7 @@
       "notes": "Special permission needed for travel outside Sanaa or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3837,7 +3837,7 @@
       "notes": "90 days within 180-day period\nValid ID or Passport Required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3851,7 +3851,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3865,7 +3865,7 @@
       "notes": "British citizens are eligible for a universal (KAZA) visa allowing access to Zimbabwe.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     },
     {
       "passport": "GB",
@@ -3881,7 +3881,7 @@
       "notes": "British citizens are eligible for a universal (KAZA) visa allowing access to Zambia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140"
+      "source_revision": "1384511376"
     }
   ]
 }

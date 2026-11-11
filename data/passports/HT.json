@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "HT",
   "source_title": "Visa requirements for Haitian citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens",
   "source_revision": "1380460234",
   "source_timestamp": "2026-10-15T20:55:25Z",
-  "generated_at": "2026-10-30T10:52:16.738147+00:00",
+  "generated_at": "2026-11-11T14:50:30.744907+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -2525,7 +2525,7 @@
       "passport": "HT",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "evisa",
       "alternative_statuses": [],
       "allowed_stay_days": null,

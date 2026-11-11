@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.0.0",
-  "generated_at": "2026-11-09T13:01:02.712563+00:00",
+  "schema_version": "1.1.0",
+  "generated_at": "2026-11-11T14:52:33.817710+00:00",
   "disclaimer": "Visa data is community-sourced from Wikipedia and may be incomplete, outdated or wrong. Always verify entry requirements with the official embassy or government source of the destination before travelling.",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -13,7 +13,7 @@
       "source_revision": "1345953817",
       "source_timestamp": "2026-03-29T04:13:41Z",
       "record_count": 197,
-      "last_changed": "2026-10-30T10:51:01.631524+00:00"
+      "last_changed": "2026-11-11T14:49:20.750310+00:00"
     },
     "AE": {
       "file": "passports/AE.json",
@@ -22,7 +22,7 @@
       "source_revision": "1382211590",
       "source_timestamp": "2026-10-27T09:19:45Z",
       "record_count": 250,
-      "last_changed": "2026-10-30T10:51:57.743458+00:00"
+      "last_changed": "2026-11-11T14:50:11.710358+00:00"
     },
     "AF": {
       "file": "passports/AF.json",
@@ -31,7 +31,7 @@
       "source_revision": "1376547486",
       "source_timestamp": "2026-09-24T21:10:00Z",
       "record_count": 241,
-      "last_changed": "2026-10-30T10:50:58.794717+00:00"
+      "last_changed": "2026-11-11T14:49:17.747194+00:00"
     },
     "AG": {
       "file": "passports/AG.json",
@@ -40,7 +40,7 @@
       "source_revision": "1369134863",
       "source_timestamp": "2026-08-13T03:05:31Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T12:02:14.864072+00:00"
+      "last_changed": "2026-11-11T14:49:22.763290+00:00"
     },
     "AL": {
       "file": "passports/AL.json",
@@ -49,7 +49,7 @@
       "source_revision": "1382895999",
       "source_timestamp": "2026-10-30T21:58:15Z",
       "record_count": 264,
-      "last_changed": "2026-11-02T12:32:34.743545+00:00"
+      "last_changed": "2026-11-11T14:49:18.783344+00:00"
     },
     "AM": {
       "file": "passports/AM.json",
@@ -58,7 +58,7 @@
       "source_revision": "1380688618",
       "source_timestamp": "2026-10-17T07:24:46Z",
       "record_count": 204,
-      "last_changed": "2026-10-30T15:04:12.987329+00:00"
+      "last_changed": "2026-11-11T14:49:24.712848+00:00"
     },
     "AO": {
       "file": "passports/AO.json",
@@ -67,7 +67,7 @@
       "source_revision": "1356522921",
       "source_timestamp": "2026-05-28T07:55:24Z",
       "record_count": 240,
-      "last_changed": "2026-11-09T12:57:55.658664+00:00"
+      "last_changed": "2026-11-11T14:49:21.680154+00:00"
     },
     "AR": {
       "file": "passports/AR.json",
@@ -76,7 +76,7 @@
       "source_revision": "1375994875",
       "source_timestamp": "2026-09-21T09:57:07Z",
       "record_count": 282,
-      "last_changed": "2026-10-30T10:51:04.847688+00:00"
+      "last_changed": "2026-11-11T14:49:23.910727+00:00"
     },
     "AT": {
       "file": "passports/AT.json",
@@ -85,16 +85,16 @@
       "source_revision": "1374271270",
       "source_timestamp": "2026-09-10T23:32:33Z",
       "record_count": 278,
-      "last_changed": "2026-10-30T15:04:14.868569+00:00"
+      "last_changed": "2026-11-11T14:49:26.901608+00:00"
     },
     "AU": {
       "file": "passports/AU.json",
       "source_title": "Visa requirements for Australian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700",
-      "source_timestamp": "2026-10-29T00:02:29Z",
+      "source_revision": "1383573974",
+      "source_timestamp": "2026-11-03T12:26:07Z",
       "record_count": 268,
-      "last_changed": "2026-10-30T17:07:05.819440+00:00"
+      "last_changed": "2026-11-11T14:49:25.866153+00:00"
     },
     "AZ": {
       "file": "passports/AZ.json",
@@ -103,7 +103,7 @@
       "source_revision": "1378047507",
       "source_timestamp": "2026-10-02T17:19:23Z",
       "record_count": 203,
-      "last_changed": "2026-10-30T10:51:12.235085+00:00"
+      "last_changed": "2026-11-11T14:49:27.772398+00:00"
     },
     "BA": {
       "file": "passports/BA.json",
@@ -112,7 +112,7 @@
       "source_revision": "1356518929",
       "source_timestamp": "2026-05-28T06:56:41Z",
       "record_count": 195,
-      "last_changed": "2026-10-30T10:51:23.192955+00:00"
+      "last_changed": "2026-11-11T14:49:38.755050+00:00"
     },
     "BB": {
       "file": "passports/BB.json",
@@ -121,7 +121,7 @@
       "source_revision": "1345338139",
       "source_timestamp": "2026-03-25T15:57:26Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:11.605429+00:00"
+      "last_changed": "2026-11-11T14:49:31.757093+00:00"
     },
     "BD": {
       "file": "passports/BD.json",
@@ -130,7 +130,7 @@
       "source_revision": "1370800580",
       "source_timestamp": "2026-08-23T04:14:34Z",
       "record_count": 194,
-      "last_changed": "2026-10-30T10:51:15.138707+00:00"
+      "last_changed": "2026-11-11T14:49:30.733431+00:00"
     },
     "BE": {
       "file": "passports/BE.json",
@@ -148,7 +148,7 @@
       "source_revision": "1345803694",
       "source_timestamp": "2026-03-28T08:19:29Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T10:51:29.320608+00:00"
+      "last_changed": "2026-11-11T14:49:44.761242+00:00"
     },
     "BG": {
       "file": "passports/BG.json",
@@ -157,7 +157,7 @@
       "source_revision": "1379559795",
       "source_timestamp": "2026-10-10T18:39:08Z",
       "record_count": 269,
-      "last_changed": "2026-10-30T15:04:32.020686+00:00"
+      "last_changed": "2026-11-11T14:49:43.887317+00:00"
     },
     "BH": {
       "file": "passports/BH.json",
@@ -166,7 +166,7 @@
       "source_revision": "1379877311",
       "source_timestamp": "2026-10-12T11:49:36Z",
       "record_count": 258,
-      "last_changed": "2026-10-30T11:58:35.103971+00:00"
+      "last_changed": "2026-11-11T14:49:29.807749+00:00"
     },
     "BI": {
       "file": "passports/BI.json",
@@ -175,7 +175,7 @@
       "source_revision": "1380598610",
       "source_timestamp": "2026-10-16T18:54:38Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:25.569096+00:00"
+      "last_changed": "2026-11-11T14:49:45.765140+00:00"
     },
     "BJ": {
       "file": "passports/BJ.json",
@@ -184,16 +184,16 @@
       "source_revision": "1380459510",
       "source_timestamp": "2026-10-15T20:50:26Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:15.651903+00:00"
+      "last_changed": "2026-11-11T14:49:35.755977+00:00"
     },
     "BN": {
       "file": "passports/BN.json",
       "source_title": "Visa requirements for Bruneian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
-      "source_revision": "1372302836",
-      "source_timestamp": "2026-08-31T05:04:00Z",
+      "source_revision": "1384098300",
+      "source_timestamp": "2026-11-06T15:50:57Z",
       "record_count": 262,
-      "last_changed": "2026-10-30T15:04:30.871601+00:00"
+      "last_changed": "2026-11-11T14:49:42.789517+00:00"
     },
     "BO": {
       "file": "passports/BO.json",
@@ -202,7 +202,7 @@
       "source_revision": "1356519429",
       "source_timestamp": "2026-05-28T07:04:17Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T17:07:17.586510+00:00"
+      "last_changed": "2026-11-11T14:49:37.728814+00:00"
     },
     "BR": {
       "file": "passports/BR.json",
@@ -211,7 +211,7 @@
       "source_revision": "1380975986",
       "source_timestamp": "2026-10-19T05:08:59Z",
       "record_count": 249,
-      "last_changed": "2026-10-30T17:07:20.665121+00:00"
+      "last_changed": "2026-11-11T14:49:40.838428+00:00"
     },
     "BS": {
       "file": "passports/BS.json",
@@ -220,7 +220,7 @@
       "source_revision": "1380459190",
       "source_timestamp": "2026-10-15T20:48:37Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:08.681167+00:00"
+      "last_changed": "2026-11-11T14:49:28.869636+00:00"
     },
     "BT": {
       "file": "passports/BT.json",
@@ -229,7 +229,7 @@
       "source_revision": "1373358597",
       "source_timestamp": "2026-09-05T15:24:59Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T17:07:16.691943+00:00"
+      "last_changed": "2026-11-11T14:49:36.798334+00:00"
     },
     "BW": {
       "file": "passports/BW.json",
@@ -238,7 +238,7 @@
       "source_revision": "1382504865",
       "source_timestamp": "2026-10-29T00:57:09Z",
       "record_count": 241,
-      "last_changed": "2026-10-30T17:07:19.628147+00:00"
+      "last_changed": "2026-11-11T14:49:39.770185+00:00"
     },
     "BY": {
       "file": "passports/BY.json",
@@ -247,7 +247,7 @@
       "source_revision": "1383290407",
       "source_timestamp": "2026-11-01T23:28:32Z",
       "record_count": 246,
-      "last_changed": "2026-11-09T12:58:06.704280+00:00"
+      "last_changed": "2026-11-11T14:49:32.758259+00:00"
     },
     "BZ": {
       "file": "passports/BZ.json",
@@ -256,16 +256,16 @@
       "source_revision": "1344952795",
       "source_timestamp": "2026-03-23T13:52:52Z",
       "record_count": 260,
-      "last_changed": "2026-10-30T15:04:22.898510+00:00"
+      "last_changed": "2026-11-11T14:49:34.772804+00:00"
     },
     "CA": {
       "file": "passports/CA.json",
       "source_title": "Visa requirements for Canadian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900",
-      "source_timestamp": "2026-10-26T00:56:03Z",
+      "source_revision": "1384441379",
+      "source_timestamp": "2026-11-08T06:31:06Z",
       "record_count": 194,
-      "last_changed": "2026-10-30T17:07:28.721688+00:00"
+      "last_changed": "2026-11-11T14:49:48.899751+00:00"
     },
     "CD": {
       "file": "passports/CD.json",
@@ -274,7 +274,7 @@
       "source_revision": "1356701204",
       "source_timestamp": "2026-05-29T08:37:23Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:43.576963+00:00"
+      "last_changed": "2026-11-11T14:50:03.772564+00:00"
     },
     "CF": {
       "file": "passports/CF.json",
@@ -283,7 +283,7 @@
       "source_revision": "1377134758",
       "source_timestamp": "2026-09-28T01:27:12Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:30.622451+00:00"
+      "last_changed": "2026-11-11T14:49:50.749258+00:00"
     },
     "CG": {
       "file": "passports/CG.json",
@@ -292,7 +292,7 @@
       "source_revision": "1376699555",
       "source_timestamp": "2026-09-25T19:01:35Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:20.621216+00:00"
+      "last_changed": "2026-11-11T14:51:38.765113+00:00"
     },
     "CH": {
       "file": "passports/CH.json",
@@ -310,7 +310,7 @@
       "source_revision": "1345812068",
       "source_timestamp": "2026-03-28T10:12:32Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:21.624796+00:00"
+      "last_changed": "2026-11-11T14:50:40.779695+00:00"
     },
     "CL": {
       "file": "passports/CL.json",
@@ -319,7 +319,7 @@
       "source_revision": "1380029979",
       "source_timestamp": "2026-10-13T10:39:33Z",
       "record_count": 270,
-      "last_changed": "2026-10-30T10:51:37.651621+00:00"
+      "last_changed": "2026-11-11T14:49:52.918680+00:00"
     },
     "CM": {
       "file": "passports/CM.json",
@@ -328,16 +328,16 @@
       "source_revision": "1366716456",
       "source_timestamp": "2026-07-29T19:19:16Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:27.641544+00:00"
+      "last_changed": "2026-11-11T14:49:47.761193+00:00"
     },
     "CN": {
       "file": "passports/CN.json",
       "source_title": "Visa requirements for Chinese citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
-      "source_revision": "1382178711",
-      "source_timestamp": "2026-10-27T02:49:11Z",
+      "source_revision": "1384593921",
+      "source_timestamp": "2026-11-09T01:29:49Z",
       "record_count": 243,
-      "last_changed": "2026-10-30T11:59:01.137409+00:00"
+      "last_changed": "2026-11-11T14:49:53.861959+00:00"
     },
     "CO": {
       "file": "passports/CO.json",
@@ -355,7 +355,7 @@
       "source_revision": "1370442407",
       "source_timestamp": "2026-08-21T03:46:13Z",
       "record_count": 248,
-      "last_changed": "2026-10-30T17:07:37.897654+00:00"
+      "last_changed": "2026-11-11T14:49:58.781255+00:00"
     },
     "CU": {
       "file": "passports/CU.json",
@@ -364,7 +364,7 @@
       "source_revision": "1361947552",
       "source_timestamp": "2026-07-01T00:47:13Z",
       "record_count": 198,
-      "last_changed": "2026-10-30T10:51:45.557805+00:00"
+      "last_changed": "2026-11-11T14:50:00.681038+00:00"
     },
     "CV": {
       "file": "passports/CV.json",
@@ -373,7 +373,7 @@
       "source_revision": "1345805284",
       "source_timestamp": "2026-03-28T08:44:02Z",
       "record_count": 243,
-      "last_changed": "2026-10-30T17:07:29.579963+00:00"
+      "last_changed": "2026-11-11T14:49:49.764375+00:00"
     },
     "CY": {
       "file": "passports/CY.json",
@@ -399,8 +399,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens",
       "source_revision": "1384031672",
       "source_timestamp": "2026-11-06T06:31:53Z",
-      "record_count": 282,
-      "last_changed": "2026-11-09T12:58:53.780413+00:00"
+      "record_count": 283,
+      "last_changed": "2026-11-11T14:50:22.983576+00:00"
     },
     "DJ": {
       "file": "passports/DJ.json",
@@ -409,7 +409,7 @@
       "source_revision": "1356701873",
       "source_timestamp": "2026-05-29T08:43:05Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:44.580222+00:00"
+      "last_changed": "2026-11-11T14:50:04.761345+00:00"
     },
     "DK": {
       "file": "passports/DK.json",
@@ -427,7 +427,7 @@
       "source_revision": "1374828324",
       "source_timestamp": "2026-09-14T08:54:04Z",
       "record_count": 240,
-      "last_changed": "2026-11-09T12:58:36.673446+00:00"
+      "last_changed": "2026-11-11T14:50:05.770334+00:00"
     },
     "DO": {
       "file": "passports/DO.json",
@@ -436,7 +436,7 @@
       "source_revision": "1381614094",
       "source_timestamp": "2026-10-23T17:58:53Z",
       "record_count": 255,
-      "last_changed": "2026-10-30T15:04:55.869877+00:00"
+      "last_changed": "2026-11-11T14:50:06.681686+00:00"
     },
     "DZ": {
       "file": "passports/DZ.json",
@@ -445,7 +445,7 @@
       "source_revision": "1366716080",
       "source_timestamp": "2026-07-29T19:16:07Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:06:59.643229+00:00"
+      "last_changed": "2026-11-11T14:49:19.731187+00:00"
     },
     "EC": {
       "file": "passports/EC.json",
@@ -453,8 +453,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens",
       "source_revision": "1356522445",
       "source_timestamp": "2026-05-28T07:48:17Z",
-      "record_count": 192,
-      "last_changed": "2026-10-30T10:51:55.699525+00:00"
+      "record_count": 193,
+      "last_changed": "2026-11-11T14:50:09.680392+00:00"
     },
     "EE": {
       "file": "passports/EE.json",
@@ -472,7 +472,7 @@
       "source_revision": "1381707003",
       "source_timestamp": "2026-10-24T07:27:23Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:50.611589+00:00"
+      "last_changed": "2026-11-11T14:50:10.776921+00:00"
     },
     "ER": {
       "file": "passports/ER.json",
@@ -481,7 +481,7 @@
       "source_revision": "1373603131",
       "source_timestamp": "2026-09-06T21:25:08Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:53.655239+00:00"
+      "last_changed": "2026-11-11T14:50:13.748436+00:00"
     },
     "ES": {
       "file": "passports/ES.json",
@@ -490,7 +490,7 @@
       "source_revision": "1359008443",
       "source_timestamp": "2026-06-12T13:09:51Z",
       "record_count": 263,
-      "last_changed": "2026-10-30T15:06:54.071640+00:00"
+      "last_changed": "2026-11-11T14:52:02.888292+00:00"
     },
     "ET": {
       "file": "passports/ET.json",
@@ -499,7 +499,7 @@
       "source_revision": "1380447130",
       "source_timestamp": "2026-10-15T19:30:57Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:55.617369+00:00"
+      "last_changed": "2026-11-11T14:50:15.762099+00:00"
     },
     "FI": {
       "file": "passports/FI.json",
@@ -517,7 +517,7 @@
       "source_revision": "1380599856",
       "source_timestamp": "2026-10-16T19:06:29Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:56.826137+00:00"
+      "last_changed": "2026-11-11T14:50:16.782992+00:00"
     },
     "FM": {
       "file": "passports/FM.json",
@@ -526,7 +526,7 @@
       "source_revision": "1376550146",
       "source_timestamp": "2026-09-24T21:33:01Z",
       "record_count": 240,
-      "last_changed": "2026-11-09T12:59:40.695139+00:00"
+      "last_changed": "2026-11-11T14:51:08.671543+00:00"
     },
     "FR": {
       "file": "passports/FR.json",
@@ -535,7 +535,7 @@
       "source_revision": "1377834614",
       "source_timestamp": "2026-10-01T11:44:13Z",
       "record_count": 272,
-      "last_changed": "2026-10-30T15:05:08.049222+00:00"
+      "last_changed": "2026-11-11T14:50:18.952864+00:00"
     },
     "GA": {
       "file": "passports/GA.json",
@@ -544,16 +544,16 @@
       "source_revision": "1356702000",
       "source_timestamp": "2026-05-29T08:43:58Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:59.706538+00:00"
+      "last_changed": "2026-11-11T14:50:19.747752+00:00"
     },
     "GB": {
       "file": "passports/GB.json",
       "source_title": "Visa requirements for British citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
-      "source_revision": "1382143140",
-      "source_timestamp": "2026-10-26T21:45:21Z",
+      "source_revision": "1384511376",
+      "source_timestamp": "2026-11-08T16:19:56Z",
       "record_count": 274,
-      "last_changed": "2026-10-30T15:04:30.008330+00:00"
+      "last_changed": "2026-11-11T14:49:41.901003+00:00"
     },
     "GD": {
       "file": "passports/GD.json",
@@ -562,7 +562,7 @@
       "source_revision": "1374452159",
       "source_timestamp": "2026-09-12T03:31:32Z",
       "record_count": 269,
-      "last_changed": "2026-10-30T17:08:05.708820+00:00"
+      "last_changed": "2026-11-11T14:50:25.858968+00:00"
     },
     "GE": {
       "file": "passports/GE.json",
@@ -571,7 +571,7 @@
       "source_revision": "1381279083",
       "source_timestamp": "2026-10-21T07:28:13Z",
       "record_count": 236,
-      "last_changed": "2026-10-30T12:03:19.970874+00:00"
+      "last_changed": "2026-11-11T14:50:21.773099+00:00"
     },
     "GH": {
       "file": "passports/GH.json",
@@ -580,7 +580,7 @@
       "source_revision": "1380599701",
       "source_timestamp": "2026-10-16T19:04:58Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:03.578079+00:00"
+      "last_changed": "2026-11-11T14:50:23.675988+00:00"
     },
     "GM": {
       "file": "passports/GM.json",
@@ -589,7 +589,7 @@
       "source_revision": "1366720050",
       "source_timestamp": "2026-07-29T19:46:48Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:00.610135+00:00"
+      "last_changed": "2026-11-11T14:50:20.737841+00:00"
     },
     "GN": {
       "file": "passports/GN.json",
@@ -598,7 +598,7 @@
       "source_revision": "1366014228",
       "source_timestamp": "2026-07-25T19:45:04Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:08.573418+00:00"
+      "last_changed": "2026-11-11T14:50:28.697407+00:00"
     },
     "GQ": {
       "file": "passports/GQ.json",
@@ -607,7 +607,7 @@
       "source_revision": "1348167963",
       "source_timestamp": "2026-04-11T02:49:19Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:52.632970+00:00"
+      "last_changed": "2026-11-11T14:50:12.749928+00:00"
     },
     "GR": {
       "file": "passports/GR.json",
@@ -625,7 +625,7 @@
       "source_revision": "1366879437",
       "source_timestamp": "2026-07-30T18:46:16Z",
       "record_count": 262,
-      "last_changed": "2026-10-30T17:08:07.023208+00:00"
+      "last_changed": "2026-11-11T14:50:26.789769+00:00"
     },
     "GW": {
       "file": "passports/GW.json",
@@ -634,7 +634,7 @@
       "source_revision": "1345811581",
       "source_timestamp": "2026-03-28T10:06:48Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:07.638978+00:00"
+      "last_changed": "2026-11-11T14:50:27.755678+00:00"
     },
     "GY": {
       "file": "passports/GY.json",
@@ -649,10 +649,10 @@
       "file": "passports/HK.json",
       "source_title": "Visa requirements for Chinese citizens of Hong Kong",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512",
-      "source_timestamp": "2026-10-29T06:49:58Z",
+      "source_revision": "1384594892",
+      "source_timestamp": "2026-11-09T01:36:25Z",
       "record_count": 256,
-      "last_changed": "2026-10-30T17:07:33.674877+00:00"
+      "last_changed": "2026-11-11T14:49:54.820539+00:00"
     },
     "HN": {
       "file": "passports/HN.json",
@@ -661,7 +661,7 @@
       "source_revision": "1345879047",
       "source_timestamp": "2026-03-28T18:48:33Z",
       "record_count": 248,
-      "last_changed": "2026-10-30T17:08:11.624981+00:00"
+      "last_changed": "2026-11-11T14:50:31.749186+00:00"
     },
     "HR": {
       "file": "passports/HR.json",
@@ -669,8 +669,8 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens",
       "source_revision": "1380106079",
       "source_timestamp": "2026-10-13T20:39:43Z",
-      "record_count": 222,
-      "last_changed": "2026-10-30T12:15:50.286751+00:00"
+      "record_count": 259,
+      "last_changed": "2026-11-11T14:49:59.779167+00:00"
     },
     "HT": {
       "file": "passports/HT.json",
@@ -679,7 +679,7 @@
       "source_revision": "1380460234",
       "source_timestamp": "2026-10-15T20:55:25Z",
       "record_count": 196,
-      "last_changed": "2026-10-30T10:52:16.738147+00:00"
+      "last_changed": "2026-11-11T14:50:30.744907+00:00"
     },
     "HU": {
       "file": "passports/HU.json",
@@ -688,7 +688,7 @@
       "source_revision": "1379323426",
       "source_timestamp": "2026-10-09T06:41:38Z",
       "record_count": 268,
-      "last_changed": "2026-10-30T15:05:22.024417+00:00"
+      "last_changed": "2026-11-11T14:50:32.858232+00:00"
     },
     "ID": {
       "file": "passports/ID.json",
@@ -703,10 +703,10 @@
       "file": "passports/IE.json",
       "source_title": "Visa requirements for Irish citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037",
-      "source_timestamp": "2026-10-10T18:24:36Z",
+      "source_revision": "1383283393",
+      "source_timestamp": "2026-11-01T22:37:18Z",
       "record_count": 266,
-      "last_changed": "2026-10-30T15:05:27.993447+00:00"
+      "last_changed": "2026-11-11T14:50:37.946487+00:00"
     },
     "IL": {
       "file": "passports/IL.json",
@@ -715,16 +715,16 @@
       "source_revision": "1372634197",
       "source_timestamp": "2026-09-01T15:26:13Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:52:26.352145+00:00"
+      "last_changed": "2026-11-11T14:50:38.966802+00:00"
     },
     "IN": {
       "file": "passports/IN.json",
       "source_title": "Visa requirements for Indian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
-      "source_revision": "1382948393",
-      "source_timestamp": "2026-10-31T03:58:29Z",
+      "source_revision": "1383572374",
+      "source_timestamp": "2026-11-03T12:08:01Z",
       "record_count": 245,
-      "last_changed": "2026-11-02T12:32:35.825446+00:00"
+      "last_changed": "2026-11-11T14:50:34.850479+00:00"
     },
     "IQ": {
       "file": "passports/IQ.json",
@@ -739,10 +739,10 @@
       "file": "passports/IR.json",
       "source_title": "Visa requirements for Iranian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571",
-      "source_timestamp": "2026-10-24T07:34:09Z",
+      "source_revision": "1384608727",
+      "source_timestamp": "2026-11-09T03:01:08Z",
       "record_count": 252,
-      "last_changed": "2026-10-30T10:52:23.311379+00:00"
+      "last_changed": "2026-11-11T14:50:36.774523+00:00"
     },
     "IS": {
       "file": "passports/IS.json",
@@ -751,7 +751,7 @@
       "source_revision": "1374272543",
       "source_timestamp": "2026-09-10T23:41:54Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T17:08:13.658298+00:00"
+      "last_changed": "2026-11-11T14:50:33.717879+00:00"
     },
     "IT": {
       "file": "passports/IT.json",
@@ -760,7 +760,7 @@
       "source_revision": "1374453659",
       "source_timestamp": "2026-09-12T03:43:13Z",
       "record_count": 278,
-      "last_changed": "2026-10-30T15:05:30.261118+00:00"
+      "last_changed": "2026-11-11T14:50:39.828154+00:00"
     },
     "JM": {
       "file": "passports/JM.json",
@@ -769,7 +769,7 @@
       "source_revision": "1380459702",
       "source_timestamp": "2026-10-15T20:51:33Z",
       "record_count": 267,
-      "last_changed": "2026-10-30T15:05:31.909107+00:00"
+      "last_changed": "2026-11-11T14:50:41.782842+00:00"
     },
     "JO": {
       "file": "passports/JO.json",
@@ -778,7 +778,7 @@
       "source_revision": "1383590529",
       "source_timestamp": "2026-11-03T15:16:39Z",
       "record_count": 287,
-      "last_changed": "2026-11-09T12:59:14.752579+00:00"
+      "last_changed": "2026-11-11T14:50:43.943358+00:00"
     },
     "JP": {
       "file": "passports/JP.json",
@@ -787,7 +787,7 @@
       "source_revision": "1374454858",
       "source_timestamp": "2026-09-12T03:51:56Z",
       "record_count": 280,
-      "last_changed": "2026-10-30T15:05:33.060436+00:00"
+      "last_changed": "2026-11-11T14:50:42.907038+00:00"
     },
     "KE": {
       "file": "passports/KE.json",
@@ -796,7 +796,7 @@
       "source_revision": "1379063700",
       "source_timestamp": "2026-10-07T18:34:36Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:26.543509+00:00"
+      "last_changed": "2026-11-11T14:50:45.800526+00:00"
     },
     "KG": {
       "file": "passports/KG.json",
@@ -805,7 +805,7 @@
       "source_revision": "1348385758",
       "source_timestamp": "2026-04-12T11:14:54Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T10:52:37.624165+00:00"
+      "last_changed": "2026-11-11T14:50:48.733790+00:00"
     },
     "KH": {
       "file": "passports/KH.json",
@@ -814,7 +814,7 @@
       "source_revision": "1376802160",
       "source_timestamp": "2026-09-26T08:28:26Z",
       "record_count": 265,
-      "last_changed": "2026-10-30T15:04:34.848574+00:00"
+      "last_changed": "2026-11-11T14:49:46.806931+00:00"
     },
     "KI": {
       "file": "passports/KI.json",
@@ -823,7 +823,7 @@
       "source_revision": "1361442541",
       "source_timestamp": "2026-06-27T23:04:35Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:27.632618+00:00"
+      "last_changed": "2026-11-11T14:50:46.780848+00:00"
     },
     "KM": {
       "file": "passports/KM.json",
@@ -832,7 +832,7 @@
       "source_revision": "1376552207",
       "source_timestamp": "2026-09-24T21:55:13Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:37.044996+00:00"
+      "last_changed": "2026-11-11T14:49:57.841819+00:00"
     },
     "KN": {
       "file": "passports/KN.json",
@@ -841,7 +841,7 @@
       "source_revision": "1369617418",
       "source_timestamp": "2026-08-16T02:17:13Z",
       "record_count": 243,
-      "last_changed": "2026-10-30T17:09:24.699687+00:00"
+      "last_changed": "2026-11-11T14:51:42.808798+00:00"
     },
     "KP": {
       "file": "passports/KP.json",
@@ -859,7 +859,7 @@
       "source_revision": "1381400353",
       "source_timestamp": "2026-10-22T05:35:27Z",
       "record_count": 275,
-      "last_changed": "2026-10-30T15:06:52.011934+00:00"
+      "last_changed": "2026-11-11T14:52:00.881208+00:00"
     },
     "KW": {
       "file": "passports/KW.json",
@@ -892,10 +892,10 @@
       "file": "passports/LB.json",
       "source_title": "Visa requirements for Lebanese citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
-      "source_revision": "1378387251",
-      "source_timestamp": "2026-10-04T06:49:46Z",
+      "source_revision": "1384060357",
+      "source_timestamp": "2026-11-06T09:50:38Z",
       "record_count": 280,
-      "last_changed": "2026-10-30T15:05:43.080297+00:00"
+      "last_changed": "2026-11-11T14:50:51.975179+00:00"
     },
     "LC": {
       "file": "passports/LC.json",
@@ -904,7 +904,7 @@
       "source_revision": "1363220146",
       "source_timestamp": "2026-07-08T20:23:34Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:25.652418+00:00"
+      "last_changed": "2026-11-11T14:51:43.778124+00:00"
     },
     "LI": {
       "file": "passports/LI.json",
@@ -913,7 +913,7 @@
       "source_revision": "1380458952",
       "source_timestamp": "2026-10-15T20:47:02Z",
       "record_count": 198,
-      "last_changed": "2026-10-30T15:05:46.948799+00:00"
+      "last_changed": "2026-11-11T14:50:55.778759+00:00"
     },
     "LK": {
       "file": "passports/LK.json",
@@ -922,7 +922,7 @@
       "source_revision": "1379019565",
       "source_timestamp": "2026-10-07T12:08:04Z",
       "record_count": 226,
-      "last_changed": "2026-10-30T17:09:45.654811+00:00"
+      "last_changed": "2026-11-11T14:52:03.791628+00:00"
     },
     "LR": {
       "file": "passports/LR.json",
@@ -931,7 +931,7 @@
       "source_revision": "1345813584",
       "source_timestamp": "2026-03-28T10:24:52Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:35.604103+00:00"
+      "last_changed": "2026-11-11T14:50:53.775565+00:00"
     },
     "LS": {
       "file": "passports/LS.json",
@@ -940,7 +940,7 @@
       "source_revision": "1345813129",
       "source_timestamp": "2026-03-28T10:21:26Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:34.634595+00:00"
+      "last_changed": "2026-11-11T14:50:52.768457+00:00"
     },
     "LT": {
       "file": "passports/LT.json",
@@ -976,16 +976,16 @@
       "source_revision": "1381708515",
       "source_timestamp": "2026-10-24T07:47:14Z",
       "record_count": 240,
-      "last_changed": "2026-11-09T12:59:26.683816+00:00"
+      "last_changed": "2026-11-11T14:50:54.743272+00:00"
     },
     "MA": {
       "file": "passports/MA.json",
       "source_title": "Visa requirements for Moroccan citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883",
-      "source_timestamp": "2026-10-27T10:25:31Z",
+      "source_revision": "1383574259",
+      "source_timestamp": "2026-11-03T12:29:22Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:55.667776+00:00"
+      "last_changed": "2026-11-11T14:51:13.774313+00:00"
     },
     "MC": {
       "file": "passports/MC.json",
@@ -994,7 +994,7 @@
       "source_revision": "1345969960",
       "source_timestamp": "2026-03-29T06:03:54Z",
       "record_count": 197,
-      "last_changed": "2026-10-30T15:06:03.803979+00:00"
+      "last_changed": "2026-11-11T14:51:12.756612+00:00"
     },
     "MD": {
       "file": "passports/MD.json",
@@ -1003,7 +1003,7 @@
       "source_revision": "1379406080",
       "source_timestamp": "2026-10-09T20:36:08Z",
       "record_count": 259,
-      "last_changed": "2026-11-09T12:59:41.720509+00:00"
+      "last_changed": "2026-11-11T14:51:09.843970+00:00"
     },
     "ME": {
       "file": "passports/ME.json",
@@ -1012,7 +1012,7 @@
       "source_revision": "1383714714",
       "source_timestamp": "2026-11-04T09:47:13Z",
       "record_count": 193,
-      "last_changed": "2026-11-09T12:59:43.702830+00:00"
+      "last_changed": "2026-11-11T14:51:11.802363+00:00"
     },
     "MG": {
       "file": "passports/MG.json",
@@ -1021,7 +1021,7 @@
       "source_revision": "1366129793",
       "source_timestamp": "2026-07-26T12:52:37Z",
       "record_count": 242,
-      "last_changed": "2026-10-30T17:08:40.570259+00:00"
+      "last_changed": "2026-11-11T14:50:58.784661+00:00"
     },
     "MH": {
       "file": "passports/MH.json",
@@ -1030,7 +1030,7 @@
       "source_revision": "1369115214",
       "source_timestamp": "2026-08-13T00:52:45Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:46.630508+00:00"
+      "last_changed": "2026-11-11T14:51:04.806114+00:00"
     },
     "MK": {
       "file": "passports/MK.json",
@@ -1048,7 +1048,7 @@
       "source_revision": "1378434678",
       "source_timestamp": "2026-10-04T13:15:11Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:44.743652+00:00"
+      "last_changed": "2026-11-11T14:51:02.762497+00:00"
     },
     "MM": {
       "file": "passports/MM.json",
@@ -1066,16 +1066,16 @@
       "source_revision": "1380459966",
       "source_timestamp": "2026-10-15T20:53:13Z",
       "record_count": 203,
-      "last_changed": "2026-10-30T17:08:52.663405+00:00"
+      "last_changed": "2026-11-11T14:51:10.791982+00:00"
     },
     "MO": {
       "file": "passports/MO.json",
       "source_title": "Visa requirements for Chinese citizens of Macau",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207",
-      "source_timestamp": "2026-09-20T14:57:43Z",
+      "source_revision": "1384595215",
+      "source_timestamp": "2026-11-09T01:38:43Z",
       "record_count": 258,
-      "last_changed": "2026-10-30T15:04:43.878316+00:00"
+      "last_changed": "2026-11-11T14:49:55.728484+00:00"
     },
     "MR": {
       "file": "passports/MR.json",
@@ -1084,7 +1084,7 @@
       "source_revision": "1345817665",
       "source_timestamp": "2026-03-28T10:54:24Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:47.593328+00:00"
+      "last_changed": "2026-11-11T14:51:05.757919+00:00"
     },
     "MT": {
       "file": "passports/MT.json",
@@ -1102,7 +1102,7 @@
       "source_revision": "1383870819",
       "source_timestamp": "2026-11-05T07:19:11Z",
       "record_count": 243,
-      "last_changed": "2026-11-09T12:59:38.708537+00:00"
+      "last_changed": "2026-11-11T14:51:06.740729+00:00"
     },
     "MV": {
       "file": "passports/MV.json",
@@ -1111,7 +1111,7 @@
       "source_revision": "1377795177",
       "source_timestamp": "2026-10-01T04:01:35Z",
       "record_count": 266,
-      "last_changed": "2026-10-30T17:08:43.617770+00:00"
+      "last_changed": "2026-11-11T14:51:01.810497+00:00"
     },
     "MW": {
       "file": "passports/MW.json",
@@ -1120,7 +1120,7 @@
       "source_revision": "1370373625",
       "source_timestamp": "2026-08-20T19:26:37Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:41.650071+00:00"
+      "last_changed": "2026-11-11T14:50:59.732744+00:00"
     },
     "MX": {
       "file": "passports/MX.json",
@@ -1129,7 +1129,7 @@
       "source_revision": "1367878859",
       "source_timestamp": "2026-08-05T19:09:16Z",
       "record_count": 248,
-      "last_changed": "2026-10-30T17:08:49.694794+00:00"
+      "last_changed": "2026-11-11T14:51:07.800818+00:00"
     },
     "MY": {
       "file": "passports/MY.json",
@@ -1138,7 +1138,7 @@
       "source_revision": "1381352279",
       "source_timestamp": "2026-10-21T20:55:21Z",
       "record_count": 268,
-      "last_changed": "2026-10-30T15:05:51.991813+00:00"
+      "last_changed": "2026-11-11T14:51:00.838283+00:00"
     },
     "MZ": {
       "file": "passports/MZ.json",
@@ -1147,7 +1147,7 @@
       "source_revision": "1356703242",
       "source_timestamp": "2026-05-29T08:56:17Z",
       "record_count": 242,
-      "last_changed": "2026-10-30T17:08:56.820887+00:00"
+      "last_changed": "2026-11-11T14:51:14.756805+00:00"
     },
     "NA": {
       "file": "passports/NA.json",
@@ -1156,7 +1156,7 @@
       "source_revision": "1356704488",
       "source_timestamp": "2026-05-29T09:12:28Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:58.573853+00:00"
+      "last_changed": "2026-11-11T14:51:16.736397+00:00"
     },
     "NE": {
       "file": "passports/NE.json",
@@ -1165,7 +1165,7 @@
       "source_revision": "1366720843",
       "source_timestamp": "2026-07-29T19:52:48Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:04.622980+00:00"
+      "last_changed": "2026-11-11T14:51:22.759794+00:00"
     },
     "NG": {
       "file": "passports/NG.json",
@@ -1174,7 +1174,7 @@
       "source_revision": "1378397778",
       "source_timestamp": "2026-10-04T08:00:05Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:03.606262+00:00"
+      "last_changed": "2026-11-11T14:51:21.744762+00:00"
     },
     "NI": {
       "file": "passports/NI.json",
@@ -1183,16 +1183,16 @@
       "source_revision": "1379877963",
       "source_timestamp": "2026-10-12T11:55:17Z",
       "record_count": 196,
-      "last_changed": "2026-10-30T17:09:02.581120+00:00"
+      "last_changed": "2026-11-11T14:51:20.693704+00:00"
     },
     "NL": {
       "file": "passports/NL.json",
       "source_title": "Visa requirements for Dutch citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379",
-      "source_timestamp": "2026-08-17T22:32:26Z",
+      "source_revision": "1384750969",
+      "source_timestamp": "2026-11-09T23:09:34Z",
       "record_count": 194,
-      "last_changed": "2026-10-30T17:07:47.756444+00:00"
+      "last_changed": "2026-11-11T14:50:07.855178+00:00"
     },
     "NO": {
       "file": "passports/NO.json",
@@ -1201,7 +1201,7 @@
       "source_revision": "1374455151",
       "source_timestamp": "2026-09-12T03:54:07Z",
       "record_count": 277,
-      "last_changed": "2026-10-30T15:06:16.970825+00:00"
+      "last_changed": "2026-11-11T14:51:25.796346+00:00"
     },
     "NP": {
       "file": "passports/NP.json",
@@ -1210,7 +1210,7 @@
       "source_revision": "1366720570",
       "source_timestamp": "2026-07-29T19:50:45Z",
       "record_count": 198,
-      "last_changed": "2026-10-30T17:09:00.571469+00:00"
+      "last_changed": "2026-11-11T14:51:18.736560+00:00"
     },
     "NR": {
       "file": "passports/NR.json",
@@ -1219,7 +1219,7 @@
       "source_revision": "1367833697",
       "source_timestamp": "2026-08-05T13:18:05Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:08:59.595061+00:00"
+      "last_changed": "2026-11-11T14:51:17.733240+00:00"
     },
     "NZ": {
       "file": "passports/NZ.json",
@@ -1228,7 +1228,7 @@
       "source_revision": "1380590388",
       "source_timestamp": "2026-10-16T17:56:08Z",
       "record_count": 269,
-      "last_changed": "2026-10-30T17:09:01.768117+00:00"
+      "last_changed": "2026-11-11T14:51:19.917101+00:00"
     },
     "OM": {
       "file": "passports/OM.json",
@@ -1237,7 +1237,7 @@
       "source_revision": "1380850844",
       "source_timestamp": "2026-10-18T09:52:47Z",
       "record_count": 204,
-      "last_changed": "2026-10-30T10:53:16.080538+00:00"
+      "last_changed": "2026-11-11T14:51:26.750181+00:00"
     },
     "PA": {
       "file": "passports/PA.json",
@@ -1246,7 +1246,7 @@
       "source_revision": "1380600010",
       "source_timestamp": "2026-10-16T19:07:53Z",
       "record_count": 248,
-      "last_changed": "2026-11-09T13:00:02.702551+00:00"
+      "last_changed": "2026-11-11T14:51:30.749091+00:00"
     },
     "PE": {
       "file": "passports/PE.json",
@@ -1255,7 +1255,7 @@
       "source_revision": "1381748621",
       "source_timestamp": "2026-10-24T15:06:39Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T17:09:15.602381+00:00"
+      "last_changed": "2026-11-11T14:51:33.763146+00:00"
     },
     "PG": {
       "file": "passports/PG.json",
@@ -1264,7 +1264,7 @@
       "source_revision": "1371197129",
       "source_timestamp": "2026-08-25T03:54:32Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:13.647094+00:00"
+      "last_changed": "2026-11-11T14:51:31.763725+00:00"
     },
     "PH": {
       "file": "passports/PH.json",
@@ -1273,7 +1273,7 @@
       "source_revision": "1378380327",
       "source_timestamp": "2026-10-04T05:44:40Z",
       "record_count": 264,
-      "last_changed": "2026-10-30T15:06:26.008872+00:00"
+      "last_changed": "2026-11-11T14:51:34.867714+00:00"
     },
     "PK": {
       "file": "passports/PK.json",
@@ -1282,7 +1282,7 @@
       "source_revision": "1381709202",
       "source_timestamp": "2026-10-24T07:54:35Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T10:53:17.355585+00:00"
+      "last_changed": "2026-11-11T14:51:27.853369+00:00"
     },
     "PL": {
       "file": "passports/PL.json",
@@ -1291,7 +1291,7 @@
       "source_revision": "1374271668",
       "source_timestamp": "2026-09-10T23:35:45Z",
       "record_count": 275,
-      "last_changed": "2026-10-30T15:06:27.039938+00:00"
+      "last_changed": "2026-11-11T14:51:35.954905+00:00"
     },
     "PS": {
       "file": "passports/PS.json",
@@ -1309,7 +1309,7 @@
       "source_revision": "1366888333",
       "source_timestamp": "2026-07-30T19:32:19Z",
       "record_count": 276,
-      "last_changed": "2026-10-30T15:06:28.070720+00:00"
+      "last_changed": "2026-11-11T14:51:36.935325+00:00"
     },
     "PW": {
       "file": "passports/PW.json",
@@ -1318,7 +1318,7 @@
       "source_revision": "1356516042",
       "source_timestamp": "2026-05-28T06:22:09Z",
       "record_count": 242,
-      "last_changed": "2026-10-30T17:09:10.686271+00:00"
+      "last_changed": "2026-11-11T14:51:28.780923+00:00"
     },
     "PY": {
       "file": "passports/PY.json",
@@ -1327,7 +1327,7 @@
       "source_revision": "1373040231",
       "source_timestamp": "2026-09-03T18:04:00Z",
       "record_count": 198,
-      "last_changed": "2026-10-30T17:09:14.621186+00:00"
+      "last_changed": "2026-11-11T14:51:32.763168+00:00"
     },
     "QA": {
       "file": "passports/QA.json",
@@ -1336,34 +1336,34 @@
       "source_revision": "1365727565",
       "source_timestamp": "2026-07-24T02:34:30Z",
       "record_count": 248,
-      "last_changed": "2026-10-30T10:53:28.156016+00:00"
+      "last_changed": "2026-11-11T14:51:37.735275+00:00"
     },
     "RO": {
       "file": "passports/RO.json",
       "source_title": "Visa requirements for Romanian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453",
-      "source_timestamp": "2026-10-06T18:01:40Z",
+      "source_revision": "1382891435",
+      "source_timestamp": "2026-10-30T21:27:06Z",
       "record_count": 275,
-      "last_changed": "2026-10-30T15:06:31.027749+00:00"
+      "last_changed": "2026-11-11T14:51:39.918869+00:00"
     },
     "RS": {
       "file": "passports/RS.json",
       "source_title": "Visa requirements for Serbian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens",
-      "source_revision": "1379578462",
-      "source_timestamp": "2026-10-10T20:45:34Z",
+      "source_revision": "1384737349",
+      "source_timestamp": "2026-11-09T22:04:24Z",
       "record_count": 267,
-      "last_changed": "2026-10-30T15:06:42.987509+00:00"
+      "last_changed": "2026-11-11T14:51:51.860305+00:00"
     },
     "RU": {
       "file": "passports/RU.json",
       "source_title": "Visa requirements for Russian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
-      "source_revision": "1383094589",
-      "source_timestamp": "2026-10-31T23:33:38Z",
+      "source_revision": "1384050331",
+      "source_timestamp": "2026-11-06T08:29:33Z",
       "record_count": 249,
-      "last_changed": "2026-11-02T12:32:37.787762+00:00"
+      "last_changed": "2026-11-11T14:51:40.862922+00:00"
     },
     "RW": {
       "file": "passports/RW.json",
@@ -1372,7 +1372,7 @@
       "source_revision": "1345822502",
       "source_timestamp": "2026-03-28T11:27:06Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T12:04:50.901109+00:00"
+      "last_changed": "2026-11-11T14:51:41.804812+00:00"
     },
     "SA": {
       "file": "passports/SA.json",
@@ -1381,7 +1381,7 @@
       "source_revision": "1383137925",
       "source_timestamp": "2026-11-01T04:43:42Z",
       "record_count": 203,
-      "last_changed": "2026-11-02T12:32:38.669634+00:00"
+      "last_changed": "2026-11-11T14:51:49.749959+00:00"
     },
     "SB": {
       "file": "passports/SB.json",
@@ -1390,16 +1390,16 @@
       "source_revision": "1348380394",
       "source_timestamp": "2026-04-12T10:15:12Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:39.660571+00:00"
+      "last_changed": "2026-11-11T14:51:57.769151+00:00"
     },
     "SC": {
       "file": "passports/SC.json",
       "source_title": "Visa requirements for Seychellois citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239",
-      "source_timestamp": "2026-07-08T20:24:18Z",
+      "source_revision": "1384607127",
+      "source_timestamp": "2026-11-09T02:49:21Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:34.636834+00:00"
+      "last_changed": "2026-11-11T14:51:52.756072+00:00"
     },
     "SD": {
       "file": "passports/SD.json",
@@ -1408,16 +1408,16 @@
       "source_revision": "1379878292",
       "source_timestamp": "2026-10-12T11:58:13Z",
       "record_count": 239,
-      "last_changed": "2026-10-30T17:09:46.630615+00:00"
+      "last_changed": "2026-11-11T14:52:04.785435+00:00"
     },
     "SE": {
       "file": "passports/SE.json",
       "source_title": "Visa requirements for Swedish citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016",
-      "source_timestamp": "2026-09-08T06:59:20Z",
+      "source_revision": "1384822785",
+      "source_timestamp": "2026-11-10T05:30:49Z",
       "record_count": 193,
-      "last_changed": "2026-10-30T15:06:58.919766+00:00"
+      "last_changed": "2026-11-11T14:52:07.775149+00:00"
     },
     "SG": {
       "file": "passports/SG.json",
@@ -1426,7 +1426,7 @@
       "source_revision": "1381692827",
       "source_timestamp": "2026-10-24T04:44:41Z",
       "record_count": 266,
-      "last_changed": "2026-10-30T15:06:45.963973+00:00"
+      "last_changed": "2026-11-11T14:51:54.911394+00:00"
     },
     "SI": {
       "file": "passports/SI.json",
@@ -1444,7 +1444,7 @@
       "source_revision": "1374272143",
       "source_timestamp": "2026-09-10T23:39:14Z",
       "record_count": 278,
-      "last_changed": "2026-11-09T13:00:26.740918+00:00"
+      "last_changed": "2026-11-11T14:51:55.845515+00:00"
     },
     "SL": {
       "file": "passports/SL.json",
@@ -1453,7 +1453,7 @@
       "source_revision": "1345823817",
       "source_timestamp": "2026-03-28T11:38:11Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:35.617531+00:00"
+      "last_changed": "2026-11-11T14:51:53.728888+00:00"
     },
     "SM": {
       "file": "passports/SM.json",
@@ -1462,7 +1462,7 @@
       "source_revision": "1345971488",
       "source_timestamp": "2026-03-29T06:18:38Z",
       "record_count": 243,
-      "last_changed": "2026-11-09T13:00:18.680272+00:00"
+      "last_changed": "2026-11-11T14:51:46.778565+00:00"
     },
     "SN": {
       "file": "passports/SN.json",
@@ -1471,7 +1471,7 @@
       "source_revision": "1366721929",
       "source_timestamp": "2026-07-29T19:59:45Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:32.618125+00:00"
+      "last_changed": "2026-11-11T14:51:50.747879+00:00"
     },
     "SO": {
       "file": "passports/SO.json",
@@ -1480,7 +1480,7 @@
       "source_revision": "1366722288",
       "source_timestamp": "2026-07-29T20:02:05Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:40.652014+00:00"
+      "last_changed": "2026-11-11T14:51:58.745898+00:00"
     },
     "SR": {
       "file": "passports/SR.json",
@@ -1489,7 +1489,7 @@
       "source_revision": "1349391699",
       "source_timestamp": "2026-04-17T03:13:33Z",
       "record_count": 242,
-      "last_changed": "2026-10-30T10:53:57.325631+00:00"
+      "last_changed": "2026-11-11T14:52:05.793472+00:00"
     },
     "SS": {
       "file": "passports/SS.json",
@@ -1498,7 +1498,7 @@
       "source_revision": "1356704762",
       "source_timestamp": "2026-05-29T09:16:38Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:43.695660+00:00"
+      "last_changed": "2026-11-11T14:52:01.738781+00:00"
     },
     "ST": {
       "file": "passports/ST.json",
@@ -1507,7 +1507,7 @@
       "source_revision": "1345822913",
       "source_timestamp": "2026-03-28T11:30:26Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:30.652788+00:00"
+      "last_changed": "2026-11-11T14:51:48.778037+00:00"
     },
     "SV": {
       "file": "passports/SV.json",
@@ -1516,7 +1516,7 @@
       "source_revision": "1356522784",
       "source_timestamp": "2026-05-28T07:53:28Z",
       "record_count": 260,
-      "last_changed": "2026-10-30T17:09:27.999780+00:00"
+      "last_changed": "2026-11-11T14:51:45.795224+00:00"
     },
     "SY": {
       "file": "passports/SY.json",
@@ -1525,7 +1525,7 @@
       "source_revision": "1380599360",
       "source_timestamp": "2026-10-16T19:01:42Z",
       "record_count": 197,
-      "last_changed": "2026-10-30T10:54:01.289940+00:00"
+      "last_changed": "2026-11-11T14:52:09.685672+00:00"
     },
     "SZ": {
       "file": "passports/SZ.json",
@@ -1534,7 +1534,7 @@
       "source_revision": "1365436553",
       "source_timestamp": "2026-07-22T11:48:36Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:48.656099+00:00"
+      "last_changed": "2026-11-11T14:52:06.730323+00:00"
     },
     "TD": {
       "file": "passports/TD.json",
@@ -1543,7 +1543,7 @@
       "source_revision": "1376636867",
       "source_timestamp": "2026-09-25T10:12:58Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:07:31.603775+00:00"
+      "last_changed": "2026-11-11T14:49:51.769369+00:00"
     },
     "TG": {
       "file": "passports/TG.json",
@@ -1552,16 +1552,16 @@
       "source_revision": "1345837440",
       "source_timestamp": "2026-03-28T13:30:23Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:56.596814+00:00"
+      "last_changed": "2026-11-11T14:52:14.763726+00:00"
     },
     "TH": {
       "file": "passports/TH.json",
       "source_title": "Visa requirements for Thai citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560",
-      "source_timestamp": "2026-10-06T19:07:20Z",
+      "source_revision": "1383574218",
+      "source_timestamp": "2026-11-03T12:29:00Z",
       "record_count": 261,
-      "last_changed": "2026-10-30T15:07:04.914684+00:00"
+      "last_changed": "2026-11-11T14:52:13.780731+00:00"
     },
     "TJ": {
       "file": "passports/TJ.json",
@@ -1579,7 +1579,7 @@
       "source_revision": "1376550081",
       "source_timestamp": "2026-09-24T21:32:18Z",
       "record_count": 236,
-      "last_changed": "2026-10-30T17:07:48.609955+00:00"
+      "last_changed": "2026-11-11T14:50:08.762598+00:00"
     },
     "TM": {
       "file": "passports/TM.json",
@@ -1597,7 +1597,7 @@
       "source_revision": "1368962894",
       "source_timestamp": "2026-08-12T02:50:08Z",
       "record_count": 242,
-      "last_changed": "2026-10-30T17:09:59.595849+00:00"
+      "last_changed": "2026-11-11T14:52:17.773980+00:00"
     },
     "TO": {
       "file": "passports/TO.json",
@@ -1606,7 +1606,7 @@
       "source_revision": "1348380252",
       "source_timestamp": "2026-04-12T10:13:22Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:57.606025+00:00"
+      "last_changed": "2026-11-11T14:52:15.737035+00:00"
     },
     "TR": {
       "file": "passports/TR.json",
@@ -1615,16 +1615,16 @@
       "source_revision": "1383440721",
       "source_timestamp": "2026-11-02T18:17:48Z",
       "record_count": 193,
-      "last_changed": "2026-11-09T13:00:47.687904+00:00"
+      "last_changed": "2026-11-11T14:52:18.781400+00:00"
     },
     "TT": {
       "file": "passports/TT.json",
       "source_title": "Visa requirements for Trinidad and Tobago citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
-      "source_revision": "1380101036",
-      "source_timestamp": "2026-10-13T20:05:13Z",
+      "source_revision": "1384576032",
+      "source_timestamp": "2026-11-08T23:27:59Z",
       "record_count": 266,
-      "last_changed": "2026-10-30T17:09:58.719782+00:00"
+      "last_changed": "2026-11-11T14:52:16.798739+00:00"
     },
     "TV": {
       "file": "passports/TV.json",
@@ -1633,16 +1633,16 @@
       "source_revision": "1382770469",
       "source_timestamp": "2026-10-30T05:33:58Z",
       "record_count": 243,
-      "last_changed": "2026-10-30T17:10:02.648177+00:00"
+      "last_changed": "2026-11-11T14:52:20.786542+00:00"
     },
     "TW": {
       "file": "passports/TW.json",
       "source_title": "Visa requirements for Taiwanese citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312",
-      "source_timestamp": "2026-10-27T04:46:11Z",
+      "source_revision": "1384575374",
+      "source_timestamp": "2026-11-08T23:23:18Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:53.090961+00:00"
+      "last_changed": "2026-11-11T14:52:10.821615+00:00"
     },
     "TZ": {
       "file": "passports/TZ.json",
@@ -1651,7 +1651,7 @@
       "source_revision": "1374456614",
       "source_timestamp": "2026-09-12T04:05:15Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:54.618928+00:00"
+      "last_changed": "2026-11-11T14:52:12.769554+00:00"
     },
     "UA": {
       "file": "passports/UA.json",
@@ -1660,7 +1660,7 @@
       "source_revision": "1379568084",
       "source_timestamp": "2026-10-10T19:35:54Z",
       "record_count": 260,
-      "last_changed": "2026-10-30T10:54:14.779073+00:00"
+      "last_changed": "2026-11-11T14:52:22.939497+00:00"
     },
     "UG": {
       "file": "passports/UG.json",
@@ -1668,17 +1668,17 @@
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
       "source_revision": "1364461108",
       "source_timestamp": "2026-07-16T18:11:07Z",
-      "record_count": 241,
-      "last_changed": "2026-10-30T17:10:03.655050+00:00"
+      "record_count": 240,
+      "last_changed": "2026-11-11T14:52:21.801235+00:00"
     },
     "US": {
       "file": "passports/US.json",
       "source_title": "Visa requirements for United States citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1379509330",
-      "source_timestamp": "2026-10-10T11:41:43Z",
+      "source_revision": "1383116952",
+      "source_timestamp": "2026-11-01T02:00:07Z",
       "record_count": 275,
-      "last_changed": "2026-10-30T10:54:16.110232+00:00"
+      "last_changed": "2026-11-11T14:52:24.061688+00:00"
     },
     "UY": {
       "file": "passports/UY.json",
@@ -1687,7 +1687,7 @@
       "source_revision": "1368535093",
       "source_timestamp": "2026-08-09T17:10:57Z",
       "record_count": 266,
-      "last_changed": "2026-10-30T17:10:06.710313+00:00"
+      "last_changed": "2026-11-11T14:52:24.807838+00:00"
     },
     "UZ": {
       "file": "passports/UZ.json",
@@ -1702,10 +1702,10 @@
       "file": "passports/VA.json",
       "source_title": "Visa requirements for Vatican citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633",
-      "source_timestamp": "2026-07-05T21:21:12Z",
+      "source_revision": "1384732619",
+      "source_timestamp": "2026-11-09T21:27:52Z",
       "record_count": 195,
-      "last_changed": "2026-10-30T15:07:18.838545+00:00"
+      "last_changed": "2026-11-11T14:52:27.752926+00:00"
     },
     "VC": {
       "file": "passports/VC.json",
@@ -1714,7 +1714,7 @@
       "source_revision": "1366879545",
       "source_timestamp": "2026-07-30T18:46:46Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:26.637806+00:00"
+      "last_changed": "2026-11-11T14:51:44.777039+00:00"
     },
     "VE": {
       "file": "passports/VE.json",
@@ -1723,7 +1723,7 @@
       "source_revision": "1373040247",
       "source_timestamp": "2026-09-03T18:04:06Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:10:10.586528+00:00"
+      "last_changed": "2026-11-11T14:52:28.789776+00:00"
     },
     "VN": {
       "file": "passports/VN.json",
@@ -1732,7 +1732,7 @@
       "source_revision": "1381206340",
       "source_timestamp": "2026-10-20T17:51:31Z",
       "record_count": 275,
-      "last_changed": "2026-10-30T15:07:20.917849+00:00"
+      "last_changed": "2026-11-11T14:52:29.781650+00:00"
     },
     "VU": {
       "file": "passports/VU.json",
@@ -1741,7 +1741,7 @@
       "source_revision": "1348380591",
       "source_timestamp": "2026-04-12T10:17:36Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:10:08.643962+00:00"
+      "last_changed": "2026-11-11T14:52:26.771423+00:00"
     },
     "WS": {
       "file": "passports/WS.json",
@@ -1750,7 +1750,7 @@
       "source_revision": "1353014257",
       "source_timestamp": "2026-05-07T17:02:40Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:09:29.653211+00:00"
+      "last_changed": "2026-11-11T14:51:47.796198+00:00"
     },
     "XK": {
       "file": "passports/XK.json",
@@ -1759,7 +1759,7 @@
       "source_revision": "1376371465",
       "source_timestamp": "2026-09-23T19:43:17Z",
       "record_count": 267,
-      "last_changed": "2026-10-30T15:05:37.904812+00:00"
+      "last_changed": "2026-11-11T14:50:47.742018+00:00"
     },
     "XN": {
       "file": "passports/XN.json",
@@ -1786,7 +1786,7 @@
       "source_revision": "1368956927",
       "source_timestamp": "2026-08-12T02:09:58Z",
       "record_count": 268,
-      "last_changed": "2026-10-30T17:09:41.850178+00:00"
+      "last_changed": "2026-11-11T14:51:59.894403+00:00"
     },
     "ZM": {
       "file": "passports/ZM.json",
@@ -1795,7 +1795,7 @@
       "source_revision": "1349023569",
       "source_timestamp": "2026-04-15T11:14:05Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:10:13.649287+00:00"
+      "last_changed": "2026-11-11T14:52:31.763348+00:00"
     },
     "ZW": {
       "file": "passports/ZW.json",
@@ -1804,7 +1804,7 @@
       "source_revision": "1356704897",
       "source_timestamp": "2026-05-29T09:18:41Z",
       "record_count": 240,
-      "last_changed": "2026-10-30T17:10:14.627089+00:00"
+      "last_changed": "2026-11-11T14:52:32.751210+00:00"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "NL",
   "source_title": "Visa requirements for Dutch citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-  "source_revision": "1369903379",
-  "source_timestamp": "2026-08-17T22:32:26Z",
-  "generated_at": "2026-10-30T17:07:47.756444+00:00",
+  "source_revision": "1384750969",
+  "source_timestamp": "2026-11-09T23:09:34Z",
+  "generated_at": "2026-11-11T14:50:07.855178+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -35,7 +35,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -49,7 +49,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Afghanistan due to the security situation in the country.\nVisa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -77,7 +77,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -105,7 +105,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -119,7 +119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -133,7 +133,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -147,7 +147,7 @@
       "notes": "90 days on each visit in 12-month period if granted.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -161,7 +161,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -175,7 +175,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -189,7 +189,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -217,7 +217,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -231,7 +231,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Burkina Faso due to the political and security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -245,7 +245,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -261,7 +261,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -277,7 +277,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -291,7 +291,7 @@
       "notes": "Must have an international vaccination certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -305,7 +305,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -319,7 +319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -333,7 +333,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -347,7 +347,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -361,7 +361,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -375,7 +375,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -389,7 +389,7 @@
       "notes": "Visa-free until 31 December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -403,7 +403,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -419,7 +419,7 @@
       "notes": "eTA required if arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -433,7 +433,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -447,7 +447,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Central African Republic due to the security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -461,7 +461,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -475,7 +475,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -489,7 +489,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -503,7 +503,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -517,7 +517,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -531,7 +531,7 @@
       "notes": "Visa-free from December 1, 2023 to December 31, 2026.\n240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n* During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits.\n24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport.\n* Travellers who need to leave the airport may obtain a temporary entry permit from immigration.\n5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.\nMay apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.\nHolders of ordinary passports, who are part of a journey arranged by a tour agency officially recognised in Hainan, can access China through the border entry points accessible to foreign visitors in Hainan without the need for a Chinese visa. They are permitted to stay for a maximum duration of 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -545,7 +545,7 @@
       "notes": "90 days - extendable up to 180-days stay within a one-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -559,7 +559,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -573,7 +573,7 @@
       "notes": "Can be extended up to 90 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -587,7 +587,7 @@
       "notes": "Airport security tax of CVE 3400 charged for all inbound international flights.\nOnline registration required, preferably at least 5 days before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -601,7 +601,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -615,7 +615,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -629,7 +629,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -643,7 +643,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -657,7 +657,7 @@
       "notes": "Freedom of movement (DK)\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -671,7 +671,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -685,7 +685,7 @@
       "notes": "Tourist card required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -699,7 +699,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -713,7 +713,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -727,7 +727,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -743,7 +743,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -757,7 +757,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -771,7 +771,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -787,7 +787,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -801,7 +801,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -815,7 +815,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -829,7 +829,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -843,7 +843,7 @@
       "notes": "Freedom of movement (in Regions of France)\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -857,7 +857,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -871,7 +871,7 @@
       "notes": "An ETA is required to travel to the United Kingdom, including Northern Ireland.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -885,7 +885,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -899,7 +899,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -913,7 +913,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -927,7 +927,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -941,7 +941,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -955,7 +955,7 @@
       "notes": "e-Visa holders must arrive via Malabo International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -969,7 +969,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -983,7 +983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -997,7 +997,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1011,7 +1011,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1025,7 +1025,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1039,7 +1039,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1053,7 +1053,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Haiti due to the volatile situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1067,7 +1067,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1081,7 +1081,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1095,7 +1095,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1109,7 +1109,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1123,7 +1123,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1137,7 +1137,7 @@
       "notes": "Authorities in Iraq have decided to remove the visa-on-arrival requirement for nationals of the European Union and several other countries, requiring them to now apply for an e-visa to enter Iraq through the official platform.\nVisa on arrival or eVisa for up to 30 days for travel to Iraqi Kurdistan.\nThe Dutch government advises its citizens not to travel to Iraq due to the high threat of terrorist attacks in the country. The only exception is the Kurdish Autonomous Region, whereas the Dutch government advises its citizens to travel there ''only if necessary''. Though this was revised after the Twelve-Day War with the Dutch government advising its citizens not to travel to the entirety of Iraq",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1151,7 +1151,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Iran due to the security situation in the country. Dutch citizens in Iran are likely to face arbitrary detention by the Iranian authorities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1165,7 +1165,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1179,7 +1179,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1193,7 +1193,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1209,7 +1209,7 @@
       "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings (except King Hussein/Allenby Bridge).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1223,7 +1223,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1237,7 +1237,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1251,7 +1251,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1267,7 +1267,7 @@
       "notes": "Visa is also obtainable online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1281,7 +1281,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1295,7 +1295,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1309,7 +1309,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1323,7 +1323,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1337,7 +1337,7 @@
       "notes": "The validity period of a K-ETA is 3 years from the date of approval. Dutch citizens are exempt from applying for a K-ETA until the end of 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1353,7 +1353,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1367,7 +1367,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1383,7 +1383,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1397,7 +1397,7 @@
       "notes": "1 month extendable for 2 additional months\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1411,7 +1411,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1425,7 +1425,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1441,7 +1441,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1455,7 +1455,7 @@
       "notes": "The Liberia Visa on Arrival (VoA) allows travelers to obtain a Visa upon arrival in Liberia by plane. Travelers must pre-apply for the visa online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1469,7 +1469,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1483,7 +1483,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1497,7 +1497,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1511,7 +1511,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1525,7 +1525,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Libya due to the volatile situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1539,7 +1539,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1553,7 +1553,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1567,7 +1567,7 @@
       "notes": "90 days within any 180 day period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1581,7 +1581,7 @@
       "notes": "ID card valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1597,7 +1597,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1611,7 +1611,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1625,7 +1625,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1639,7 +1639,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Mali due to the high risk of terrorist attacks and violence against Westerners throughout the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1653,7 +1653,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1667,7 +1667,7 @@
       "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1681,7 +1681,7 @@
       "notes": "An eVisa is mandatory before travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1695,7 +1695,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1709,7 +1709,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1723,7 +1723,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1739,7 +1739,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1753,7 +1753,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1767,7 +1767,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1781,7 +1781,7 @@
       "notes": "Travelers must register on the e-Visa platform at least 48 hours prior to travel and pay a processing fee of 650 MT.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1797,7 +1797,7 @@
       "notes": "Can be obtained online or on arrival for a fee of N$1,600 (approximately €82 / US$88).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1811,7 +1811,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Niger due to the security situation in the country. Kidnappings and temporary seizure of passports by Nigerien authorities have been reported.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1825,7 +1825,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1839,7 +1839,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1853,7 +1853,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1869,7 +1869,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1883,7 +1883,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1897,7 +1897,7 @@
       "notes": "May enter using eGate.\nInternational Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1913,7 +1913,7 @@
       "notes": "No need of visa for less than 14 days.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1927,7 +1927,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1941,7 +1941,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1955,7 +1955,7 @@
       "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1969,7 +1969,7 @@
       "notes": "A single or multiple entry eVisa for stays of up to 59 days is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1983,7 +1983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -1997,7 +1997,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2011,7 +2011,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2025,7 +2025,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2039,7 +2039,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2053,7 +2053,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2067,7 +2067,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2081,7 +2081,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2095,7 +2095,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2111,7 +2111,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2127,7 +2127,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2141,7 +2141,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2155,7 +2155,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2169,7 +2169,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Sudan due to the ongoing conflict in the country.\nKhartoum International Airport is closed.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2183,7 +2183,7 @@
       "notes": "Freedom of movement\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2197,7 +2197,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2211,7 +2211,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2225,7 +2225,7 @@
       "notes": "Freedom of movement.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2241,7 +2241,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2255,7 +2255,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2269,7 +2269,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2283,7 +2283,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey\nThe Dutch government advises its citizens not to travel to Somalia due to the security situation in the country. Attacks and armed conflicts have been reported. The only exceptions are the cities of Berbera and Hargeisa in Somaliland whereas the Dutch government advises its citizens to travel to those cities ''only if necessary''.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2297,7 +2297,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2311,7 +2311,7 @@
       "notes": "Obtainable online.\nPrinted visa authorization must be presented at the time of travel.\nThe Dutch government advises its citizens not to travel to South Sudan due to the unstable and deterioration of the security situation in the country. Dutch citizens in South Sudan are advised to leave if it is safe to do so.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2325,7 +2325,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2339,7 +2339,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2353,7 +2353,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Syria due to the security situation and multiple conflicts in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2367,7 +2367,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2381,7 +2381,7 @@
       "notes": "Must apply at least 7 days before arrival but maximum 90 days before arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2395,7 +2395,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2409,7 +2409,7 @@
       "notes": "Maximum two visits annually if not arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2423,7 +2423,7 @@
       "notes": "At Dushanbe International Airport.\nVisa also available online.\ne-Visa holders can enter through all border points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2437,21 +2437,21 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
       "destination": "TM",
       "destination_name": "Turkmenistan",
       "area": null,
-      "status": "visa_required",
+      "status": "evisa",
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
-      "notes": "Pre-approved visa can be picked up on arrival.",
+      "notes": "Available online via the State Migration Service of Turkmenistan since 1 October 2026.\nIndependent tourist entry remains restricted; travel through a licensed agency is typically required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2465,7 +2465,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2479,7 +2479,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2493,7 +2493,7 @@
       "notes": "90 days within 180 day period (as of 2 March 2020).\nID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2507,7 +2507,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2521,7 +2521,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2537,7 +2537,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2551,7 +2551,7 @@
       "notes": "90 days within any 180 day period.\nThe Dutch government advises its citizens not to travel to Ukraine due to Russia's aggression towards Ukraine.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2565,7 +2565,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2579,7 +2579,7 @@
       "notes": "ESTA is valid for 2 years from the date of issuance.\nESTA is also required when entering the country by cruise ship or land.\nA Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.\nVisa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2593,7 +2593,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2607,7 +2607,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2621,7 +2621,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2635,7 +2635,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2649,7 +2649,7 @@
       "notes": "Entry to Venezuela not possible through Aruba, Curaçao or Bonaire.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2663,7 +2663,7 @@
       "notes": "e-Visa is valid for 90 days and multiple entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2677,7 +2677,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2691,7 +2691,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2705,7 +2705,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2719,7 +2719,7 @@
       "notes": "The Dutch government advises its citizens not to travel to Yemen due to the ongoing Yemeni civil war. Dutch citizens in Yemen are advised to leave if safe to do so.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2733,7 +2733,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2747,7 +2747,7 @@
       "notes": "Also eligible for a universal visa allowing access to Zimbabwe.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     },
     {
       "passport": "NL",
@@ -2763,7 +2763,7 @@
       "notes": "Also eligible for a universal visa allowing access to Zambia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
-      "source_revision": "1369903379"
+      "source_revision": "1384750969"
     }
   ]
 }

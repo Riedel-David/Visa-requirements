@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "BD",
   "source_title": "Visa requirements for Bangladeshi citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
   "source_revision": "1370800580",
   "source_timestamp": "2026-08-23T04:14:34Z",
-  "generated_at": "2026-10-30T10:51:15.138707+00:00",
+  "generated_at": "2026-11-11T14:49:30.733431+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -326,9 +326,9 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 28,
       "allowed_stay_raw": "4 weeks",
-      "notes": "4 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
       "source_revision": "1370800580"

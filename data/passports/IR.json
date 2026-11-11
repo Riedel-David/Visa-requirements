@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "IR",
   "source_title": "Visa requirements for Iranian citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-  "source_revision": "1381707571",
-  "source_timestamp": "2026-10-24T07:34:09Z",
-  "generated_at": "2026-10-30T10:52:23.311379+00:00",
+  "source_revision": "1384608727",
+  "source_timestamp": "2026-11-09T03:01:08Z",
+  "generated_at": "2026-11-11T14:50:36.774523+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": "Although officially no visa is required, at least a Double Entry Schengen visa is required to enter Andorra since it has no own airport facility.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -35,7 +35,7 @@
       "notes": "Following Iranian strikes on the UAE, Iranian passport holders are no longer allowed to enter or transit through the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -49,7 +49,7 @@
       "notes": "Not eligible for the e-Visa program available to most nationalities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -63,7 +63,7 @@
       "notes": "90 days with a valid visa or PR card for United States, Canada, United Kingdom or an EU Member State.\ne-Visa can be obtained before departure.\nPassengers require a printed e-Visa confirmation.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -77,7 +77,7 @@
       "notes": "Holders of a valid visa issued by the United Kingdom do not require a visa for 3 months.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -105,7 +105,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -119,7 +119,7 @@
       "notes": "30 days and can be extended twice for the same period.\nYellow Fever Vaccination(required).\nProof of sufficient funds to cover your stay in Angola.\nProof of accommodation(booking hotel, etc.).\nTravel Itinerary(return ticket).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -133,7 +133,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -161,7 +161,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -175,7 +175,7 @@
       "notes": "From March 26, 2026, entry into Australia by Australian visa (Subclass 600) holders residing overseas has been banned.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -189,7 +189,7 @@
       "notes": "Holders of a valid visa issued by Schengen Member State (‘C’ or ‘D’ visa) do not require a visa for 90 days for each territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -217,7 +217,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -231,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -245,7 +245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -259,7 +259,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -273,7 +273,7 @@
       "notes": "May extend by 60 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -287,7 +287,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -301,7 +301,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -317,7 +317,7 @@
       "notes": "Visa on arrival either at Bujumbura International Airport (Melchior Ndadaye) or at all land borders for a maximum stay of 1 month.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -331,7 +331,7 @@
       "notes": "Must have an international vaccination certificate.\nThree types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -345,7 +345,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -359,7 +359,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -373,7 +373,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -387,7 +387,7 @@
       "notes": "Up to 90 days for online visa.\nProof of return or onward travel.\nHotel booking confirmation or invitation or letter from a host in Bolivia.\nProof of sufficient funds (approximately 50 USD/day).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -401,7 +401,7 @@
       "notes": "Holders of a valid visa issued by Schengen Member State (‘C’ or ‘D’ visa) do not require a visa for 90 days for each territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -415,7 +415,7 @@
       "notes": "Holders of a valid visa issued by Schengen Member State (‘C’ or ‘D’ visa) do not require a visa for 90 days for each territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -429,7 +429,7 @@
       "notes": "Holders of a valid visa issued by Schengen Member State (‘C’ or ‘D’ visa) do not require a visa for 90 days for each territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -443,7 +443,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -457,7 +457,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -471,7 +471,7 @@
       "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -485,7 +485,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -499,7 +499,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -513,7 +513,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -527,7 +527,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -541,7 +541,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -555,7 +555,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -569,7 +569,7 @@
       "notes": "Travelers must obtain a visa from the Republic of the Congo embassy. However, they can also apply for the visa online at the website of at the Republic of the Congo embassy in France.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -583,7 +583,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -597,7 +597,7 @@
       "notes": "Yellow Fever Vaccination Certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -611,7 +611,7 @@
       "notes": "31 days.\nBy mid-September 2025, the Cook Islands will launch an online electronic visa and permit application system in a bid to simplify its travel formalities for more than 31 days of stay and fee price is NZ$470.00 and the provision of certain documents, such as a form, a valid exit ticket and proof of sufficient funds for the extended duration of stay.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -625,7 +625,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -639,7 +639,7 @@
       "notes": "Proof of Yellow Fever Vaccination is required for all travelers to Cameroon.\nMay extend by 60 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -653,7 +653,7 @@
       "notes": "24-hour visa-free transit through any international airports of China (except Ürümqi), allows domestic travel through different airports.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -667,7 +667,7 @@
       "notes": "As Tibet is under the jurisdiction of China, tourist will need to obtain the first document, Chinese Visa, for the purpose of entering China. Tourists can apply for it in a Chinese Embassy overseas or in Hong Kong. The Tibet Travel Permit is issued by Tibet Tourism Bureau (TTB). It is also called Tibet visa, for the purpose of entering Tibet. Travelers need to have Tibet Travel Permit to enter into Lhasa or any other parts of the Tibetan Autonomous Region. It is obtained through tour operators for most tourists. When you take a flight or train to Lhasa, you will be asked to show this permit during check-in. Furthermore, the permit is also needed by groups traveling by road. But this will be arranged by the travel agency organizing the trip.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -681,7 +681,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -695,7 +695,7 @@
       "notes": "30 days with a valid multi entry US / Canada / UK visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -709,7 +709,7 @@
       "notes": "The tourist visa is valid for a single entry to Cuba, for a stay of 90 days, extendable for 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -723,7 +723,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -737,7 +737,7 @@
       "notes": "Holders of a valid visa issued by Schengen Member State (‘C’ or ‘D’ visa) do not require a visa for 90 days for each territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -751,7 +751,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -765,7 +765,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -779,7 +779,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -793,7 +793,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -807,7 +807,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -821,7 +821,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -835,7 +835,7 @@
       "notes": "90 days with a valid US / Canada / UK / EU visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -849,7 +849,7 @@
       "notes": "Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\nVisitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -863,7 +863,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -877,7 +877,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -891,7 +891,7 @@
       "notes": "Entry visas must be endorsed by Security Approval from Security of State",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -905,7 +905,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -919,7 +919,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -933,7 +933,7 @@
       "notes": "e-Visa holders must arrive via Addis Ababa Bole International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -947,7 +947,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -961,13 +961,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -975,7 +975,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -989,7 +989,7 @@
       "notes": "Extension of stay is possible up to 60 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1003,7 +1003,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1017,7 +1017,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1031,7 +1031,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1045,7 +1045,7 @@
       "notes": "e-Visa holders must arrive at Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1059,7 +1059,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1073,7 +1073,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1087,7 +1087,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1101,7 +1101,7 @@
       "notes": "Must have return ticket.\nHotel reservation, insurance and sufficient funds required.\nIf arriving by ground border, obtain approval by local officer.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1115,7 +1115,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1129,7 +1129,7 @@
       "notes": "Ghana has brought online the official portal that will be used for electronic visa applications starting May 25, 2026\nElectronic visa fees are set at $260 for a single-entry e-Visa under normal processing of three to five business days, $338 for 48-hour priority processing and $442 for five-hour express processing. For a multiple-entry e-Visa, the listed fees are $468, $608 or $796, depending on the processing time selected",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1143,7 +1143,7 @@
       "notes": "Holders of a valid visa issued by the United Kingdom do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1157,7 +1157,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1171,7 +1171,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1185,7 +1185,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1199,7 +1199,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1213,7 +1213,7 @@
       "notes": "e-Visa holders must arrive via Malabo International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1227,7 +1227,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1241,7 +1241,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1255,7 +1255,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1269,7 +1269,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1283,7 +1283,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1297,7 +1297,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1311,7 +1311,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1325,7 +1325,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1339,7 +1339,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1353,7 +1353,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1367,7 +1367,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1381,7 +1381,7 @@
       "notes": "Iranian citizens require a guarantor to obtain an Indonesian eVisa; therefore, it is impossible to obtain one directly through the Directorate General of Immigration website. The travel agency acts as your sponsor during the visa application process, and Indonesia issues the visa under that company's sponsorship.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1395,7 +1395,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1409,7 +1409,7 @@
       "notes": "Confirmation from Israeli Foreign Ministry required before visa issued.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1423,7 +1423,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1437,7 +1437,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1451,7 +1451,7 @@
       "notes": "Visa-free to Kurdistan region for 15 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1465,7 +1465,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1479,7 +1479,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1493,7 +1493,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1507,7 +1507,7 @@
       "notes": "Permanent residents of Canada and cruise passengers of any nationality who intend to remain in the island during the stay of the vessel by which they arrived and to depart on the same vessel, are not required to hold visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1521,7 +1521,7 @@
       "notes": "Normal passport holders must obtain security approval prior to arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1535,7 +1535,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1549,7 +1549,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1563,7 +1563,7 @@
       "notes": "e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1579,7 +1579,7 @@
       "notes": "e-Visa can be obtained before departure.\nExtendable 30-day visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1593,7 +1593,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1607,7 +1607,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1621,7 +1621,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1635,7 +1635,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1649,7 +1649,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1663,7 +1663,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1677,7 +1677,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1691,7 +1691,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1705,7 +1705,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1719,7 +1719,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1733,7 +1733,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1747,7 +1747,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1761,7 +1761,7 @@
       "notes": "Sri Lanka has set May 25, 2026, as the start date for its new free tourist visa scheme for citizens of 40 countries(including Iranians). Eligible travelers will still be required to obtain an Electronic Travel Authorization (ETA) before arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1775,7 +1775,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1789,7 +1789,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1803,7 +1803,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1817,7 +1817,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1831,7 +1831,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1845,7 +1845,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1859,7 +1859,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1873,7 +1873,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1887,7 +1887,7 @@
       "notes": "Citizens holding a residence permit or a valid visa issued by one of the member states of the European Union or one of the parties to the Schengen Agreement can apply for an electronic visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1901,13 +1901,13 @@
       "notes": "30 days with a valid visa issued by Ireland, United States, United Kingdom or an EU Member State.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "MF",
       "destination_name": "Saint Martin",
-      "area": "Saint Martin",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -1915,7 +1915,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1931,7 +1931,7 @@
       "notes": "Arrival at Ivato International Airport in Antananarivo and all other airports with international connections (such as Antsiranana, Toamasina, Tuléar).\nFor stays of 61 to 90 days, the visa fee is 59 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1945,7 +1945,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1959,7 +1959,7 @@
       "notes": "15 days with a valid multi entry Schengen visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1973,7 +1973,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -1987,7 +1987,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2001,13 +2001,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "MO",
       "destination_name": "Macau",
-      "area": "Macau",
+      "area": null,
       "status": "visa_on_arrival",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2015,7 +2015,7 @@
       "notes": "30 days and visa fee is 25 USD.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2029,7 +2029,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2043,7 +2043,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2057,7 +2057,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.\ne-Visa is available for the following durations: 30 days, 90 days, 360 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2071,7 +2071,7 @@
       "notes": "A Montserrat e-Visa is equivalent to a conventional visa, but no paper is inserted in your passport and there is no need for you to visit a British Consulate to submit an application. Applications for eVisas are submitted online, verified online, and in most cases, eVisas will be approved and issued online within 24 Hours. Having a valid eVisa authorizes you to travel to Montserrat; but you are still subject to the normal immigration checks upon arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2085,7 +2085,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2099,7 +2099,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2113,7 +2113,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2127,7 +2127,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2141,7 +2141,7 @@
       "notes": "180 days with a valid visa issued by Canada, Japan, United States, United Kingdom or an EU Member State.\nEntry may be refused by immigration officials for individuals who were previously denied a US visa, even if holding a valid Mexican visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2155,7 +2155,7 @@
       "notes": "from 03 September, 2025 Islamic Republic of Iran and Malaysia has agreed to extend the eligibility period for entrance visa for citizens of both countries from 14 days to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2169,7 +2169,7 @@
       "notes": "Visitor passes issued for entry into Peninsular Malaysia and Sabah are not valid for entry into Sarawak. Fresh visit passes must be obtained on arrival at the point of entry in Sarawak. However, subject to conditions stipulated, visit passes issued by the Immigration Authorities in Sabah and Sarawak are valid for Peninsular Malaysia.\nFor long-term Peninsular Malaysia pass holders visiting Sabah, a fresh pass must be obtained. The pass has a validity of 14 days for tourism, the same as Peninsular Malaysia.\nIn case a Peninsular Malaysia visit pass is used for Sabah, the validity of the Peninsular Malaysia visit pass shall apply.\nVisit passes to Sarawak can be issued for up to 30 days at the discretion of the immigration officer.\nReturn tickets to overseas destination or Peninsular Malaysia and hotel bookings are required and will be inspected upon arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2185,7 +2185,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2199,7 +2199,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2213,7 +2213,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2227,7 +2227,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2241,7 +2241,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2255,7 +2255,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2269,7 +2269,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2283,7 +2283,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2297,7 +2297,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2311,7 +2311,7 @@
       "notes": "Unlimited period under Svalbard Treaty. Everyone may, in principle, travel to Svalbard, and foreign citizens do not need a visa or a work or residence permit from Norwegian authorities in order to settle in Svalbard. Foreign citizens with visa requirements to the Schengen area do, however, need a valid Schengen visa if they travel through Schengen on their way to or from Svalbard. It is required with two entries in the traveller's visa to be able to return to the Schengen area (mainland Norway) after the stay at Svalbard.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2325,7 +2325,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2339,7 +2339,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2353,7 +2353,7 @@
       "notes": "30 days. Not required by bona fide tourists staying less than 30 days with return or onward tickets and sufficient funds for length of stay. Extensions are available by applying to the Immigration Office before arrival: PO Box 67, Alofi, Niue Island. Phone (683) 4349 for enquiries.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2367,7 +2367,7 @@
       "notes": "Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2383,7 +2383,7 @@
       "notes": "Require hotel reservation, health insurance and return ticket.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2397,7 +2397,7 @@
       "notes": "30 days with a valid Australia / Canada / US / UK visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2411,7 +2411,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2425,7 +2425,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2439,21 +2439,21 @@
       "notes": "Starting October 1, 2025, all travelers entering Papua New Guinea will be required to complete a digital arrival card called the “PNG Digital Arrival Card (PNG DAC).”",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "PH",
       "destination_name": "Philippines",
       "area": null,
-      "status": "evisa",
+      "status": "visa_required",
       "alternative_statuses": [],
-      "allowed_stay_days": 59,
-      "allowed_stay_raw": "59 days",
-      "notes": "Available in single entry (valid for 3 months) or multiple entry (valid for 6 months of 1 year).",
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2467,7 +2467,7 @@
       "notes": "Visa fee of 25 USD for single entry and less than 3 months.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2481,7 +2481,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2495,13 +2495,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2509,7 +2509,7 @@
       "notes": "14 days visa-free and landing fee 35 USD or tax of 5 USD if not going ashore. There is no need for prior entry clearance if your visit is for 14 days or less and you intend to arrive and depart on the same vessel, and you may obtain leave to enter on arrival at Pitcairn. You must ensure you can adequately maintain and accommodate yourself without recourse to public funds and meet the other criteria in Part III Para 6 of the Immigration Control Ordinance 2014. If your visit is for longer than 14 days but less than six months you must complete an entry clearance application form well in advance of your visit (at least 3 months is recommended). The application form should be submitted electronically to the Pitcairn Immigration Officer on immigration@pitcairn.gov.pn and copied to the Pitcairn Islands Office on admin@pitcairn.gov.pn. If you do not get an acknowledgement within two weeks, telephone on (649) 366 0186 to confirm your application has been received. If your visit is for professional or business reasons, you should follow the same visa application procedure but the conditions for any visit to the island will be as described in Part III Para 8 of the Immigration Control Ordinance 2014.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2523,13 +2523,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "PS",
       "destination_name": "State of Palestine",
-      "area": "State of Palestine",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2537,7 +2537,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2551,7 +2551,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2565,7 +2565,7 @@
       "notes": "The visa is valid for a maximum stay of 30 days but can be extended twice for a fee. In order to obtain a visa on arrival visitors are required to have a proof of sufficient funds (200 USD per week)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2579,7 +2579,7 @@
       "notes": "May submit the visa application online, but must later go to a Paraguayan embassy or consulate to complete the process.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2595,7 +2595,7 @@
       "notes": "Hotel reservation via Discover Qatar must be confirmed.\nA tourist visa for an expatriate for one month (not extendable) for a fee of (QR 100)\nConfirmed round-trip ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2609,7 +2609,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2623,7 +2623,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2637,7 +2637,7 @@
       "notes": "Certificate of travel health insurance.\nEvidence of the amount of funds available for maintenance during the intended stay.\nBook a return or multi-trip ticket/driver's license, vehicle insurance if traveling by private car.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2653,7 +2653,7 @@
       "notes": "Visa not required for 15 days for travelling as part of an accredited tour group (5 ~ 50 people).\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2669,7 +2669,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2683,7 +2683,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2697,7 +2697,7 @@
       "notes": "May obtain a visa on arrival if they have a pre-arranged visa approval.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2711,7 +2711,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2725,7 +2725,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2739,7 +2739,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2753,7 +2753,21 @@
       "notes": "Visa application can be submitted online using the 'e-Service' through a strategic partner or a local contact in Singapore.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
+    },
+    {
+      "passport": "IR",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "evisa",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2767,21 +2781,7 @@
       "notes": "From May 2015, the Ascension Island Government does not issue entry visas including eVisas to nationals of Iran.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
-    },
-    {
-      "passport": "IR",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "evisa",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": null,
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2795,7 +2795,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2809,7 +2809,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2823,7 +2823,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2839,7 +2839,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2853,7 +2853,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2867,7 +2867,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2881,7 +2881,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2895,7 +2895,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2909,7 +2909,7 @@
       "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.\nPrinted visa authorization must be presented at the time of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2923,7 +2923,7 @@
       "notes": "15 days with a valid multi entry Schengen visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2937,13 +2937,13 @@
       "notes": "30 days with a valid residence of several countries(UK, The USA, EU and etc.)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2951,7 +2951,7 @@
       "notes": "Holders of a valid visa issued by Schengen Member State (‘C’ or ‘D’ visa) do not require a visa for 90 days for each territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2965,7 +2965,7 @@
       "notes": "Can only enter the country with prior authorization from the Syrian authorities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2979,7 +2979,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -2993,7 +2993,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3007,7 +3007,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3021,7 +3021,7 @@
       "notes": "Extension of stay is possible for additional 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3035,7 +3035,7 @@
       "notes": "Must pay at Embassy in Tehran only (40 USD).\nCan apply at Thai Embassy in other countries if you have resident permit for that country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3048,10 +3048,10 @@
       ],
       "allowed_stay_days": 30,
       "allowed_stay_raw": "30 days / 60 days",
-      "notes": "Applicable only by air travel between Dushanbe and Tehran.\nUp to 90 days per year.\ne-Visa for 60 days within 90 days for 30 USD.\n/ 60 days",
+      "notes": "Applicable by direct or third country air travel and by land crossing.\nUp to 30 days per 90 day period.\neVisa for 60 days per 90 day period for 30 USD.\n/ 60 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3065,7 +3065,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3079,7 +3079,7 @@
       "notes": "Visa on arrival at the Presidente Nicolau Lobato International Airport or at the Dili Sea Port.\nSingle entry visa valid for up to 30 days is granted for fee of 30 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3093,7 +3093,7 @@
       "notes": "As of October 2, 2026, the official evisa.migration.gov.tm portal provides access to the main requirements for the program introduced the previous day by the State Migration Service.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3107,7 +3107,7 @@
       "notes": "15 days every 180 days.\nHotel booking and return ticket required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3121,7 +3121,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3135,7 +3135,7 @@
       "notes": "90 days during one trip, no more than 90 days within any 180 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3149,7 +3149,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3163,13 +3163,13 @@
       "notes": "Visa fee is 100 AUD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "evisa",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3177,7 +3177,7 @@
       "notes": "Return ticket is required.\nIranian citizens can apply online and in the nearest embassies in different countries can pay for the visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3191,7 +3191,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3205,7 +3205,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3219,7 +3219,7 @@
       "notes": "Verified at port of entry.\nCan also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.\nThe fee for this visa is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3233,7 +3233,7 @@
       "notes": "Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions.\nIranian citizens can apply for immigrant visas if they face ethnic or religious persecution in their country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3247,7 +3247,7 @@
       "notes": "Prior authorisation required before issuing visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3261,7 +3261,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3275,7 +3275,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3289,7 +3289,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3303,13 +3303,13 @@
       "notes": "May extend by 15 days.\nReturn ticket or proof of next destination.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3317,13 +3317,13 @@
       "notes": "Holders of UK, US or Canada visas and are visiting the BVI for Business or tourism related matters, to enter and remain for a period of less than six months, without the need for a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3331,7 +3331,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3345,7 +3345,7 @@
       "notes": "e-Visa is valid for 90 days and multiple entry.\nReturn tickect is required.\nOnly Phú Quốc (PQC) island has visa exemption for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3359,7 +3359,7 @@
       "notes": "In September 2005 the government passed regulations specifically in relation Phu Quoc Island entry, exit and residence of foreigners or Vietnamese holding foreign passports. These regulations are provided below in more detail. Under this Decision, foreigners and Vietnamese holding foreign passports who are, entering, exiting from, and residing in Phu Quoc Island for a stay period not exceeding 15 days are exempt from visas. The following section provides a summary of those regulations.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3373,7 +3373,7 @@
       "notes": "Visa fee is 5150 VUV (40 USD).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3387,7 +3387,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3401,7 +3401,7 @@
       "notes": "Passport valid 6 months, return or onward ticket, bank statement, never deported.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3415,7 +3415,7 @@
       "notes": "Below are the requirements for receiving an entry permit to the Republic of Abkhazia: Copy of passport (sent by e-mail or by fax). Please make sure that your passport is valid for at least 6 months after your planned entry to Abkhazia. Filled electronic application. You should complete all sections of the application. If any necessary information is missing, the application will not be considered. An entry permit letter for visiting the Republic of Abkhazia will be sent to the email address from which the application was sent or to the fax number stated in the application.\nMust have double entry or multiple Russian visas to come to Abkhazia (it is a mandatory requirement, since the Russian Embassy in Abkhazia will not issue transit visas to the citizens of Iran).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3429,7 +3429,7 @@
       "notes": "Visa is not required for holders of a valid biometric residence permit issued by one of the Schengen member states or a valid multi-entry Schengen Visa, a holder of a valid Laissez-Passer issued by United Nations Organizations, NATO, OSCE, Council of Europe or European Union a holder of a valid travel documents issued by EU Member and Schengen States, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners (max. 15 days stay)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3443,7 +3443,7 @@
       "notes": "TRNC Immigration Police Officer at the ports of entry is authorized to issue a maximum of 90 days to enter and stay if the responses to his/her questions are satisfactory. The visitors who intend to stay longer than the permitted period should apply before the visa expiry date to the Immigration Department of the Police Headquarters for an extension. Visitors who stay longer than the expiry date without an extension of stay will be given a notice of “visa penalty” fine at the port of departure. The fine will be paid by the visitor at the re-entry to the TRNC",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3457,7 +3457,7 @@
       "notes": "To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3471,7 +3471,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3485,7 +3485,7 @@
       "notes": "Registration required after 24h.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3499,7 +3499,7 @@
       "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3513,7 +3513,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3527,7 +3527,7 @@
       "notes": "e-Visa holders must arrive at O. R. Tambo International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3541,7 +3541,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     },
     {
       "passport": "IR",
@@ -3557,7 +3557,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1381707571"
+      "source_revision": "1384608727"
     }
   ]
 }

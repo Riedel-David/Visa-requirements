@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "RO",
   "source_title": "Visa requirements for Romanian citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-  "source_revision": "1378880453",
-  "source_timestamp": "2026-10-06T18:01:40Z",
-  "generated_at": "2026-10-30T15:06:31.027749+00:00",
+  "source_revision": "1382891435",
+  "source_timestamp": "2026-10-30T21:27:06Z",
+  "generated_at": "2026-11-11T14:51:39.918869+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -35,7 +35,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -49,7 +49,7 @@
       "notes": "A visa is not required for individuals born in Afghanistan or for those who can provide proof that one of their parents is an Afghan national or was born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -91,7 +91,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -105,7 +105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -119,7 +119,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -133,7 +133,7 @@
       "notes": "Special permits required for British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australia Australian Antarctic Territory, Antártica Chilena Province Chilean Antarctic Territory, Australia Heard Island and McDonald Islands, Norway Peter I Island, Norway Queen Maud Land, New Zealand Ross Dependency.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -161,7 +161,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -175,7 +175,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -189,7 +189,7 @@
       "notes": "90 days on each visit in 12-month period if granted.\nMay enter using SmartGate.\nTransit without a visa is possible.\nApproval rates for Romanian citizens remain by far the lowest of the eVisitor programme. Even in 2025, approximately 38% of applications are rejected.\nProof of employment, retirement, or enrollment in a university is mandatory. In the very likely event of being asked for financial resources, a bank statement from the last 3 months showing at least AUD 5,000 and proof of consistent monthly income is recommended.\nIf any of these conditions cannot be met, additional documents demonstrating intent to return to the home country are recommended to avoid visa refusal.\nIt is still generally considered a visa exemption, as 90% of eVisitor visas are automatically granted in less than a day for citizens of other eVisitor-eligible countries, with an overall approval rate of 98%. For Romanian citizens, the automatic grant rate is less than 30%, and the overall approval rate, including manually reviewed applications, is around 62%.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -203,7 +203,7 @@
       "notes": "Special authorisation required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -217,7 +217,7 @@
       "notes": ", extendable to 180 days",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -231,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -245,7 +245,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -259,7 +259,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -273,7 +273,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -287,7 +287,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -301,7 +301,7 @@
       "notes": "International Certificate of Vaccination or Prophylaxis required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -315,7 +315,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -331,7 +331,7 @@
       "notes": "Extendable for an additional 2 weeks.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -347,7 +347,7 @@
       "notes": "From December 2021, passengers of all countries that required visa, can now obtain visa on arrival at Bujumbura International Airport, and all land borders.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -361,7 +361,7 @@
       "notes": "Must have an international vaccination certificate.\nThree types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -375,7 +375,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -389,7 +389,7 @@
       "notes": ", decided on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -403,7 +403,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -417,7 +417,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -431,7 +431,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -445,7 +445,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -459,7 +459,7 @@
       "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -473,7 +473,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -487,7 +487,7 @@
       "notes": "Visa-free until 31 December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -501,7 +501,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -515,7 +515,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -531,7 +531,7 @@
       "notes": "eTA required if arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -545,7 +545,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -559,7 +559,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -573,7 +573,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -587,7 +587,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -601,7 +601,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -615,7 +615,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -629,7 +629,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -643,7 +643,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -657,7 +657,7 @@
       "notes": "Visa-free from November 30, 2024 to December 31, 2026.\nVisa not required for holders of normal Romanian passports endorsed \"for public affairs\".",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -671,7 +671,7 @@
       "notes": "Individual tourists need to select a tour agency and inform them their schedule.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -685,7 +685,7 @@
       "notes": "Tibet Travel Permit required (10 US Dollars).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -699,7 +699,7 @@
       "notes": "90 days – extendable up to 180-days stay within a one-year period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -713,7 +713,7 @@
       "notes": "Visitors arriving at Gustavo Rojas Pinilla International Airport and Alfredo Vásquez Cobo International Airport must buy tourist cards on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -727,7 +727,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -741,7 +741,7 @@
       "notes": "Can be extended up to 90 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -755,13 +755,13 @@
       "notes": "Must register online at least five days prior to arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "CW",
       "destination_name": "Curacao",
-      "area": "Curacao",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -769,7 +769,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -783,7 +783,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -797,7 +797,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -811,7 +811,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -827,7 +827,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -841,7 +841,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -855,7 +855,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -869,7 +869,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -883,7 +883,7 @@
       "notes": "Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\nVisitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -897,7 +897,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -911,7 +911,7 @@
       "notes": "Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -925,7 +925,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -941,7 +941,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -955,7 +955,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -969,7 +969,7 @@
       "notes": "To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -983,7 +983,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -997,7 +997,7 @@
       "notes": "Freedom of movement.\nID card valid\n* Freedom of movement.\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1013,7 +1013,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1027,7 +1027,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1041,7 +1041,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1055,13 +1055,13 @@
       "notes": "Special permission required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -1069,7 +1069,7 @@
       "notes": "A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1083,7 +1083,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1097,7 +1097,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1111,7 +1111,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1125,7 +1125,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1139,7 +1139,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1153,7 +1153,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1167,7 +1167,7 @@
       "notes": "ETA UK (valid for 2 years when issued) required from 2 April 2025.\nAdults can use ePassport gates.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1181,7 +1181,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1195,7 +1195,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1209,7 +1209,7 @@
       "notes": "Freedom of movement.\nID card valid\n* Freedom of movement.\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1223,7 +1223,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1237,7 +1237,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1251,7 +1251,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1265,7 +1265,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1279,7 +1279,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1293,7 +1293,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1307,7 +1307,7 @@
       "notes": "Freedom of movement\nID card valid\n* Freedom of movement\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1321,7 +1321,7 @@
       "notes": "e-Visa holders must arrive via Malabo International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1335,7 +1335,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1349,7 +1349,7 @@
       "notes": "Special permit required (25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1363,7 +1363,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1377,7 +1377,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1391,7 +1391,7 @@
       "notes": "(same as US)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1405,7 +1405,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1419,7 +1419,7 @@
       "notes": "An eVisa(Approval letter) can only be obtained after contacting the Department of Immigration and Citizenship by phone. Payment is done upon arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1433,7 +1433,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1447,7 +1447,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1461,7 +1461,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1475,7 +1475,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1489,7 +1489,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1503,7 +1503,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1517,7 +1517,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1531,7 +1531,7 @@
       "notes": "Starting 1 January 2025, an ETA is required",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1545,7 +1545,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1559,7 +1559,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1573,7 +1573,7 @@
       "notes": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1587,7 +1587,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1601,7 +1601,7 @@
       "notes": "Visa on arrival or eVisa for up to 30 days for travel to Iraqi Kurdistan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1615,7 +1615,7 @@
       "notes": "Visa on arrival is available at Erbil and Sulaymaniyah airports.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1629,7 +1629,7 @@
       "notes": "Passengers who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's E-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1643,7 +1643,7 @@
       "notes": "Visitors to Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1657,7 +1657,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1671,7 +1671,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1685,7 +1685,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1699,7 +1699,7 @@
       "notes": "At the price of US$100.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1715,7 +1715,7 @@
       "notes": "Conditions apply.\nVisa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1729,7 +1729,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1743,7 +1743,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1757,7 +1757,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1773,7 +1773,7 @@
       "notes": "Online visa available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1787,7 +1787,7 @@
       "notes": "90 days within any 180-day period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1801,7 +1801,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1815,7 +1815,7 @@
       "notes": "All travelers must apply for an ETA online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1829,7 +1829,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1843,7 +1843,7 @@
       "notes": "People are not allowed to leave the capital city, tourists can only leave the capital with a governmental tourist guide (no independent moving)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1857,7 +1857,7 @@
       "notes": "K-ETA exemption until the end of 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1873,7 +1873,7 @@
       "notes": "Online visa available (eVisa).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1887,7 +1887,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1901,7 +1901,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1915,7 +1915,7 @@
       "notes": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1931,7 +1931,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1945,7 +1945,7 @@
       "notes": "Extendable for 2 additional months.\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non-refundable return or circle trip ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1959,7 +1959,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1973,7 +1973,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -1987,7 +1987,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2001,7 +2001,7 @@
       "notes": "The Liberia Visa on Arrival (VoA) allows travelers to obtain a Visa upon arrival in Liberia by plane. Travelers must pre-apply for the visa online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2015,7 +2015,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2029,7 +2029,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2043,7 +2043,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2057,7 +2057,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2071,7 +2071,7 @@
       "notes": "Independent travel is not permitted, and visitors must organize their visit through a tour guide. A tourist police escort is required at all times.\nAn eVisa will not be granted without a sponsor or tour agency.\nA security letter issued by the Libyan Immigration Authorities may also be required.\nHolders of passports containing an Israeli stamp or visa will be refused entry in Libya.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2085,7 +2085,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2099,7 +2099,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2113,7 +2113,7 @@
       "notes": "90 days within any 180-day period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2127,13 +2127,13 @@
       "notes": "90 days within any 6-month period.\nID card valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "MF",
       "destination_name": "Saint Martin",
-      "area": "Saint Martin",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2141,7 +2141,7 @@
       "notes": "Freedom of movement\nID card valid\n* Freedom of movement\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2157,7 +2157,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2171,7 +2171,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2185,7 +2185,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2199,7 +2199,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2213,7 +2213,7 @@
       "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\neVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2227,7 +2227,7 @@
       "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2241,7 +2241,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2255,7 +2255,7 @@
       "notes": "Visa not required under the Visa Waiver Program ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2269,7 +2269,7 @@
       "notes": "Freedom of movement\nID card valid\n* Freedom of movement\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2283,7 +2283,7 @@
       "notes": "An eVisa is mandatory before travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2297,7 +2297,7 @@
       "notes": "ID card valid (max. 14 days).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2311,7 +2311,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2325,7 +2325,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2339,7 +2339,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2355,7 +2355,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2369,7 +2369,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2383,7 +2383,7 @@
       "notes": "The electronic Malaysia Digital Arrival Card must be submitted within three days before the date of arrival in Malaysia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2397,7 +2397,7 @@
       "notes": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2413,7 +2413,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2429,7 +2429,7 @@
       "notes": "Can be obtained online or on arrival for a fee of N$1,600 (approximately €82 / US$88).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2443,7 +2443,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2457,7 +2457,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2471,7 +2471,7 @@
       "notes": "Holders of written e-Visa approval issued by the Immigration Authority can obtain a visa on arrival, provided they hold a visa application form and e-Visa application payment receipt and have an invitation letter from a Nigerian company accepting immigration responsibilities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2485,7 +2485,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2499,7 +2499,7 @@
       "notes": "Freedom of movement. (European Netherlands)\nID card valid .\n*Freedom of movement. (European Netherlands)\n*ID card valid .",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2513,7 +2513,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2527,7 +2527,7 @@
       "notes": "ID card valid .\n*ID card valid .",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2541,7 +2541,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2557,7 +2557,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2571,7 +2571,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2585,7 +2585,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2599,7 +2599,7 @@
       "notes": "International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nMay enter using eGate.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2613,7 +2613,7 @@
       "notes": "An e-Visa is also available for stays up to 30 days.\nMust present proof of a confirmed hotel reservation, health insurance, and a return ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2627,7 +2627,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2641,7 +2641,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2655,7 +2655,7 @@
       "notes": "Visa on Arrival is currently suspended.\nAvailable at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2669,7 +2669,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2683,7 +2683,7 @@
       "notes": "Issued in 7–10 business days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2697,7 +2697,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2711,13 +2711,13 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 14,
@@ -2725,7 +2725,7 @@
       "notes": "Landing fee 35 USD or tax of 5 USD if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2739,13 +2739,13 @@
       "notes": "(same as US)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2753,7 +2753,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2767,7 +2767,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2781,7 +2781,7 @@
       "notes": "Freedom of movement.\nID card valid\n* Freedom of movement.\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2795,7 +2795,7 @@
       "notes": "Freedom of movement.\nID card valid\n* Freedom of movement.\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2809,7 +2809,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2823,7 +2823,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2837,7 +2837,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2851,7 +2851,7 @@
       "notes": "Freedom of movement.\nID card valid\n* Freedom of movement.\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2865,7 +2865,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2879,13 +2879,13 @@
       "notes": "e-Visa holders must arrive and departure via approved checkpoints",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "RU",
       "destination_name": "Russia",
-      "area": "Russia",
+      "area": "Unrecognized or partially recognized countries",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2893,7 +2893,7 @@
       "notes": "Several closed cities and regions in Russia require special authorization.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2907,7 +2907,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2923,7 +2923,7 @@
       "notes": "96 hour transit visa available additionally.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2937,7 +2937,7 @@
       "notes": "90 days within any 180-day period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2951,7 +2951,7 @@
       "notes": "Travelers must obtain an ETA before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2965,7 +2965,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2979,7 +2979,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -2993,7 +2993,7 @@
       "notes": "All foreigners traveling more than 25 kilometers outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3007,7 +3007,7 @@
       "notes": "ID card valid.\n*ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3021,7 +3021,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
+    },
+    {
+      "passport": "RO",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "visa_on_arrival",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3035,21 +3049,7 @@
       "notes": "within any year period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
-    },
-    {
-      "passport": "RO",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "visa_on_arrival",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3063,7 +3063,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3077,7 +3077,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3091,7 +3091,7 @@
       "notes": "ID card valid\n*ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3107,7 +3107,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3121,7 +3121,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3135,7 +3135,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3149,7 +3149,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3163,7 +3163,7 @@
       "notes": "An entrance fee of 50 USD or 50 Euros must be paid online prior to arrival.\nMultiple entry eVisa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3177,7 +3177,7 @@
       "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.\nPrinted visa authorization must be presented at the time of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3191,7 +3191,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3205,13 +3205,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3219,7 +3219,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3235,7 +3235,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3249,7 +3249,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3263,7 +3263,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3277,7 +3277,7 @@
       "notes": "Must apply at least 7 days before arrival but maximum 90 days before arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3291,7 +3291,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3305,7 +3305,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3319,7 +3319,7 @@
       "notes": "Visas are also available online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3333,7 +3333,7 @@
       "notes": "OVIR permit required, can be obtained with e-visa application for an additional 20 USD. Locally it may be obtained for 15+5 Tajikistani Somoni. Another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3347,7 +3347,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3361,7 +3361,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3375,7 +3375,7 @@
       "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.\nWhen transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3389,7 +3389,7 @@
       "notes": "A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3403,7 +3403,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3417,7 +3417,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3431,7 +3431,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3445,7 +3445,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3459,13 +3459,13 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3473,7 +3473,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3487,7 +3487,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3501,7 +3501,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3515,7 +3515,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3529,7 +3529,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3543,7 +3543,7 @@
       "notes": "Romania's entry into the VWP is suspended until further notice.\nESTA is valid for 2 years from the date of issuance.\nESTA is also required when entering the country by cruise ship or land.\nA Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.\nVisa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3557,7 +3557,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3571,7 +3571,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3585,7 +3585,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3599,7 +3599,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3613,13 +3613,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -3627,13 +3627,13 @@
       "notes": ", extensions possible",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "eta",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3641,7 +3641,7 @@
       "notes": "(same as US)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3655,7 +3655,7 @@
       "notes": "A single entry e-Visa valid for 90 days is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3669,7 +3669,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3683,7 +3683,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3697,7 +3697,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3711,7 +3711,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3725,7 +3725,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3739,7 +3739,7 @@
       "notes": "ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3753,7 +3753,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3767,7 +3767,7 @@
       "notes": "Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3781,7 +3781,7 @@
       "notes": "for 30 US dollars, payable on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3795,7 +3795,7 @@
       "notes": "Registration required after 24h.\n24 hours",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3809,7 +3809,7 @@
       "notes": "Same visa regime as Morocco.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3823,7 +3823,7 @@
       "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3837,7 +3837,7 @@
       "notes": "Special permission needed for travel outside Sanaa or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3851,7 +3851,7 @@
       "notes": "Freedom of movement.\nID card valid\n* Freedom of movement.\n* ID card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3865,7 +3865,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3879,7 +3879,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     },
     {
       "passport": "RO",
@@ -3895,7 +3895,7 @@
       "notes": "(extendable to 3 months)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1378880453"
+      "source_revision": "1382891435"
     }
   ]
 }

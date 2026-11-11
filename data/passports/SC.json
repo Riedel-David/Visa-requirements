@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "SC",
   "source_title": "Visa requirements for Seychellois citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-  "source_revision": "1363220239",
-  "source_timestamp": "2026-07-08T20:24:18Z",
-  "generated_at": "2026-10-30T17:09:34.636834+00:00",
+  "source_revision": "1384607127",
+  "source_timestamp": "2026-11-09T02:49:21Z",
+  "generated_at": "2026-11-11T14:51:52.756072+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -35,7 +35,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -49,7 +49,7 @@
       "notes": "Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -77,7 +77,7 @@
       "notes": "Holders of a valid visa issued by the United Kingdom do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -105,7 +105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -119,7 +119,7 @@
       "notes": "For a maximum total stay of 90 days within year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -133,7 +133,7 @@
       "notes": "The AVE (High Speed Travel) is open to Seychellois citizens holding valid, current ordinary passports traveling to Argentina for tourism. To do so, they must hold a valid category B2/J/B1/O/P (P1-P2-P3)/E/H-1B visa issued by the United States of America.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -161,7 +161,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -175,7 +175,7 @@
       "notes": "May apply online (Online Visitor e600 visa).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -189,7 +189,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -217,7 +217,7 @@
       "notes": "90 days within any 6 month period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -231,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -245,7 +245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -259,7 +259,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -273,7 +273,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -287,7 +287,7 @@
       "notes": "3 months during a 6 months period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -301,7 +301,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -315,7 +315,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -329,7 +329,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -343,7 +343,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -357,7 +357,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -371,7 +371,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -385,7 +385,7 @@
       "notes": "90 days per 180-day period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -399,7 +399,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -413,7 +413,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -427,7 +427,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -441,7 +441,7 @@
       "notes": "Must arrive and depart via Minsk National Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -455,7 +455,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -469,7 +469,7 @@
       "notes": "Seychellois who have held a Canadian visa in the last 10 years or who hold a valid US non-immigrant visa can obtain an eTA instead of a visa when traveling to Canada by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -483,7 +483,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -497,7 +497,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -511,7 +511,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -525,7 +525,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -539,7 +539,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -553,7 +553,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -567,7 +567,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -581,7 +581,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -595,7 +595,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -609,7 +609,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -623,7 +623,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -637,7 +637,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -651,7 +651,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -665,7 +665,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -679,7 +679,7 @@
       "notes": "90 days within any 6 month period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -693,7 +693,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -707,7 +707,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -721,7 +721,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -735,7 +735,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -749,7 +749,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -763,7 +763,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -777,7 +777,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -791,7 +791,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -805,7 +805,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -819,7 +819,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -833,7 +833,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -847,7 +847,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -863,7 +863,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -877,7 +877,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -891,13 +891,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -905,7 +905,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -919,7 +919,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -933,7 +933,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -947,7 +947,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -961,7 +961,7 @@
       "notes": "Includes overseas departments of Guadeloupe and Martinique and overseas collectivities of Saint Barthélemy and Saint Martin.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -975,7 +975,7 @@
       "notes": "Electronic visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -989,7 +989,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1003,7 +1003,7 @@
       "notes": "Stays longer than 28 days per 12-month period require a permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1017,7 +1017,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1031,7 +1031,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1045,7 +1045,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1059,7 +1059,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1073,7 +1073,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1087,7 +1087,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1101,7 +1101,7 @@
       "notes": "Must obtain an entry clearance from the Gambian Immigration prior to travel",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1115,7 +1115,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1129,7 +1129,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1143,7 +1143,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1157,7 +1157,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1171,7 +1171,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1185,7 +1185,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1201,7 +1201,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1215,7 +1215,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1229,7 +1229,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1243,7 +1243,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1257,7 +1257,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1271,7 +1271,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1285,7 +1285,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1299,7 +1299,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1313,7 +1313,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1327,7 +1327,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1341,7 +1341,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1355,7 +1355,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1369,7 +1369,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1383,7 +1383,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1397,7 +1397,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1411,7 +1411,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1425,7 +1425,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1439,7 +1439,7 @@
       "notes": "Conditions apply",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1453,7 +1453,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1467,7 +1467,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1481,7 +1481,7 @@
       "notes": "eVisa holders must arrive via Manas International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1495,7 +1495,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1509,7 +1509,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1523,7 +1523,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1537,7 +1537,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1551,7 +1551,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1565,7 +1565,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1579,7 +1579,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1593,7 +1593,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1607,7 +1607,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1623,7 +1623,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1637,7 +1637,7 @@
       "notes": "In addition to a visa, an approval should be obtained from the Immigration department of the General Directorate of General Security (La Surete Generale).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1646,12 +1646,12 @@
       "area": null,
       "status": "visa_on_arrival",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1665,7 +1665,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1679,7 +1679,7 @@
       "notes": "60 days, up to 90 in a single year",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1693,7 +1693,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1707,7 +1707,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1721,7 +1721,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1735,7 +1735,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1749,7 +1749,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1763,7 +1763,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1777,7 +1777,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1791,7 +1791,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1805,7 +1805,7 @@
       "notes": "90 days within any 180 day period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1819,7 +1819,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1835,7 +1835,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1849,7 +1849,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1863,7 +1863,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1877,7 +1877,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1891,7 +1891,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1905,13 +1905,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "MO",
       "destination_name": "Macau",
-      "area": "Macau",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -1919,7 +1919,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1933,7 +1933,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1947,7 +1947,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1961,7 +1961,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1975,7 +1975,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -1989,7 +1989,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2003,7 +2003,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2017,7 +2017,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2031,7 +2031,7 @@
       "notes": "Visa is not required for holders of a valid visa of Canada, US, UK or a Schengen State and Permanent residence of Canada, Chile, Colombia, Schengen State, Japan, UK, US.\nEntry may be refused by immigration officials for individuals who were previously denied a US visa, even if holding a valid Mexican visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2045,7 +2045,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2059,7 +2059,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2073,7 +2073,7 @@
       "notes": "3 months within a year",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2087,7 +2087,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2101,7 +2101,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2115,7 +2115,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2129,7 +2129,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2143,7 +2143,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2157,7 +2157,7 @@
       "notes": "90 days. Includes Bonaire, Sint Eustatius and Saba.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2171,7 +2171,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2185,7 +2185,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2199,7 +2199,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2213,7 +2213,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2227,7 +2227,7 @@
       "notes": "International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2241,7 +2241,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2255,7 +2255,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2269,7 +2269,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2283,7 +2283,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2297,7 +2297,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2311,7 +2311,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2325,7 +2325,7 @@
       "notes": "Online Visa eligible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2339,7 +2339,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2353,13 +2353,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2367,7 +2367,7 @@
       "notes": "14 days visa free and landing fee 35 USD or tax of 5 USD if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2381,13 +2381,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2395,7 +2395,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2409,7 +2409,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2423,7 +2423,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2437,7 +2437,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2451,7 +2451,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2465,7 +2465,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2479,7 +2479,7 @@
       "notes": "3 months during a 6 months period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2493,7 +2493,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2507,7 +2507,7 @@
       "notes": "30 days, for a maximum total stay of 90 days within one calendar year period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2521,7 +2521,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2535,7 +2535,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2549,7 +2549,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2563,7 +2563,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2577,7 +2577,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2591,7 +2591,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
+    },
+    {
+      "passport": "SC",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "permit_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2605,21 +2619,7 @@
       "notes": "3 months within any year period",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
-    },
-    {
-      "passport": "SC",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "permit_required",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2633,7 +2633,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2647,7 +2647,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2661,7 +2661,7 @@
       "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2675,7 +2675,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2689,7 +2689,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2703,7 +2703,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2717,7 +2717,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2731,7 +2731,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2745,7 +2745,7 @@
       "notes": "Obtainable online\nPrinted visa authorization must be presented at the time of travel",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2759,7 +2759,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2773,13 +2773,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -2787,7 +2787,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2801,7 +2801,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2815,7 +2815,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2829,7 +2829,7 @@
       "notes": "Holders of a valid visa issued by Canada, United Kingdom or the USA do not required a visa for a maximum stay of 90 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2843,7 +2843,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2857,7 +2857,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2871,7 +2871,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2885,7 +2885,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2899,7 +2899,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2913,7 +2913,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2927,7 +2927,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2941,7 +2941,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2955,7 +2955,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2969,7 +2969,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2983,7 +2983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -2997,13 +2997,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3011,7 +3011,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3025,7 +3025,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3039,7 +3039,7 @@
       "notes": "e-Visa is currently suspended due to Russian invasion of Ukraine.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3053,7 +3053,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3067,7 +3067,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3081,7 +3081,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3095,7 +3095,7 @@
       "notes": "5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3109,7 +3109,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3123,7 +3123,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3137,13 +3137,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3151,13 +3151,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3165,7 +3165,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3179,7 +3179,7 @@
       "notes": "e-Visa is valid for 90 days and multiple entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3193,7 +3193,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3207,7 +3207,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3221,7 +3221,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3235,7 +3235,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3249,7 +3249,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3263,7 +3263,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3277,7 +3277,7 @@
       "notes": "Multiple entry visa to Russia and three day prior notification are required to enter South Ossetia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3291,7 +3291,7 @@
       "notes": "30 days for 30 US dollars, payable on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3305,7 +3305,7 @@
       "notes": "Registration required after 24h.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3319,7 +3319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3333,7 +3333,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3347,7 +3347,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3361,7 +3361,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     },
     {
       "passport": "SC",
@@ -3375,7 +3375,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
-      "source_revision": "1363220239"
+      "source_revision": "1384607127"
     }
   ]
 }

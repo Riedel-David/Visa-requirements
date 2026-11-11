@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "BT",
   "source_title": "Visa requirements for Bhutanese citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
   "source_revision": "1373358597",
   "source_timestamp": "2026-09-05T15:24:59Z",
-  "generated_at": "2026-10-30T17:07:16.691943+00:00",
+  "generated_at": "2026-11-11T14:49:36.798334+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -1386,9 +1386,9 @@
       "area": null,
       "status": "visa_on_arrival",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
       "source_revision": "1373358597"

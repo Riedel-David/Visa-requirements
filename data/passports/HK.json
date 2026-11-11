@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "HK",
   "source_title": "Visa requirements for Chinese citizens of Hong Kong",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-  "source_revision": "1382557512",
-  "source_timestamp": "2026-10-29T06:49:58Z",
-  "generated_at": "2026-10-30T17:07:33.674877+00:00",
+  "source_revision": "1384594892",
+  "source_timestamp": "2026-11-09T01:36:25Z",
+  "generated_at": "2026-11-11T14:49:54.820539+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -35,7 +35,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -49,7 +49,7 @@
       "notes": "The Government of Hong Kong advises its citizens not to travel to Afghanistan due to the volatile situation in the country.\nVisa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -91,7 +91,7 @@
       "notes": "Permanent ID Card valid in lieu of valid passport. Maximum stay of 90 days within any 180 days periods.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -105,7 +105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -119,7 +119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -133,7 +133,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -161,7 +161,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -175,7 +175,7 @@
       "notes": "90 days on each visit in 12-month period if granted.\nStarting from 21 August 2020, Hong Kong passport holders are eligible for applying 5 years student and temporary skilled visas after the enforcement of the national security law. After meeting the requirement of the 5 years stay, eligible visa holders can apply for permanent residence in the same manner like other nationalities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -189,7 +189,7 @@
       "notes": "Special authorisation required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -217,7 +217,7 @@
       "notes": "From 2 February 2026 to 2 February 2027, Hong Kong passport holders can travel to Azerbaijan three times in a year without a visa and stay for up to 30 days at each entrance.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -231,7 +231,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -245,7 +245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -259,7 +259,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -273,7 +273,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -287,7 +287,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -301,7 +301,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -317,7 +317,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -334,7 +334,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -348,7 +348,7 @@
       "notes": "Must have an international vaccination certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -362,7 +362,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -376,23 +376,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "BO",
       "destination_name": "Bolivia",
       "area": null,
-      "status": "visa_on_arrival",
-      "alternative_statuses": [
-        "evisa"
-      ],
+      "status": "evisa",
+      "alternative_statuses": [],
       "allowed_stay_days": 30,
       "allowed_stay_raw": "30 days",
-      "notes": "Dual nationality is recognized by Bolivia; however, this status must first be approved by Bolivian Immigration. Passengers holding dual nationality should ensure that they arrive and depart Bolivia on the same document, even when the other document may enjoy visa-exemption status.",
+      "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.\nDual nationality is recognized by Bolivia; however, this status must first be approved by Bolivian Immigration. Passengers holding dual nationality should ensure that they arrive and depart Bolivia on the same document, even when the other document may enjoy visa-exemption status.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -406,7 +404,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -420,7 +418,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -434,7 +432,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -448,7 +446,7 @@
       "notes": "90 days within any year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -462,7 +460,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -476,7 +474,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -490,7 +488,7 @@
       "notes": "Starting from 2021, Canada rolled out a new scheme for Hong Kong residents migrating to the country after the enforcement of the national security law. 3 years work permits will be available for those who were graduated from either a recognised Canadian or overseas post-secondary institution in the last ten years. In addition, two streams for permanent residency were provided – (1) persons who have graduated from a post-secondary designated learning institution in Canada. (2) persons who have worked in Canada for at least 12 months full time, or an equal amount of part-time hours. If approved, their spouse or partner as well as children can also apply to come with them. Applicants will be eligible for applying Canadian Permanent residency in Canada.\neTA required if arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -504,7 +502,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -518,7 +516,7 @@
       "notes": "E-visa portal:https://evisa-centrafrique.com/",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -532,7 +530,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -546,7 +544,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -560,7 +558,7 @@
       "notes": "Get Visa at Félix-Houphouët-Boigny International Airport in Abidjan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -574,7 +572,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -588,7 +586,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -602,7 +600,7 @@
       "notes": "Your chosen embassy will examine your file and make a decision. If the file is accepted, there are two options:\n* The visa is granted at our embassy. Such applicants will receive an electronic message for an appointment. The Applicant(s) must bring the original documents used in the pre-enrolment together with the passport, which mush have at least a minimum of 6 months validity. The visa will be affixed inside your passport.\n* An electronic authorization with a QR code will be provided to collect electronic parameters of those who cannot come to the embassy. Such people would be able to travel to Cameroon with a printed authorization. They will also have to bring along the original documents used for the pre-enrolment. Their parameters will be collected at the entry check point into Cameroon e.g. Airport or Sea port or any border post, and a six- month validity visa will be stamped into your passport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -616,7 +614,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -630,7 +628,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -644,7 +642,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -658,13 +656,13 @@
       "notes": "Online registration called EASE required, otherwise there is additional charge on arrival. It is advised to fill the form 3 days before arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "CW",
       "destination_name": "Curacao",
-      "area": "Curacao",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -672,7 +670,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -686,7 +684,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -700,7 +698,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -714,7 +712,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nHong Kong citizens can apply for automatic customs clearance upon entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -731,7 +729,7 @@
       "notes": "/31 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -745,7 +743,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -759,7 +757,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -773,7 +771,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -787,7 +785,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -801,7 +799,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -815,7 +813,7 @@
       "notes": "Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -829,7 +827,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -843,7 +841,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -857,7 +855,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -871,7 +869,7 @@
       "notes": "To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -885,7 +883,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -901,7 +899,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.\nThe Government of Hong Kong advises its citizens not to travel to Ethiopia due to the security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -915,7 +913,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -929,7 +927,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -943,13 +941,13 @@
       "notes": "Special permission required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -957,7 +955,7 @@
       "notes": "A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -971,7 +969,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -985,7 +983,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -999,7 +997,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1013,7 +1011,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1027,7 +1025,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1041,7 +1039,7 @@
       "notes": "French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1055,7 +1053,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1069,7 +1067,7 @@
       "notes": "Electronic Travel Authorisation must be obtained via the UK ETA app before travel for all visa exempt countries. British National (Overseas) are not required",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1083,7 +1081,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1097,7 +1095,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1111,7 +1109,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1125,7 +1123,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1139,7 +1137,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1153,7 +1151,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1167,7 +1165,7 @@
       "notes": "In addition to a visa, an entry clearance must be obtained from the Gambian Immigration prior to travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1181,7 +1179,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1195,7 +1193,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1209,7 +1207,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1223,7 +1221,7 @@
       "notes": "Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1237,7 +1235,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1251,7 +1249,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1265,7 +1263,7 @@
       "notes": "Visa free for holders of both Hong Kong Permanent Identity Cards and HKSAR Passport for a stay of less than 45 days. Visa required if without Hong Kong Permanent Identity Cards.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1279,7 +1277,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1293,7 +1291,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1307,7 +1305,7 @@
       "notes": "No visa required if holding valid visa of US, Canada, or Schengen Member State.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1321,7 +1319,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1335,7 +1333,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1349,7 +1347,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1363,7 +1361,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1377,7 +1375,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1391,7 +1389,7 @@
       "notes": "The Government of Hong Kong advises its citizens not to travel to Israel due to the security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1405,7 +1403,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1419,7 +1417,7 @@
       "notes": "Except for business purposes.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1433,7 +1431,7 @@
       "notes": "Protected Area Permit (PAP) required for all of Arunachal Pradesh, Manipur, Mizoram and parts of Himachal Pradesh, Jammu and Kashmir and Uttarakhand. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and Lakshadweep and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1447,7 +1445,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1461,7 +1459,7 @@
       "notes": "The Government of Hong Kong advises its citizens not to travel to Iraq due to the volatile situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1475,7 +1473,7 @@
       "notes": "The Government of Hong Kong advises its citizens not to travel to Iran due to the volatile security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1489,7 +1487,7 @@
       "notes": "Visitors to Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1503,7 +1501,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1517,7 +1515,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area\nHong Kong citizens can apply for automatic customs clearance upon entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1531,7 +1529,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1545,7 +1543,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1559,7 +1557,7 @@
       "notes": "Not available at all entry points.\ne-Visas are available for longer stays.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1573,7 +1571,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1587,7 +1585,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1601,7 +1599,7 @@
       "notes": "e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).\nAccording to the information provided by of the Government of the Kyrgyz Republic (Kyrgyzstan), HKSAR passport holders may visit Kyrgyzstan visa-free for a stay of up to 30 days entering through Manas International Airport in Bishkek with a return air ticket and re-enter after 30 days from the date of departure from Kyrgyzstan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1615,7 +1613,7 @@
       "notes": "From 15 June 2026 to 15 October 2026, Hong Kong passport holders can travel to Cambodia without a visa and stay for up to 14 days at each entrance.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1629,7 +1627,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1643,7 +1641,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1657,7 +1655,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1671,7 +1669,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1685,7 +1683,7 @@
       "notes": "HKSAR passport has right to get E-ETA free till 31 December 2026. The government of the Republic of Korea announced that from 1 April 2023, to 31 December 2026, a K-ETA is not required for 27 countries citizens visiting Korea for 90 days or less for business or tourism.\nChinese citizens of Hong Kong can enter South Korea as a short term visit (e.g., tours, visiting relatives or friends, attending simple meetings) up to 90 days without a visa. You must have an onward or return ticket. It is illegal to work on a tourist visa, whether as a teacher or in any other capacity.\nYou must be in possession of a Korea Electronic Travel Authorization (K-ETA) to enter Korea visa-free. You can complete your K-ETA application up to 24 hours before boarding your flight and it will be valid for 3 years from the date of approval. There is a small, non-refundable charge.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1701,7 +1699,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1715,7 +1713,7 @@
       "notes": "60 days for tourism / 10 days for business",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1729,7 +1727,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1743,7 +1741,7 @@
       "notes": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1757,7 +1755,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1771,7 +1769,7 @@
       "notes": "1 month extendable for 2 additional months.\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.\nThe Government of Hong Kong advises its citizens not to travel to Lebanon due to the volatile security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1785,7 +1783,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1799,7 +1797,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1815,7 +1813,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1829,7 +1827,7 @@
       "notes": "e-Visa available for Hong Kong SAR passport holders. British National (Overseas) Passport holders still required to obtain a visa from Liberian diplomatic missions",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1843,7 +1841,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1857,7 +1855,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1871,7 +1869,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1885,7 +1883,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1899,7 +1897,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1913,7 +1911,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1927,7 +1925,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1941,7 +1939,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1955,7 +1953,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1971,7 +1969,7 @@
       "notes": "/90 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1985,7 +1983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -1999,7 +1997,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2013,7 +2011,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2027,7 +2025,7 @@
       "notes": "From 11 March 2026 to 10 March 2027, nationals of Hong Kong may obtain a tourist visa upon arrival at any international airport in Myanmar, for a fee of 50 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2041,7 +2039,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2055,23 +2053,21 @@
       "notes": "Visa free for holders of both Hong Kong Permanent Identity Cards and HKSAR Passport for a stay of less than 45 days. Visa required if without Hong Kong Permanent Identity Cards.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "MR",
       "destination_name": "Mauritania",
       "area": null,
-      "status": "visa_on_arrival",
-      "alternative_statuses": [
-        "evisa"
-      ],
+      "status": "evisa",
+      "alternative_statuses": [],
       "allowed_stay_days": 30,
       "allowed_stay_raw": "30 days",
-      "notes": "Available at Nouakchott–Oumtounsy International Airport.",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2085,7 +2081,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2099,7 +2095,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2113,7 +2109,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2127,13 +2123,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "MV",
       "destination_name": "Maldives",
-      "area": "Maldives",
+      "area": "Territories",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2141,7 +2137,7 @@
       "notes": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2155,7 +2151,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2169,7 +2165,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2183,13 +2179,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "MY",
       "destination_name": "Malaysia",
-      "area": "Malaysia:\nSabah Sabah and Sarawak Sarawak",
+      "area": "Sabah and Sarawak",
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2197,7 +2193,7 @@
       "notes": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2214,7 +2210,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2228,7 +2224,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2242,7 +2238,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2256,7 +2252,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2270,7 +2266,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2284,7 +2280,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2298,7 +2294,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nHong Kong citizens can apply for automatic customs clearance upon entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2312,7 +2308,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2326,7 +2322,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2340,7 +2336,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2356,7 +2352,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2370,7 +2366,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2384,7 +2380,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2398,7 +2394,7 @@
       "notes": "International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2412,7 +2408,7 @@
       "notes": "eVisa also available validity up to 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2426,7 +2422,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2440,7 +2436,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2454,7 +2450,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2468,7 +2464,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2482,7 +2478,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2496,7 +2492,7 @@
       "notes": "Tourist visa cost $8.18 for any type of duration listed",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2510,7 +2506,7 @@
       "notes": "90 days regardless of time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2524,13 +2520,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2538,7 +2534,7 @@
       "notes": "14 days visa free and landing fee US$35 or tax of US$5 if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2552,13 +2548,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2566,7 +2562,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2580,7 +2576,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2594,7 +2590,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2608,7 +2604,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2622,7 +2618,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2636,7 +2632,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2650,7 +2646,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2664,7 +2660,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2678,7 +2674,7 @@
       "notes": "For a maximum total stay of 90 days within one calendar year period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2695,7 +2691,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2711,7 +2707,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2725,7 +2721,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2739,7 +2735,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2753,7 +2749,7 @@
       "notes": "The Government of Hong Kong advises its citizens not to travel to Sudan due to the volatile situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2767,7 +2763,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2781,7 +2777,7 @@
       "notes": "All foreigners travelling more than 25 kilometres outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2795,7 +2791,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2809,7 +2805,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
+    },
+    {
+      "passport": "HK",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "permit_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2823,21 +2833,7 @@
       "notes": "From May 2015, the Ascension Island Government does not issue entry visas including eVisas to Chinese citizens of Hong Kong.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
-    },
-    {
-      "passport": "HK",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "permit_required",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2851,7 +2847,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2865,7 +2861,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2879,7 +2875,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2893,7 +2889,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2907,7 +2903,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2921,7 +2917,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2935,7 +2931,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2949,7 +2945,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2963,7 +2959,7 @@
       "notes": "Obtainable online.\nPrinted visa authorization must be presented at the time of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2977,7 +2973,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -2991,13 +2987,13 @@
       "notes": "No visa required if holding valid visa of US, Canada, or Schengen Member State.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3005,7 +3001,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3019,7 +3015,7 @@
       "notes": "The Government of Hong Kong advises its citizens not to travel to Syria due to the volatile security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3033,7 +3029,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3047,7 +3043,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3061,7 +3057,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3075,7 +3071,7 @@
       "notes": "Passengers must have return tickets. They may apply to extend for another 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3089,7 +3085,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3103,7 +3099,7 @@
       "notes": "e-Visa holders can enter through all border points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3117,7 +3113,7 @@
       "notes": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3131,7 +3127,7 @@
       "notes": "A tourist visa costs US$30 and can normally be issued to the holder of a valid HKSAR passport on arrival at Dili International airport or Dili seaport, provided entry into Timor-Leste is regarded as being for a legitimate purpose. The visa will be valid for a single entry ONLY and will allow you to stay for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3145,7 +3141,7 @@
       "notes": "A legislation has been passed by the Turkmenistan Parliament.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3159,7 +3155,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3173,7 +3169,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3187,7 +3183,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3201,7 +3197,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3215,7 +3211,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3229,7 +3225,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3243,7 +3239,7 @@
       "notes": "The Government of Hong Kong advises its citizens not to travel to Ukraine due to the volatile situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3257,7 +3253,7 @@
       "notes": "Visa issued by Russia is required, HK SAR Passport is exempted from a visa to enter Russia for 14 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3271,7 +3267,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3285,7 +3281,7 @@
       "notes": "Chinese citizens of Hong Kong who do receive a visa are normally issued with 10-years multiple-entry combination B1/B2 visas, and each entry can stay for a maximum of 6 months (the period of stay is subject to the border immigration officer)\nOn 5 August 2021, President Joe Biden directed the Department of Homeland Security to implement a \"deferral of removal\" for up to 18 months for Hong Kong residents currently in the United States, in response to Beijing's implementation of the Hong Kong National Security Law. Eligible Hong Kongers can apply for a work permit. On 15 January 2025, the Biden administration extended the deferral of removal of Hong Kong residents who are present in the United States for another 24 months.\n(the period of stay is subject to the border immigration officer)\n* On 5 August 2021, President Joe Biden directed the Department of Homeland Security to implement a \"deferral of removal\" for up to 18 months for Hong Kong residents currently in the United States, in response to Beijing's implementation of the Hong Kong National Security Law. Eligible Hong Kongers can apply for a work permit. On 15 January 2025, the Biden administration extended the deferral of removal of Hong Kong residents who are present in the United States for another 24 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3299,7 +3295,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3313,7 +3309,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3327,7 +3323,7 @@
       "notes": "Must arrive by air. Otherwise an electronic visa is available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3341,7 +3337,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3355,7 +3351,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3369,13 +3365,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -3383,13 +3379,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3397,7 +3393,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3411,7 +3407,7 @@
       "notes": "e-Visa is valid for 90 days and multiple entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3425,7 +3421,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3439,7 +3435,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3453,7 +3449,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3467,7 +3463,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3481,7 +3477,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3495,7 +3491,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3509,7 +3505,7 @@
       "notes": "Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3523,7 +3519,7 @@
       "notes": "30 days for 30 US dollars, payable on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3537,7 +3533,7 @@
       "notes": "Migration card issued upon arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3551,7 +3547,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3565,7 +3561,7 @@
       "notes": "Special permission needed for travel outside Sana'a or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3579,7 +3575,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3593,7 +3589,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3607,7 +3603,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     },
     {
       "passport": "HK",
@@ -3621,7 +3617,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-      "source_revision": "1382557512"
+      "source_revision": "1384594892"
     }
   ]
 }

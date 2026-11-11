@@ -1,0 +1,17 @@
+{
+  "CZ": {
+    "reason": "cooling_off",
+    "consecutive_runs": 1,
+    "latest_seen_revision": 1385023621
+  },
+  "IQ": {
+    "reason": "cooling_off",
+    "consecutive_runs": 1,
+    "latest_seen_revision": 1385019618
+  },
+  "KW": {
+    "reason": "cooling_off",
+    "consecutive_runs": 1,
+    "latest_seen_revision": 1384992302
+  }
+}

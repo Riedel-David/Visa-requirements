@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "KG",
   "source_title": "Visa requirements for Kyrgyzstani citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kyrgyzstani_citizens",
   "source_revision": "1348385758",
   "source_timestamp": "2026-04-12T11:14:54Z",
-  "generated_at": "2026-10-30T10:52:37.624165+00:00",
+  "generated_at": "2026-11-11T14:50:48.733790+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -1384,9 +1384,9 @@
       "area": null,
       "status": "visa_on_arrival",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kyrgyzstani_citizens",
       "source_revision": "1348385758"

@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "TW",
   "source_title": "Visa requirements for Taiwanese citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-  "source_revision": "1382189312",
-  "source_timestamp": "2026-10-27T04:46:11Z",
-  "generated_at": "2026-10-30T17:09:53.090961+00:00",
+  "source_revision": "1384575374",
+  "source_timestamp": "2026-11-08T23:23:18Z",
+  "generated_at": "2026-11-11T14:52:10.821615+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -35,7 +35,7 @@
       "notes": "May apply using 'Smart service'.\nThe longest transit electronic visa is 96 hours. Taiwanese passport holders must travel the entire journey on the Emirates airline, with a transit time exceeding 4 hours.\nPassengers on all international airlines may enter the United Arab Emirates for 96 hours after obtaining a transit visa at the airport.\nAll travellers in transit are exempt from entry fees for the first 48 hours; this short time may be extended for up to 96 hours for a fee of 50 AED.\nTaiwan citizens can obtain online visas in two ways: '''Smart Service''' Visitors may obtain a visa online through Smart Service for Dubai or other emirates.Passengers must have a printed Online Visa confirmation. Each nationality has specific visa conditions based on diplomatic relations, the purpose of visit, and intended duration of stay. '''Airline visa''' Visitors may obtain a visa online through an airline if they are arriving on Air Arabia, Air Astana, Emirates, Etihad(and Air Baltic, Air Serbia, flydubai, Turkish Airlines and Indigo Airlines.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -49,7 +49,7 @@
       "notes": "e-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -77,7 +77,7 @@
       "notes": "3 months. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -91,7 +91,7 @@
       "notes": "90 days within any 6-months period.\nTaiwanese citizens can use 「'''eGates'''」 to enter the country.[https://www.facebook.com/story.php?story_fbid=1460144362142479&id=100044407870458][https://www.threads.com/@a3_ventures/post/DREsXAoEXl6/%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E4%BA%9Etirana%E5%8F%B0%E7%81%A3%E8%AD%B7%E7%85%A7%E5%8F%AF%E4%BB%A5%E5%BF%AB%E9%80%9F%E9%80%9A%E9%97%9C%E8%80%B6%E4%B8%8D%E9%81%8E%E9%A0%86%E5%88%A9%E5%88%B7%E9%81%8E%E7%AC%AC%E4%B8%80%E9%81%93%E9%96%80%E5%BE%8C%E5%9C%A8%E7%AC%AC%E4%BA%8C%E9%81%93%E9%96%80%E9%83%BD%E6%9C%83%E5%8D%A1%E4%BD%8F-%E6%9C%80%E5%BE%8C%E9%82%84%E6%98%AF%E8%A2%AB%E8%AB%8B%E5%8E%BB%E8%B5%B0%E4%BA%BA%E5%B7%A5%E9%80%9A%E9%81%93%E5%A4%AA%E8%90%BD%E6%BC%86%E4%BA%86%E5%90%A7?hl=zh-tw]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -105,7 +105,7 @@
       "notes": "Maximum duration of 120 days, limited to sightseeing purposes. Entry from Yerevan Zvartnots International Airport (EVN) can also be applied for in local currency; The longest is 21 days.[http://www.mfa.am/en/visa/]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -119,7 +119,7 @@
       "notes": "Those who hold a visa approval certificate in advance can apply for a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -133,7 +133,7 @@
       "notes": "Special permits required for British Antarctic Territory, French Southern and Antarctic Lands, Argentine Antarctica, Australia Australian Antarctic Territory, Antártica Chilena Province Chilean Antarctic Territory, Australia Heard Island and McDonald Islands, Norway Peter I Island, Norway Queen Maud Land, New Zealand Ross Dependency.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -147,7 +147,7 @@
       "notes": "An ''Autorización de Viaje Electrónica'' (AVE) is available for Taiwanese passport with a valid entry authorization for the United States of America for a fee of US$200. The maximum duration is 3 months and is for tourism purposes only. Applying for one requires holding a regular passport with a validity period of at least 6 months, a record of at least 1 entry into the United States in the past 2 years, or holding a valid entry permit issued by the United States (ESTA or B2/J/B1/O/P/E/H-1B visa), and must hold a printed electronic travel authorization approval certificate; Additionally, passport holders can apply for a Travel Certificate issued by Argentina.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -161,7 +161,7 @@
       "notes": "30 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -175,7 +175,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -189,7 +189,7 @@
       "notes": "90 days on each visit in 12-month period.\nROC passports without National ID numbers are not accepted unless the holder has permanent residency in another country. The longest is 3 months. For tourism or business purposes only, an Electronic Travel Authority (ETA) must be applied for in advance through the mobile application \"AustralianETA\", with a validity period of one year. Only a Republic of China passport holding a Republic of China national identity card number will be issued, and non registered citizens are not allowed to apply unless they have permanent residency in a third country.\nMay enter using SmartGate on arrival in Australia.\nAshmore and Cartier Islands - Special authorisation required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -203,7 +203,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -217,7 +217,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -231,7 +231,7 @@
       "notes": "90 days within any 6-month period.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -245,7 +245,7 @@
       "notes": "Passengers holding a cruise booking certificate can stay visa free for up to 24 hours.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -259,7 +259,7 @@
       "notes": "Visa-on-arrival fee is US$51\nPassengers who are eligible to tourism who holds round-trip air tickets and accommodation booking validations or business purposes and hold round-trip air tickets with a confirmation letter from the Board of Investment of Bangladesh can apply for a visa on arrival.\nAvailable at international airports in Dhaka, Chittagong, and Sylhet.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -273,7 +273,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -287,7 +287,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -301,7 +301,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -317,7 +317,7 @@
       "notes": "Bahrain International Airport has 12 departure e-gates and 8 arrival e-gates with a total number of 20 e-gates. They require taking photos or fingerprints depending on the directions the machine prompts for passengers. Those currently eligible to use the e-gates are Bahrain citizens and residents with valid passports or valid ID Cards, citizens of GCC Member States with valid passports and visitors with valid multi-entry visas, after a successful first arrival through a physical counter (Does not apply to citizens of Belarus, Iran, Kosovo and North Korea)[https://www.bahrainairport.bh/passports-visas]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -331,7 +331,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -345,7 +345,7 @@
       "notes": "Must have an international vaccination certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -359,7 +359,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -373,7 +373,7 @@
       "notes": "Must be in possession of a regular passport with a validity period of at least 6 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -389,7 +389,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -403,7 +403,7 @@
       "notes": "Brazilian visas issued before 14 May 2014 were affixed on laissez-passers.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -417,7 +417,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -431,7 +431,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -445,7 +445,7 @@
       "notes": "Due to the influence of the Chinese government, Botswana has removed the option for \"Taiwan\" and requires Taiwanese citizens to choose \"China\" in order to apply for an electronic visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -459,7 +459,7 @@
       "notes": "Passengers who are not departing or transiting from Russia are eligible to apply for a visa upon arrival at Minsk National Airport and must provide proof of sufficient medical expenses.\nThe condition is that proof documents must be submitted 3 working days before the actual date of entry.\nVisas are issued on arrival at the Minsk National Airport if the support.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -473,7 +473,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -487,7 +487,7 @@
       "notes": "Passport with National ID number issued by the Ministry of Foreign Affairs required.\nOn arrival from land or overseas\neTA required when arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -501,7 +501,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -515,7 +515,7 @@
       "notes": "Online Visa: https://paris.diplomatie.gouv.cf/services/24/visa-court-sejour/",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -529,7 +529,7 @@
       "notes": "Passengers holding VIP invitation letters do not require visas.\nIn April 2019 Congolese authorities announced a plan to introduce an electronic visa in August 2019. Visa applications can already be submitted online at the Republic of the Congo embassy in France website.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -543,7 +543,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -557,7 +557,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -571,7 +571,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -585,7 +585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -599,13 +599,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "CN",
       "destination_name": "China",
-      "area": "(People's Republic of)",
+      "area": null,
       "status": "special",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -613,7 +613,7 @@
       "notes": "Holders of Mainland Travel Permit for Taiwan Resident can enter China via '''E-channel''' upon arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -627,7 +627,7 @@
       "notes": "The fee varies depending on the visa type. If the country option is displayed in Spanish when filling out the form, please select 'Other Cases and TERRITORIES'.\nTaiwanese citizens holding ROC passports or valid visas to the Schengen Area or the United States are eligible for visa-free entry.\nSan Andrés and Leticia - Visitors arriving at Gustavo Rojas Pinilla International Airport and Alfredo Vásquez Cobo International Airport must buy tourist cards on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -641,7 +641,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -655,7 +655,7 @@
       "notes": "Since August 2024, visitors from most countries may obtain an e-Visa for 90 days. Extension is possible for another 90 days.\nThe electronic visa option requires selecting \"Taiwan Province of China\".",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -669,13 +669,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "CW",
       "destination_name": "Curacao",
-      "area": "Curacao",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -683,7 +683,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -697,7 +697,7 @@
       "notes": "90 days within any 180 day period.\nPassport with National ID number required.\nExcept for civilian areas, a road pass is required to enter the United Nations Buffer Zone in Cyprus.[https://unficyp.unmissions.org/en/unficyp-buffer-zone-permits]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -711,7 +711,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nAfter arriving in the Czech Republic, Taiwanese passport holders can use '''Easy Go''' to enter the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -725,7 +725,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nAfter arriving in Germany, EasyPass can be used for entry.\nThe EasyPass system can be used in various parts of Germany, including 8 airports such as Frankfurt am Main, Munich, Cologne/Bonn, Düsseldorf, Berlin, Stuttgart, Hanover, and Hamburg. However, people who stay in Germany for a long time still need a visa or residence permit to use the EasyPass system.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -739,7 +739,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -753,7 +753,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -767,7 +767,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -781,7 +781,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -795,7 +795,7 @@
       "notes": "Travelers arriving by cruise ship do not need to apply for a visa in advance.Their visas are processed on board the ship.\nTravelers on tours organized by an approved travel agency may obtain a visa on arrival for up to 30 days. The itinerary must include one of these southern provinces: Adrar, Béchar, Béni Abbès, Biskra, Bordj Badji Mokhtar, Djanet, Djelfa, El Bayadh, El M'Ghair, El Menia, El Oued, Ghardaïa, Illizi, In Guezzam, In Salah, Laghouat, M'Sila, Naâma, Ouargla, Ouled Djellal, Tamanrasset, Timimoun, Tindouf, Touggourt.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -809,7 +809,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -823,7 +823,7 @@
       "notes": "Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -837,7 +837,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -853,7 +853,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -867,7 +867,7 @@
       "notes": "Visa covers Asmara only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -881,7 +881,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -897,7 +897,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -911,7 +911,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -925,13 +925,13 @@
       "notes": "Lau Province- Special permission required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -939,7 +939,7 @@
       "notes": "A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -953,7 +953,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -967,7 +967,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nSpecial permission is required to travel to 'Clipperton Island'.\nTaiwanese passport holders can use PARAFE to leave France.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -981,7 +981,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -995,7 +995,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1009,7 +1009,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.\nNew digital platform for issuing electronic tourist visas (e-Visas) in less than 48 hours, free of charge, for all applications submitted between July 1 and September 30, 2025.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1023,7 +1023,7 @@
       "notes": "ETA valid for 2 years when issued.\nPassport with National ID number required.\nAfter arriving in the UK, ePassport gates can be used for entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1037,7 +1037,7 @@
       "notes": "Beginning on December 1, 2020, all travellers to Grenada will be required to complete an online application in order to receive a Pure Safe Travel Authorization Certificate to enter Grenada.\nCruise ship passengers of all nationalities can visit Grenada for up to 24 hours without a visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1051,7 +1051,7 @@
       "notes": "Only those invited to participate in international conferences, sports events, world-class events, etc. held in Georgia can apply for an exception, but they need to obtain a visa based on specific circumstances.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1065,7 +1065,7 @@
       "notes": "Ghana has brought online the official portal that will be used for electronic visa applications starting May 25, 2026.[https://evisa.immigration.gov.gh/]\nThe processing time for the eVisa is 96 hours, costing $260 for a single entry and $468 for a multiple entry visa, making it one of the most expensive eVisas. Fees are higher for faster processing.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1079,7 +1079,7 @@
       "notes": "Visa not required for holders of passports with National ID number only.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1093,7 +1093,7 @@
       "notes": "90 days in 180 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1107,7 +1107,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1121,7 +1121,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1135,7 +1135,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1149,7 +1149,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nMount Athos Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1163,7 +1163,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1177,7 +1177,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1191,7 +1191,7 @@
       "notes": "45 days. Must hold a National ID card and disembark on a nonstop flight from Taiwan. Otherwise under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA and passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1205,7 +1205,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1219,7 +1219,7 @@
       "notes": "According to Timatic, all other visitors that are not visa exempt can obtain an eVisa before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1233,7 +1233,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1247,7 +1247,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1261,7 +1261,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1275,7 +1275,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1289,7 +1289,7 @@
       "notes": "From October 2026, Taiwanese passport holders exempt from visa-on-arrival fees.\n",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1303,7 +1303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1317,7 +1317,7 @@
       "notes": "Entry refused by certain Muslim countries due to Arab league boycott of Israel if evidence of travel to Israel\nPassport with National ID number required.\nUnderof Zone and Ghajar are restricted areas, therefore access is restricted.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1331,7 +1331,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.\nProtected Area Permit (PAP) required for all of Arunachal Pradesh, Manipur, Mizoram and parts of Himachal Pradesh, Jammu and Kashmir and Uttarakhand.\nRestricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and Lakshadweep and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1345,7 +1345,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1359,7 +1359,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1373,7 +1373,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1387,7 +1387,7 @@
       "notes": "Tourist purpose: single trip from the 15th to the 30th; The maximum duration for a single business purpose is 14 days, limited to processing at designated ports.\nKish Island - No visa required for 14 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1401,7 +1401,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1415,7 +1415,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nAfter arriving in Italy, Taiwanese passport holders can use '''eGates''' to enter the country.\nThe eGates system can be used at 20 airports in Italy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1429,7 +1429,7 @@
       "notes": "ROC passports are not recognized.\nMust hold an Affidavit of Identity issued by Jamaica.\ncitizens of Taiwan with an \"Affadivit of Identity\" traveling as tourists may obtain a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1445,7 +1445,7 @@
       "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1459,7 +1459,7 @@
       "notes": "Passport with National ID number required.\nAfter arriving in Japan, J-BIS can be used for entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1473,7 +1473,7 @@
       "notes": "Taiwanese citizens can still apply for eTA to enter Kenya.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1487,7 +1487,7 @@
       "notes": "e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).\nVisa on arrival is also available for those with pre-arranged landing visa invitation.\nInvitation letter issued by Kyrgyz travel agency or other inviting units.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1503,7 +1503,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1517,7 +1517,7 @@
       "notes": "Due to influence of the Chinese government, Kiribati no longer recognizes Taiwanese passports and therefore does not issue visas to Taiwanese citizens (for business and tourism). This means that Taiwanese citizens will not be able to enter Kiribati.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1531,7 +1531,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1545,7 +1545,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1559,7 +1559,7 @@
       "notes": "To enter for tourism purposes, one must first obtain authorization issued by a local travel agency in North Korea.\nTourists are not allowed to leave North Korea outside of the capital Pyongyang. Special permission is required to travel to other areas, and tourists can only leave the capital with the accompaniment of government guides (cannot move independently).\nThe Korean Demilitarized Zone is a restricted area, therefore access is restricted.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1573,7 +1573,7 @@
       "notes": "Taiwanese citizens can enter South Korea as a short term visit (e.g., tours, visiting relatives or friends, attending simple meetings) up to 90 days without a visa. They must have an onward or return ticket. It is illegal to work on a tourist visa, whether as a teacher or in any other capacity.\nTaiwanese passport holders must be in possession of a Korea Electronic Travel Authorization (K-ETA) to enter Korea visa-free. They can complete their K-ETA application up to 24 hours before boarding their flight and it will be valid for 3 years from the date of approval. There is a small, non-refundable charge.\nTaiwanese passport holders are exempt from K-ETA requirements until end of 2026.\nAfter arriving in South Korea, Taiwanese passport holders can use the '''Smart Entry Service''' ('''SeS''') to enter the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1587,7 +1587,7 @@
       "notes": "Nationals of most countries who hold a valid visa or residence permit from the United States, the Schengen Area, or the United Kingdom are eligible to apply for a simplified Kuwait e-Visa. The supporting document (visa or residence permit) must be valid for at least 6 months at the time of application.[https://kuwaitvisa.moi.gov.kw/]\nThe Kuwait e-Visa may be issued as a single or multiple-entry visa, with each stay allowed for a maximum of 30 days. The e-Visa itself can be valid for up to 1 year, depending on the applicant's eligibility and the type of visa issued.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1601,7 +1601,7 @@
       "notes": "60 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1615,7 +1615,7 @@
       "notes": "Kazakhstan has cancelled the electronic visa application for Taiwanese citizens. Taiwanese citizens must apply for a visa from the Kazakh embassy or consulate before entering Kazakhstan.\nClosed cities - Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1631,7 +1631,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1645,7 +1645,7 @@
       "notes": "Pre examination system Tourist visa on arrival, up to 30 days, requires first sending an email to the Jordanian representative office to handle the tourist visa on arrival, limited to entry from Beirut International Airport (BEY), and the passport must be valid for at least one month upon arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1654,12 +1654,12 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1673,7 +1673,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1687,7 +1687,7 @@
       "notes": "A letter from sponsor in Sri Lanka is required for visa application.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1701,7 +1701,7 @@
       "notes": "Starting March 11, 2025, international travelers can apply for an electronic visa on arrival to visit Liberia, but if there is a Liberian embassy in one's country, the traveler is required to apply for a visa directly at the embassy and not through this portal.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1715,7 +1715,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1729,7 +1729,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1743,7 +1743,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1757,7 +1757,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1771,7 +1771,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1785,7 +1785,7 @@
       "notes": "Morocco has resumed visa applications for Taiwanese citizens on September 21st.[https://news.pts.org.tw/article/829030]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1799,7 +1799,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1813,7 +1813,7 @@
       "notes": "Taiwanese citizens are not allowed to enter and transit.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1827,7 +1827,7 @@
       "notes": "Passport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1843,7 +1843,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1857,7 +1857,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1871,7 +1871,7 @@
       "notes": "Passport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1885,7 +1885,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1899,7 +1899,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1913,7 +1913,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1927,7 +1927,7 @@
       "notes": "45 days. Must hold a National ID card and disembark on a nonstop flight from Taiwan. Otherwise under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA and passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1941,7 +1941,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1955,7 +1955,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1969,7 +1969,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1983,7 +1983,7 @@
       "notes": "Free visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -1997,7 +1997,7 @@
       "notes": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2013,7 +2013,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2027,7 +2027,7 @@
       "notes": "No visa is required for passengers with a valid visa or show proof of permanent residence of Canada, Japan, USA, United Kingdom or a Schengen Member State.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2041,7 +2041,7 @@
       "notes": "After arriving in Malaysia, Taiwanese passport holders can use '''Autogate''' to enter the country.\nSabah and Sarawak - Malaysian Visa / eNTRI required. These states have their own immigration authorities but same visa policies applies as West Malaysia. However a single entry Visa / eNTRI is valid for multiple entry/exit between the territories inside Malaysia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2057,7 +2057,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2071,7 +2071,7 @@
       "notes": "Starting from September 22, 2023, Republic of China passport holders can apply for a Holiday Visa online through the website of the Ministry of the Interior, Immigration, and Security of the host country https://eservices.mhaiss.gov.na/holidayvisa-services .",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2085,7 +2085,7 @@
       "notes": "90 days within 180 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2099,7 +2099,7 @@
       "notes": "Holders of a pre-approved confirmation from the National Police may obtain a visa on arrival (flyer visa) upon arrival at Niamey. The passport will be compounded for 1 working day and the traveler is required to appear at the Director General of Immigration the next working day to register and collect their passport.\nTransit without a visa is available to holders of onward tickets for a maximum transit of 24 hours.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2113,7 +2113,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2127,7 +2127,7 @@
       "notes": "Citizens of all other countries are eligible to obtain an electronic visa in advance.\nThe country launched the electronic visa portal in March 2026.[https://tramitesconsulares.mint.gob.ni/Account/Login]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2141,7 +2141,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nTaiwanese citizens can apply for a 'Security Check Time Slot' to leave the Netherlands.[https://www.facebook.com/story.php?story_fbid=737208455586658&id=Holland.Education.Association.Taiwan]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2155,7 +2155,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2169,7 +2169,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nGo to Jan Mayen Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.\nAnyone of any nationality may live and work freely in Svalbard per the Svalbard Treaty.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2185,7 +2185,7 @@
       "notes": "Business purposes and obtain a license from the Nepalese Ministry of Industry for a maximum of 5 years.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2199,7 +2199,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2213,7 +2213,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2227,7 +2227,7 @@
       "notes": "Taiwan standard passport with National ID number required; otherwise, visa required.\nTaiwan diplomatic and official passports are unacceptable, and visas will not be endorsed in them.\nInternational Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.\nTaiwanese citizens can use '''eGate''' to enter and exit New Zealand.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2243,7 +2243,7 @@
       "notes": "/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2257,7 +2257,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2271,7 +2271,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2285,7 +2285,7 @@
       "notes": "90 days within 180 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2299,7 +2299,7 @@
       "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2313,7 +2313,7 @@
       "notes": "Visa exemption applies for tourism purposes only. Effective until June 30, 2027.\neVisa is still available for short-term visits not exceeding 30 days.\nVisa required for longer tourism trips or other travel purposes.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2327,7 +2327,7 @@
       "notes": "Extra registration with the Immigration Head Office of Pakistan in Hong Kong is required in advance of arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2341,7 +2341,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2355,13 +2355,13 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2369,7 +2369,7 @@
       "notes": "14 days visa free and landing fee US$35 or tax of US$5 if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2383,13 +2383,13 @@
       "notes": "90 days. ESTA and passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2397,7 +2397,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2411,7 +2411,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.\nTaiwanese citizens holding valid biometric passports (provided they entered the Schengen area through Portugal and did not overstay) can use the RAPID4ALL electronic gate to leave the country.[https://x.com/portugalintheUS/status/1537178859744935939] RAPID4ALL e-gates are available at Faro Airport, Lisbon Airport Terminal 1, Madeira Airport, Ponta Delgada Airport, and Porto Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2425,7 +2425,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2439,7 +2439,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2455,7 +2455,7 @@
       "notes": "Available at Hamad International Airport",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2469,7 +2469,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2483,7 +2483,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2497,7 +2497,7 @@
       "notes": "Travel certificate issued on a separate piece of paper.\nHolders of passports of the Taiwan can apply for a short-stay visa (visa C) in person at the relevant diplomatic-consular mission or through the Welcome to Serbia portal.If the request for issuing a visa for a short stay (visa C) is submitted in person, the visa is issued on the same day, and if it is submitted online, it is necessary to make an appointment at the competent diplomatic-consular mission of the Republic of Serbia to collect the visa.\nIt is necessary to apply for an entry permit letter from the Serbian embassy or consulate abroad in advance. The permit letter is not attached to the passport and can be used for a maximum stay of 90 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2511,7 +2511,7 @@
       "notes": "The scope of application covers the entire territory of Russia, with a visa validity period of 60 days and a stay period of 16 days. The visa fee is $40, and children under 6 years old are free of charge.\nSeveral closed cities and regions in Russia require special authorization.\nFor visiting Crimea, visas issued by Russia are required.\nRussia signed the \"Shared Values Visa\" law on August 19, 2024, aimed at simplifying the residence permits for citizens of countries that do not conform to Russia's traditional spirit and values. This means that one can obtain a three-month temporary residency without passing the exam. The focus of this law is to simplify the residence permit for foreign citizens with traditional Russian spirit and values. As long as they comply with Russian values, foreign citizens do not need to prove their knowledge of Russian language, Russian history, or Russian law (without examination), and can obtain a temporary residence permit for three months. By simplifying the process, more people can be attracted to settle in Russia, and these foreign citizens must come from countries that oppose Russian values. This list applies to 47 regions, including Taiwan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2527,7 +2527,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2543,7 +2543,7 @@
       "notes": "Restricted tourism and Islamic sub pilgrimage purposes; Holding a business or tourist visa issued by the United States, the United Kingdom, or a Schengen area country, and the visa is valid, used, and stamped, can apply for a visa on arrival. It is necessary to travel on airlines such as Saudi Arabian Airlines (SV), Flyadeal (F3), Saudigulf (6S), or Nasir (XY).\nSpecial access permission is required to travel to Mecca and Medina. Non Muslims and followers of the Ahmadiyya religious movement are strictly prohibited from entering the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2557,7 +2557,7 @@
       "notes": "Since 24 April 2025, Solomon Islands have cancelled the visa on arrival for Taiwanese passport holders.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2571,7 +2571,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2585,7 +2585,7 @@
       "notes": "All foreigners traveling more than 25 kilometers outside of Khartoum must obtain a travel permit.\nGo to Darfur Separate travel permit is required.\nMandatory Police Registration for all nationalities is required within 24 hours of arrival.[https://againstthecompass.com/en/visa-for-sudan/]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2599,7 +2599,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2613,7 +2613,21 @@
       "notes": "Holders of passports without National ID numbers are required to hold a valid Taiwanese re-entry permit.\nAfter arriving in Singapore, Taiwanese passport holders can use the Immigration and Checkpoints Authority (ICA) to enter the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
+    },
+    {
+      "passport": "TW",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "evisa",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2627,21 +2641,7 @@
       "notes": "From May 2015, the Ascension Island Government does not issue entry visas (including eVisas) to citizens of Taiwan.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
-    },
-    {
-      "passport": "TW",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "evisa",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": null,
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2655,7 +2655,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2669,7 +2669,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2683,7 +2683,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.\nPassport with National ID number required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2697,7 +2697,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2711,7 +2711,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2725,7 +2725,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2739,7 +2739,7 @@
       "notes": "In April 2025, Somalia announced that passengers with a Taiwanese passport were not allowed to enter or transit, and Timatic shows that Taiwanese citizens were unable to enter Somalia at the time. In June 2025, however, Somalia lifted its ban on visitors entering with Taiwanese passports, and Timatic shows that Taiwanese citizens must have a valid visa issued by Somalia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2753,7 +2753,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2767,7 +2767,7 @@
       "notes": "Obtainable online.\nPrinted visa authorization must be presented at the time of travel.\nWhen traveling online, a printed visa authorization letter must be presented.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2781,7 +2781,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2795,13 +2795,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2809,7 +2809,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2823,7 +2823,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2837,7 +2837,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2851,7 +2851,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2865,7 +2865,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2879,7 +2879,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2893,7 +2893,7 @@
       "notes": "After entering Thailand, Taiwanese passport holders can use the '''automated passport control''' ('''APC''') system to exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2907,7 +2907,7 @@
       "notes": "Go to Gorno-Badakhshan Autonomous Province OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2921,7 +2921,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2935,7 +2935,7 @@
       "notes": "Closed cities - A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat.\nTurkmenistan has launched an electronic visa application website on October 1, 2026.[https://evisa.migration.gov.tm/web/]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2949,7 +2949,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2963,7 +2963,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2977,7 +2977,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -2991,7 +2991,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3005,7 +3005,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3021,7 +3021,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3032,10 +3032,10 @@
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
-      "notes": "Ukraine resumed its eVisa service in February 2025.\nTaiwanese citizens need to select the \"China (Taiwan)\" option to apply for an electronic visa.\nProhibited from entering Novorossiya. Crossing from Ukraine requires visit purpose to be explained to Ukrainian passport control on exit and those who entered from Russia are not allowed to proceed further into Ukraine.",
+      "notes": "Ukraine resumed its eVisa service in February 2025.\nTaiwanese citizens need to select the \"China (Taiwan)\" option to apply for an electronic visa.\nThe Ministry of Foreign Affairs urges all Taiwanese citizens to avoid traveling to Ukraine to ensure their safety.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3049,7 +3049,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3063,7 +3063,7 @@
       "notes": "ESTA is valid for 2 years from the date of issuance.\nESTA is also required when entering the country by cruise ship or land.\nA Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.\nVisa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.\nAfter arriving in the United States, Global Entry can be used for entry.\nA passport with a Republic of China national ID number is required. Otherwise, the DS-232 form must be filled out to apply for a visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3077,7 +3077,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3091,7 +3091,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3105,7 +3105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3119,7 +3119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3133,7 +3133,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3147,13 +3147,13 @@
       "notes": "Due to influence of the Chinese government, Venezuela no longer recognizes Taiwanese passports and therefore does not issue visas to Taiwanese citizens (for business and tourism). This means that Taiwanese citizens will not be able to enter Venezuela.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 180,
@@ -3161,13 +3161,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3175,7 +3175,7 @@
       "notes": "90 days. ESTA and passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3189,7 +3189,7 @@
       "notes": "Direct flight traveling to Phú Quốc can be exempted from a visa for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3203,7 +3203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3217,7 +3217,7 @@
       "notes": "90 days within 180 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3231,7 +3231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3245,7 +3245,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3259,7 +3259,7 @@
       "notes": "90 days, pre-arrival notifications must be made at least two weeks in advance.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3273,7 +3273,7 @@
       "notes": "3 months. Passport required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3287,7 +3287,7 @@
       "notes": "Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3301,7 +3301,7 @@
       "notes": "30 days for 40 US dollars. Due to safety concerns, the Taiwanese government advises its citizens not to travel to Somaliland.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3315,7 +3315,7 @@
       "notes": "Moldovan visa required. Registration required after 24h.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3329,7 +3329,7 @@
       "notes": "Undefined visa regime in the Western Sahara controlled territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3343,7 +3343,7 @@
       "notes": "Special permission needed for travel outside Sanaa or Aden.\nPassengers can transit without visa with a confirmed onward ticket for a flight to a third country within 24 hours. They must stay in the international transit area of the airport and have documents required for the next destination.\nYemen has launched an electronic visa system for visitors who meet specific criteria (groups of 10 or more, business travel, transit, etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3357,7 +3357,7 @@
       "notes": "90 days. Passport with National ID number required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3371,7 +3371,7 @@
       "notes": "Visas issued free of charge.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3385,7 +3385,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     },
     {
       "passport": "TW",
@@ -3399,7 +3399,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
-      "source_revision": "1382189312"
+      "source_revision": "1384575374"
     }
   ]
 }

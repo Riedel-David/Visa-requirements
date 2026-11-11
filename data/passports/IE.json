@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "IE",
   "source_title": "Visa requirements for Irish citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-  "source_revision": "1379558037",
-  "source_timestamp": "2026-10-10T18:24:36Z",
-  "generated_at": "2026-10-30T15:05:27.993447+00:00",
+  "source_revision": "1383283393",
+  "source_timestamp": "2026-11-01T22:37:18Z",
+  "generated_at": "2026-11-11T14:50:37.946487+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -35,7 +35,7 @@
       "notes": "Extension of stay is possible for a further 30 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -49,7 +49,7 @@
       "notes": "The Irish government advises its citizens not to travel to Afghanistan due to the extremely volatile security situation in the country.\nVisa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -91,7 +91,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -105,7 +105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -119,7 +119,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -133,7 +133,7 @@
       "notes": "Special permits required for French Southern and Antarctic Lands, Argentine Antarctica, Australia Australian Antarctic Territory, Antártica Chilena Province Chilean Antarctic Territory, Australia Heard Island and McDonald Islands, Norway Peter I Island, Norway Queen Maud Land, New Zealand Ross Dependency.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -161,7 +161,7 @@
       "notes": "Visa not required under the Entry Permit Waiver Program, but authorisation is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -175,7 +175,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -189,7 +189,7 @@
       "notes": "90 days on each visit in 12-month period.\nMay enter using SmartGate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -217,7 +217,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -231,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -245,7 +245,7 @@
       "notes": "90 days within any 6-month period.\nPassport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -259,7 +259,7 @@
       "notes": "Visitors must have proof of onward travel, whereby their final destination is their country of residence or origin.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -273,7 +273,7 @@
       "notes": "Visitors can apply to extend their stay when in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -287,7 +287,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -303,7 +303,7 @@
       "notes": "The Irish government advises its citizens not to travel to Burkina Faso due to the political and security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -317,7 +317,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -333,7 +333,7 @@
       "notes": "Visa on arrival is single entry, subject to a fee.\nMultiple entry visa available on arrival for 1 month stay.\nIrish citizens can also apply for e-Visas as an alternative.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -347,7 +347,7 @@
       "notes": "The Irish government advises its citizens not to travel to Burundi due to safety concerns.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -361,7 +361,7 @@
       "notes": "Must have an international vaccination certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -375,7 +375,7 @@
       "notes": "Extendable for longer stays.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -389,7 +389,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -403,7 +403,7 @@
       "notes": "90 days within any year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -417,7 +417,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -431,7 +431,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -445,7 +445,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.\nVisitors are required to book with a registered tour operator in Bhutan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -459,7 +459,7 @@
       "notes": "Extension to the visa-free period must be applied for in advance.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -473,7 +473,7 @@
       "notes": "Temporary visa-free regime, expires 31 December 2025.\nVisa-free entry should not exceed 90 days per calendar year.\nThe Irish government advises its citizens not to travel to Belarus due to Belarus' support of the ongoing war in Ukraine, and limited options for Irish citizens in the country to leave.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -487,7 +487,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -501,7 +501,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -517,7 +517,7 @@
       "notes": "eTA required if arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -531,7 +531,7 @@
       "notes": "The Irish government advises its citizens not to travel to Democratic Republic of Congo (DRC) due to security concerns.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -545,7 +545,7 @@
       "notes": "The Irish government advises its citizens not to travel to Central African Republic due to the security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -559,7 +559,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -573,7 +573,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -587,7 +587,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -601,7 +601,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -615,7 +615,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -629,7 +629,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -643,7 +643,7 @@
       "notes": "Temporary visa-free regime, effective from 14 March 2024 until 31 December 2026.\n240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n* During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits.\n24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport.\n* Travellers who need to leave the airport may obtain a temporary entry permit from immigration.\n5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.\nMay apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -657,7 +657,7 @@
       "notes": "Tibet Travel Permit required (10 USD).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -671,7 +671,7 @@
       "notes": "Visitors may only enter Colombia for up to 180 days in any calendar year.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -685,7 +685,7 @@
       "notes": "Visitors arriving at San Andrés and Leticia must buy tourist cards on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -699,7 +699,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -715,7 +715,7 @@
       "notes": "Can be extended up to 90 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -729,13 +729,13 @@
       "notes": "Must register online at least five days prior to arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "CW",
       "destination_name": "Curacao",
-      "area": "Curacao",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -743,7 +743,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -757,7 +757,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -771,7 +771,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -785,7 +785,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -799,7 +799,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -813,7 +813,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -827,7 +827,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -841,7 +841,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -855,7 +855,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -869,7 +869,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -883,7 +883,7 @@
       "notes": "Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -897,7 +897,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -913,7 +913,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -927,13 +927,13 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "ER",
       "destination_name": "Eritrea",
-      "area": "(outside Asmara)",
+      "area": "outside Asmara",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -941,7 +941,7 @@
       "notes": "Visa covers Asmara only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -955,7 +955,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -971,7 +971,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -985,7 +985,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -999,7 +999,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1013,13 +1013,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -1027,7 +1027,7 @@
       "notes": "A visitor permit is normally issued as a stamp in the passport on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1041,7 +1041,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1055,7 +1055,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1069,7 +1069,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1083,7 +1083,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1097,7 +1097,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1111,7 +1111,7 @@
       "notes": "Freedom of movement under Common Travel Area (in Constituent countries)\nPassport card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1125,7 +1125,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1139,7 +1139,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1153,7 +1153,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1167,7 +1167,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1181,7 +1181,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1195,7 +1195,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1209,7 +1209,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1223,7 +1223,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1237,7 +1237,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1251,7 +1251,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1265,7 +1265,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1279,7 +1279,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1293,7 +1293,7 @@
       "notes": "Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1307,7 +1307,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours / 1 month for 110 / 160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1321,7 +1321,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1335,7 +1335,7 @@
       "notes": "Visa not required under the Visa Waiver Program for 90 days on arrival from overseas for 2 years. ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1349,7 +1349,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1363,7 +1363,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1377,7 +1377,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1391,7 +1391,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1405,7 +1405,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1419,7 +1419,7 @@
       "notes": "The Irish government advises its citizens not to travel to Haiti due to the volatile situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1433,7 +1433,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1447,7 +1447,7 @@
       "notes": "Not available at all entry points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1461,7 +1461,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1475,7 +1475,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1489,7 +1489,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1503,7 +1503,7 @@
       "notes": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1519,7 +1519,7 @@
       "notes": "Irish citizens can obtain a visa on arrival at Iraq's airports, land and sea crossings for 60 days, for a fee of 75 USD.\nThe Irish government advises its citizens not to travel to Iraq due to the extremely dangerous security situation and the high threat of terrorist attacks in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1533,7 +1533,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1547,7 +1547,7 @@
       "notes": "Passengers who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's E-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival.\nWomen will be refused entry if not wearing Islamic head cover, scarf, long sleeves or stockings.\nThe Irish government advises its citizens not to travel to Iran due to the security situation in the country, and arbitrary arrest and detentions of European citizens by the Iranian authorities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1561,7 +1561,7 @@
       "notes": "Visitors to Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1575,7 +1575,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1589,7 +1589,7 @@
       "notes": "Passport card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1603,7 +1603,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1617,7 +1617,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1633,7 +1633,7 @@
       "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings (except King Hussein/Allenby Bridge)\nVisa fees may be waived for those in possession of a Jordan Pass depending on the length of their visit to the kingdom.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1647,7 +1647,7 @@
       "notes": "Irish citizens may apply for an extension of stay with the Ministry of Justice for up to 6 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1661,7 +1661,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1675,7 +1675,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1691,7 +1691,7 @@
       "notes": "Visa is also obtainable online.\nVisitors are not permitted to make day-trips to Cambodia (except in certain circumstances).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1705,7 +1705,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1719,7 +1719,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1733,7 +1733,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1747,7 +1747,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1761,7 +1761,7 @@
       "notes": "People are not allowed to leave the capital city, tourists can only leave the capital with a governmental tourist guide (no independent moving)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1775,7 +1775,7 @@
       "notes": "The validity period of a K-ETA is 3 years from the date of approval.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1791,7 +1791,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1805,7 +1805,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1819,7 +1819,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1833,7 +1833,7 @@
       "notes": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1849,7 +1849,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1863,7 +1863,7 @@
       "notes": "Free visa on arrival can be granted whenever a telephone number and address in Lebanon is provided.\nVisa can be extended for an additional two months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1872,12 +1872,12 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "Extension of stay is possible.\n6 weeks",
+      "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1891,7 +1891,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1907,7 +1907,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1921,7 +1921,7 @@
       "notes": "Pre-approved visa can be picked up on arrival, subject to conditions.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1935,7 +1935,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1949,7 +1949,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1963,7 +1963,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1977,7 +1977,7 @@
       "notes": "Passport card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -1991,7 +1991,7 @@
       "notes": "The Irish government advises its citizens not to travel to Libya due to the volatile situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2005,7 +2005,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2019,7 +2019,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2033,7 +2033,7 @@
       "notes": "90 days within any 180 day period.\nPassport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2047,7 +2047,7 @@
       "notes": "Passport card valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2063,7 +2063,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2077,7 +2077,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2091,7 +2091,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2105,7 +2105,7 @@
       "notes": "The Irish government advises its citizens not to travel to Mali due to security concerns.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2119,7 +2119,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\nThe Irish government advises its citizens not to travel to Myanmar due to the ongoing situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2133,7 +2133,7 @@
       "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2147,7 +2147,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2161,7 +2161,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2175,7 +2175,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2189,7 +2189,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2203,7 +2203,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2217,7 +2217,7 @@
       "notes": "180 days maximum stay in any 1 calendar year.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2231,7 +2231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2245,7 +2245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2259,7 +2259,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2273,7 +2273,7 @@
       "notes": "If no return ticket is held, one must be purchased at the border or entry will be refused.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2287,7 +2287,7 @@
       "notes": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2301,7 +2301,7 @@
       "notes": "Travelers must register on the e-Visa platform at least 48 hours prior to travel and pay a processing fee of 650 MT.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2315,7 +2315,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2329,7 +2329,7 @@
       "notes": "Passport card valid",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2343,7 +2343,7 @@
       "notes": "The Irish government advises its citizens not to travel to Niger due to the political and security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2357,7 +2357,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2371,7 +2371,7 @@
       "notes": "Tourist card must be obtained on arrival, subject to a fee.\nExtension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2385,7 +2385,7 @@
       "notes": "(European Netherlands)\nPassport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2399,7 +2399,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2413,7 +2413,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2427,7 +2427,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2443,7 +2443,7 @@
       "notes": "Extension of stay is possible of up to 150 days.\nBusiness travellers can obtain a visa on arrival for a maximum stay of 5 years, subject to a fee and a license issued by the Ministry of Industry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2457,7 +2457,7 @@
       "notes": "Visa requirement waived for holders of an Entry Permit letter.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2471,7 +2471,7 @@
       "notes": "Visa on arrival valid for 30 days is issued free of charge.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2485,7 +2485,7 @@
       "notes": "May enter using eGate.\nInternational Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2501,7 +2501,7 @@
       "notes": "A visa waiver is in place for travellers who are arriving directly from the Emirate of Dubai who have a visa or an entrance stamp from Dubai, whereby the visa must be valid for 21 days at least upon arrival in Oman.\nA visa waiver is in place for travellers who are arriving directly from Qatar, whereby the visa must state as being valid for Oman and must be valid for at least one month on arrival.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2515,7 +2515,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2529,7 +2529,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2543,7 +2543,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2557,7 +2557,7 @@
       "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2571,7 +2571,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2585,7 +2585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2599,7 +2599,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2613,13 +2613,13 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 14,
@@ -2627,7 +2627,7 @@
       "notes": "14 days visa free and landing fee 35 USD or tax of 5 USD if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2641,13 +2641,13 @@
       "notes": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2655,7 +2655,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2669,7 +2669,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2683,7 +2683,7 @@
       "notes": "Extension is possible for a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2697,7 +2697,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2711,7 +2711,7 @@
       "notes": "Visa waiver available for Irish citizens with a 30 day extension available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2725,7 +2725,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2739,7 +2739,7 @@
       "notes": "Irish citizens may stay in Serbia for 90 days within any 6-month period.\nExtension is possible.\nPassport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2753,7 +2753,7 @@
       "notes": "Visa waiver available for passengers arriving by cruise only who are staying in Russia for a maximum of 72 hours.\nThe Irish government advises its citizens not to travel to Russia due to the ongoing war in Ukraine, and the security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2767,7 +2767,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2783,7 +2783,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2799,7 +2799,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2813,7 +2813,7 @@
       "notes": "3 months within a year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2827,7 +2827,7 @@
       "notes": "Irish citizens can extend their stay for three months, up to a maximum of 12 months.\nVisitor's permit is issued free of charge, subject to documentation being provided at the entry point.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2841,7 +2841,7 @@
       "notes": "The Irish government advises its citizens not to travel to Sudan due to the ongoing military conflict in the country.\nKhartoum International Airport is currently closed, leaving Irish citizens options to leave very limited.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2855,7 +2855,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2869,7 +2869,7 @@
       "notes": "All foreigners traveling more than outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2883,7 +2883,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2897,7 +2897,21 @@
       "notes": "Extension of stay possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
+    },
+    {
+      "passport": "IE",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "visa_on_arrival",
+      "alternative_statuses": [],
+      "allowed_stay_days": 183,
+      "allowed_stay_raw": "183 days",
+      "notes": "Entry Permit (£25) for 183 days is issued on arrival.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2911,21 +2925,7 @@
       "notes": "e-Visa for 3 months within any year period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
-    },
-    {
-      "passport": "IE",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "visa_on_arrival",
-      "alternative_statuses": [],
-      "allowed_stay_days": 183,
-      "allowed_stay_raw": "183 days",
-      "notes": "Entry Permit (£25) for 183 days is issued on arrival.",
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2939,7 +2939,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2953,7 +2953,7 @@
       "notes": "Passport card.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2967,7 +2967,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2983,7 +2983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -2997,7 +2997,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3011,7 +3011,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3025,7 +3025,7 @@
       "notes": "Available at Berbera, Borama, Burao, Erigavo and Hargeisa airports.\n30 days, available at Bosaso Airport, Galcaio Airport and Mogadishu Airport.\nThe Irish government advises its citizens not to travel to Somalia due to the volatile security situation in the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3039,7 +3039,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3053,7 +3053,7 @@
       "notes": "Obtainable online.\nPrinted visa authorization must be presented at the time of travel.\nThe Irish government advises its citizens not to travel to South Sudan due to security concerns.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3067,7 +3067,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3081,13 +3081,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3095,7 +3095,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3109,7 +3109,7 @@
       "notes": "The Irish government advises its citizens not to travel to Syria due to the ongoing conflict and insecurity in the country. Irish citizens currently in Syria are advised to leave as soon as possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3123,7 +3123,7 @@
       "notes": "Extension of stay possible for a maximum of 90 days in total.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3137,7 +3137,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3151,7 +3151,7 @@
       "notes": "Visitors holding an 'entry authorisation' letter can pick up a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3165,7 +3165,7 @@
       "notes": "Extension of stay possible for an additional 90 days, subject to a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3179,7 +3179,7 @@
       "notes": "ACMECS Single Visa issued by Cambodia and Thailand are valid for 90 days from the date of issue and are valid for a stay of 60 days in Thailand.\nExtension of stay is possible.\nMaximum two visits annually if not arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3193,7 +3193,7 @@
       "notes": "Visa also available online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3207,7 +3207,7 @@
       "notes": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3221,7 +3221,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3235,7 +3235,7 @@
       "notes": "Irish and British citizens, unlike other EU citizens, must pay a 30 USD visa fee on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3249,7 +3249,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3263,7 +3263,7 @@
       "notes": "A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: Atamurat, Cheleken, Dashoguz, Serakhs and Serhetabat.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3277,7 +3277,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3291,7 +3291,7 @@
       "notes": "Extension of stay for a further 5 months is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3305,7 +3305,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3319,7 +3319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3333,13 +3333,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3347,7 +3347,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3363,7 +3363,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3377,7 +3377,7 @@
       "notes": "90 days within any 180 day period.\nThe Irish government advises its citizens not to travel to Ukraine due to Russia's aggression towards Ukraine. Irish citizens currently in Ukraine are advised to leave if able to do so.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3391,7 +3391,7 @@
       "notes": "Irish Citizens are not required to apply for an eVisa and are granted a fee-free visa on arrival.\nAn East Africa Tourist Visa issued by Kenya or Rwanda can also be used for entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3405,7 +3405,7 @@
       "notes": "ESTA is valid for 2 years from the date of issuance.\nESTA is also required when entering the country by cruise ship or land.\nA Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.\nVisa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3419,7 +3419,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3433,7 +3433,7 @@
       "notes": "Extension of stay is possible for a further 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3447,7 +3447,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3461,7 +3461,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3475,7 +3475,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3489,7 +3489,7 @@
       "notes": "Extension of stay is possible for a further 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3503,13 +3503,13 @@
       "notes": "All visitors are fingerprinted.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -3517,13 +3517,13 @@
       "notes": "Extendable for longer stays.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3531,7 +3531,7 @@
       "notes": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3545,7 +3545,7 @@
       "notes": "e-Visa is valid for 90 days and multiple entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3559,7 +3559,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3573,7 +3573,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3587,7 +3587,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3601,7 +3601,7 @@
       "notes": "Extension of stay is possible.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3615,7 +3615,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3629,7 +3629,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3643,7 +3643,7 @@
       "notes": "Passport card valid.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3657,7 +3657,7 @@
       "notes": "Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3671,7 +3671,7 @@
       "notes": "30 days for 30 USD, payable on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3685,13 +3685,13 @@
       "notes": "Registration required after 24&nbsp;h.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
       "destination": "XW",
       "destination_name": "Sahrawi Arab Democratic Republic",
-      "area": "(Western Sahara controlled territory)",
+      "area": "Western Sahara controlled territory",
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3699,7 +3699,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3713,7 +3713,7 @@
       "notes": "The Irish government advises its citizens not to travel to Yemen due to the volatile situation in the country. Terrorism, civil unrest, health risks, kidnapping, armed conflict, and landmines are present.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3727,7 +3727,7 @@
       "notes": "Special permission needed for travel outside Sanaa or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3741,7 +3741,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3755,7 +3755,7 @@
       "notes": "For those travelling to Zambia for business, the maximum stay is 30 days in any one-year period.\nTourists are allowed 90 days in any 1-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     },
     {
       "passport": "IE",
@@ -3771,7 +3771,7 @@
       "notes": "For those travelling to Zimbabwe for business, a visa on arrival can also be issued for a maximum stay of 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
-      "source_revision": "1379558037"
+      "source_revision": "1383283393"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "TH",
   "source_title": "Visa requirements for Thai citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-  "source_revision": "1378888560",
-  "source_timestamp": "2026-10-06T19:07:20Z",
-  "generated_at": "2026-10-30T15:07:04.914684+00:00",
+  "source_revision": "1383574218",
+  "source_timestamp": "2026-11-03T12:29:00Z",
+  "generated_at": "2026-11-11T14:52:13.780731+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": "A Schengen visa is required as entry is only possible via France or Spain.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -35,7 +35,7 @@
       "notes": "May apply using 'Smart service'.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -49,7 +49,7 @@
       "notes": "e-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -107,7 +107,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -121,7 +121,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -135,7 +135,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -149,7 +149,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -163,7 +163,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -177,7 +177,7 @@
       "notes": "May apply online (Online Visitor e600 visa).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -191,7 +191,7 @@
       "notes": "Special authorisation required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -205,7 +205,7 @@
       "notes": "Visa-free if U.S., U.K., Canada or Schengen Area resident permit holder or cruise ship passenger staying not more than 48 hours",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -219,7 +219,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -233,7 +233,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -247,7 +247,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -261,7 +261,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -275,7 +275,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -289,7 +289,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -303,7 +303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -319,7 +319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -335,7 +335,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -349,7 +349,7 @@
       "notes": "Must have an international vaccination certificate.\nThree types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -363,7 +363,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -377,7 +377,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -391,7 +391,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -405,7 +405,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -419,7 +419,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -433,7 +433,7 @@
       "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -447,7 +447,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -461,7 +461,7 @@
       "notes": "Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -475,7 +475,7 @@
       "notes": "Free Visitor's Permit on arrival with valid U.S. visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -489,7 +489,7 @@
       "notes": "Visitors who have either held a Canadian visa in the last 10 years or who \"currently hold a valid United States non-immigrant visa\" can now apply for an eTA for up to 6 months instead of a visa when travelling to Canada by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -503,7 +503,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -517,7 +517,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -531,7 +531,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -545,7 +545,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -559,7 +559,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -573,7 +573,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -587,7 +587,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -601,7 +601,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -615,7 +615,7 @@
       "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -629,7 +629,7 @@
       "notes": "30 days. Available at Haikou Meilan International Airport and Sanya Phoenix International Airport.\nVisa not required for 30 days for traveling on an organized tour in a tourist group of 5 or more people.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -643,7 +643,7 @@
       "notes": "Visa-free for holders of valid visa for Schengen area or the US.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -657,7 +657,7 @@
       "notes": "Visa-free for holders of valid U.S. visa or Canada visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -671,7 +671,7 @@
       "notes": "Can be extended up to 90 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -685,13 +685,13 @@
       "notes": "Visa on arrival may applied for via the online platform (EASE) and issued at international airports in Sal, Boa Vista, São Vicente or Santiago. Visa fee is approximately 25–30 EUR.\nVisitors must pay the Airport Security Fee (TSA) before visiting. The cost is 3,400 CVE (approx. 31 EUR) and can be paid via the online platform (EASE).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "CW",
       "destination_name": "Curacao",
-      "area": "Curacao",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -699,7 +699,7 @@
       "notes": "Visa-free if U.S., U.K., Canada or Schengen Area resident permit holder or cruise ship passenger staying not more than 48 hours",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -713,7 +713,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -727,7 +727,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -741,7 +741,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -755,7 +755,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -769,7 +769,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -783,7 +783,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -797,7 +797,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -811,7 +811,7 @@
       "notes": "Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\nVisitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -825,7 +825,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -839,7 +839,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -853,7 +853,7 @@
       "notes": "Transit Without Visa if Holders of onward tickets for a max transit time of 48 hours (up to 2 days), Leaving the airport is permitted for passengers with transit time longer than 6 hours. Passengers with transit time of less than 6 hours may leave the transit area but not the airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -867,7 +867,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -881,7 +881,7 @@
       "notes": "To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -895,7 +895,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -911,7 +911,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -925,7 +925,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -939,7 +939,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -953,13 +953,13 @@
       "notes": "Special permission required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -967,7 +967,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -981,7 +981,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -995,7 +995,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1009,7 +1009,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1023,7 +1023,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1037,7 +1037,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1051,7 +1051,7 @@
       "notes": "French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1065,7 +1065,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1079,7 +1079,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1093,7 +1093,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1107,7 +1107,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1121,7 +1121,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1135,7 +1135,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1149,7 +1149,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1163,7 +1163,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1177,7 +1177,7 @@
       "notes": "An entry clearance must be obtained from the Gambian Immigration prior to travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1191,7 +1191,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1205,7 +1205,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1219,7 +1219,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1233,7 +1233,7 @@
       "notes": "Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1247,7 +1247,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1261,7 +1261,7 @@
       "notes": "No visa required with a valid visa issued by Canada, Mexico, USA or a Schengen Member State for a maximum stay of 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1275,7 +1275,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1289,7 +1289,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1303,7 +1303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1317,7 +1317,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1331,7 +1331,7 @@
       "notes": "No visa required with a valid visa issued by Canada, Mexico, USA or a Schengen Member State for a maximum stay of 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1345,7 +1345,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1359,7 +1359,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1373,7 +1373,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1387,7 +1387,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1401,7 +1401,7 @@
       "notes": "Visa waiver for UK 'C' visa holders until October 2016. Entry permitted only if first point of entry to the Common Travel Area is in the UK.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1415,7 +1415,7 @@
       "notes": "Holders of a confirmation issued by the Israeli Ministry of Interior, traveling in a group of 10 or more can obtain a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1429,7 +1429,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1443,7 +1443,7 @@
       "notes": "Thai tourists can visit India for up to 30 days with double entry under this scheme without paying any visa fees. However, e-Tourist visas still need to be applied for in advance via the website: https://indianvisaonline.gov.in/evisa/tvoa.html.[https://www.mfa.go.th/en/content/india-visafeeexemption-en?cate=5d5bcb4e15e39c306000683e]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1457,7 +1457,7 @@
       "notes": "Protected Area Permit (PAP) required for all of Arunachal Pradesh, Manipur, Mizoram and parts of Himachal Pradesh, Jammu and Kashmir and Uttarakhand. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and Lakshadweep and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1471,7 +1471,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1485,7 +1485,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1499,7 +1499,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1513,7 +1513,7 @@
       "notes": "Visitors to Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1527,7 +1527,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1541,7 +1541,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1555,7 +1555,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1569,7 +1569,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1585,7 +1585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1599,7 +1599,7 @@
       "notes": "Visa not required for visits up to 15 days using Thai biometric passports.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1613,7 +1613,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1627,7 +1627,7 @@
       "notes": "30 days within any 60-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1641,7 +1641,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1655,7 +1655,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1669,7 +1669,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1683,7 +1683,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1697,7 +1697,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1711,7 +1711,7 @@
       "notes": "People are not allowed to leave the capital city, tourists can only leave the capital with a governmental tourist guide (no independent moving)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1725,7 +1725,7 @@
       "notes": "The validity period of a K-ETA is 3 years from the date of approval.\nK-ETA often denies entry to Thai citizens.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1739,7 +1739,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1753,7 +1753,7 @@
       "notes": "Up to 30 days visa-free for permanent residents of and traveling directly from: Canada, USA or UK. Visa-free for cruise ship passengers leaving on same day as arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1767,7 +1767,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1781,7 +1781,7 @@
       "notes": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1795,7 +1795,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1809,7 +1809,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1823,7 +1823,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1837,7 +1837,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1853,7 +1853,7 @@
       "notes": "On 24 October 2023, Sri Lanka announced that Thai citizens are exempt from paying a fee for visas. This will be a pilot program that lasts until 30 April 2024.\nSri Lanka introduced an ETA valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1867,7 +1867,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1881,7 +1881,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1895,7 +1895,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1909,7 +1909,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1923,7 +1923,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1937,7 +1937,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1951,7 +1951,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1965,7 +1965,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1979,7 +1979,7 @@
       "notes": "Need invitation letter to apply for e-Visa, except for holders of a residence permit or a valid visa (except Transit Visa) issued by an EU Member State or a state party to the Schengen Agreement.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -1993,7 +1993,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2009,7 +2009,7 @@
       "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2023,7 +2023,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2037,7 +2037,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2051,7 +2051,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2065,7 +2065,7 @@
       "notes": "Also e-Visa for 28 days.\n* Holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2079,7 +2079,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2093,7 +2093,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2107,7 +2107,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2121,7 +2121,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2135,7 +2135,7 @@
       "notes": "Multiple entry e-Visa valid for 1 year can be obtained through the internet, prior to departure.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2149,7 +2149,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2163,7 +2163,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2177,13 +2177,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "MV",
       "destination_name": "Maldives",
-      "area": "Maldives",
+      "area": "Territories and disputed areas",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2191,7 +2191,7 @@
       "notes": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2207,7 +2207,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2221,7 +2221,7 @@
       "notes": "No visa required for holders of a valid visa issued by Canada, Japan, USA, United Kingdom or a Schengen Member State and holders of an APEC Business Travel Card if traveling on business. Residence permit from EU not recognized.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2235,7 +2235,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2251,7 +2251,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2267,7 +2267,7 @@
       "notes": "Visa on arrival is available at the following locations:\n* Hosea Kutako International Airport\n* Impalila Island\n* Katima Mulilo\n* Ngoma\n* Trans Kalahari (Buitepos)\n* Walvis Bay Airport",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2281,7 +2281,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2295,7 +2295,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2309,7 +2309,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2323,7 +2323,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2337,7 +2337,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2351,7 +2351,7 @@
       "notes": "Visa-free if U.S., U.K., Canada or Schengen Area resident permit holder or cruise ship passenger staying not more than 48 hours",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2365,7 +2365,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2379,7 +2379,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2395,7 +2395,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2409,7 +2409,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2423,7 +2423,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2437,7 +2437,7 @@
       "notes": "May transit without visa if transit is through Auckland Airport and for no longer than 24 hours, subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2453,7 +2453,7 @@
       "notes": "/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2467,7 +2467,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2481,7 +2481,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2495,7 +2495,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2509,7 +2509,7 @@
       "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2523,7 +2523,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2537,7 +2537,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2551,7 +2551,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2565,13 +2565,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2579,7 +2579,7 @@
       "notes": "14 days; visa-free and landing fee 35 USD or tax of 5 USD if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2593,13 +2593,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2607,7 +2607,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2621,7 +2621,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2635,7 +2635,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2649,7 +2649,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2663,7 +2663,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2677,7 +2677,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2691,7 +2691,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2705,7 +2705,7 @@
       "notes": "90 days within any 180-day period. Transfers allowed.\nVisa-free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2719,13 +2719,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "RU",
       "destination_name": "Russia",
-      "area": "Russia",
+      "area": "Territories and disputed areas",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2733,7 +2733,7 @@
       "notes": "Several closed cities and regions in Russia require special authorization.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2749,7 +2749,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2765,7 +2765,7 @@
       "notes": "Non-Muslim residents are prohibited from visiting Mecca and its holy sites. Other religious places may also be restricted to Non-Muslim people.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2779,7 +2779,7 @@
       "notes": "Visitors may obtain a free permit valid for 3 months within any 1-year period on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2793,7 +2793,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2807,7 +2807,7 @@
       "notes": "Registration for a visa is obligatory within 3 days of arrival. It can be completed at entry ports.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2821,7 +2821,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2835,7 +2835,7 @@
       "notes": "All foreigners traveling more than 25 kilometers outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2849,7 +2849,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2863,7 +2863,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
+    },
+    {
+      "passport": "TH",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "evisa",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2877,21 +2891,7 @@
       "notes": "3 months within any year period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
-    },
-    {
-      "passport": "TH",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "evisa",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": null,
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2905,7 +2905,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2919,7 +2919,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2933,7 +2933,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2949,7 +2949,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2963,7 +2963,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2977,7 +2977,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -2991,7 +2991,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3005,7 +3005,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3019,7 +3019,7 @@
       "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.\nPrinted visa authorization must be presented at the time of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3033,7 +3033,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3047,13 +3047,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3061,7 +3061,7 @@
       "notes": "Visa-free if U.S., U.K., Canada or Schengen Area resident permit holder or cruise ship passenger staying not more than 48 hours",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3075,7 +3075,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3089,7 +3089,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3103,7 +3103,7 @@
       "notes": "Visa required as of 1 April 2015.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3117,7 +3117,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3131,7 +3131,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3147,7 +3147,7 @@
       "notes": "/ 60 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3161,7 +3161,7 @@
       "notes": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3175,7 +3175,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3189,7 +3189,7 @@
       "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.\nWhen transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3203,7 +3203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3217,7 +3217,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3231,7 +3231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3245,7 +3245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3259,13 +3259,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3273,7 +3273,7 @@
       "notes": "14 days (Temporary measure only; valid until 31 July 2027). Also Visitor Visa for Tourism Purposes for 30 days.\nVisa applications must be done online and submitted to a Taipei Economic and Cultural Office.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3289,7 +3289,7 @@
       "notes": "e-Visa also available.\ne-Visa holders can enter through all border points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3303,7 +3303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3317,7 +3317,7 @@
       "notes": "The same rules as for visiting Russia apply.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3331,7 +3331,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3345,7 +3345,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3359,7 +3359,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3373,7 +3373,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3387,7 +3387,7 @@
       "notes": "5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3401,7 +3401,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3415,7 +3415,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3429,13 +3429,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3443,13 +3443,13 @@
       "notes": "Permanent residents of the United States, Canada or the United Kingdom do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3457,7 +3457,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3471,7 +3471,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3485,7 +3485,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3499,7 +3499,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3513,7 +3513,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3527,7 +3527,7 @@
       "notes": "Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3541,7 +3541,7 @@
       "notes": "Visa is not required for holders of a valid biometric residence permit issued by one of the Schengen member states or a valid multi-entry Schengen Visa, a holder of a valid Laissez-Passer issued by United Nations Organizations, NATO, OSCE, Council of Europe or European Union a holder of a valid travel documents issued by EU Member and Schengen States, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners (max. 15 days stay)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3555,7 +3555,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3569,7 +3569,7 @@
       "notes": "To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3583,7 +3583,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3597,7 +3597,7 @@
       "notes": "Visitors must complete and obtain a temporary migration card at the border checkpoint. The maximum period of stay is 45 days, and it can be extended multiple times through this card.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3611,7 +3611,7 @@
       "notes": "Undefined visa regime in the Western Sahara controlled territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3625,7 +3625,7 @@
       "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3639,7 +3639,7 @@
       "notes": "Special permission needed for travel outside Sana'a or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3653,7 +3653,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3667,7 +3667,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3683,7 +3683,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     },
     {
       "passport": "TH",
@@ -3697,7 +3697,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
-      "source_revision": "1378888560"
+      "source_revision": "1383574218"
     }
   ]
 }

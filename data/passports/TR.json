@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "TR",
   "source_title": "Visa requirements for Turkish citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
   "source_revision": "1383440721",
   "source_timestamp": "2026-11-02T18:17:48Z",
-  "generated_at": "2026-11-09T13:00:47.687904+00:00",
+  "generated_at": "2026-11-11T14:52:18.781400+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -1406,9 +1406,9 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
       "source_revision": "1383440721"

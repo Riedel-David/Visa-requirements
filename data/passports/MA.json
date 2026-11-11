@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "MA",
   "source_title": "Visa requirements for Moroccan citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-  "source_revision": "1382216883",
-  "source_timestamp": "2026-10-27T10:25:31Z",
-  "generated_at": "2026-10-30T17:08:55.667776+00:00",
+  "source_revision": "1383574259",
+  "source_timestamp": "2026-11-03T12:29:22Z",
+  "generated_at": "2026-11-11T14:51:13.774313+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": "Andorra can only be reached through Spain or France, so you must enter the Schengen area first and the usual Schengen visa rules apply.\nAndorra is not part of Schengen, so you need a multiple-entry visa to return through Spain or France after your visit.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -35,7 +35,7 @@
       "notes": "May apply using 'Smart service'.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -49,7 +49,7 @@
       "notes": "e-Visa holders must arrive via Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -63,7 +63,7 @@
       "notes": "Visa on arrival for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -77,7 +77,7 @@
       "notes": "Holders of a visa issued by the United Kingdom, the United States or Canada do not require a visa for a maximum stay of 3 months.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -91,7 +91,7 @@
       "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders of the Schengen Area member states, the United Kingdom and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -105,7 +105,7 @@
       "notes": "Visa on arrival for a maximum stay of 120 days for valid visa holders or holding residence permit of the EU or Schengen Area member states, Australia, Canada, the United Kingdom, Ireland, Japan, South Korea, Russia and the United States or holding residence permit of the GCC member states.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -119,7 +119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -133,7 +133,7 @@
       "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -147,7 +147,7 @@
       "notes": "A visa issued by the United States is not valid for entry into American Samoa.\nVisitors must apply for an entry permit through the Department of Legal Affairs in American Samoa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -161,7 +161,7 @@
       "notes": "Austria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -175,7 +175,7 @@
       "notes": "May apply online. (Online Visitor e600 visa).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -189,7 +189,7 @@
       "notes": "Holders of a visa issued by the Schengen member states, the United Kingdom or Ireland are granted a max. stay of 90 days within 1 calendar year.\nHolders of a cruise reservation confirmation do not require a visa for a maximum stay of 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -217,7 +217,7 @@
       "notes": "Visa-free for a maximum stay of 30 days for valid visa holders (or holding residence permit) of the Schengen Area member states, Cyprus, the United Kingdom, Ireland, and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -231,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -245,7 +245,7 @@
       "notes": "Visa on arrival for a maximum stay of 30 days when traveling for tourism purposes and residing in a country without diplomatic or consular representation of Bangladesh provided that they hold a return or onward ticket and a confirmed hotel reservation.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -259,7 +259,7 @@
       "notes": "Belgium is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -273,7 +273,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -287,7 +287,7 @@
       "notes": "Bulgaria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -303,7 +303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -319,7 +319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -333,7 +333,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -347,7 +347,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -361,7 +361,7 @@
       "notes": "72 hours visa-free transit if holding a confirmed onward ticket for a flight to a third country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -375,7 +375,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -389,7 +389,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -403,7 +403,7 @@
       "notes": "Visa not required for permanent residents of the United States or Canada.\nCruise ship passengers travelling to and returning from the Bahamas do not require to obtain visa for entry. Both entry and departure must be by a cruise ship.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -417,7 +417,7 @@
       "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -431,7 +431,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -445,7 +445,7 @@
       "notes": "Visa-free for holders of a valid visa issued by Russia.\nVisa on arrival at Minsk National Airport (MSQ) for passengers with an original invitation letter from a Belarusian tourist company or medical/health organization, a service contract issued under Belarusian law, or supporting documents previously submitted to the Consular Division at Minsk National Airport (MSQ) at least 3–5 working days before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -459,7 +459,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -473,7 +473,7 @@
       "notes": "Eligible travelers who held a Canadian visa in the past 10 years or who hold a valid United States nonimmigrant visa can enter visa-free by air with an eTA.\nA visa is still required for entry by land or sea.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -487,7 +487,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -501,7 +501,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -515,7 +515,7 @@
       "notes": "Visa-free from 1 January 2027.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -529,7 +529,7 @@
       "notes": "Switzerland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -543,7 +543,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -557,7 +557,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -571,7 +571,7 @@
       "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -585,7 +585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -599,7 +599,7 @@
       "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.\n24 hours visa-free transit through China (unless arriving in Fuzhou, Huangshan, Mudanjiang, Shenzhen or Yanji).\nHong Kong, Macau, and Taiwan count as third countries under the 24-hour transit without visa (TWOV) policies.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -613,7 +613,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -627,7 +627,7 @@
       "notes": "Visa-free for a maximum stay of 90 days for valid multiple-entry visa holders of Canada and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -641,7 +641,7 @@
       "notes": "Can be extended up to 90 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -655,7 +655,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -669,7 +669,7 @@
       "notes": "Holders of a visa issued by the Schengen member states, the United Kingdom or Ireland are granted a max. stay of 90 days within 1 calendar year.\nHolders of a cruise reservation confirmation do not require a visa for a maximum stay of 48 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -683,7 +683,7 @@
       "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -697,7 +697,7 @@
       "notes": "The Czech Republic is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -711,7 +711,7 @@
       "notes": "Germany is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -725,7 +725,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -739,7 +739,7 @@
       "notes": "Denmark is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -753,7 +753,7 @@
       "notes": "Visa-free for a maximum stay of 6 months for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -767,7 +767,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -781,7 +781,7 @@
       "notes": "Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -795,7 +795,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -809,7 +809,7 @@
       "notes": "Estonia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -823,7 +823,7 @@
       "notes": "Visa on arrival for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -837,7 +837,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -851,7 +851,7 @@
       "notes": "Spain is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]\nResidents of Tetouan may enter Ceuta without a visa.\nResidents of Nador may enter Melilla without a visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -867,7 +867,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -881,7 +881,7 @@
       "notes": "Finland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -895,13 +895,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -909,7 +909,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -923,7 +923,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -937,7 +937,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -951,7 +951,7 @@
       "notes": "France is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -965,7 +965,7 @@
       "notes": "Includes overseas departments of Guadeloupe and Martinique and overseas collectivities of Saint Barthélemy and Saint Martin.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -979,7 +979,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -993,7 +993,7 @@
       "notes": "Conditional 48 hours visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1007,7 +1007,7 @@
       "notes": "A Schengen visa is required to enter Akrotiri and Dhekelia, as the territory is located in Cyprus and follows Cypriot visa policy.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1021,7 +1021,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1035,7 +1035,7 @@
       "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland, the Gulf Cooperation Council, Australia, Canada, Israel, Japan, New Zealand, South Korea and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1049,7 +1049,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1063,7 +1063,7 @@
       "notes": "Moroccan passport holders must obtain an Electronic Travel Authorization (ETA) prior to travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1077,7 +1077,7 @@
       "notes": "A Schengen visa is required to enter Gibraltar, as the territory follows the Schengen visa policy and has open borders with Spain.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1091,7 +1091,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1105,7 +1105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1119,7 +1119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1133,7 +1133,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1147,7 +1147,7 @@
       "notes": "Greece is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1161,7 +1161,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1175,7 +1175,7 @@
       "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1189,7 +1189,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1203,7 +1203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1217,7 +1217,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1231,7 +1231,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1245,7 +1245,7 @@
       "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1259,7 +1259,7 @@
       "notes": "Croatia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1273,7 +1273,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1287,7 +1287,7 @@
       "notes": "Hungary is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1301,7 +1301,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1315,7 +1315,7 @@
       "notes": "Moroccan passport holders are exempt from paying fees when applying for a visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1329,7 +1329,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1343,7 +1343,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1357,7 +1357,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1371,7 +1371,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1385,7 +1385,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1399,7 +1399,7 @@
       "notes": "Iceland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1413,7 +1413,7 @@
       "notes": "Italy is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1427,7 +1427,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1443,7 +1443,7 @@
       "notes": "Visa can be obtained upon arrival obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1457,7 +1457,7 @@
       "notes": "Moroccan passport holders with residence in Australia, Brazil, Cambodia, Canada, Saudi Arabia, South Africa, Taiwan, the United Kingdom and the United States can apply for a single entry e-Visa for tourism purposes only.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1471,7 +1471,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1485,7 +1485,7 @@
       "notes": "e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1501,7 +1501,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1515,7 +1515,7 @@
       "notes": "90 days within any 12-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1529,7 +1529,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1543,7 +1543,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1557,7 +1557,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1571,7 +1571,7 @@
       "notes": "The validity period of a K-ETA is 3 years from the date of approval.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1585,7 +1585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1599,7 +1599,7 @@
       "notes": "Holders of a cruise reservation confirmation do not require a visa for a maximum stay of 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1613,7 +1613,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1629,7 +1629,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1643,7 +1643,7 @@
       "notes": "Visa on arrival at Beirut International Airport or any other port of entry only if they are holding a copy of a reservation in a 3 to 5 star hotel or private residential address with telephone number in the Republic of Lebanon, at least 2,000 USD in cash, a non-refundable return or circle trip ticket, and there are no Israeli stamps, visas, or seals on their passport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1657,7 +1657,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1671,7 +1671,7 @@
       "notes": "Liechtenstein is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1687,7 +1687,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1701,7 +1701,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1715,7 +1715,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1729,7 +1729,7 @@
       "notes": "Lithuania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1743,7 +1743,7 @@
       "notes": "Luxembourg is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1757,7 +1757,7 @@
       "notes": "Latvia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1771,7 +1771,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1785,7 +1785,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1799,7 +1799,7 @@
       "notes": "Holders of a valid residence permit or a valid visa (excluding transit visas) issued by a Member State of the European Union, a State party to the Schengen Agreement, the United Kingdom, the United States of America, or Canada are exempt from the invitation letter requirement.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1813,7 +1813,7 @@
       "notes": "Visa-free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1829,7 +1829,7 @@
       "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1843,7 +1843,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1857,7 +1857,7 @@
       "notes": "Visa-free for a maximum stay of 15 days for valid visa holders of the Schengen Area member states.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1871,7 +1871,7 @@
       "notes": "May enter with an Identity Card or an expired passport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1885,7 +1885,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\ne-Visa for tourism only.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1899,13 +1899,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "MO",
       "destination_name": "Macau",
-      "area": "Macau",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -1913,7 +1913,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1927,7 +1927,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1941,7 +1941,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1955,7 +1955,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1969,7 +1969,7 @@
       "notes": "Malta is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1983,7 +1983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -1997,7 +1997,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2011,7 +2011,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2025,7 +2025,7 @@
       "notes": "Visa-free for a maximum stay of 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States, Canada and Japan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2039,7 +2039,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2055,7 +2055,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2069,7 +2069,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2083,7 +2083,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2097,7 +2097,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2111,7 +2111,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2125,7 +2125,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2139,7 +2139,7 @@
       "notes": "Netherlands is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2153,7 +2153,7 @@
       "notes": "Includes Bonaire, Sint Eustatius and Saba.\nHolders of a visa issued by the Schengen member states, the United Kingdom or Ireland are granted a max. stay of 90 days within 1 calendar year.\nHolders of a cruise reservation confirmation do not require a visa for a maximum stay of 48 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2167,7 +2167,7 @@
       "notes": "Norway is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2183,7 +2183,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2197,7 +2197,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2211,7 +2211,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2225,7 +2225,7 @@
       "notes": "Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2239,7 +2239,7 @@
       "notes": "Visa-free for a maximum stay of 14 days for valid visa holders of Australia, Canada, Japan, the United States, United Kingdom or the Schengen Area member states.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2253,7 +2253,7 @@
       "notes": "Visa-free for a maximum stay of 30 days for valid visa holders or residents of Australia, the United Kingdom, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2267,7 +2267,7 @@
       "notes": "Visa-free for a maximum stay of 183 days within a one-year period for valid visa holders of the Schengen Area member states and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2281,7 +2281,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2295,7 +2295,7 @@
       "notes": "Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2309,7 +2309,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2323,7 +2323,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2337,7 +2337,7 @@
       "notes": "Poland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2351,13 +2351,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2365,7 +2365,7 @@
       "notes": "14 days visa-free and landing fee 35 USD or tax of 5 USD if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2379,13 +2379,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2393,7 +2393,7 @@
       "notes": "Arrival by sea to the Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2407,7 +2407,7 @@
       "notes": "Portugal is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2421,7 +2421,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2435,7 +2435,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2449,7 +2449,7 @@
       "notes": "Travelers can apply for a visa on the Hayya website.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2463,7 +2463,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2477,7 +2477,7 @@
       "notes": "Romania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2491,7 +2491,7 @@
       "notes": "90 days within any 180-day period. Transfers allowed.\nVisa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2505,7 +2505,7 @@
       "notes": "Visa-free for holders of a valid visa issued by Belarus.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2519,7 +2519,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2533,7 +2533,7 @@
       "notes": "Tourists eligible for Visa on Arrival must hold valid tourist or business visas from the US, United Kingdom, or Schengen countries. The visa should have been used once with an entry stamp. Permanent residents of the US, UK, or EU, along with their first-degree relatives, can also apply after confirming their presence.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2547,7 +2547,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2561,7 +2561,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2575,7 +2575,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2589,7 +2589,7 @@
       "notes": "Sweden is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2603,7 +2603,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
+    },
+    {
+      "passport": "MA",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "evisa",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2617,21 +2631,7 @@
       "notes": "3 months within any 1 year-period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
-    },
-    {
-      "passport": "MA",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "evisa",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": null,
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2645,7 +2645,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2659,7 +2659,7 @@
       "notes": "Slovenia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2673,7 +2673,7 @@
       "notes": "Slovakia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [https://www.consilium.europa.eu/en/infographics/schengen-visa/ [Schengen Countries]]",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2689,7 +2689,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2703,7 +2703,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2717,7 +2717,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2731,7 +2731,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2745,7 +2745,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2759,7 +2759,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2773,7 +2773,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2787,13 +2787,13 @@
       "notes": "Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, Canada and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2801,7 +2801,7 @@
       "notes": "Holders of a visa issued by the Schengen member states, the United Kingdom, Ireland, the United States or Canada are granted a max. stay of 90 days within 1 calendar year.\nPassengers transiting overland to the French part of St. Martin do not require a visa for a maximum stay of 48 hours.\nHolders of a cruise reservation confirmation do not require a visa for a maximum stay of 48 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2815,7 +2815,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2829,7 +2829,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2843,7 +2843,7 @@
       "notes": "Holders of a valid visa issued by Canada, United Kingdom or the US do not require a visa for a maximum stay of 90 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2857,7 +2857,7 @@
       "notes": "Visa-free from 1 January 2027.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2871,7 +2871,7 @@
       "notes": "Travelers must complete an online travel declaration at least 24 hours before arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2885,7 +2885,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2901,7 +2901,7 @@
       "notes": "Holders of passports which are 55 years old and more do not require a visa for 14 days.\n/ 60 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2915,7 +2915,7 @@
       "notes": "To visit Tokelau, you must obtain a '''permit''' issued by the '''Tokelau Apia Liaison Office''' in Apia, Samoa. This permit is mandatory for all visitors, regardless of their New Zealand visa status. Additionally, all travel to Tokelau is by boat from Samoa, and a permit from the Samoan Immigration Authorities is required to leave and re-enter Samoa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2929,7 +2929,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2943,7 +2943,7 @@
       "notes": "When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2957,7 +2957,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2971,7 +2971,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2985,7 +2985,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -2999,7 +2999,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3013,13 +3013,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3027,7 +3027,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3043,7 +3043,7 @@
       "notes": "e-Visa : Single Entry for 50 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3057,7 +3057,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3071,7 +3071,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3085,7 +3085,7 @@
       "notes": "B1/B2 visas issued with validity of 10 years.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3099,7 +3099,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3113,7 +3113,7 @@
       "notes": "5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3127,7 +3127,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3141,7 +3141,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3155,13 +3155,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3169,13 +3169,13 @@
       "notes": "Holders of a visa issued by the United Kingdom, the United States or Canada do not require a visa for a maximum stay of 6 months.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3183,7 +3183,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3197,7 +3197,7 @@
       "notes": "e-Visa is valid for 90 days and multiple entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3211,7 +3211,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3225,7 +3225,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3239,7 +3239,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3253,7 +3253,7 @@
       "notes": "Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3267,7 +3267,7 @@
       "notes": "Visa-free for a maximum stay of 90 days within 180 days for valid visa holders of the Schengen Area member states.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3281,7 +3281,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3295,7 +3295,7 @@
       "notes": "To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3309,7 +3309,7 @@
       "notes": "30 days for 30 USD, payable on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3323,7 +3323,7 @@
       "notes": "Registration required after 24h.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3337,7 +3337,7 @@
       "notes": "Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3351,7 +3351,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3365,7 +3365,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3379,7 +3379,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     },
     {
       "passport": "MA",
@@ -3393,7 +3393,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
-      "source_revision": "1382216883"
+      "source_revision": "1383574259"
     }
   ]
 }

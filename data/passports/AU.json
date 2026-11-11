@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "AU",
   "source_title": "Visa requirements for Australian citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-  "source_revision": "1382495700",
-  "source_timestamp": "2026-10-29T00:02:29Z",
-  "generated_at": "2026-10-30T17:07:05.819440+00:00",
+  "source_revision": "1383573974",
+  "source_timestamp": "2026-11-03T12:26:07Z",
+  "generated_at": "2026-11-11T14:49:25.866153+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -35,7 +35,7 @@
       "notes": "May apply using 'Smart Service'.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -49,7 +49,7 @@
       "notes": "e-Visa : Visitors must arrive at Kabul International (KBL).\nVisa in advance for visitors to Afghanistan must be applied.\nDue to safety concerns, Australian government advises its citizens to not visit Afghanistan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -105,7 +105,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -119,7 +119,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -133,7 +133,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -161,7 +161,7 @@
       "notes": "90 days per entry regardless of previous time spent in other Schengen countries",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -175,7 +175,7 @@
       "notes": "30 days, extendable to 180 days",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -189,7 +189,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -217,7 +217,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -231,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -245,7 +245,7 @@
       "notes": "Not available at all entry points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -259,7 +259,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area. Additionally bilateral agreement permits 2 months on top of this.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -273,7 +273,7 @@
       "notes": "Due to security concerns, the Australian government advises its citizens not to visit Burkina Faso.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -287,7 +287,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -303,7 +303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -319,7 +319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -333,7 +333,7 @@
       "notes": "Must have an international vaccination certificate.\nThree types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -347,7 +347,7 @@
       "notes": "Up to 6 months, decided on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -361,7 +361,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -375,7 +375,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -389,7 +389,7 @@
       "notes": "Brazilian authorities have announced that Australian citizens will require a visa beginning 10 April 2025.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -403,7 +403,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -417,7 +417,7 @@
       "notes": "The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -431,7 +431,7 @@
       "notes": "90 days within any 1-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -447,7 +447,7 @@
       "notes": "Must arrive and depart via Minsk International Airport, and not to / from Russia\ne-Visa can be issued for 30 days and can be used at all international checkpoints, including road and rail.\nDue to security concerns, as well as Belarus' support of the Russian invasion of Ukraine, the Australian government advises its citizens not to visit Belarus.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -461,7 +461,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -475,7 +475,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -489,7 +489,7 @@
       "notes": "eTA required if arriving by air.\nAlso, an eTA not required when arriving by car, bus, train or boat (including a cruise ship).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -503,7 +503,7 @@
       "notes": "Visa on arrival at Ndjili International Airport if a letter of invitation (''Visa volant'') issued by the Ministry of Interior and Security is conferred.\nDue to security concerns, the Australian government advises its citizens not to visit the Democratic Republic of Congo.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -517,7 +517,7 @@
       "notes": "A letter of invitation to the Central African Republic must be applied in advance for 2 weeks upon planned date of travel.\nDue to safety concerns, Australian government advises its citizens not to visit Central African Republic.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -531,7 +531,7 @@
       "notes": "Visa and invitation letters approved via tour operators only.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -545,7 +545,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -559,7 +559,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -573,7 +573,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -587,7 +587,7 @@
       "notes": "Since the 17th of September 2025, Australians no longer require a visa for stays of up to 90 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -601,7 +601,7 @@
       "notes": "A tax for a visa on internal flights must be obtained upon arrival into Cameroon.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -615,7 +615,7 @@
       "notes": "Visa-free from 1 July 2024 to 31 December 2026.\n240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n* During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits.\n24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport.\n* Travellers who need to leave the airport may obtain a temporary entry permit from immigration.\n5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.\nMay apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -629,7 +629,7 @@
       "notes": "30 days. Available at Haikou Meilan International Airport and Sanya Phoenix International Airport.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -643,7 +643,7 @@
       "notes": "Tibet Travel Permit required (10 USD).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -657,7 +657,7 @@
       "notes": "90 days - extendable up to 180 days stay within a 1-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -671,7 +671,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -685,7 +685,7 @@
       "notes": "The Australian Government advises its citizens to 'exercise a high degree of caution in Cuba due to the threat of violent crime'.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -699,7 +699,7 @@
       "notes": "Not available at all entry points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -713,7 +713,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -727,7 +727,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -741,7 +741,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -755,7 +755,7 @@
       "notes": "90 days per entry regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -769,7 +769,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -783,7 +783,7 @@
       "notes": "90 days within any 180-day period. [https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Visa-free-visits regardless of previous time spent] in other Schengen countries (except the other Nordic countries)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -797,7 +797,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -811,7 +811,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -825,7 +825,7 @@
       "notes": "Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\nVisitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -839,7 +839,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -853,7 +853,7 @@
       "notes": "60 days; Visitors must pre-register to receive a 20 USD Transit Control Card (TCT).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -867,7 +867,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -883,7 +883,7 @@
       "notes": "Visa-on-arrival costs 30 USD for single entry visa (Tourism).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -897,7 +897,7 @@
       "notes": "A tourist visa for Australian citizens is issued for a stay of 1 month from arrival to Eritrea.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -911,7 +911,7 @@
       "notes": "To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -925,7 +925,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -941,7 +941,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -955,7 +955,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -969,7 +969,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -983,13 +983,13 @@
       "notes": "Special permission required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -997,7 +997,7 @@
       "notes": "A visitor permit is normally issued as a stamp in the passport on arrival, The maximum validity period is 1 month.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1011,7 +1011,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1025,7 +1025,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1039,7 +1039,7 @@
       "notes": "90 days within any 180-day period in metropolitan France, regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1053,7 +1053,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1067,7 +1067,7 @@
       "notes": "Includes overseas departments of Guadeloupe and Martinique and overseas collectivities of Saint Barthélemy and Saint Martin.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1081,7 +1081,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1095,7 +1095,7 @@
       "notes": "Visa also not required if holder has UK ancestry clearance visa.\nETA UK is valid for 2 years.\nAdults can use ePassport gates.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1109,7 +1109,7 @@
       "notes": "Stays longer than 28 days per 12-month period require a permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1123,7 +1123,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1137,7 +1137,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1151,7 +1151,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1165,7 +1165,7 @@
       "notes": "Visitors staying longer than 60 days are required to extend their visas at the Immigration Service.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1179,7 +1179,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1193,7 +1193,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1207,7 +1207,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1221,7 +1221,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1235,7 +1235,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1249,7 +1249,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1263,7 +1263,7 @@
       "notes": "Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1277,7 +1277,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1291,7 +1291,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1305,7 +1305,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1319,7 +1319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1333,7 +1333,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1347,7 +1347,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1361,7 +1361,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1375,7 +1375,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1389,7 +1389,7 @@
       "notes": "Due to security concerns, the Australian government advises its citizens not to visit Haiti.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1403,7 +1403,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1417,7 +1417,7 @@
       "notes": "Visa on arrival is extendable up to 60 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1431,7 +1431,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1445,7 +1445,7 @@
       "notes": "Entry refused to anyone who \"knowingly issues a public call for boycotting Israel.\"",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1459,7 +1459,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1473,7 +1473,7 @@
       "notes": "Protected Area Permit (PAP) required for whole states of Nagaland and Sikkim and parts of states Manipur, Arunachal Pradesh, Uttaranchal, Jammu and Kashmir, Rajasthan, Himachal Pradesh.\nRestricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1487,7 +1487,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1501,7 +1501,7 @@
       "notes": "Due to safety concerns, Australian government advises its citizens not to visit Iraq.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1515,7 +1515,7 @@
       "notes": "Tourists can apply for an e-Visa (30 days) to visit the Iraqi Kurdistan Region.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1529,7 +1529,7 @@
       "notes": "Passengers who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website. and present the submission notification at the airport's visa desk may obtain a visa on arrival.\nDue to security concerns, the Australian government advises its citizens not to visit Iran.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1543,7 +1543,7 @@
       "notes": "Tourists for Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1557,7 +1557,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1571,7 +1571,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1585,7 +1585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1601,7 +1601,7 @@
       "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1615,7 +1615,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1629,7 +1629,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.\nCan also be entered on an East Africa tourist visa issued by Rwanda or Uganda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1643,7 +1643,7 @@
       "notes": "30 days within any 60-day period.\nA single or multiple tourist or business e-Visa for 90 days is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1659,7 +1659,7 @@
       "notes": "Visa is also obtainable online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1673,7 +1673,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1687,7 +1687,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1701,7 +1701,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1715,7 +1715,7 @@
       "notes": "Visitors traveling for tourist purposes must hold an authorization to travel, issued by a travel company in Korea (Dem. People's Rep.).\nIndependent travelers must be accompanied by a tour guide at all times.\nDue to security concerns and the risk of arbitrary detention, the Australian government advises its citizens not to visit North Korea.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1729,7 +1729,7 @@
       "notes": "People are not allowed to leave the capital city, tourists can only leave the capital with a governmental tourist guide (no independent moving)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1743,7 +1743,7 @@
       "notes": "The validity period of a K-ETA is 3 years from the date of approval.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1759,7 +1759,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1773,7 +1773,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1787,7 +1787,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1801,7 +1801,7 @@
       "notes": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1817,7 +1817,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1831,7 +1831,7 @@
       "notes": "Visa extendible for 2 additional months.\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.\nDue to security concerns, the Australian government advises its citizens not to visit Lebanon.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1840,12 +1840,12 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1859,7 +1859,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1875,7 +1875,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1889,7 +1889,7 @@
       "notes": "Currently available only upon arrival at the Roberts International Airport (ROB) in Monrovia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1903,7 +1903,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1917,7 +1917,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1931,7 +1931,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1945,7 +1945,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1959,7 +1959,7 @@
       "notes": "Due to safety concerns, Australian government advises its citizens not to visit Libya.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1973,7 +1973,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -1987,7 +1987,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2001,7 +2001,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2015,7 +2015,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2031,7 +2031,7 @@
       "notes": "For stays of 61 to 90 days, the visa fee is 59 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2045,7 +2045,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2059,7 +2059,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2073,7 +2073,7 @@
       "notes": "An average processing time for a tourist visa to Mali upon 3-15 working days is mandatory.\nDue to security concerns, the Australian government advises its citizens not to visit Mali.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2087,7 +2087,7 @@
       "notes": "Due to ongoing civil unrest and armed conflict, Australian government advises its citizens not to visit Myanmar.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2101,13 +2101,13 @@
       "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "MO",
       "destination_name": "Macau",
-      "area": "Macau",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -2115,7 +2115,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2129,7 +2129,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2143,7 +2143,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2157,7 +2157,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2171,7 +2171,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2185,7 +2185,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2199,7 +2199,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2213,7 +2213,7 @@
       "notes": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2229,7 +2229,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2243,7 +2243,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2257,7 +2257,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2271,7 +2271,7 @@
       "notes": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2287,7 +2287,7 @@
       "notes": "Travelers must pay a fee of 190 USD upon entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2303,7 +2303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2317,7 +2317,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2331,7 +2331,7 @@
       "notes": "Visa on arrival at Diori Hamani International Airport if a letter of invitation (''Visa Volant'') issued by the Ministry of Interior is conferred.\nDue to the political instability, the Australian government advises its citizens not to visit Niger.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2345,7 +2345,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2359,7 +2359,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2373,7 +2373,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries (European Netherlands).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2387,7 +2387,7 @@
       "notes": "90 days. Includes Bonaire, Sint Eustatius and Saba.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2401,7 +2401,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries (except other Nordic countries).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2415,7 +2415,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2429,7 +2429,7 @@
       "notes": "Right to live and work under the Svalbard Treaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2445,7 +2445,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2459,7 +2459,7 @@
       "notes": "Criminal record and medical fitness certificates are not required for Australian citizens.\nAustralian citizens are given 7 days to pay a fee AU$ 50 per day in procedure for an application of a new visa to Nauru.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2473,7 +2473,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2487,7 +2487,7 @@
       "notes": "Australian citizens traveling on an Australian passport may be granted a New Zealand Resident Visa on arrival entitling the holder to live, work and study indefinitely (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements.\nMay enter using eGate.\nElectronic Travel Authority not required.\nInternational Visitor Conservation and Tourism Levy not required.\nIndefinitely",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2503,7 +2503,7 @@
       "notes": "/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2517,7 +2517,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2531,7 +2531,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2545,7 +2545,7 @@
       "notes": "90 days within 180 days",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2559,7 +2559,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2573,7 +2573,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2587,7 +2587,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2601,7 +2601,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2615,13 +2615,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2629,7 +2629,7 @@
       "notes": "14 days visa free and landing fee 35 USD or tax of 5 USD if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2643,13 +2643,13 @@
       "notes": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2657,7 +2657,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2671,7 +2671,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2685,7 +2685,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2699,7 +2699,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2713,7 +2713,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2727,7 +2727,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2741,7 +2741,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2755,7 +2755,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2769,13 +2769,13 @@
       "notes": "Application of an e-Visa for Australian citizens can be submitted online no later than 4 days before the expected date of entry into Russia.\nProcess in tourist visas for stays with a period of 30 days is acquired.\nDue to security concerns, the Russian invasion of Ukraine, and arbitrary detentions, the Australian government advises its citizens not to visit Russia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "RU",
       "destination_name": "Russia",
-      "area": "Russia",
+      "area": "Dependent, disputed, or restricted territories",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2783,7 +2783,7 @@
       "notes": "Several closed cities and regions in Russia require special authorization.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2797,7 +2797,7 @@
       "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2813,7 +2813,7 @@
       "notes": "Non-Muslim residents are prohibited from visiting Mecca and its holy sites. Other religious places may also be restricted to Non-Muslim people.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2827,7 +2827,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2841,7 +2841,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2855,7 +2855,7 @@
       "notes": "Visa on arrival if holding letter of invitation registered in the Sudan with a pre-approval from the Foreign Affairs.\nRegistration for a visa is obligatory within 3 days of arrival. It can be completed at entry ports.\nVisa not required for Sudanese-born citizens.\nDue to security concerns, the Australian government advises its citizens not to visit Sudan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2869,7 +2869,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2883,7 +2883,7 @@
       "notes": "All foreigners traveling more than 25 kilometers outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2897,7 +2897,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries. (except other Nordic countries)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2911,7 +2911,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
+    },
+    {
+      "passport": "AU",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "visa_free",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2925,21 +2939,7 @@
       "notes": "3 months within any year period.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
-    },
-    {
-      "passport": "AU",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "visa_free",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": null,
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2953,7 +2953,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2967,7 +2967,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2981,7 +2981,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -2997,7 +2997,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3011,7 +3011,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3025,7 +3025,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3039,7 +3039,7 @@
       "notes": "Due to safety concerns, Australian government advises its citizens not to visit Somalia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3053,7 +3053,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3067,7 +3067,7 @@
       "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.\nPrinted visa authorization must be presented at the time of travel.\nDue to security concerns, the Australian government advises its citizens not to visit South Sudan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3081,7 +3081,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3095,13 +3095,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3109,7 +3109,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3123,7 +3123,7 @@
       "notes": "Due to safety concerns, Australian government advises its citizens not to visit Syria.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3137,7 +3137,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3151,7 +3151,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3165,7 +3165,7 @@
       "notes": "Due to the significant risk of terrorism, kidnapping, crime and civil unrest, Australian government advises its citizens not to visit Chad.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3179,7 +3179,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3193,7 +3193,7 @@
       "notes": "Maximum two visits annually if not arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3209,7 +3209,7 @@
       "notes": "e-Visa also available.\ne-Visa holders can enter through all border points.\n/ 60 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3223,7 +3223,7 @@
       "notes": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3237,7 +3237,7 @@
       "notes": "Processing time for a tourist visa compulsory from 3–4 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3251,7 +3251,7 @@
       "notes": "Not available at all entry points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3265,7 +3265,7 @@
       "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.\nWhen transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3279,7 +3279,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3293,7 +3293,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3307,7 +3307,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3321,7 +3321,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3335,13 +3335,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "TW",
       "destination_name": "Taiwan",
-      "area": "Taiwan",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3349,7 +3349,7 @@
       "notes": "90 days; May enter using eGate.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3365,7 +3365,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3379,7 +3379,7 @@
       "notes": "90 days within any 180-day period.\nDue to the ongoing Russian invasion of Ukraine, the Australian government advises its citizens not to visit Ukraine.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3393,7 +3393,7 @@
       "notes": "Crossing from Ukraine requires visit purpose to be explained to Ukrainian passport control on exit and those who entered from Russia are not allowed to proceed further into Ukraine.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3407,7 +3407,7 @@
       "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3421,7 +3421,7 @@
       "notes": "ESTA is valid for 2 years from the date of issuance.\nESTA is also required when entering the country by cruise ship or land.\nA Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.\nVisa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3435,7 +3435,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3449,7 +3449,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3463,7 +3463,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3477,7 +3477,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3491,7 +3491,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3505,7 +3505,7 @@
       "notes": "Due to safety concerns, Australian government advises its citizens not to visit Venezuela.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3519,13 +3519,13 @@
       "notes": "All visitors are fingerprinted.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3533,13 +3533,13 @@
       "notes": "30 days, extensions possible",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "eta",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3547,7 +3547,7 @@
       "notes": "Visa not required under the Visa Waiver Program, for 90 days on arrival from overseas for 2 years. ESTA required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3561,7 +3561,7 @@
       "notes": "30 days Visa free when visit Phu Quoc Island.\ne-Visa is valid for 90 days and multiple entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3575,7 +3575,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3589,7 +3589,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3603,7 +3603,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3617,7 +3617,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3631,7 +3631,7 @@
       "notes": "Tourists from all countries (except Georgia) can visit Abkhazia for a period not exceeding 24 hours as part of an organized tourist group.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3645,7 +3645,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3659,7 +3659,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3673,7 +3673,7 @@
       "notes": "To enter South Ossetia, visitors must have a multiple-entry visa for Russia and register their stay with the Migration Service of the Ministry of Internal Affairs within 3 days.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3687,7 +3687,7 @@
       "notes": "30 days for 30 USD, payable on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3701,7 +3701,7 @@
       "notes": "Registration required after 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3715,7 +3715,7 @@
       "notes": "Undefined visa regime in the Western Sahara controlled territory.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3729,7 +3729,7 @@
       "notes": "Due to safety concerns, Australian government advises its citizens not to visit Yemen.\nYemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3743,7 +3743,7 @@
       "notes": "Special permission needed for travel outside Sanaa or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3757,7 +3757,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3771,7 +3771,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3785,7 +3785,7 @@
       "notes": "Also eligible for a universal visa allowing access to Zimbabwe.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     },
     {
       "passport": "AU",
@@ -3801,7 +3801,7 @@
       "notes": "Strictly tourism purposes only.\nAlso eligible for a universal visa allowing access to Zambia. e-Visa available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1382495700"
+      "source_revision": "1383573974"
     }
   ]
 }

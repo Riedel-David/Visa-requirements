@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "CA",
   "source_title": "Visa requirements for Canadian citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-  "source_revision": "1382007900",
-  "source_timestamp": "2026-10-26T00:56:03Z",
-  "generated_at": "2026-10-30T17:07:28.721688+00:00",
+  "source_revision": "1384441379",
+  "source_timestamp": "2026-11-08T06:31:06Z",
+  "generated_at": "2026-11-11T14:49:48.899751+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -35,7 +35,7 @@
       "notes": "Visa Exemptions : Nationals of Canada with a normal passport for a maximum stay of 90 days. Information: The maximum stay is granted within 180 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -49,7 +49,7 @@
       "notes": "e-Visa : Visitors must arrive at Kabul International (KBL).\nThe Canadian government advises its citizens not to visit Afghanistan due to hostile and unpredictable security situation, likely terrorist attacks, ongoing armed conflict, the risk of kidnapping, arbitrary arrest and detention, high crime rate, and widespread violations of human rights by the de facto authorities.\nCanadians do not need a visa if they were born in Afghanistan or their parent is a national of Afghanistan or was born in Afghanistan.\nAll visitors are fingerprinted, and are required to register with the Ministry of Foreign Affairs upon arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -63,7 +63,7 @@
       "notes": "The digital arrival form can be completed within 72 hours prior to arrival on a mobile phone or tablet, Although the digital arrival form is encouraged, the paper form is still accepted.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -93,7 +93,7 @@
       "notes": "May obtain a visa on arrival for a maximum stay of 120 days at a cost of 15,000 AMD.\nMay also obtain an e-Visa in advance:\nVisitor visa (up to 21 days of stay) / Non-refundable fee - 8 USD.\nVisitor visa (up to 120 days of stay) / Non-refundable fee - 38 USD.\ne-Visa processing time is up to 3 working days.\nCanadians with a residence permit valid for at least six months from the date of entry into Armenia issued by one of the GCC states, US, EU Member States and Schengen Area States may get a visa free entry up to 180 days within a one-year period starting from July1st ,2026 till July1st, 2027.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -107,7 +107,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -121,7 +121,7 @@
       "notes": "Visitors are fingerprinted (Right thumb fingerprint) and photographed upon entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -135,7 +135,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -149,7 +149,7 @@
       "notes": "90 days on each visit in 12-month period.\nCanadian Passport Holders may enter using Smartgate system.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -163,7 +163,7 @@
       "notes": "Canadians with a residence permit issued by one of the GCC states may obtain a 30-day tourist visa on arrival in Azerbaijan. They must present their valid visa or residence permit along with their passport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -177,7 +177,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -191,7 +191,7 @@
       "notes": "Complete an \"Immigration/Customs Form\" before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -205,7 +205,7 @@
       "notes": "Visa on arrival is available at Dhaka, Chittagong, and Sylhet international airports, pre arrival visa required if arriving by sea or by land border crossing.\nNo visa required for Bangladeshi Canadians and their spouse and children with a copy of a former Bangladeshi passport, a Dual Nationality Certificate, NVR, a Bangladeshi NID, or a digital birth registration certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -219,7 +219,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -233,7 +233,7 @@
       "notes": "The Canadian government advises its citizens not to visit Burkina Faso due to the volatile security situation and the high threat of kidnapping, terrorism and armed banditry and the instability of the political situation.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -247,7 +247,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -263,7 +263,7 @@
       "notes": "Nationals of Canada can obtain a visa on arrival for a maximum stay of 1 month. They can apply to extend their stay for an additional 2 weeks.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -279,7 +279,7 @@
       "notes": "From December 2021, passengers of all countries that previously required a visa can now obtain visas on arrival at Bujumbura International Airport and all land borders.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -293,7 +293,7 @@
       "notes": "Must have an international vaccination certificate.\nThree types of electronic visa are offered: the e-Visa valid for 30 days for a single entry (50 EUR), the e-Visa valid for 30 days for several (multiple) entries (75 EUR), and the e-Visa valid for 90 days to make several (multiple) entries (100 EUR).\nFree 72-hour visa for cruise passengers.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -307,7 +307,7 @@
       "notes": "Must obtain an e-arrival card before departure or upon arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -321,7 +321,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -335,7 +335,7 @@
       "notes": "Visa requirements reinstated for Nationals of Canada, and Canadian citizens are able to obtain visas online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -349,7 +349,7 @@
       "notes": "visitors who have items to declare must complete the \"C17 Form Accompanied Baggage\" before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -363,7 +363,7 @@
       "notes": "May independently obtain an e-Visa for 90 days stay. Visa fee is 40 USD per person (nonrefundable). Visa application maybe processed within 5 business days.\nThe Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -377,7 +377,7 @@
       "notes": "90 days within any 1-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -393,7 +393,7 @@
       "notes": "30 day visa free access available to travelers that arrive and depart via Brest (BQT), Gomel (GME), Grodno (GNA), Minsk (MSQ) Minsk International Airport, Mogilev (MVQ) or Vitebsk (VTB) and are not arriving from or planning to depart to a Russian Federation airport. Otherwise a visa is required. Visas can be issued on arrival at the Minsk International Airport if the supporting documents are submitted at least 3 business days before arrival.\nThe Canadian government advises its citizens not to visit Belarus due to the risk of arbitrary enforcement of local laws and the armed conflict between Russia and Ukraine.\ne-Visa can be issued for 30 days and can be used at all international checkpoints, including road and rail.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -407,7 +407,7 @@
       "notes": "All travelers must complete an arrival form and customs declaration",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -421,7 +421,7 @@
       "notes": "Visa on arrival will be issued at Ndjili International Airport if a letter of invitation (''Visa volant'') given by the Ministry of Interior and Security.\nThe Canadian government advises its citizens not to travel to Democratic Republic of the Congo (DRC) due to the unstable security situation, ongoing armed conflict, terrorism and violent crime.\nCanadians with a prove of being of Democratic Republic of the Congo (DRC) origins or their parents of Democratic Republic of the Congo (DRC) origins can obtain a visa upon arrival for a maximum of 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -435,7 +435,7 @@
       "notes": "The Canadian government advises its citizens not to visit the Central African Republic due to the unstable security situation activities of armed rebel groups and the high level of violent crime.\nA letter of invitation to the Central African Republic must be applied 2 weeks in advance before the planned date of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -449,7 +449,7 @@
       "notes": "Visas and invitation letters are only approved via tour operators except passengers with a VIP invitation.\nTravelers must obtain a visa from the Republic of the Congo embassy. However, they can also apply for the visa online at the website of at the Republic of the Congo embassy in France.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -463,7 +463,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -477,7 +477,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -491,7 +491,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -505,7 +505,7 @@
       "notes": "Tax for a visa on internal flights has to be obtained upon arrival.\nHolders of a pre-arranged approval issued by \"Le Delegue General de la Surete\" can obtain a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -519,7 +519,7 @@
       "notes": "From 17 February 2026 to 31 December 2026, visas are not required for 30 days for business, tourism, family/friends visit, exchange and transit purposes.\n240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n* During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits.\n24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport.\n* Travellers who need to leave the airport may obtain a temporary entry permit from immigration.\n5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.\nMay apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.\nVisa not required for 30 days visiting Hainan Island, if arriving directly on the island from outside Mainland China.\nVisas for Canadian citizens are valid for up to 9 years and 11 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -533,7 +533,7 @@
       "notes": "Extendable up to 180-days stay within a 1-year period.\n256,000 Colombian Pesos (equivalent to CAD$85) must be paid upon arrival. Passengers older than 79 years or younger than 14 years are exempt.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -547,7 +547,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -561,7 +561,7 @@
       "notes": "e-Visas are included on the ticket price for passengers on direct flights from Canada.\nMust complete the \"D'Viajeros\" form within 7 days before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -575,7 +575,7 @@
       "notes": "Must register online at least five days prior to arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -589,7 +589,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -603,7 +603,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -617,7 +617,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -631,7 +631,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -645,7 +645,7 @@
       "notes": "90 days within any 180-day period [https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Visa-free-visits regardless of previous time spent] in other Schengen countries (except the other Nordic countries).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -659,7 +659,7 @@
       "notes": "Visitors must complete a landing card 3 days before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -673,7 +673,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -687,7 +687,7 @@
       "notes": "Visa Issuance: Passengers with a boarding authorization issued by the Ministry of Tourism traveling as tourists can obtain a visa on arrival for a maximum of 30 days. They must have: a return/onward ticket and a hotel reservation confirmation.\nThe visa is issued upon arrival only at Algiers International Airport or at Djanet Airport.\nProcessing time for a tourist visa to Algeria is around 48 hours.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -701,7 +701,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -715,7 +715,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -731,7 +731,7 @@
       "notes": "On-arrival visa costs 36 USD for Single entry visa (Tourism).\nAccording to Timatic, citizens of Canada may enter Egypt without a visa at Sharm el-Sheikh, Saint Catherine or Taba airports, for a maximum stay of 15 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -745,7 +745,7 @@
       "notes": "A tourist visa for Canadian citizens is issued for a stay of 1 month from arrival to Eritrea.\nVisa on arrival can be obtained only at Asmara International Airport upon previous authorization from the Government.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -759,7 +759,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -775,7 +775,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -789,7 +789,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -803,7 +803,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -817,7 +817,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -831,7 +831,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area (in the Regions of France).\nA Canadian passport is not required for visa-free travel to the French overseas territory of Saint Pierre et Miquelon; an identification document (e.g. driver's licence or Secure Certificate of Indian Status) can be used instead.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -845,7 +845,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -859,7 +859,7 @@
       "notes": "Can use ePassport gates starting 1 June 2019.\nUK-ETA isn't required if the passenger has a UK ancestry clearance visa.\nETA UK will be valid for 2 years.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -873,7 +873,7 @@
       "notes": "Passengers must present an Embarkation/Disembarkation (ED) Form upon arrival. The form can be completed at most 72 hours before departure or upon arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -887,7 +887,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -901,7 +901,7 @@
       "notes": "May apply online.\nVisitors staying longer than 60 days are required to extend their visas at the Ghana Immigration Service (GIS).\nVisa applications to be processed within 5 working days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -915,7 +915,7 @@
       "notes": "Visitors can apply for an additional 30 days extension, but must apply for a residence permit by the 56th day of stay.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -929,7 +929,7 @@
       "notes": "Citizens of Canada who obtain an e-Visa can stay in Guinea for up to 5 years.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -943,7 +943,7 @@
       "notes": "e-Visa holders must arrive via Malabo International Airport. The processing fee is 75 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -957,7 +957,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -971,7 +971,7 @@
       "notes": "Part of the Central America-4 Free Mobility Agreement.\nIn the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -985,7 +985,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -999,7 +999,7 @@
       "notes": "An online Immigration and Customs declaration form before arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1013,7 +1013,7 @@
       "notes": "Part of the Central America-4 Free Mobility Agreement.\nIn the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1027,7 +1027,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1041,7 +1041,7 @@
       "notes": "The Canadian government advises its citizens not to visit Haiti due to high level of kidnapping, violent crime and civil unrest.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1055,7 +1055,7 @@
       "notes": "90 days within any 180-day period regardless of previous time spent in other Schengen countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1069,7 +1069,7 @@
       "notes": "Visa on arrival (IDR 500,000) renewable a maximum of once for 30 days.\nAll travelers to Indonesia must apply for an Arrival Card online before visiting the archipelago.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1083,7 +1083,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1097,7 +1097,7 @@
       "notes": "The Canadian government advises its citizens not to visit Israel due to a hostile and unpredictable security situation.\nEntry refused to anyone who \"knowingly issues a public call for boycotting Israel.\"",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1111,7 +1111,7 @@
       "notes": "Canadians who are or have been Pakistani nationals or have had ancestors who are or have been Pakistani nationals are required to follow a stringent and longer procedure.\nCanadians who have a defence/military/security/police background(serving/retired) or hold an official/diplomatic passport, are not eligible for e-Visa and must apply for a visa at the embassy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1125,7 +1125,7 @@
       "notes": "Canadians may obtain an e-Visa or visa on arrival for up to 30 days to Kurdistan Region.\nThe Canadian government advises its citizens not to visit Iraq (including Kurdistan region) due to the volatile and unpredictable security situation the ongoing thread of terrorism, violent extremism and organized crime.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1139,7 +1139,7 @@
       "notes": "Canadian citizens who want to travel to Iran, need to do so with a fully organized tour. Applying for an Iranian visa without booking a complete tour from a local travel agency will result in getting rejected by the Iranian Ministry of Foreign Affairs (MFA).\nTourists for Kish and Qeshm Islands do not require a visa for a total of 14 days.\nThe Canadian government advises its citizens not to visit Iran due to violent civil unrest volatile security situation, the regional threat of terrorism and the possibility of arbitrary detention",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1153,7 +1153,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1167,7 +1167,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1181,7 +1181,7 @@
       "notes": "90 days (business), 6 months (tourist).\nMust submit the customs and immigration C5 form before departure or upon arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1197,7 +1197,7 @@
       "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1211,7 +1211,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1225,7 +1225,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.\nCan also be entered on an East Africa tourist visa issued by Rwanda or Uganda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1239,7 +1239,7 @@
       "notes": "A single or multiple tourist or business e-Visa for 90 days is also available",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1255,7 +1255,7 @@
       "notes": "Cambodia introduced the v-Pass (Visitor Pass) on July 1, 2025.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1269,7 +1269,7 @@
       "notes": "May not exceed 90 days within any given 12 months period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1283,7 +1283,7 @@
       "notes": "Visa on arrival cost is 30 EUR or 50 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1297,7 +1297,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1311,7 +1311,7 @@
       "notes": "The Canadian government advises its citizens not to visit North Korea due to the possibility of arbitrary detention, and uncertain security situation caused by its nuclear weapons development program and highly repressive regime.\nVisitors traveling for tourist purposes have to hold an authorization to travel, issued by a travel company in North Korea (Dem. People's Rep.).\nIndependent travelers must be escorted by a tour guide at all times.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1325,7 +1325,7 @@
       "notes": "South Korea extends K-ETA exemption for Canadians until December 31, 2026.\nCanadian Travelers must be in possession of a Korea Electronic Travel Authorization (K-ETA) to enter Korea visa-free, which can be completed up to 24 hours before boarding a flight, The validity period of a K-ETA is 3 years from the date of approval.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1341,7 +1341,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1355,7 +1355,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1371,7 +1371,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1385,7 +1385,7 @@
       "notes": "The Canadian government advises its citizens not to visit Lebanon due to ongoing military activity.\nExtendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non-refundable return or circle trip ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1394,12 +1394,12 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "Must present an Immigration Form upon arrival can be completed before departure or upon arrival\n6 weeks",
+      "notes": "Must present an Immigration Form upon arrival can be completed before departure or upon arrival",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1413,7 +1413,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1429,7 +1429,7 @@
       "notes": "Electronic Travel Authorization subject to granting/issuing.\nWith effect from 05.25.2026, Canadian nationals are eligible to obtain tourist visa (ETA) free-of-charge for a period of 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1443,7 +1443,7 @@
       "notes": "Travelers can pre-apply for the visa online through a dedicated portal allows them to obtain a Visa upon arrival in Liberia if there is no embassy in their home country. But if there is a Liberian embassy in your country, you are required to apply for your visa directly at the embassy and not through this portal.\nCurrently available only upon arrival at Roberts International Airport (ROB) in Monrovia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1457,7 +1457,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1471,7 +1471,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1485,7 +1485,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1499,7 +1499,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1513,7 +1513,7 @@
       "notes": "Tourist e-Visa is valid for 90 days and good for single entry, it allows applicants from most countries to stay no more than 30 days by paying a 63 USD fee.\nThe Canadian government advises its citizens not to travel to Libya due to ongoing conflict and the threat of terrorism and kidnapping. Canadians currently in Libya are strongly advised to depart immediately.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1527,7 +1527,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1541,7 +1541,7 @@
       "notes": "90 days within any 180-day period.\nMonaco does not have a visa policy of its own and the Schengen visa policy applies.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1555,7 +1555,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1569,7 +1569,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1585,7 +1585,7 @@
       "notes": "For durations of less than 15 days, the visa fee is free, but an administrative fee of 30 EUR (35 USD) has to be paid.\n30 days - 35 EUR / 41 USD\n60 days - 40 EUR / 47 USD\n90 days - 50 EUR / 59 USD",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1599,7 +1599,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1613,7 +1613,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1627,7 +1627,7 @@
       "notes": "The Canadian government advises its citizens not to visit Mali due to the threat of terrorism, kidnapping, banditry and unpredictable security situation.\nAn average processing time for a tourist visa to Mali is around 3-15 working days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1641,7 +1641,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\nThe Canadian government advises its citizens not to visit Myanmar due to ongoing civil unrest and armed conflict.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1655,7 +1655,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1669,7 +1669,7 @@
       "notes": "As of Jan 5th 2025 will be able to apply for an e-Visa.\ne-Visa available for 30, 90, 360 or 720 days duration.\nAfter getting the visa approval a QR code has to be printed, presented to the security personnel and fees must be paid upon arrival in Mauritania cost of USD 60 for a 30 days e-visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1683,7 +1683,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1697,7 +1697,7 @@
       "notes": "180 days per calendar year for tourism, 120 days per calendar for business",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1711,7 +1711,7 @@
       "notes": "Extendable stay.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1727,7 +1727,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1741,7 +1741,7 @@
       "notes": "Actual permitted duration of stay is decided on arrival by border agents, and is often shorter than 180 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1755,7 +1755,7 @@
       "notes": "The electronic Malaysia Digital Arrival Card must be submitted within three days before the date of arrival in Malaysia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1769,7 +1769,7 @@
       "notes": "Visitors must register their ETA on the e-Visa platform at least 48 hours before travel and pay a processing fee of 48 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1785,7 +1785,7 @@
       "notes": "Can obtain a visa upon arrival at Hosea Kutako International Airport, Walvis Bay International Airport and main land border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1799,7 +1799,7 @@
       "notes": "The Canadian government advises its citizens not to visit Niger due to political instability and the risk of terrorism and kidnapping.\nVisa on arrival at Diori Hamani International Airport if a letter of invitation ('Visa Volant') issued by the Ministry of Interior is honored.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1813,7 +1813,7 @@
       "notes": "All you need to know about Nigeria Immigration Services.\nHolders of written e-Visa approval issued by the Immigration Authority can obtain a visa on arrival for Business, provided they hold a visa application form and e-Visa application payment receipt and have an invitation letter from a Nigerian company accepting immigration responsibilities.\nVisa not required for Nigerian-born citizens.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1827,7 +1827,7 @@
       "notes": "All visitors must pay 10 USD in cash for a tourist entry stamp upon arrival (exact change is recommended.). The stamp is valid for up to 90 days.\nPart of the Central America-4 Free Mobility Agreement.\nIn the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1841,7 +1841,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1855,7 +1855,7 @@
       "notes": "3 months within any 6-month period, regardless of previous time spent in other Schengen countries, but including time spent in other Nordic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1871,7 +1871,7 @@
       "notes": "May obtain a visa on arrival which is good for multiple entries and allows visitor to stay for no more than 15, 30 or 90 days.\nMay obtain a visa through kiosks at the airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1885,7 +1885,7 @@
       "notes": "Criminal record and medical fitness certificates are not required for Canadian citizens.\nVisa Issuance: Passengers with an entry permit letter (visa letter) issued by Nauru. Applications can be submitted via email before departure",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1899,7 +1899,7 @@
       "notes": "May enter using eGate.\nInternational Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travelers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1915,7 +1915,7 @@
       "notes": "Visa exemption valid for 14 days, evisa for 30 days\nHolders of a visa or entrance stamp of the Emirate of Dubai that is valid for at least 21 days are visa exempt.\nHolders of a visa for Qatar that is valid for travel to Oman and valid for at least one month are visa exempt when arriving directly from Qatar.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1929,7 +1929,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1943,7 +1943,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1959,7 +1959,7 @@
       "notes": "Visa on arrival is only available at Port Moresby Airport.\nAvailable at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1973,7 +1973,7 @@
       "notes": "For longer periods, a visa extension is available once inside the country from the Bureau of immigration.\nArriving foreign passengers should register at The eTravel System.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -1987,7 +1987,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2001,7 +2001,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2015,7 +2015,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2029,7 +2029,7 @@
       "notes": "Extendable stay by twice only with a fee.\nPassengers must submit the Palau Entry Form at most 72 hours before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2043,7 +2043,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2057,7 +2057,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2071,7 +2071,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2085,7 +2085,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2099,7 +2099,7 @@
       "notes": "Cruise ship passengers cruising in and out of a Russian port within 72 hours, who spend each night on board, and who only leave the ship on tours organized by the cruise company, do not require a tourist visa.\nThe Canadian government advises its citizens not to visit Russia due to the Russian invasion of Ukraine.\nProcess of tourist visas for stays with a period of 30 days is required.\nCanadians with a valid visa issued by Belarus can enter the Russian Fed visa free and the Belarusian visa must be valid for the period of intended stay in The Russian Fed.\nMay apply online and then submit all the documents at the embassy to get the visa",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2113,7 +2113,7 @@
       "notes": "Can also be entered on an East Africa tourist visa issued by Kenya or Uganda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2129,7 +2129,7 @@
       "notes": "Non-Muslim residents might be prohibited from visiting Mecca and its holy sites. Other religious places may also be restricted to Non-Muslim people.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2143,7 +2143,7 @@
       "notes": "3 months with any 1-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2157,7 +2157,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2171,7 +2171,7 @@
       "notes": "The Canadian government advises its citizens not to visit Sudan due to armed conflict, civil unrest, terrorism and kidnapping, the volatile security situation.\nKhartoum International Airport is closed and options for leaving Sudan are extremely limited. There may be ongoing disruptions to critical infrastructure and essential services.\nVisa on arrival if holding letter of invitation registered in Sudan with a pre-approval from the Ministry of Foreign Affairs (Sudan).\nCan obtain a visa upon arrival if married to a national of Sudan or prove that are of Sudanese origins from the father's side.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2185,7 +2185,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2199,7 +2199,7 @@
       "notes": "Submitting the SG Arrival Card (SGAC) before arrival is must via the mobile application or the website.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2213,7 +2213,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2227,7 +2227,7 @@
       "notes": "90 days within any 180-day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2243,7 +2243,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2257,7 +2257,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2271,7 +2271,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2285,7 +2285,7 @@
       "notes": "The Canadian government advises its citizens not to visit Somalia including Somaliland due to significant threat from terrorism, kidnapping, armed conflict and a high level of violent crime, extremely volatile security situation and high threat of domestic terrorism.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2299,7 +2299,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2313,7 +2313,7 @@
       "notes": "Obtainable online 30 days single entry for 100 USD, 90 days multiple entry for 200 USD and 180 days multiple entry for 350 USD.\nPrinted visa authorization must be presented at the time of travel.\nThe Canadian government advises its citizens not to visit South Sudan due to ongoing armed conflict, inter-ethnic violence and high levels of violent crime.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2327,7 +2327,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2341,7 +2341,7 @@
       "notes": "Part of the Central America-4 Free Mobility Agreement. One ninety-day extension may be granted if applied five days before the first expires.\nIn the CA4 area, you get 90 days total for the entire area. To reset your stay, you must leave the area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2355,7 +2355,7 @@
       "notes": "The Canadian government advises its citizens not to visit Syria due to the ongoing armed conflict, terrorism, criminality, arbitrary detention, torture and forced disappearance.\nCanadians that were born in Algeria, Jordan, Lebanon, Mauritania, Morocco, Somalia, Sudan, Syria, Tunisia, Yemen or GCC member state do not need a visa.\nCanadians of Syrian origin don't need a visa, they must have a proof.\nCanadians with a residence permit issued by GCC member state or Lebanon, can obtain a visa upon arrival. They must have a valid address in Syria, a contact number and sufficient funds to cover their stay.\nNationals of countries without any Syrian representation can obtain a visa on arrival.\nSyria Visa Fees is 100 USD for Tourism duration of 1 month single entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2369,7 +2369,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2383,7 +2383,7 @@
       "notes": "Canadians are now able to apply for an e-Visa to visit Chad as it was introduced recently\nMultiple-entry e-Visa valid for 90 days is 100 EUR.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2397,7 +2397,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2411,7 +2411,7 @@
       "notes": "Maximum 2 visits annually if not arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2427,7 +2427,7 @@
       "notes": "e-Visa also available.\ne-Visa holders can enter through all border points.\nVisiting GBAO requires a permit that can be requested alongside the eVisa.\n/ 60 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2441,7 +2441,7 @@
       "notes": "VOA is obtainable at Presidente Nicolau Lobato International Airport and at Dili Sea Port.\nFees are for Transit 20 USD, Tourist 30 USD and Business 50 USD.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2455,7 +2455,7 @@
       "notes": "10-day visa on arrival if holding a letter of invitation provided by a company registered in Turkmenistan with a prior approval from the Foreign Ministry. Visitors can apply to extend their stay for an additional 10 days.\nWhen transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.\nCanadian citizens have the right to visa-free transit through the international transit area of Ashgabat International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2469,7 +2469,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2483,7 +2483,7 @@
       "notes": "Extendable up to 6 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2497,7 +2497,7 @@
       "notes": "90 days within any 180-day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2511,7 +2511,7 @@
       "notes": "Passengers must submit the online Arrival/Departure Card at most 72 hours before arrival",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2525,7 +2525,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2539,7 +2539,7 @@
       "notes": "Taiwan Arrival Card",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2555,7 +2555,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2569,7 +2569,7 @@
       "notes": "90 days within any 180-day period.\nThe Canadian government advises its citizens not to visit Ukraine due to the Russian invasion of Ukraine.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2583,7 +2583,7 @@
       "notes": "Visa fee is 50 USD.\nCan also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2597,7 +2597,7 @@
       "notes": "ESTA exempt. Canadian passport holders do not have to get an ESTA.\n6 month stay rather than typical 90 day VWP stay.\nMost non immigrant statuses can be applied for on arrival at a port of entry.\nCanada is not a Visa Waiver Program country, the permission to travel is from a different US immigration regulation.\nCanadian Passport required and must be valid for the period of intended stay.\nCanadian Passport exemptions only for nationals of Canada with a NEXUS card embarking in Canada or USA.\nFor frequent travellers the NEXUS program is in place, allowing pre-approved, low-risk travellers to cross the Canada–United States border quickly.\nMost Canadian citizens are not required to provide biometric data on entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2611,7 +2611,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2625,7 +2625,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2639,7 +2639,7 @@
       "notes": "Open borders but ''de facto'' follows Italian visa policy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2653,7 +2653,7 @@
       "notes": "Can be extended up to 1 year, permitting the discretion of local immigration authorities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2667,7 +2667,7 @@
       "notes": "The Canadian government advises its citizens not to visit Venezuela due to the significant level of violent crime, unstable political and economic situation and the decline in basic living conditions.\nIntroduction of Electronic Visa System for Tourist and Business Travelers.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2681,7 +2681,7 @@
       "notes": "30 days visa-free when visiting Phú Quốc.\ne-Visa is valid for 90 days and multiple entry.\nForeign nationals entering Vietnam must fill out a digital arrival card before entering.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2695,7 +2695,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2709,7 +2709,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2723,7 +2723,7 @@
       "notes": "The Canadian government advises its citizens not to visit Yemen (including the island of Socotra) due to the ongoing armed conflict, terrorist attacks and kidnapping.\nCanadians of Yemeni origins with a Yemeni identification document or a proof of Yemeni origins do not need a visa.\nYemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2737,7 +2737,7 @@
       "notes": "South Africa's ETA portal is now accessible, but not yet '''functional.'''",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2751,7 +2751,7 @@
       "notes": "Also eligible for a universal (KAZA) visa allowing access to Zimbabwe.\nDuration maximum stay of 90 days(tourism) and 30 days (business) within 1 year.\ne-Visas can be obtained before departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     },
     {
       "passport": "CA",
@@ -2767,7 +2767,7 @@
       "notes": "Eligible for a universal (KAZA) visa allowing access to Zambia.\nThe period of stay for a single-entry visa is one month.\nTraveling as tourists can obtain a KAZAUNIVISA on arrival at Harare (HRE) and Victoria Falls (VFA). The visa is also valid for entry into Zambia and allows multiple entries between the two countries. The combined stay must not exceed 30 days. Offering convenience for travelers exploring multiple countries within the KAZA TFCA.\nEligible to obtain a visa allowing multiple entries upon arrival at the destination's port of entry, catering for frequent visitors. This visa is valid within a designated timeframe of six (6) months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
-      "source_revision": "1382007900"
+      "source_revision": "1384441379"
     }
   ]
 }

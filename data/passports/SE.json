@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "SE",
   "source_title": "Visa requirements for Swedish citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-  "source_revision": "1373842016",
-  "source_timestamp": "2026-09-08T06:59:20Z",
-  "generated_at": "2026-10-30T15:06:58.919766+00:00",
+  "source_revision": "1384822785",
+  "source_timestamp": "2026-11-10T05:30:49Z",
+  "generated_at": "2026-11-11T14:52:07.775149+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -35,7 +35,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -49,7 +49,7 @@
       "notes": "Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -77,7 +77,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -105,7 +105,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -119,7 +119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -133,7 +133,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -147,7 +147,7 @@
       "notes": "90 days on each visit in 12-month period if granted.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -161,7 +161,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -175,7 +175,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -189,7 +189,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -217,7 +217,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -233,7 +233,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -247,7 +247,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -263,7 +263,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -277,7 +277,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -291,7 +291,7 @@
       "notes": "Must have an international vaccination certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -305,7 +305,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -319,7 +319,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -333,7 +333,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -347,7 +347,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -361,7 +361,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -375,7 +375,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -389,7 +389,7 @@
       "notes": "Visa-free until 31 December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -403,7 +403,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -419,7 +419,7 @@
       "notes": "eTA required if arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -433,7 +433,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -447,7 +447,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -461,7 +461,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -475,7 +475,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -489,7 +489,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -503,7 +503,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -517,7 +517,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -531,7 +531,7 @@
       "notes": "Temporary visa-free from November 10, 2025 until December 31, 2026.\n240-hour (10-day) visa-free transit to a third country or region (including Hong Kong, Macau or Taiwan) using any mode of transport. Must have a confirmed onward ticket/itinerary, and enter through 1 of 64 approved ports.\n* During which, may freely travel within the 24 provinces permitted for visa-free transit and engage in tourism, business, and visits.\n24-hour visa-free transit to a third country or region (including Hong Kong, Macau, and Taiwan), is available at most international airports, without leaving the airport.\n* Travellers who need to leave the airport may obtain a temporary entry permit from immigration.\n5-day port visa (Visa on Arrival) for Shenzhen if arriving at designated ports of entry from Hong Kong by land or sea, for stays within Shenzhen.\n3-day port visa (Visa on Arrival) if arriving in Zhuhai or Xiamen at designated ports of entry, for stays within the respective city.\n15-day visa-free entry for cruise ship passengers in tour groups, if arriving at any cruise port along China's coastline, including but not limited to Tianjin; Dalian; Shanghai; Lianyungang; Wenzhou; Zhoushan; Xiamen; Qingdao; Guangzhou; Shenzhen; Beihai; Haikou; Sanya. May further travel inland to all regions of coastal provinces (and equivalents) and Beijing.\nMay apply for a port visa (Visa on Arrival) if travelling for an urgent, qualified reason. Prior clearance for port visa is highly recommended or may be denied boarding by airlines.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -545,7 +545,7 @@
       "notes": "90 days – extendable up to 180-days stay within a one-year period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -559,7 +559,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -573,7 +573,7 @@
       "notes": "Can be extended up to 90 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -587,7 +587,7 @@
       "notes": "Must register online at least five days prior to arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -601,7 +601,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -615,7 +615,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -629,7 +629,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -643,7 +643,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -657,7 +657,7 @@
       "notes": "Freedom of movement (including in Faroe Islands. and Greenland)\nID card and driver's licence valid.\n* Freedom of movement (including in Faroe Islands. and Greenland)\n* ID card and driver's licence valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -671,7 +671,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -685,7 +685,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -699,7 +699,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -713,7 +713,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -727,7 +727,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -743,7 +743,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -757,7 +757,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -771,7 +771,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -787,7 +787,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -801,7 +801,7 @@
       "notes": "Freedom of movement\nID card valid and driver's licence valid\n* Freedom of movement\n* ID card valid and driver's licence valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -815,7 +815,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -829,7 +829,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -843,7 +843,7 @@
       "notes": "Freedom of movement (in Regions of France)\nID card valid\n* Freedom of movement (in Regions of France)\n* ID card valid",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -857,7 +857,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -871,7 +871,7 @@
       "notes": "An electronic travel authorisation (ETA) is required. Valid for up to 6 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -885,7 +885,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -899,7 +899,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -913,7 +913,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -927,7 +927,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -941,7 +941,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -955,7 +955,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -969,7 +969,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -983,7 +983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -997,7 +997,7 @@
       "notes": "You can get a visa at the Guinea-Bissau consulate in Ziguinchor, Senegal. It takes 15 minutes.\n60 Days or 90 Days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1011,7 +1011,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1025,7 +1025,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1039,7 +1039,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1053,7 +1053,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1067,7 +1067,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1081,7 +1081,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1095,7 +1095,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1109,7 +1109,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1123,7 +1123,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1137,7 +1137,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1151,7 +1151,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1165,7 +1165,7 @@
       "notes": "Freedom of movement.\nID card valid and driver's licence valid.\n* Freedom of movement.\n* ID card valid and driver's licence valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1179,7 +1179,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1193,7 +1193,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1209,7 +1209,7 @@
       "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings (except King Hussein/Allenby Bridge).\nVisa-free transit for tavellers holding an onward flight ticket to a third country within 48 hours.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1223,7 +1223,7 @@
       "notes": "Visa-free stay up to 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1237,7 +1237,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1251,7 +1251,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1267,7 +1267,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1281,7 +1281,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1295,7 +1295,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1309,7 +1309,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1323,7 +1323,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1337,7 +1337,7 @@
       "notes": "The validity period of a K-ETA is 3 years from the date of approval.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1353,7 +1353,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1367,7 +1367,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1383,7 +1383,7 @@
       "notes": "15 days\n*eVisa and Visa on arrival also available.\n* 18 of the 33 border crossings are only open to regular visa holders.\n* e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\n* Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.\n* Swedes were briefly visa-exempt from 1 July to 31 December 2024; eVisa or Visa on Arrival requirement subsequently re-imposed.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1397,7 +1397,7 @@
       "notes": "Extendable for 2 additional months.\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1411,7 +1411,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1425,7 +1425,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1441,7 +1441,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1457,7 +1457,7 @@
       "notes": "Apply for Visa on Arrival on the VOA application portal\n30 or 90 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1471,7 +1471,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1485,7 +1485,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1499,7 +1499,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1513,7 +1513,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1527,7 +1527,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1541,7 +1541,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1555,7 +1555,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1569,7 +1569,7 @@
       "notes": "90 days within any 180 days period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1583,7 +1583,7 @@
       "notes": "ID card valid for max 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1599,7 +1599,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1613,7 +1613,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1627,7 +1627,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1641,7 +1641,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1655,7 +1655,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1669,7 +1669,7 @@
       "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2026.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1683,7 +1683,7 @@
       "notes": "As of January 5, 2025, all travelers required to obtain a visa must secure an e-Visa before boarding their flight to Mauritania or crossing land borders.\n30, 90 or 365 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1697,7 +1697,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1711,7 +1711,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1725,7 +1725,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1739,7 +1739,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1753,7 +1753,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1767,7 +1767,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1781,7 +1781,7 @@
       "notes": "Travelers must register on the e-Visa platform at least 48 hours prior to travel and pay a processing fee of 650 MT.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1797,7 +1797,7 @@
       "notes": "E-visa or Visa on arrivel",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1811,7 +1811,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1825,7 +1825,7 @@
       "notes": "Pre-approved visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1839,7 +1839,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1853,7 +1853,7 @@
       "notes": "Freedom of movement (European Netherlands).\nID card valid.\n* Freedom of movement (European Netherlands).\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1867,7 +1867,7 @@
       "notes": "Freedom of movement.\nID card valid and driver's licence valid.\n* Freedom of movement.\n* ID card valid and driver's licence valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1883,7 +1883,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1897,7 +1897,7 @@
       "notes": "Swedish citizens are given 7 days to pay a fee AU$50 per day and apply a new visa to Nauru.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1911,7 +1911,7 @@
       "notes": "International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1927,7 +1927,7 @@
       "notes": "/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1941,7 +1941,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1955,7 +1955,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1969,7 +1969,7 @@
       "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1983,7 +1983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -1997,7 +1997,7 @@
       "notes": "Issued free of charge as of August 2024.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2011,7 +2011,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2025,7 +2025,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2039,7 +2039,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2053,7 +2053,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2067,7 +2067,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2081,7 +2081,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2095,7 +2095,7 @@
       "notes": "90 days within any 6-month period.\nID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2109,7 +2109,7 @@
       "notes": "72-hours visa free visit when entering by regular ferry via port of St. Petersburg, provided that a passenger spends the night on-board or in accommodation specifically approved by the travel agency.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2125,7 +2125,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2141,7 +2141,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2155,7 +2155,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2169,7 +2169,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2183,7 +2183,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2197,7 +2197,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2211,7 +2211,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2225,7 +2225,7 @@
       "notes": "Freedom of movement.\nID card valid.\n* Freedom of movement.\n* ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2241,7 +2241,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2255,7 +2255,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2269,7 +2269,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2283,7 +2283,7 @@
       "notes": "Available at Berbera, Borama, Burao, Erigavo and Hargeisa airports.\n30 days, available at Bosaso Airport, Galcaio Airport and Mogadishu Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2297,7 +2297,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2311,7 +2311,7 @@
       "notes": "Obtainable online.\nPrinted visa authorization must be presented at the time of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2325,7 +2325,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2339,7 +2339,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2353,7 +2353,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2367,7 +2367,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2381,7 +2381,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2395,7 +2395,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2404,12 +2404,12 @@
       "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
-      "allowed_stay_days": 60,
-      "allowed_stay_raw": "60 days",
+      "allowed_stay_days": 30,
+      "allowed_stay_raw": "30 days",
       "notes": "Maximum two visits annually if not arriving by air.\nForeigners must complete the Thailand Digital Arrival Card, which can be submitted starting three days before arrival and up to the time of arrival in Thailand.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2423,7 +2423,7 @@
       "notes": "At Dushanbe International Airport.\nVisa also available online.\ne-Visa holders can enter through all border points.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2437,7 +2437,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2451,7 +2451,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2465,7 +2465,7 @@
       "notes": "ID card valid when on an organized tour by a travel company.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2479,7 +2479,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2493,7 +2493,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2507,7 +2507,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2521,7 +2521,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2537,7 +2537,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2551,7 +2551,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2565,7 +2565,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2579,7 +2579,7 @@
       "notes": "ESTA is valid for 2 years from the date of issuance.\nESTA is also required when entering the country by cruise ship or land.\nA Form I-94 is required for entry into the United States by land. It carries a $30 fee and can be obtained either online or upon arrival.\nVisa required for nationals of VWP countries who have travelled or been present in Iran, Iraq, Libya, North Korea, Somalia, Sudan, Syria or Yemen at any time on or after 1 March 2011 or Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iran, Iraq, North Korea, Sudan or Syria. Exceptions apply if the travel was in military or diplomatic service of the VWP country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2593,7 +2593,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2607,7 +2607,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2621,7 +2621,7 @@
       "notes": "ID card valid.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2635,7 +2635,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2649,7 +2649,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2663,7 +2663,7 @@
       "notes": "Extended visas available at the following airports: Ho Chi Minh City, Hanoi, Phu Quoc, or Danang.\nA single entry eVisa valid for 90 days is also available.\n30 day visa exemption at Phu Quoc Island.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2677,7 +2677,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2691,7 +2691,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2705,7 +2705,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2719,7 +2719,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2733,7 +2733,7 @@
       "notes": "Also eligible for a universal visa allowing access to Zimbabwe.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     },
     {
       "passport": "SE",
@@ -2749,7 +2749,7 @@
       "notes": "Also eligible for a universal visa allowing access to Zambia.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
-      "source_revision": "1373842016"
+      "source_revision": "1384822785"
     }
   ]
 }

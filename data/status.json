@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "last_checked_at": "2026-11-11T14:49:11Z",
+  "last_run_status": "partial",
+  "dataset_version": "data-2026-11-11",
+  "passports_total": 200,
+  "passports_stale": [
+    {
+      "passport": "CZ",
+      "reason": "cooling_off",
+      "latest_seen_revision": 1385023621,
+      "data_revision": 1362941153,
+      "consecutive_runs": 1
+    },
+    {
+      "passport": "IQ",
+      "reason": "cooling_off",
+      "latest_seen_revision": 1385019618,
+      "data_revision": 1384331744,
+      "consecutive_runs": 1
+    },
+    {
+      "passport": "KW",
+      "reason": "cooling_off",
+      "latest_seen_revision": 1384992302,
+      "data_revision": 1383632222,
+      "consecutive_runs": 1
+    }
+  ]
+}

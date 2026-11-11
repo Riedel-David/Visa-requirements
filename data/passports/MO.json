@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "MO",
   "source_title": "Visa requirements for Chinese citizens of Macau",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-  "source_revision": "1375861207",
-  "source_timestamp": "2026-09-20T14:57:43Z",
-  "generated_at": "2026-10-30T15:04:43.878316+00:00",
+  "source_revision": "1384595215",
+  "source_timestamp": "2026-11-09T01:38:43Z",
+  "generated_at": "2026-11-11T14:49:55.728484+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -35,7 +35,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -49,7 +49,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -91,7 +91,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -105,7 +105,7 @@
       "notes": "180 days in a year.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -119,7 +119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -133,7 +133,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -147,7 +147,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -161,7 +161,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -175,7 +175,7 @@
       "notes": "May apply online (Online Visitor e600 visa).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -189,7 +189,7 @@
       "notes": "Special authorisation required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -203,7 +203,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -217,7 +217,7 @@
       "notes": "From 2 February 2026 to 2 February 2027, Macau passport holders can travel to Azerbaijan three times in a year without a visa and stay for up to 30 days at each entrance.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -231,7 +231,7 @@
       "notes": "90 days within any 6-month period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -245,7 +245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -259,7 +259,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -273,7 +273,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -287,7 +287,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -301,7 +301,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -312,12 +312,12 @@
       "alternative_statuses": [
         "evisa"
       ],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 14,
       "allowed_stay_raw": "2 weeks",
-      "notes": "2 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -331,7 +331,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -345,7 +345,7 @@
       "notes": "Must have an international vaccination certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -359,7 +359,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -373,7 +373,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -389,7 +389,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -403,7 +403,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -417,7 +417,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -431,7 +431,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -445,7 +445,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -459,7 +459,7 @@
       "notes": "For a maximum total stay of 90 days within any 1 calendar year.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -473,7 +473,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -487,7 +487,7 @@
       "notes": "Macau citizens who do receive a visa are normally issued with multiple-entry combination visitor visas (Generally, the validity period is until the passport expiration date, and the maximum period is 10 years), and each entry can stay for a maximum of 6 months (the period of stay is subject to the border immigration officer).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -501,7 +501,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -515,7 +515,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -529,7 +529,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -543,7 +543,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -557,7 +557,7 @@
       "notes": "e-Visa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -571,7 +571,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -585,7 +585,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -599,7 +599,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -613,7 +613,7 @@
       "notes": "Holders of Mainland Travel Permit for Hong Kong and Macao Residents are able to freely enter mainland China for all purposes within the validity of their travel document. Most permits for adults are valid for 10 years; minors under 18 years old are issued permits valid for five years.\nEntry to Mainland China cannot be on a Macau SAR passport. However, all eligible for Macau SAR passport is also able to apply for a Home Return Permit, allowing the holder to enter and stay in mainland China until its expiry. Issuance of the Home Return Permit is not automatic for all MSAR passport holders and is at the sole discretion of the Bureau of Exit and Entry Administration of the Ministry of Public Security.\nThose residing in the Mainland for more than six months may apply for the Residence Permit for Hong Kong, Macao, and Taiwan Residents.\nHome Return Permit not required for MSAR Passport holders when transiting through Beijing, Shanghai or Guangzhou Airports within 24 hours without leaving the sterile area.\nUntil permit expiry",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -627,7 +627,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -641,7 +641,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -655,7 +655,7 @@
       "notes": "Can be extended up to 90 days with a fee.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -669,13 +669,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "CW",
       "destination_name": "Curacao",
-      "area": "Curacao",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -683,7 +683,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -697,7 +697,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -711,7 +711,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -725,7 +725,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -739,7 +739,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -753,7 +753,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -767,7 +767,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -781,7 +781,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -795,7 +795,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -809,7 +809,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -823,7 +823,7 @@
       "notes": "Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -837,7 +837,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -851,7 +851,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -865,7 +865,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -879,7 +879,7 @@
       "notes": "To travel in the rest of the country, a Travel Permit for Foreigners is required (20 Eritrean nakfa).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -893,7 +893,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -907,7 +907,7 @@
       "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\ne-Visa holders must arrive via Addis Ababa Bole International Airport.\ne-Visa is available for 30 or 90 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -921,7 +921,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -935,7 +935,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -949,13 +949,13 @@
       "notes": "Special permission required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "FK",
       "destination_name": "Falkland Islands",
-      "area": "Falkland Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -963,7 +963,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -977,7 +977,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -991,7 +991,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1005,7 +1005,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1019,7 +1019,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1033,7 +1033,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1047,7 +1047,7 @@
       "notes": "French West Indies refers to Martinique, Guadeloupe, Saint Martin and Saint Barthélemy.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1061,7 +1061,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1075,7 +1075,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1089,7 +1089,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1103,7 +1103,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1117,7 +1117,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1131,7 +1131,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1145,7 +1145,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1159,7 +1159,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1173,7 +1173,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1187,7 +1187,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1201,7 +1201,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1215,7 +1215,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1229,7 +1229,7 @@
       "notes": "Special permit required (4 days: 25 euro for Orthodox visitors, 35 euro for non-Orthodox visitors, 18 euro for students). There is a visitors' quota: maximum 100 Orthodox and 10 non-Orthodox per day and women are not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1243,7 +1243,7 @@
       "notes": "Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 pounds sterling).",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1257,7 +1257,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1271,7 +1271,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1285,7 +1285,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1299,7 +1299,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1313,7 +1313,7 @@
       "notes": "No visa required if holding valid visa of US, Canada, or Schengen member state.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1327,7 +1327,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1341,7 +1341,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1355,7 +1355,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1369,7 +1369,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1383,7 +1383,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1397,7 +1397,7 @@
       "notes": "Entry refused by certain Muslim countries due to Arab league boycott of Israel if evidence of travel to Israel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1411,7 +1411,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1425,7 +1425,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1439,7 +1439,7 @@
       "notes": "Protected Area Permit (PAP) required for all of Arunachal Pradesh, Manipur, Mizoram and parts of Himachal Pradesh, Jammu and Kashmir and Uttarakhand. Restricted Area Permit (RAP) required for all of Andaman and Nicobar Islands and Lakshadweep and parts of Sikkim. Some of these requirements are occasionally lifted for a year.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1453,7 +1453,7 @@
       "notes": "Special permit required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1467,7 +1467,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1481,7 +1481,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1495,7 +1495,7 @@
       "notes": "14 days; Visitors to Kish Island do not require a visa.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1509,7 +1509,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1523,7 +1523,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1537,7 +1537,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1551,7 +1551,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1567,7 +1567,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1581,7 +1581,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1595,7 +1595,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1609,7 +1609,7 @@
       "notes": "e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1625,7 +1625,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1639,7 +1639,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1653,7 +1653,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1667,7 +1667,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1681,7 +1681,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1695,7 +1695,7 @@
       "notes": "The validity period of a K-ETA is 3 years from the date of approval.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1709,7 +1709,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1723,7 +1723,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1737,7 +1737,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1751,7 +1751,7 @@
       "notes": "Special permission required for the town of Baikonur and surrounding areas in Kyzylorda Oblast, and the town of Gvardeyskiy near Almaty.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1767,7 +1767,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1781,7 +1781,7 @@
       "notes": "1 month extendable for 2 additional months.\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1790,12 +1790,12 @@
       "area": null,
       "status": "visa_on_arrival",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "6 weeks",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1809,7 +1809,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1825,7 +1825,7 @@
       "notes": "Citizens of Macau would need to select People's Republic of China (Special Administrative Region of China) as their nationality while applying for the e-Visa.\nSri Lanka introduced an ETA valid for 30 days.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1839,7 +1839,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1853,7 +1853,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1867,7 +1867,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1881,7 +1881,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1895,7 +1895,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1909,7 +1909,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1923,7 +1923,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1937,7 +1937,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1951,7 +1951,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1965,7 +1965,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1979,7 +1979,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -1993,7 +1993,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2007,7 +2007,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2021,7 +2021,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2037,7 +2037,7 @@
       "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings at Tachileik, Myawaddy, Kawthaung, Rih Khaw Dar or Tamu.\ne-Visa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\n/30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2051,7 +2051,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2065,7 +2065,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2079,7 +2079,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2093,7 +2093,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2107,7 +2107,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2121,7 +2121,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2135,13 +2135,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "MV",
       "destination_name": "Maldives",
-      "area": "Maldives",
+      "area": "Territories",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2149,7 +2149,7 @@
       "notes": "With the exception of the capital Malé, tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2165,7 +2165,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2179,7 +2179,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2193,13 +2193,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "MY",
       "destination_name": "Malaysia",
-      "area": "Malaysia:\nSabah Sabah and Sarawak Sarawak",
+      "area": "Sabah and Sarawak",
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2207,7 +2207,7 @@
       "notes": "These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2223,7 +2223,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2237,7 +2237,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2251,7 +2251,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2265,7 +2265,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2279,7 +2279,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2293,7 +2293,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2307,7 +2307,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2321,7 +2321,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2335,7 +2335,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2349,7 +2349,7 @@
       "notes": "Permit issued by the local police required for staying for less than 24 hours and permit issued by the Norwegian police for staying for more than 24 hours.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2365,7 +2365,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2379,7 +2379,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2393,7 +2393,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2407,7 +2407,7 @@
       "notes": "International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2421,7 +2421,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2435,7 +2435,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2449,7 +2449,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2463,7 +2463,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2477,7 +2477,7 @@
       "notes": "Must arrive through Port Moresby (POM) or Rabaul (RAB) airports.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2491,7 +2491,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2505,7 +2505,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2519,7 +2519,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2533,13 +2533,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "PN",
       "destination_name": "Pitcairn Islands",
-      "area": "Pitcairn Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2547,7 +2547,7 @@
       "notes": "14 days visa free and landing fee US$35 or tax of US$5 if not going ashore.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2561,13 +2561,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "PS",
       "destination_name": "Palestine",
-      "area": "Palestine",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2575,7 +2575,7 @@
       "notes": "Arrival by sea to Gaza Strip not allowed.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2589,7 +2589,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2603,7 +2603,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2617,7 +2617,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2633,7 +2633,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2647,7 +2647,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2661,7 +2661,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2675,7 +2675,7 @@
       "notes": "90 days within any 180 day period.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2689,13 +2689,13 @@
       "notes": "For a maximum total stay of 90 days within one calendar year period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "RU",
       "destination_name": "Russia",
-      "area": "Russia",
+      "area": "Territories",
       "status": "permit_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -2703,7 +2703,7 @@
       "notes": "Several closed cities and regions in Russia require special authorisation.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2719,7 +2719,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2735,7 +2735,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2749,7 +2749,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2763,7 +2763,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2777,7 +2777,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2791,7 +2791,7 @@
       "notes": "Separate travel permit is required.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2805,7 +2805,7 @@
       "notes": "All foreigners travelling more than 25 kilometres outside of Khartoum must obtain a travel permit.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2819,7 +2819,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2833,7 +2833,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
+    },
+    {
+      "passport": "MO",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "permit_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2847,21 +2861,7 @@
       "notes": "From May 2015, the Ascension Island Government does not issue entry visas including eVisas to Chinese citizens of Macau.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
-    },
-    {
-      "passport": "MO",
-      "destination": "SH",
-      "destination_name": "Saint Helena",
-      "area": "Saint Helena",
-      "status": "permit_required",
-      "alternative_statuses": [],
-      "allowed_stay_days": null,
-      "allowed_stay_raw": null,
-      "notes": "Visitor's Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 pound sterling.",
-      "is_territory_or_restricted": true,
-      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2875,7 +2875,7 @@
       "notes": "Permission to land required for 15/30 pounds sterling (yacht/ship passenger) for Tristan da Cunha Island or 20 pounds sterling for Gough Island, Inaccessible Island or Nightingale Islands.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2889,7 +2889,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2903,7 +2903,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2919,7 +2919,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2933,7 +2933,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2947,7 +2947,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2961,7 +2961,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2975,7 +2975,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -2989,7 +2989,7 @@
       "notes": "Obtainable online.\nPrinted visa authorization must be presented at the time of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3005,7 +3005,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3019,13 +3019,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "SX",
       "destination_name": "Sint Maarten",
-      "area": "Sint Maarten",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 90,
@@ -3033,7 +3033,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3047,7 +3047,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3061,7 +3061,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3075,7 +3075,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3089,13 +3089,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "TF",
       "destination_name": "French Southern and Antarctic Lands",
-      "area": "French Southern and Antarctic Lands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3103,7 +3103,7 @@
       "notes": "90 days(excludes Adélie Land)",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3117,7 +3117,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3131,7 +3131,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3145,7 +3145,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3159,7 +3159,7 @@
       "notes": "OIVR permit required (15+5 Tajikistani Somoni) and another special permit (free of charge) is required for Lake Sarez.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3173,7 +3173,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3187,7 +3187,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3201,7 +3201,7 @@
       "notes": "Visa not required for tourist groups organised by a travel agency.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3215,7 +3215,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3229,7 +3229,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3243,7 +3243,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3257,7 +3257,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3271,7 +3271,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3285,7 +3285,7 @@
       "notes": "e-Visa (30 days) is currently suspended due to the 2022 Russian Invasion of Ukraine.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3299,7 +3299,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3313,7 +3313,7 @@
       "notes": "Macau citizens who do receive a visa are normally issued with 10-years multiple-entry combination B1 / B2 visas, and each entry can stay for a maximum of 6 months (the period of stay is subject to the border immigration officer).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3327,7 +3327,7 @@
       "notes": "Special permits required for Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll and Wake Island.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3341,7 +3341,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3355,7 +3355,7 @@
       "notes": "Must arrive by air. Otherwise an electronic visa is available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3369,7 +3369,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3383,7 +3383,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3397,13 +3397,13 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "VG",
       "destination_name": "British Virgin Islands",
-      "area": "British Virgin Islands",
+      "area": null,
       "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": 30,
@@ -3411,13 +3411,13 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
       "destination": "VI",
       "destination_name": "U.S. Virgin Islands",
-      "area": "U.S. Virgin Islands",
+      "area": null,
       "status": "visa_required",
       "alternative_statuses": [],
       "allowed_stay_days": null,
@@ -3425,7 +3425,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3439,7 +3439,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3453,7 +3453,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3467,7 +3467,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3481,7 +3481,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3495,7 +3495,7 @@
       "notes": "Below are the requirements for receiving an entry permit to the Republic of Abkhazia: Copy of passport (sent by e-mail or by fax). Please make sure that your passport is valid for at least 6 months after your planned entry to Abkhazia. Filled electronic application. You should complete all sections of the application. If any necessary information is missing, the application will not be considered. An entry permit letter for visiting the Republic of Abkhazia will be sent to the email address from which the application was sent or to the fax number stated in the application.\nUpon arrival nationals of Macau must visit the Consular Service within three working days in order to receive the visa of the Republic of Abkhazia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3509,7 +3509,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3523,7 +3523,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3537,7 +3537,7 @@
       "notes": "Multiple entry visa to Russia and three-day prior notification are required to enter South Ossetia.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3551,7 +3551,7 @@
       "notes": "30 days for 30 US dollars, payable on arrival.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3565,7 +3565,7 @@
       "notes": "Registration required after 24h.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3579,7 +3579,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3593,7 +3593,7 @@
       "notes": "Special permission needed for travel outside Sana'a or Aden.",
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3607,7 +3607,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3621,7 +3621,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3635,7 +3635,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     },
     {
       "passport": "MO",
@@ -3649,7 +3649,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Macau",
-      "source_revision": "1375861207"
+      "source_revision": "1384595215"
     }
   ]
 }

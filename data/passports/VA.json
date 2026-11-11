@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "VA",
   "source_title": "Visa requirements for Vatican citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-  "source_revision": "1362729633",
-  "source_timestamp": "2026-07-05T21:21:12Z",
-  "generated_at": "2026-10-30T15:07:18.838545+00:00",
+  "source_revision": "1384732619",
+  "source_timestamp": "2026-11-09T21:27:52Z",
+  "generated_at": "2026-11-11T14:52:27.752926+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -35,7 +35,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -46,10 +46,10 @@
       "alternative_statuses": [],
       "allowed_stay_days": 30,
       "allowed_stay_raw": "30 days",
-      "notes": "Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
+      "notes": "Visa is not required in case born in Afghanistan or can prove that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -63,7 +63,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -77,7 +77,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -93,7 +93,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -107,7 +107,7 @@
       "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only.\nVisitors must have a return/onward ticket and a hotel reservation confirmation.\nAn International Certificate of Vaccination is required.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -121,7 +121,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -135,7 +135,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -149,7 +149,7 @@
       "notes": "90 days on each visit in 12-month period if granted",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -163,7 +163,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -177,7 +177,7 @@
       "notes": "90 days within any 6-month period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -191,7 +191,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -205,7 +205,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -219,7 +219,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -233,7 +233,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -247,7 +247,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -263,7 +263,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -279,7 +279,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -293,7 +293,7 @@
       "notes": "Must have an international vaccination certificate.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -307,7 +307,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -321,7 +321,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -335,7 +335,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -349,7 +349,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -363,7 +363,7 @@
       "notes": "Visa fee is USD 40 per person and visa application may be processed within 5 business days with duration of stay of 90 days.\ne-Visa applicant is also subject to pay Sustainable Development Fee",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -377,7 +377,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -391,7 +391,7 @@
       "notes": "Visa-free until 31 December 2024.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -405,7 +405,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -419,7 +419,7 @@
       "notes": "eTA required if arriving by air.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -433,7 +433,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -447,7 +447,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -461,7 +461,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -475,7 +475,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -489,7 +489,7 @@
       "notes": "eVisa holders must arrive via Port Bouet Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -503,7 +503,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -517,7 +517,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -531,7 +531,7 @@
       "notes": "Visa on arrival for Macau",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -545,7 +545,7 @@
       "notes": "90 days - extendable up to 180-days stay within a one-year period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -559,7 +559,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -575,7 +575,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -589,7 +589,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -603,7 +603,7 @@
       "notes": "90 days within any 180 day period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -617,7 +617,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -631,7 +631,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -645,7 +645,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -659,7 +659,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -673,7 +673,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -687,7 +687,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -701,7 +701,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -715,7 +715,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -729,7 +729,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -745,7 +745,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -759,7 +759,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -773,7 +773,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -787,7 +787,7 @@
       "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -801,7 +801,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -815,7 +815,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -829,7 +829,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -843,7 +843,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -857,7 +857,7 @@
       "notes": "eVisa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -871,7 +871,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -885,7 +885,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -899,7 +899,7 @@
       "notes": "/ 1 year",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -913,7 +913,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -927,7 +927,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -941,7 +941,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -955,7 +955,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -969,7 +969,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -983,7 +983,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -999,7 +999,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1013,7 +1013,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1027,7 +1027,7 @@
       "notes": null,
       "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1041,7 +1041,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1055,7 +1055,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1069,7 +1069,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1083,7 +1083,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1097,7 +1097,7 @@
       "notes": "Select ports of entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1111,7 +1111,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1125,7 +1125,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1139,7 +1139,7 @@
       "notes": "e-Visa holders must arrive via 32 designated airports or 5 designated seaports.\nAn Indian e-Tourist Visa may only be obtained twice within 1 calendar year.\nForeigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1153,7 +1153,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1169,7 +1169,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1183,7 +1183,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1197,7 +1197,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1211,7 +1211,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1227,7 +1227,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1241,7 +1241,7 @@
       "notes": "Holders of diplomatic and official passports do not need a visa for Japan, and are granted the status of residence as diplomats or officials",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1255,7 +1255,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1269,7 +1269,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1285,7 +1285,7 @@
       "notes": "Visa is also obtainable online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1299,7 +1299,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1313,7 +1313,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1327,7 +1327,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1341,7 +1341,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1355,7 +1355,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1371,7 +1371,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1385,7 +1385,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1401,7 +1401,7 @@
       "notes": "18 of the 33 border crossings are only open to regular visa holders.\ne-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges, in Boten (road and railroad), and in Vientiane (at Khamsavath railway station).\nVisa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges and 7 border crossings.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1415,7 +1415,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1429,7 +1429,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1443,7 +1443,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1459,7 +1459,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1473,7 +1473,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1487,7 +1487,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1501,7 +1501,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1515,7 +1515,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1529,7 +1529,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1543,7 +1543,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1557,7 +1557,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1571,7 +1571,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1585,7 +1585,7 @@
       "notes": "90 days within any 180 day period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1599,7 +1599,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1615,7 +1615,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1629,7 +1629,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1643,7 +1643,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1657,7 +1657,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1671,7 +1671,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1685,7 +1685,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1699,7 +1699,7 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1713,7 +1713,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1727,7 +1727,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1741,7 +1741,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1757,7 +1757,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1771,7 +1771,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1785,7 +1785,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1801,7 +1801,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1817,7 +1817,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1831,7 +1831,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1845,7 +1845,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1859,7 +1859,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1873,7 +1873,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1887,7 +1887,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1903,7 +1903,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1917,7 +1917,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1931,7 +1931,7 @@
       "notes": "International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1945,7 +1945,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1959,7 +1959,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1973,7 +1973,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -1989,7 +1989,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2003,7 +2003,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2017,7 +2017,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2031,7 +2031,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2045,7 +2045,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2059,7 +2059,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2073,7 +2073,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2087,7 +2087,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2101,7 +2101,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2115,7 +2115,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2129,7 +2129,7 @@
       "notes": "e-Visa holders must arrive and departure via 29 checkpoints",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2145,7 +2145,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2159,7 +2159,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2173,7 +2173,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2187,7 +2187,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2201,7 +2201,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2215,7 +2215,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2229,7 +2229,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2243,7 +2243,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2257,7 +2257,7 @@
       "notes": "90 days within any 180 day period in the Schengen Area",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2271,7 +2271,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2285,7 +2285,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2299,7 +2299,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2313,7 +2313,7 @@
       "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2327,7 +2327,7 @@
       "notes": "Vatican citizens are not required to pay an entrance fee.\nMultiple entry eVisa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2341,7 +2341,7 @@
       "notes": "Obtainable online\nPrinted visa authorisation must be presented at the time of travel",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2355,7 +2355,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2369,7 +2369,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2383,7 +2383,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2397,7 +2397,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2411,7 +2411,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2425,7 +2425,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2439,7 +2439,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2453,7 +2453,7 @@
       "notes": "Visa also available online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2467,7 +2467,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2481,7 +2481,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2495,7 +2495,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2509,7 +2509,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2523,7 +2523,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2537,7 +2537,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2551,7 +2551,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2565,7 +2565,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2581,7 +2581,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2595,7 +2595,7 @@
       "notes": "90 days within any 180 day period",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2609,7 +2609,7 @@
       "notes": "May apply online.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2623,7 +2623,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2637,7 +2637,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2651,7 +2651,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2665,7 +2665,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2679,7 +2679,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2693,7 +2693,7 @@
       "notes": "Visa free for 30 days when visiting Phú Quốc",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2707,7 +2707,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2721,7 +2721,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2735,7 +2735,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2749,7 +2749,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2763,7 +2763,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     },
     {
       "passport": "VA",
@@ -2779,7 +2779,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vatican_citizens",
-      "source_revision": "1362729633"
+      "source_revision": "1384732619"
     }
   ]
 }

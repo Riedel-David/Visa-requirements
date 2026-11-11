@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "PE",
   "source_title": "Visa requirements for Peruvian citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Peruvian_citizens",
   "source_revision": "1381748621",
   "source_timestamp": "2026-10-24T15:06:39Z",
-  "generated_at": "2026-10-30T17:09:15.602381+00:00",
+  "generated_at": "2026-11-11T14:51:33.763146+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -1402,9 +1402,9 @@
       "area": null,
       "status": "visa_on_arrival",
       "alternative_statuses": [],
-      "allowed_stay_days": null,
+      "allowed_stay_days": 42,
       "allowed_stay_raw": "6 weeks",
-      "notes": "Visa fee : 50 USD\n6 weeks",
+      "notes": "Visa fee : 50 USD",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Peruvian_citizens",
       "source_revision": "1381748621"
