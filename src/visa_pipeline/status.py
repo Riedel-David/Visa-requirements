@@ -213,7 +213,8 @@ STATUS_MAP = {
     'travel restricted by u.s. government/admission refused for u.s. citizens with foreign nationality': 'special',
 }
 
-# Status enum order, least to most restrictive; 'special' and 'travel_ban' are last only so they sort somewhere
+# Status enum order, least to most restrictive. 'special' and 'travel_ban' sit outside the ordering
+# (parse_status returns them before ranking); they are listed last only so they have an index.
 STATUS_ORDER = ['visa_free', 'visa_on_arrival', 'eta', 'evisa', 'visa_required',
                 'permit_required', 'admission_refused', 'special', 'travel_ban']
 

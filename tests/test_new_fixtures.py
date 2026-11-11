@@ -398,3 +398,9 @@ def test_korean_travel_bans_become_travel_ban(transcl):
     assert iran['status'] == 'travel_ban' and iran['alternative_statuses'] == ['evisa']
     assert iran['allowed_stay_days'] is None and iran['allowed_stay_raw'] == '30 days'
     assert by_dest['AF']['status'] == 'travel_ban'
+
+
+def test_area_dropped_when_link_repeats_country_name():
+    from visa_pipeline import extract_main
+    assert extract_main._extract_destination_and_area(
+        "{{flagicon|Maldives}} [[Maldives]]", []) == ("Maldives", None)

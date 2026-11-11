@@ -119,6 +119,7 @@ The pipeline normalizes Wikipedia's visa status descriptions into these categori
 When Wikipedia lists multiple options (e.g., "eVisa / Visa on arrival"):
 - `status` contains the **least restrictive** option
 - `alternative_statuses` lists the other options in order
+- Exception: a `travel_ban` part always wins; the destination's own status goes to `alternative_statuses`
 
 ## Overrides and X-Codes
 

@@ -82,7 +82,8 @@ Key decisions:
   serves `data/`. Passports blocked by the safety check keep their old data, and the run opens or
   updates a GitHub issue.
 - Combined statuses: `status` holds the least restrictive option, and `alternative_statuses`
-  lists the rest (e.g. "eVisa / Visa on arrival" -> visa_on_arrival + ["evisa"]).
+  lists the rest (e.g. "eVisa / Visa on arrival" -> visa_on_arrival + ["evisa"]). A `travel_ban`
+  part wins over the rest ("eVisa / Travel banned" -> travel_ban + ["evisa"]).
 - Non-ISO destinations: X-codes come from `overrides/destinations.json`, reusing the app's
   XK/XN/XS, and are documented in the README. Nothing is dropped silently.
 - User-Agent contact defaults to the repo URL (no email in a public repo); override with
