@@ -387,3 +387,14 @@ class TestTerritoryAreaNull:
                 continue
             assert countries.lookup_country(name) == code, name
             assert countries.lookup_area(name) is None, name
+
+
+def test_korean_travel_bans_become_travel_ban(transcl):
+    wikitext, meta = load_fixture('Visa_requirements_for_South_Korean_citizens')
+    result = extract_main.parse_page(wikitext, passport='KR', title='Visa requirements for South Korean citizens',
+                                     revid=meta['revid'], transclusions=transcl)
+    by_dest = {r['destination']: r for r in result.records if not r['area']}
+    iran = by_dest['IR']
+    assert iran['status'] == 'travel_ban' and iran['alternative_statuses'] == ['evisa']
+    assert iran['allowed_stay_days'] is None and iran['allowed_stay_raw'] == '30 days'
+    assert by_dest['AF']['status'] == 'travel_ban'

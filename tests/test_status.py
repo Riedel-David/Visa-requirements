@@ -51,10 +51,14 @@ class TestSingleStatus:
         assert status.parse_status("Travel restricted") == ("special", [])
         assert status.parse_status("Visa issuance suspended") == ("special", [])
 
-    def test_travel_ban_in_combined_cell_is_special(self):
-        # travel_ban has no place in the restrictiveness order: treated like special
-        assert status.parse_status("eVisa / Travel banned") == ("special", [])
-        assert status.parse_status("Travel prohibited or Visa required") == ("special", [])
+    def test_travel_ban_in_combined_cell_wins(self):
+        # The home government's ban overrides the destination's own regime
+        assert status.parse_status("eVisa\nTravel banned") == ("travel_ban", ["evisa"])
+        assert status.parse_status("Visa not required\nTravel banned") == ("travel_ban", ["visa_free"])
+        assert status.parse_status("Travel prohibited or Visa required") == ("travel_ban", ["visa_required"])
+
+    def test_travel_ban_with_unmapped_part_is_special(self):
+        assert status.parse_status("Something unknown\nTravel banned") == ("special", [])
 
     def test_unmapped(self):
         primary, alts = status.parse_status("Something completely unknown")
@@ -99,8 +103,8 @@ class TestCombinedStatus:
         assert status.parse_status("Visa not required\neVisa") == ("visa_free", ["evisa"])
 
     def test_combined_with_special(self):
-        # Test "eVisa\nTravel banned" -> ('special', [])
-        assert status.parse_status("eVisa\nTravel banned") == ("special", [])
+        # An unmapped part still makes the whole cell special
+        assert status.parse_status("eVisa\nSomething unknown") == ("special", [])
 
 
 class TestNormalization:

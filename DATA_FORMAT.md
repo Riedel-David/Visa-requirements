@@ -207,7 +207,7 @@ The mapping table is `STATUS_MAP` in `src/visa_pipeline/status.py`.
 - Mapping is by the cell **text**, not the template colour: `{{free|Visa required}}` exists and maps to `visa_required`.
 - In a combined cell, `status` is the least restrictive option because the traveller can pick the easiest one listed; the others remain available and are kept in `alternative_statuses`.
 - If any part of a combined cell is unmapped, the whole cell becomes `special` (no guessing from the remaining parts). Unmapped text is reported on every run.
-- `travel_ban` has no place in the restrictiveness order, so a combined cell containing it (e.g. `eVisa / Travel banned`) also becomes `special`.
+- A combined cell with a `travel_ban` part (e.g. `eVisa\nTravel banned`) becomes `travel_ban`: the home government's ban applies whatever the destination's own rule is. The destination's own regime stays in `alternative_statuses` (here `evisa`).
 
 Judgement calls:
 

@@ -14,7 +14,8 @@ For combined statuses like "eVisa / Visa on arrival", the parser splits on "/" a
 takes the least restrictive as the main status, and puts others in alternative_statuses.
 If any one part is unmapped, the whole combined cell becomes 'special' (no guessing
 from the remaining parts). A travel_ban part has no place in the ordering, so it is
-treated like special here: the whole combined cell becomes 'special'.
+not part of the least-restrictive choice: a combined cell with a travel_ban part becomes
+travel_ban and the other parts (the destination's own regime) become alternatives.
 
 ## Mapping principles
 
@@ -278,10 +279,15 @@ def parse_status(text: str) -> tuple[str, list[str]]:
         status = _map_part(part)
         # One unmapped (or special) part makes the whole cell special, so the
         # caller reports it instead of us guessing from the remaining parts
-        if status in ('special', 'travel_ban'):
+        if status == 'special':
             return 'special', []
         if status not in mapped:
             mapped.append(status)
+
+    # "eVisa\nTravel banned": the home government's ban overrides the destination's own
+    # regime, which stays available as an alternative
+    if 'travel_ban' in mapped:
+        return 'travel_ban', [s for s in mapped if s != 'travel_ban']
 
     # Least restrictive is primary; the rest keep their order of appearance
     primary = min(mapped, key=STATUS_ORDER.index)
