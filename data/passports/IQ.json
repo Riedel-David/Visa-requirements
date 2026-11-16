@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "passport": "IQ",
   "source_title": "Visa requirements for Iraqi citizens",
   "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-  "source_revision": "1384331744",
-  "source_timestamp": "2026-11-07T19:37:14Z",
-  "generated_at": "2026-11-09T12:59:07.669570+00:00",
+  "source_revision": "1385233024",
+  "source_timestamp": "2026-11-12T12:26:26Z",
+  "generated_at": "2026-11-16T12:51:13.277687+00:00",
   "license": "CC BY-SA 4.0",
   "attribution": "Derived from Wikipedia (see LICENSE-DATA.md)",
   "records": [
@@ -21,7 +21,7 @@
       "notes": "Visa free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -35,7 +35,7 @@
       "notes": "May apply using 'Smart service'.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -49,7 +49,7 @@
       "notes": "Visa is not required in case born in Afghanistan or can proof that one of their parents is a national of Afghanistan or born in Afghanistan.\ne-Visa : Visitors must arrive at Kabul International (KBL).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -63,7 +63,21 @@
       "notes": "Visa free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "AI",
+      "destination_name": "Anguilla",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -77,7 +91,7 @@
       "notes": "Visa is not required for Holders of a valid multiple-entry Schengen, UK or US visa has been previously used once or residence permit of Ireland, Schengen, UK, US or UAE 10 years.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -91,7 +105,7 @@
       "notes": "Eligible for an eVisa if holding the following mandatory documents:\n# Travel (Medical) Insurance\n# A valid residence permit or valid visa issued by the EU and Schengen member states, the USA, Australia, New Zealand, the Republic of Korea, the UK, Canada, the Russian Federation, or Japan, or a valid residence permit issued by the GCC member states.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -105,7 +119,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -119,7 +133,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "AS",
+      "destination_name": "American Samoa",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -133,7 +161,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -147,7 +175,21 @@
       "notes": "May apply online (Online Visitor e600 visa).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "AW",
+      "destination_name": "Aruba",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -161,7 +203,7 @@
       "notes": "Iraqi citizes are eligible to obtain a 30-day tourist Visa on Arrival if holding a residence permit issued by one of GCC state members. They must present their valid visa or residence permit along with their passport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -175,7 +217,7 @@
       "notes": "Visa not required for 30 days if holding multiple-entry visa issued by Bulgaria, Croatia, Cyprus, Ireland (Rep.), Monaco, Romania, USA, United Kingdom or a Schengen Member State.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -189,7 +231,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -203,7 +245,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -217,7 +259,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -231,7 +273,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -245,7 +287,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -261,7 +303,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -275,7 +317,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -289,7 +331,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "BM",
+      "destination_name": "Bermuda",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -303,7 +359,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -317,7 +373,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -331,7 +387,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -345,7 +401,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -359,7 +415,21 @@
       "notes": "Holders of an application for a tourist visa can obtain a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "BV",
+      "destination_name": "Bouvet Island",
+      "area": null,
+      "status": "permit_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Uninhabited territory; prior permission is required for visits.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -373,7 +443,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -387,7 +457,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -401,7 +471,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -415,7 +485,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -429,7 +499,7 @@
       "notes": "Passenger with a letter (Visa Volant) issued by the Ministry of Interior and Security can obtain a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -443,7 +513,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -457,7 +527,7 @@
       "notes": "Visa not required if passengers have a V.I.P invitation letter.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -471,7 +541,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -485,7 +555,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "CK",
+      "destination_name": "Cook Islands",
+      "area": null,
+      "status": "visa_on_arrival",
+      "alternative_statuses": [],
+      "allowed_stay_days": 31,
+      "allowed_stay_raw": "Allowed stay: 31 days",
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -499,7 +583,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -513,7 +597,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -527,7 +611,7 @@
       "notes": "24-hour visa-free transit through any international airports of China (except Ürümqi), allows domestic travel through different airports.\nVisa on arrival for Macao",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -541,7 +625,7 @@
       "notes": "Online visa application available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -555,7 +639,7 @@
       "notes": "Visa free for a maximum stay of 30 days for valid visa holders or residents of the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -569,7 +653,7 @@
       "notes": "Eligible to travel to Cuba with a tourist card only without visa if hold a valid visa or permanent residence permit issued by Canada, the United States or an EU member state.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -583,7 +667,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "CW",
+      "destination_name": "Curaçao",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -597,7 +695,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -611,7 +709,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -625,7 +723,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -639,7 +737,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -653,7 +751,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -667,7 +765,7 @@
       "notes": "Visa free for a maximum stay of 6 months for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -681,7 +779,7 @@
       "notes": "Visa free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -695,7 +793,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -709,7 +807,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -723,7 +821,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -737,7 +835,7 @@
       "notes": "Iraqi citizens with visa or residence cards from Europe or the United States, Canada, Britain and Australia can visit Egypt without a visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -751,7 +849,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -765,7 +863,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -779,7 +877,7 @@
       "notes": "Credit card payment transactions are not accepted when applying for e-Visa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -793,7 +891,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -807,7 +905,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "FK",
+      "destination_name": "Falkland Islands",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -821,7 +933,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "FO",
+      "destination_name": "Faroe Islands",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -835,7 +961,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "FR",
+      "destination_name": "France",
+      "area": "French West Indies",
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Includes Guadeloupe, Martinique, Saint Martin, and Saint Barthélemy.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -849,7 +989,7 @@
       "notes": "e-Visa holders must arrive via Libreville International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -863,7 +1003,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -877,7 +1017,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -891,7 +1031,21 @@
       "notes": "eVisa available if holding a valid visa or residency permit from EEA Member State, Australia, Bermuda, Canada, GCC member state, Japan, Korea (Rep.), New Zealand, Switzerland, USA or United Kingdom.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "GF",
+      "destination_name": "French Guiana",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -905,7 +1059,35 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "GI",
+      "destination_name": "Gibraltar",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "GL",
+      "destination_name": "Greenland",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -919,7 +1101,7 @@
       "notes": "Visa not required if Passengers traveling as tourists on a charter flight.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -933,7 +1115,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -947,7 +1129,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -961,7 +1143,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "GS",
+      "destination_name": "South Georgia and the South Sandwich Islands",
+      "area": null,
+      "status": "permit_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "A pre-arrival permit is required.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -975,7 +1171,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "GU",
+      "destination_name": "Guam",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -989,7 +1199,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1003,7 +1213,21 @@
       "notes": "Those travelling as tourists can obtain a visa on arrival for a maximum stay of 30 days provided holding a letter of invitation from sponsor or host.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "HK",
+      "destination_name": "Hong Kong",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1017,7 +1241,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1031,7 +1255,7 @@
       "notes": "Croatia embassy in Baghdad.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1045,7 +1269,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1059,7 +1283,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1073,7 +1297,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1087,21 +1311,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
       "destination": "IL",
       "destination_name": "Israel",
       "area": null,
-      "status": "special",
+      "status": "travel_ban",
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
       "notes": "Iraq has never recognised Israel\nTravel to Israel illegal and punishable by law, per article 4 of ''Law of Criminalizing the Normalization with the Zionist Entity''\nOnly those who have obtained prior approval from the Iraqi Ministry of Interior and are travelling there solely for the purpose of religious pilgrimage are exempt from the punishment stipulated in Article 4",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1115,7 +1339,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "IO",
+      "destination_name": "British Indian Ocean Territory",
+      "area": null,
+      "status": "permit_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Access is restricted and requires prior authorization.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1129,7 +1367,7 @@
       "notes": "Visa cancellation between Iran and Iraq came into force on October 26, 2021.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1143,7 +1381,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1157,7 +1395,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1171,7 +1409,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1182,10 +1420,10 @@
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
-      "notes": "Visa on Arrival in queen alia international airport for 40 jordanian dinnar\nVisa on arrival if having an official \"Businessmen card\" issued by Jordan or an official letter confirming the attendance to a conference or workshop.\nVisa on arrival holding a residence permit issued by a country whose citizens can obtain a visa on arrival(except Lebanon) for 1 month maximum stay.\nVisa on arrival if traveling for medical treatment for Female or Male older than 50 years and younger than 15 years.",
+      "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1199,7 +1437,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1213,7 +1451,7 @@
       "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\neTA fee is 32.50 USD.\nProof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\nYellow fever vaccination certificate is required if coming from endemic countries.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1227,7 +1465,7 @@
       "notes": "e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1243,7 +1481,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1257,7 +1495,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1271,7 +1509,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1285,7 +1523,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1299,7 +1537,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1313,7 +1551,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1327,7 +1565,21 @@
       "notes": "Passengers with a confirmation that a visa has been approved before departure can collect their original visa at immigration counter.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "KY",
+      "destination_name": "Cayman Islands",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1341,7 +1593,7 @@
       "notes": "Visitors arriving from a country without Kazakh representation and holding an invitation letter (approved by the Ministry of Interior of Kazakhstan with an official invitation number), can obtain a single entry eVisa (on QazETA application) for a max. stay of 1 month.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1355,7 +1607,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1369,7 +1621,7 @@
       "notes": "Extendable for 3 months.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1383,7 +1635,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1397,7 +1649,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1413,7 +1665,7 @@
       "notes": "Sri Lanka introduced an ETA valid for 30 days.\n/ 30 days",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1427,7 +1679,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1441,7 +1693,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1455,7 +1707,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1469,7 +1721,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1483,7 +1735,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1497,7 +1749,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1511,7 +1763,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1525,7 +1777,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1539,7 +1791,7 @@
       "notes": "Citizens holding a residence permit or a valid visa issued by one of the member states of the European Union or one of the parties to the Schengen Agreement can apply for an electronic visa.\nInvitation letter holders may apply for a visa electronically.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1553,7 +1805,7 @@
       "notes": "Visa free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1569,7 +1821,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1583,7 +1835,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1597,7 +1849,7 @@
       "notes": "Visa free for a maximum stay of 15 days for valid visa holders of the Schengen Area member states.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1611,7 +1863,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1625,7 +1877,7 @@
       "notes": "Passengers with a letter of approval issued by the Ministry of Hotels and Tourism can obtain a visa on arrival",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1639,7 +1891,35 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "MO",
+      "destination_name": "Macau",
+      "area": null,
+      "status": "visa_on_arrival",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Allowed stay: 30 days. Individual single-entry fee: MOP 200.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "MP",
+      "destination_name": "Northern Mariana Islands",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1653,7 +1933,21 @@
       "notes": "Available at Nouakchott–Oumtounsy International Airport.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "MS",
+      "destination_name": "Montserrat",
+      "area": null,
+      "status": "evisa",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1667,7 +1961,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1681,7 +1975,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1695,7 +1989,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1709,7 +2003,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1723,7 +2017,7 @@
       "notes": "Visa free for a maximum stay of 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States, Canada and Japan.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1737,7 +2031,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1753,7 +2047,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1767,7 +2061,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "NC",
+      "destination_name": "New Caledonia",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1781,7 +2089,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1795,7 +2103,7 @@
       "notes": "Holders of written e-Visa approval issued by Immigration Authority can obtain a visa on arrival, provided holding a visa application form and e-Visa application payment receipt and holding an invitation letter from Nigerian company accepting immigration responsibilities.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1809,7 +2117,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1823,7 +2131,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1837,7 +2145,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1851,7 +2159,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1865,7 +2173,21 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "NU",
+      "destination_name": "Niue",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1879,7 +2201,7 @@
       "notes": "Iraqi S series passports are unacceptable, and visas will not be endorsed in them.\nHolders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1893,7 +2215,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1907,7 +2229,7 @@
       "notes": "Visa free for a maximum stay of 30 days for valid visa holders or residents of Australia, the United Kingdom, the United States and Canada.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1921,7 +2243,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "PF",
+      "destination_name": "French Polynesia",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1935,7 +2271,7 @@
       "notes": "Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1949,7 +2285,7 @@
       "notes": "Residents of the United Arab Emirates may obtain an eVisa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an eVisa application.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1965,7 +2301,7 @@
       "notes": "Online Visa eligible.\nIssued in 7-10 business days.\n/ 3 months",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1979,7 +2315,49 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "PM",
+      "destination_name": "Saint Pierre and Miquelon",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "PN",
+      "destination_name": "Pitcairn Islands",
+      "area": null,
+      "status": "visa_free",
+      "alternative_statuses": [],
+      "allowed_stay_days": 14,
+      "allowed_stay_raw": "Allowed stay: 14 days",
+      "notes": "Landing fee applies.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "PS",
+      "destination_name": "Palestine",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Entry and transit rules depend on the crossing and the controlling authority.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -1993,7 +2371,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2007,7 +2385,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2021,7 +2399,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2035,7 +2413,21 @@
       "notes": "Visitors may apply for a visa on the Hayya website.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "RE",
+      "destination_name": "Réunion",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2049,7 +2441,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2063,7 +2455,7 @@
       "notes": "Visa free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2077,7 +2469,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2093,7 +2485,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2107,7 +2499,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2121,7 +2513,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2135,7 +2527,7 @@
       "notes": "Application can be submitted up to 30 days before travel.\nVisitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\nYellow fever vaccination certificate is required if coming from endemic countries.\nPayment of the fee (EUR 10) by credit or debit card.\nValid for one journey only and it expires once exit the country.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2149,7 +2541,7 @@
       "notes": "Passengers with an \"Entry Permit\" issued by the Sudanese Ministry of Interior can obtain a visa on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2163,7 +2555,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2177,7 +2569,49 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "SH",
+      "destination_name": "Saint Helena",
+      "area": null,
+      "status": "evisa",
+      "alternative_statuses": [],
+      "allowed_stay_days": 90,
+      "allowed_stay_raw": "Allowed stay: 90 days",
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "SH",
+      "destination_name": "Ascension Island",
+      "area": "Ascension Island",
+      "status": "evisa",
+      "alternative_statuses": [],
+      "allowed_stay_days": 90,
+      "allowed_stay_raw": "Allowed stay: 3 months",
+      "notes": "All visitors require an entry visa before travel; there is no visa-on-arrival facility.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "SH",
+      "destination_name": "Tristan da Cunha",
+      "area": "Tristan da Cunha",
+      "status": "permit_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Prior permission from the Island Council is required.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2191,7 +2625,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2205,7 +2639,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2219,7 +2653,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2233,7 +2667,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2247,7 +2681,7 @@
       "notes": "Visa not required for Passengers with an official invitation letter.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2261,7 +2695,7 @@
       "notes": "Available at Bosaso, Galcaio and Mogadishu airports.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2275,7 +2709,7 @@
       "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.\nMultiple entry e-Visa is also available.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2289,7 +2723,7 @@
       "notes": "Obtainable online.\nPrinted visa authorization must be presented at the time of travel.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2303,7 +2737,7 @@
       "notes": "Holders of a visa issued by the United States or a Schengen area member state do not require a visa for stays up to 15 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2317,21 +2751,35 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "SX",
+      "destination_name": "Sint Maarten",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
       "destination": "SY",
       "destination_name": "Syria",
       "area": null,
-      "status": "visa_required",
+      "status": "visa_free",
       "alternative_statuses": [],
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
-      "notes": "National card valid",
+      "notes": "Valid National ID Card",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2345,7 +2793,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "TC",
+      "destination_name": "Turks and Caicos Islands",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2359,7 +2821,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2373,7 +2835,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2387,7 +2849,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2401,7 +2863,21 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "TK",
+      "destination_name": "Tokelau",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2415,7 +2891,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2429,7 +2905,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2443,7 +2919,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2457,7 +2933,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2471,7 +2947,7 @@
       "notes": "Visa not required for travelers Aged less than 15 and more than 50 years old ( Effective 1st of September 2024). Holders of a valid visa or residence permit from Schengen area countries, Ireland, the United Kingdom or the United States can apply for eVisa.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2485,7 +2961,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2499,7 +2975,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2511,9 +2987,9 @@
       "allowed_stay_days": null,
       "allowed_stay_raw": null,
       "notes": null,
-      "is_territory_or_restricted": false,
+      "is_territory_or_restricted": true,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2527,7 +3003,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2541,7 +3017,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2555,7 +3031,7 @@
       "notes": "Determined at the port of entry.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2569,7 +3045,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2583,7 +3059,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2597,7 +3073,7 @@
       "notes": "Pre-arranged visa can be picked up on arrival.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2611,7 +3087,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2625,7 +3101,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2639,7 +3115,35 @@
       "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "VG",
+      "destination_name": "British Virgin Islands",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "VI",
+      "destination_name": "U.S. Virgin Islands",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2653,7 +3157,7 @@
       "notes": "e-Visa is valid for 90 days and multiple entry.\nPrearranged visa obtained online through travel agencies available at Hanoi, Ho Chi Minh City, Phu Quoc or Da Nang airports.\nPhú Quốc – visa exemption for up to 30 days.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2667,7 +3171,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "WF",
+      "destination_name": "Wallis and Futuna",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2681,7 +3199,63 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "XK",
+      "destination_name": "Kosovo",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "XN",
+      "destination_name": "Northern Cyprus",
+      "area": null,
+      "status": "visa_on_arrival",
+      "alternative_statuses": [],
+      "allowed_stay_days": 90,
+      "allowed_stay_raw": "Allowed stay: Up to 90 days",
+      "notes": "Entry permission is decided at the port of entry; conditions apply.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "XS",
+      "destination_name": "Somaliland",
+      "area": null,
+      "status": "visa_on_arrival",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Visa on arrival is reported for international travelers arriving at airports under Somaliland jurisdiction.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "XT",
+      "destination_name": "Transnistria",
+      "area": null,
+      "status": "visa_free",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": "Registration is required for stays longer than 24 hours.",
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2695,7 +3269,21 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
+    },
+    {
+      "passport": "IQ",
+      "destination": "YT",
+      "destination_name": "Mayotte",
+      "area": null,
+      "status": "visa_required",
+      "alternative_statuses": [],
+      "allowed_stay_days": null,
+      "allowed_stay_raw": null,
+      "notes": null,
+      "is_territory_or_restricted": true,
+      "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2709,7 +3297,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2723,7 +3311,7 @@
       "notes": "For tourism purposes only.",
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     },
     {
       "passport": "IQ",
@@ -2737,7 +3325,7 @@
       "notes": null,
       "is_territory_or_restricted": false,
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
-      "source_revision": "1384331744"
+      "source_revision": "1385233024"
     }
   ]
 }
