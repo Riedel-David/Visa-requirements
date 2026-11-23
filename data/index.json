@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-11-16T12:51:20.396207+00:00",
+  "generated_at": "2026-11-23T14:48:22.911332+00:00",
   "disclaimer": "Visa data is community-sourced from Wikipedia and may be incomplete, outdated or wrong. Always verify entry requirements with the official embassy or government source of the destination before travelling.",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -91,10 +91,10 @@
       "file": "passports/AU.json",
       "source_title": "Visa requirements for Australian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
-      "source_revision": "1383573974",
-      "source_timestamp": "2026-11-03T12:26:07Z",
+      "source_revision": "1386025783",
+      "source_timestamp": "2026-11-16T13:09:32Z",
       "record_count": 268,
-      "last_changed": "2026-11-11T14:49:25.866153+00:00"
+      "last_changed": "2026-11-23T14:48:07.948749+00:00"
     },
     "AZ": {
       "file": "passports/AZ.json",
@@ -442,10 +442,10 @@
       "file": "passports/DZ.json",
       "source_title": "Visa requirements for Algerian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
-      "source_revision": "1385548452",
-      "source_timestamp": "2026-11-13T21:59:53Z",
+      "source_revision": "1386300614",
+      "source_timestamp": "2026-11-17T20:33:24Z",
       "record_count": 240,
-      "last_changed": "2026-11-16T12:51:09.329565+00:00"
+      "last_changed": "2026-11-23T14:48:06.862479+00:00"
     },
     "EC": {
       "file": "passports/EC.json",
@@ -640,10 +640,10 @@
       "file": "passports/GY.json",
       "source_title": "Visa requirements for Guyanese citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guyanese_citizens",
-      "source_revision": "1362019067",
-      "source_timestamp": "2026-07-01T13:12:07Z",
+      "source_revision": "1386862382",
+      "source_timestamp": "2026-11-21T02:16:49Z",
       "record_count": 193,
-      "last_changed": "2026-11-09T12:59:00.658847+00:00"
+      "last_changed": "2026-11-23T14:48:13.845348+00:00"
     },
     "HK": {
       "file": "passports/HK.json",
@@ -739,10 +739,10 @@
       "file": "passports/IR.json",
       "source_title": "Visa requirements for Iranian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
-      "source_revision": "1384608727",
-      "source_timestamp": "2026-11-09T03:01:08Z",
+      "source_revision": "1386612189",
+      "source_timestamp": "2026-11-19T13:32:32Z",
       "record_count": 252,
-      "last_changed": "2026-11-11T14:50:36.774523+00:00"
+      "last_changed": "2026-11-23T14:48:14.877759+00:00"
     },
     "IS": {
       "file": "passports/IS.json",
@@ -775,10 +775,10 @@
       "file": "passports/JO.json",
       "source_title": "Visa requirements for Jordanian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
-      "source_revision": "1383590529",
-      "source_timestamp": "2026-11-03T15:16:39Z",
+      "source_revision": "1386928228",
+      "source_timestamp": "2026-11-21T14:06:42Z",
       "record_count": 287,
-      "last_changed": "2026-11-11T14:50:43.943358+00:00"
+      "last_changed": "2026-11-23T14:48:16.961349+00:00"
     },
     "JP": {
       "file": "passports/JP.json",
@@ -1342,10 +1342,10 @@
       "file": "passports/RO.json",
       "source_title": "Visa requirements for Romanian citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
-      "source_revision": "1382891435",
-      "source_timestamp": "2026-10-30T21:27:06Z",
+      "source_revision": "1386774713",
+      "source_timestamp": "2026-11-20T14:18:41Z",
       "record_count": 275,
-      "last_changed": "2026-11-11T14:51:39.918869+00:00"
+      "last_changed": "2026-11-23T14:48:19.015507+00:00"
     },
     "RS": {
       "file": "passports/RS.json",
@@ -1675,10 +1675,10 @@
       "file": "passports/US.json",
       "source_title": "Visa requirements for United States citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
-      "source_revision": "1383116952",
-      "source_timestamp": "2026-11-01T02:00:07Z",
+      "source_revision": "1386520394",
+      "source_timestamp": "2026-11-19T00:23:28Z",
       "record_count": 275,
-      "last_changed": "2026-11-11T14:52:24.061688+00:00"
+      "last_changed": "2026-11-23T14:48:22.097718+00:00"
     },
     "UY": {
       "file": "passports/UY.json",
@@ -1729,10 +1729,10 @@
       "file": "passports/VN.json",
       "source_title": "Visa requirements for Vietnamese citizens",
       "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens",
-      "source_revision": "1385668849",
-      "source_timestamp": "2026-11-14T16:31:58Z",
+      "source_revision": "1386928547",
+      "source_timestamp": "2026-11-21T14:10:20Z",
       "record_count": 275,
-      "last_changed": "2026-11-16T12:51:20.345359+00:00"
+      "last_changed": "2026-11-23T14:48:22.860912+00:00"
     },
     "VU": {
       "file": "passports/VU.json",

@@ -1,15 +1,36 @@
 {
   "schema_version": "1.0.0",
-  "last_checked_at": "2026-11-16T12:51:03Z",
+  "last_checked_at": "2026-11-23T14:47:58Z",
   "last_run_status": "partial",
-  "dataset_version": "data-2026-11-16",
+  "dataset_version": "data-2026-11-23",
   "passports_total": 200,
   "passports_stale": [
     {
-      "passport": "CA",
+      "passport": "CN",
       "reason": "cooling_off",
-      "latest_seen_revision": 1385994657,
-      "data_revision": 1384441379,
+      "latest_seen_revision": 1387231926,
+      "data_revision": 1384593921,
+      "consecutive_runs": 1
+    },
+    {
+      "passport": "IN",
+      "reason": "cooling_off",
+      "latest_seen_revision": 1387292838,
+      "data_revision": 1383572374,
+      "consecutive_runs": 1
+    },
+    {
+      "passport": "PH",
+      "reason": "cooling_off",
+      "latest_seen_revision": 1387289543,
+      "data_revision": 1378380327,
+      "consecutive_runs": 1
+    },
+    {
+      "passport": "UA",
+      "reason": "cooling_off",
+      "latest_seen_revision": 1387150628,
+      "data_revision": 1379568084,
       "consecutive_runs": 1
     }
   ]

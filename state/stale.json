@@ -1,7 +1,22 @@
 {
-  "CA": {
+  "CN": {
     "reason": "cooling_off",
     "consecutive_runs": 1,
-    "latest_seen_revision": 1385994657
+    "latest_seen_revision": 1387231926
+  },
+  "IN": {
+    "reason": "cooling_off",
+    "consecutive_runs": 1,
+    "latest_seen_revision": 1387292838
+  },
+  "PH": {
+    "reason": "cooling_off",
+    "consecutive_runs": 1,
+    "latest_seen_revision": 1387289543
+  },
+  "UA": {
+    "reason": "cooling_off",
+    "consecutive_runs": 1,
+    "latest_seen_revision": 1387150628
   }
 }
